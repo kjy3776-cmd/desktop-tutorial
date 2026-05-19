@@ -21,6 +21,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://innerapp.com/?cat=game</loc>
+    <lastmod>2026-05-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://innerapp.com/?cat=health</loc>
+    <lastmod>2026-05-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://innerapp.com/?cat=shopping</loc>
     <lastmod>2026-05-19</lastmod>
     <priority>0.8</priority>
@@ -137,6 +147,26 @@
   </url>
   <url>
     <loc>https://innerapp.com/?id=22</loc>
+    <lastmod>2026-05-19</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://innerapp.com/?id=23</loc>
+    <lastmod>2026-05-19</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://innerapp.com/?id=24</loc>
+    <lastmod>2026-05-19</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://innerapp.com/?id=25</loc>
+    <lastmod>2026-05-19</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://innerapp.com/?id=26</loc>
     <lastmod>2026-05-19</lastmod>
     <priority>0.6</priority>
   </url>
