@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# 네이버 검색로봇
+User-agent: Yeti
+Allow: /
+
+# 구글 검색로봇
+User-agent: Googlebot
+Allow: /
+
+# 다음 검색로봇
+User-agent: Daumoa
+Allow: /
+
+Sitemap: https://innerapp.com/sitemap.xml
