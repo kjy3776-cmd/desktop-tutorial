@@ -1,0 +1,40 @@
+name: SEO 소개글 자동 생성
+
+on:
+  workflow_dispatch:    # 수동 실행 (처음 한 번 + 새 앱 추가 후)
+  schedule:
+    # 매주 화요일 새벽 5시 KST = UTC 월요일 20:00
+    # (월요일 검수 후 화요일에 소개글 갱신)
+    - cron: '0 20 * * 1'
+
+jobs:
+  gen-seo:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 패키지 설치
+        run: pip install requests
+
+      - name: SEO 소개글 생성 (누락분만)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python gen_seo_desc.py --missing
+
+      - name: 결과 커밋
+        run: |
+          git config user.name  "innerapp-bot"
+          git config user.email "bot@innerapp.local"
+          if git diff --quiet apps_data.js; then
+            echo "변경 없음"
+          else
+            git add apps_data.js
+            git commit -m "SEO 소개글 갱신: $(date +%Y-%m-%d)"
+            git push
+          fi
