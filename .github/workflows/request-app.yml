@@ -81,10 +81,11 @@ jobs:
         run: |
           git config user.name  "innerapp-bot"
           git config user.email "bot@innerapp.local"
-          if git diff --quiet apps_data.js sitemap.xml; then
+          if git diff --cached --quiet; then
             echo "변경 없음 — 등록 실패 또는 중복"
           else
-            git add apps_data.js sitemap.xml verify_report.json
+           git add apps_data.js sitemap.xml || true
+          git add verify_report.json || true
             git commit -m "수동 등록: ${{ inputs.app_name_kr }}"
             git push
             echo "✅ '${{ inputs.app_name_kr }}' 등록 완료"
