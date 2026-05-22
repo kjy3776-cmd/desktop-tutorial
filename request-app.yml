@@ -1,0 +1,91 @@
+name: 앱 즉시 등록 요청
+
+on:
+  workflow_dispatch:
+    inputs:
+      app_name_kr:
+        description: '앱 한글명 (예: 카카오맵)'
+        required: true
+        type: string
+      app_name_en:
+        description: '앱 영문명 (예: KakaoMap) — 모르면 비워두기'
+        required: false
+        type: string
+        default: ''
+      category:
+        description: '카테고리 선택'
+        required: true
+        type: choice
+        options:
+          - sns
+          - entertainment
+          - shopping
+          - food
+          - finance
+          - game
+          - productivity
+          - life
+          - education
+          - health
+          - travel
+      itunes_id:
+        description: 'iTunes ID (모르면 비워두기)'
+        required: false
+        type: string
+        default: ''
+      android_pkg:
+        description: '안드로이드 패키지명 (모르면 비워두기)'
+        required: false
+        type: string
+        default: ''
+
+concurrency:
+  group: app-request
+  cancel-in-progress: false
+
+jobs:
+  request:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 패키지 설치
+        run: pip install google-play-scraper requests
+
+      - name: 앱 등록 시도 (중복 자동 체크)
+        env:
+          REQUEST_NAME_KR: ${{ inputs.app_name_kr }}
+          REQUEST_NAME_EN: ${{ inputs.app_name_en }}
+          REQUEST_CAT:     ${{ inputs.category }}
+          REQUEST_ITUNES:  ${{ inputs.itunes_id }}
+          REQUEST_PKG:     ${{ inputs.android_pkg }}
+        run: python request_app.py
+
+      - name: 검수
+        run: python verify_apps.py
+        continue-on-error: true
+
+      - name: SEO 소개글 생성
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python gen_seo_desc.py --missing
+        continue-on-error: true
+
+      - name: 결과 커밋
+        run: |
+          git config user.name  "innerapp-bot"
+          git config user.email "bot@innerapp.local"
+          if git diff --quiet apps_data.js sitemap.xml; then
+            echo "변경 없음 — 등록 실패 또는 중복"
+          else
+            git add apps_data.js sitemap.xml verify_report.json
+            git commit -m "수동 등록: ${{ inputs.app_name_kr }}"
+            git push
+            echo "✅ '${{ inputs.app_name_kr }}' 등록 완료"
+          fi
