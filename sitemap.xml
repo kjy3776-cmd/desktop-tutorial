@@ -21,6 +21,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://innerapp.com/?cat=game</loc>
+    <lastmod>2026-05-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://innerapp.com/?cat=health</loc>
     <lastmod>2026-05-22</lastmod>
     <priority>0.8</priority>
@@ -172,6 +177,11 @@
   </url>
   <url>
     <loc>https://innerapp.com/?id=26</loc>
+    <lastmod>2026-05-22</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://innerapp.com/?id=27</loc>
     <lastmod>2026-05-22</lastmod>
     <priority>0.6</priority>
   </url>
