@@ -1,0 +1,84 @@
+name: 이너앱 자동 수집 (시간당 1개)
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: auto-collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 패키지 설치
+        run: pip install google-play-scraper requests
+
+      - name: 랜덤 시작 지연
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            DELAY=$((RANDOM % 120))
+          else
+            DELAY=$((RANDOM % 600))
+          fi
+          echo "⏳ ${DELAY}초 대기"
+          sleep $DELAY
+
+      - name: 신규 앱 수집 (1개)
+        run: python auto_collect.py
+
+      - name: 검수
+        run: python verify_apps.py
+        continue-on-error: true
+
+      - name: SEO 소개글 생성
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python gen_seo_desc.py --missing
+        continue-on-error: true
+
+      - name: 정적 HTML 생성
+        run: python gen_static.py --new
+        continue-on-error: true
+
+      - name: 변경분 커밋 & 푸시
+        id: commit
+        run: |
+          git config user.name  "innerapp-bot"
+          git config user.email "bot@innerapp.local"
+          git add apps_data.js sitemap.xml collect_state.json collect.log || true
+          git add verify_report.json || true
+          git add app/ category/ || true
+          if git diff --cached --quiet; then
+            echo "변경 없음"
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            git commit -m "자동 수집: $(date +'%Y-%m-%d %H:%M') 신규 앱 등록"
+            git push
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "✅ 완료"
+          fi
+
+      - name: Bing 색인 요청
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          BING_API_KEY: ${{ secrets.BING_API_KEY }}
+        run: python submit_index.py --bing
+        continue-on-error: true
+
+      - name: Google 색인 요청
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+        run: python submit_index.py --google
+        continue-on-error: true
