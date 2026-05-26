@@ -58,9 +58,41 @@ body{font-family:'Pretendard',sans-serif;background:var(--gray-50);color:var(--g
 
 /* 레이아웃 */
 nav{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.9);backdrop-filter:blur(20px);border-bottom:1px solid var(--gray-200)}
-.nav-inner{max-width:1100px;margin:0 auto;display:flex;align-items:center;height:56px;padding:0 20px}
+.nav-inner{max-width:1100px;margin:0 auto;display:flex;align-items:center;height:56px;padding:0 20px;gap:12px}
 .nav-logo{font-size:20px;font-weight:700;color:var(--blue);cursor:pointer;flex-shrink:0}
+.nav-search{flex:1;max-width:360px;position:relative;margin-left:auto}
+.nav-search input{width:100%;padding:8px 36px 8px 14px;border:1.5px solid var(--gray-200);border-radius:999px;font-size:14px;font-family:'Pretendard',sans-serif;outline:none;background:var(--gray-50);transition:all .2s}
+.nav-search input:focus{border-color:var(--blue);background:#fff;box-shadow:0 0 0 3px rgba(27,100,218,.08)}
+.nav-search .search-icon{position:absolute;right:12px;top:50%;transform:translateY(-50%);color:var(--gray-400);pointer-events:none;font-size:15px}
+.search-results{position:absolute;top:calc(100% + 8px);left:0;right:0;background:#fff;border:1px solid var(--gray-200);border-radius:14px;box-shadow:0 8px 24px rgba(0,0,0,.1);z-index:200;max-height:320px;overflow-y:auto;display:none}
+.search-results.show{display:block}
+.search-item{display:flex;align-items:center;gap:12px;padding:10px 14px;cursor:pointer;transition:background .15s}
+.search-item:hover{background:var(--gray-50)}
+.search-item img{width:36px;height:36px;border-radius:9px;object-fit:cover;background:#eee;flex-shrink:0}
+.search-item-name{font-size:14px;font-weight:600}
+.search-item-cat{font-size:11px;color:var(--gray-400)}
+.search-empty{padding:20px;text-align:center;color:var(--gray-400);font-size:14px}
 .page{max-width:800px;margin:0 auto;padding:20px}
+
+/* ───────── 모바일 반응형 ───────── */
+@media(max-width:600px){
+  .nav-inner{height:52px;padding:0 14px;gap:8px}
+  .nav-logo{font-size:17px}
+  .nav-search{max-width:none}
+  .cat-bar-inner{padding:8px 14px;gap:4px}
+  .cat-chip{padding:6px 12px;font-size:13px}
+  .page{padding:14px}
+  .app-grid{grid-template-columns:repeat(auto-fill,minmax(100px,1fr));gap:10px}
+  .app-card{padding:12px 8px}
+  .icon-box{width:52px;height:52px}
+  .icon-box img{width:52px;height:52px}
+  .app-name{font-size:12px}
+  .detail-card{padding:16px}
+  .download-btns{flex-direction:column}
+  .dl-btn{min-width:unset}
+  .screenshot-container img{height:220px}
+  .section-title{font-size:18px}
+}
 
 /* ───────── 카테고리 메뉴 바 ───────── */
 .cat-bar{background:white;border-bottom:1px solid var(--gray-200);position:sticky;top:56px;z-index:99}
@@ -138,7 +170,14 @@ footer p{margin-bottom:8px;line-height:1.7}
 </head>
 <body>
 
-<nav><div class="nav-inner"><div class="nav-logo" onclick="goHome()">이너앱<span style="color:var(--green)">.</span></div></div></nav>
+<nav><div class="nav-inner">
+  <div class="nav-logo" onclick="goHome()">이너앱<span style="color:var(--green)">.</span></div>
+  <div class="nav-search" id="navSearch">
+    <input type="text" id="searchInput" placeholder="앱 검색..." autocomplete="off" oninput="onSearch(this.value)" onkeydown="onSearchKey(event)">
+    <span class="search-icon">🔍</span>
+    <div class="search-results" id="searchResults"></div>
+  </div>
+</div></nav>
 
 <!-- 카테고리 메뉴 바 -->
 <div class="cat-bar" id="catBar"><div class="cat-bar-inner" id="catBarInner"></div></div>
@@ -413,7 +452,69 @@ function injectDetailAd() {
   try { (adsbygoogle = window.adsbygoogle || []).push({}); } catch(e) {}
 }
 
-/* ───────── 초기 실행 ───────── */
+/* ───────── 검색 기능 ───────── */
+let searchTimer = null;
+
+function onSearch(q) {
+  clearTimeout(searchTimer);
+  const box = document.getElementById('searchResults');
+  if (!q.trim()) { box.classList.remove('show'); box.innerHTML = ''; return; }
+  searchTimer = setTimeout(() => {
+    const kw = q.trim().toLowerCase();
+    const hits = APPS.filter(a =>
+      a.name.toLowerCase().includes(kw) ||
+      (CAT_LABELS[a.cat]||'').includes(kw) ||
+      (a.developer||'').toLowerCase().includes(kw)
+    ).slice(0, 8);
+
+    if (!hits.length) {
+      box.innerHTML = `<div class="search-empty">검색 결과가 없습니다</div>`;
+    } else {
+      box.innerHTML = hits.map(a => `
+        <div class="search-item" onclick="pickSearch(${a.id})">
+          <img src="${a.icon||''}" onerror="this.src='https://via.placeholder.com/36'" alt="${a.name}">
+          <div>
+            <div class="search-item-name">${highlight(a.name, kw)}</div>
+            <div class="search-item-cat">${CAT_LABELS[a.cat]||a.cat}</div>
+          </div>
+        </div>`).join('');
+    }
+    box.classList.add('show');
+  }, 150);
+}
+
+function highlight(text, kw) {
+  const i = text.toLowerCase().indexOf(kw);
+  if (i < 0) return text;
+  return text.slice(0,i) + `<mark style="background:#dbeafe;border-radius:3px;padding:0 1px">${text.slice(i,i+kw.length)}</mark>` + text.slice(i+kw.length);
+}
+
+function pickSearch(id) {
+  const app = APPS.find(a => a.id === id);
+  if (!app) return;
+  closeSearch();
+  showDetail(app);
+}
+
+function onSearchKey(e) {
+  if (e.key === 'Escape') closeSearch();
+  if (e.key === 'Enter') {
+    const first = document.querySelector('.search-item');
+    if (first) first.click();
+  }
+}
+
+function closeSearch() {
+  document.getElementById('searchInput').value = '';
+  const box = document.getElementById('searchResults');
+  box.classList.remove('show');
+  box.innerHTML = '';
+}
+
+// 검색창 외부 클릭 시 닫기
+document.addEventListener('click', e => {
+  if (!document.getElementById('navSearch').contains(e.target)) closeSearch();
+});
 document.addEventListener('DOMContentLoaded', () => {
   renderCatBar();
   renderHome();
