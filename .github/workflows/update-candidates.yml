@@ -1,0 +1,40 @@
+name: 후보 앱 자동 수집
+
+on:
+  schedule:
+    # 매주 일요일 새벽 2시 KST = 토요일 17:00 UTC
+    - cron: '0 17 * * 6'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 패키지 설치
+        run: pip install google-play-scraper requests
+
+      - name: 앱스토어 차트에서 후보 자동 수집
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python update_candidates.py
+
+      - name: 결과 커밋
+        run: |
+          git config user.name  "innerapp-bot"
+          git config user.email "bot@innerapp.local"
+          git add candidates.json || true
+          if git diff --cached --quiet; then
+            echo "변경 없음"
+          else
+            git commit -m "후보 자동 수집: $(date +%Y-%m-%d)"
+            git push
+            echo "✅ candidates.json 갱신 완료"
+          fi
