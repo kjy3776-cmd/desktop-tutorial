@@ -1685,7 +1685,7 @@ const APPS = [
     "desc": "[이환]은 Hotta Studio에서 개발한 서브 컬처 초자연 어반 판타지 오픈월드 RPG로, 이야기는 헤테로 시티에서 시작됩니다. 「무면허 취업」을 한 첫 번째 「이상 헌터」인 당신은 경영난에 시달리며 민간 이상 의뢰를 받아 간신히 가게를 유지하는 골동품 가게 「에이본」의 일원이 됩니다. 개성 넘치고 비범한 능력을 가진 동료들과 도시 곳곳의 수수께끼를 파헤치고, 다양한 인연 속에서 당신만의 이야기를 써 내려가세요.  [기괴한 시티에서 펼쳐지는 이능력 모험] 감정사의 첫 여정—자유롭고 생동감 넘치는 헤테로 시티에 오신 것을 환영합니",
     "iosUrl": "https://apps.apple.com/kr/app/%EC%9D%B4%ED%99%98/id6754593077?uo=4",
     "androidUrl": "https://play.google.com/store/apps/details?id=com.hottagames.nte",
-    "pcUrl": "",
+    "pcUrl": "https://nte.perfectworld.com/kr/",
     "screenshots": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/8a/ab/508aab6e-4724-357b-82d2-7b93d460d566/2208x1242-01.jpg/406x228bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/c9/70/a4c970e8-07bc-c46c-fad3-28e258ec040c/2208x1242-02.jpg/406x228bb.jpg",
