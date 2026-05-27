@@ -1332,39 +1332,7 @@ const APPS = [
     "pcType": "web",
     "slug": "naverpay"
   },
-  {
-    "id": 23,
-    "name": "배달이친구",
-    "cat": "life",
-    "icon": "https://play-lh.googleusercontent.com/hEuSKJao8G4qhQN1lH7qBbyz8Ubq7XqSHUg-vKlflnnGm42rR5gb-X6wN_wyTJBkoaGg",
-    "developer": "WoowaBrothers",
-    "desc": "배달의민족 서비스로 음식을 주문하고 배달받을 수 있는 앱입니다.",
-    "iosUrl": "",
-    "androidUrl": "https://play.google.com/store/apps/details?id=com.iambaemin",
-    "pcUrl": "",
-    "screenshots": [],
-    "reviews": [],
-    "spec_ios": {
-      "ver": "-",
-      "os": "-",
-      "size": "-"
-    },
-    "spec_and": {
-      "ver": "16.6.0",
-      "os": "-",
-      "size": "-"
-    },
-    "installSteps": [
-      "앱스토어/플레이스토어에서 '배달이친구' 검색",
-      "설치 버튼을 눌러 다운로드",
-      "앱 실행 후 안내에 따라 이용 시작"
-    ],
-    "bg": "#F9FAFB",
-    "fallback": "📱",
-    "seoDesc": "배달의민족 앱으로 집에서 간편하게 음식 주문하고 있어요. 전국 맛집들이 다 모여있어서 선택의 폭이 넓고, 배민클럽 가입하면 배달팁도 무료가 됩니다.",
-    "slug": "baemin-friends",
-    "pcType": ""
-  },
+
   {
     "id": 24,
     "name": "구글 드라이브",
