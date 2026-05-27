@@ -261,11 +261,16 @@
       "name": "디스코드",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "식신",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 42,
-    "skipped": 16,
+    "total": 43,
+    "skipped": 17,
     "has_issues": 26,
     "total_issues": 51,
     "fixed": 3
