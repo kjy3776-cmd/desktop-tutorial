@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- ───────── SEO 기본 메타 ───────── -->
+<title>이너앱 InnerApp - 나에게 맞는 앱만 골랐어요 | 인기 앱 추천·다운로드</title>
+<meta name="description" content="카카오톡, 토스, 유튜브부터 인기 게임까지. 카테고리별 인기 앱을 직접 써보고 추천합니다. iOS·안드로이드 다운로드 링크, 상세 사양, 실사용자 리뷰를 한 곳에서 확인하세요.">
+<meta name="keywords" content="앱 추천, 인기 앱, 앱 다운로드, 안드로이드 앱, 아이폰 앱, 게임 추천, 생산성 앱, 앱 순위, 앱스토어, 플레이스토어">
+<meta name="author" content="이너앱 InnerApp">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="canonical" href="https://innerapple.com/">
+
+<!-- ───────── Open Graph (카카오톡·페이스북 공유) ───────── -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="이너앱 InnerApp">
+<meta property="og:title" content="이너앱 - 나에게 맞는 앱만 골랐어요">
+<meta property="og:description" content="카테고리별 인기 앱을 직접 써보고 추천합니다. iOS·안드로이드 다운로드, 상세 사양, 실사용자 리뷰를 한 곳에서.">
+<meta property="og:url" content="https://innerapple.com/">
+<meta property="og:image" content="https://innerapple.com/og-image.png">
+<meta property="og:locale" content="ko_KR">
+
+<!-- ───────── Twitter 카드 ───────── -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="이너앱 - 나에게 맞는 앱만 골랐어요">
+<meta name="twitter:description" content="카테고리별 인기 앱 추천·다운로드·리뷰">
+<meta name="twitter:image" content="https://innerapple.com/og-image.png">
+
+<!-- ───────── 네이버 웹마스터 / 구글 서치콘솔 인증 (값 교체 필요) ───────── -->
+<meta name="naver-site-verification" content="여기에_네이버_인증코드_입력">
+<meta name="google-site-verification" content="여기에_구글_인증코드_입력">
+
+<!-- ───────── 구조화 데이터 (JSON-LD) — 검색결과 리치 표시 ───────── -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "이너앱 InnerApp",
+  "url": "https://innerapple.com/",
+  "description": "카테고리별 인기 앱 추천·다운로드·리뷰 서비스",
+  "inLanguage": "ko-KR",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://innerapple.com/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1328779882408752" crossorigin="anonymous"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Pretendard:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--blue:#1B64DA;--blue-light:#EBF1FD;--green:#00C471;--gray-50:#F9FAFB;--gray-100:#F3F4F6;--gray-200:#E5E7EB;--gray-400:#9CA3AF;--gray-600:#4B5563;--gray-800:#1F2937;--gray-900:#111827;--radius-md:16px;--radius-lg:24px;--shadow-md:0 4px 16px rgba(0,0,0,.08)}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Pretendard',sans-serif;background:var(--gray-50);color:var(--gray-900);line-height:1.6;-webkit-font-smoothing:antialiased}
+
+/* 레이아웃 */
+nav{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.9);backdrop-filter:blur(20px);border-bottom:1px solid var(--gray-200)}
+.nav-inner{max-width:1100px;margin:0 auto;display:flex;align-items:center;height:56px;padding:0 20px;gap:12px}
+.nav-logo{font-size:20px;font-weight:700;color:var(--blue);cursor:pointer;flex-shrink:0}
+.nav-search{flex:1;max-width:360px;position:relative;margin-left:auto}
+.nav-search input{width:100%;padding:8px 36px 8px 14px;border:1.5px solid var(--gray-200);border-radius:999px;font-size:14px;font-family:'Pretendard',sans-serif;outline:none;background:var(--gray-50);transition:all .2s}
+.nav-search input:focus{border-color:var(--blue);background:#fff;box-shadow:0 0 0 3px rgba(27,100,218,.08)}
+.nav-search .search-icon{position:absolute;right:12px;top:50%;transform:translateY(-50%);color:var(--gray-400);pointer-events:none;font-size:15px}
+.search-results{position:absolute;top:calc(100% + 8px);left:0;right:0;background:#fff;border:1px solid var(--gray-200);border-radius:14px;box-shadow:0 8px 24px rgba(0,0,0,.1);z-index:200;max-height:320px;overflow-y:auto;display:none}
+.search-results.show{display:block}
+.search-item{display:flex;align-items:center;gap:12px;padding:10px 14px;cursor:pointer;transition:background .15s}
+.search-item:hover{background:var(--gray-50)}
+.search-item img{width:36px;height:36px;border-radius:9px;object-fit:cover;background:#eee;flex-shrink:0}
+.search-item-name{font-size:14px;font-weight:600}
+.search-item-cat{font-size:11px;color:var(--gray-400)}
+.search-empty{padding:20px;text-align:center;color:var(--gray-400);font-size:14px}
+.page{max-width:800px;margin:0 auto;padding:20px}
+
+/* ───────── 모바일 반응형 ───────── */
+@media(max-width:600px){
+  .nav-inner{height:52px;padding:0 14px;gap:8px}
+  .nav-logo{font-size:17px}
+  .nav-search{max-width:none}
+  .cat-bar-inner{padding:8px 14px;gap:4px}
+  .cat-chip{padding:6px 12px;font-size:13px}
+  .page{padding:14px}
+  .app-grid{grid-template-columns:repeat(auto-fill,minmax(100px,1fr));gap:10px}
+  .app-card{padding:12px 8px}
+  .icon-box{width:52px;height:52px}
+  .icon-box img{width:52px;height:52px}
+  .app-name{font-size:12px}
+  .detail-card{padding:16px}
+  .download-btns{flex-direction:column}
+  .dl-btn{min-width:unset}
+  .screenshot-container img{height:220px}
+  .section-title{font-size:18px}
+}
+
+/* ───────── 카테고리 메뉴 바 ───────── */
+.cat-bar{background:white;border-bottom:1px solid var(--gray-200);position:sticky;top:56px;z-index:99}
+.cat-bar-inner{max-width:1100px;margin:0 auto;display:flex;gap:6px;padding:10px 20px;overflow-x:auto;scrollbar-width:none}
+.cat-bar-inner::-webkit-scrollbar{display:none}
+.cat-chip{flex-shrink:0;padding:8px 16px;border-radius:999px;border:1px solid var(--gray-200);background:white;color:var(--gray-600);font-size:14px;font-weight:600;cursor:pointer;transition:all .15s;white-space:nowrap}
+.cat-chip:hover{border-color:var(--blue);color:var(--blue)}
+.cat-chip.active{background:var(--blue);border-color:var(--blue);color:white}
+
+/* 홈 그리드 */
+.section-title{font-size:22px;font-weight:700;margin-bottom:6px}
+.section-sub{font-size:14px;color:var(--gray-400);margin-bottom:16px}
+.app-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:12px;margin-top:8px}
+.app-card{background:white;border-radius:var(--radius-md);padding:16px;cursor:pointer;border:1px solid var(--gray-200);text-align:center;transition:all .2s}
+.app-card:hover{transform:translateY(-3px);box-shadow:var(--shadow-md)}
+.icon-box{width:64px;height:64px;border-radius:14px;margin:0 auto 10px;overflow:hidden;background:#eee;display:flex;align-items:center;justify-content:center}
+.icon-box img{width:100%;height:100%;object-fit:cover}
+.app-name{font-size:14px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.empty-msg{text-align:center;color:var(--gray-400);padding:60px 20px;font-size:15px}
+
+/* 상세 페이지 */
+.home-page.hide{display:none !important}
+.detail-page{display:none}
+.detail-page.show{display:block}
+.detail-card{background:white;border-radius:var(--radius-lg);padding:24px;border:1px solid var(--gray-200);margin-bottom:20px}
+.back-btn{background:none;border:none;color:var(--blue);cursor:pointer;margin-bottom:20px;font-weight:600;display:flex;align-items:center;gap:4px}
+
+/* 다운로드 버튼 */
+.download-btns{display:flex;gap:10px;margin:20px 0;flex-wrap:wrap}
+.dl-btn{flex:1;min-width:140px;padding:14px;border-radius:12px;text-decoration:none;display:flex;align-items:center;justify-content:center;gap:8px;font-weight:700;color:white;transition:opacity .2s}
+.dl-btn:hover{opacity:0.9}
+.dl-btn.disabled{background:var(--gray-200)!important;color:var(--gray-400);pointer-events:none}
+.btn-ios{background:#000}.btn-and{background:var(--green)}.btn-pc{background:var(--blue)}
+
+/* 스크린샷 */
+.screenshot-container{display:flex;gap:12px;overflow-x:auto;padding-bottom:10px;margin:10px 0;scrollbar-width:none}
+.screenshot-container img{height:320px;border-radius:12px;border:1px solid var(--gray-200);cursor:zoom-in;transition:transform 0.2s}
+.screenshot-container img:hover{transform:scale(1.02)}
+
+/* 사양 표 */
+.spec-table{width:100%;border-collapse:collapse;margin-top:10px;font-size:14px}
+.spec-table th, .spec-table td{padding:12px;border-bottom:1px solid var(--gray-100);text-align:left}
+.spec-table th{background:var(--gray-50);color:var(--gray-600);font-weight:600;width:100px}
+
+/* 리뷰 */
+.review-item{padding:16px 0;border-bottom:1px solid var(--gray-50)}
+.review-user{font-weight:700;font-size:13px;margin-bottom:4px}.review-text{font-size:14px;color:var(--gray-600);word-break:break-all}
+#moreReviewsBtn{width:100%;padding:14px;margin-top:15px;border:1px solid var(--gray-200);background:white;border-radius:12px;cursor:pointer;font-weight:600;color:var(--gray-600)}
+
+/* 모달 */
+.modal{display:none;position:fixed;z-index:1000;inset:0;background:rgba(0,0,0,.85);align-items:center;justify-content:center;cursor:zoom-out;backdrop-filter:blur(5px)}
+.modal img{max-width:90%;max-height:90%;border-radius:16px;box-shadow:0 0 30px rgba(0,0,0,.5)}
+.modal.show{display:flex}
+
+/* 광고 */
+.ad-wrap{margin:32px 0;text-align:center}.ad-label{font-size:11px;color:var(--gray-400);margin-bottom:8px}
+/* ── 다운로드 광고 팝업 ── */
+.ad-popup-overlay{position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:2000;display:flex;align-items:center;justify-content:center;animation:fadeIn .2s}
+.ad-popup{background:#fff;border-radius:20px;padding:24px 20px 20px;width:min(360px,92vw);text-align:center}
+.ad-popup-title{font-size:15px;font-weight:700;margin-bottom:4px}
+.ad-popup-sub{font-size:13px;color:var(--gray-400);margin-bottom:14px}
+.ad-popup-ad{min-height:100px;background:var(--gray-50);border-radius:10px;display:flex;align-items:center;justify-content:center;overflow:hidden}
+.ad-popup-progress{height:3px;background:var(--gray-200);border-radius:2px;margin-top:14px;overflow:hidden}
+.ad-popup-bar{height:100%;width:0;background:var(--blue);border-radius:2px;transition:width 2s linear}
+.ad-popup-skip{margin-top:10px;font-size:12px;color:var(--gray-400);cursor:pointer}
+.ad-popup-skip b{color:var(--blue)}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+
+/* PC 다운로드 섹션 */
+.pc-section{margin-top:10px;padding:16px;background:var(--blue-light);border-radius:12px;display:flex;align-items:center;gap:14px}
+.pc-section-icon{font-size:28px;flex-shrink:0}
+.pc-section-body{flex:1}
+.pc-section-title{font-size:14px;font-weight:700;color:var(--gray-800);margin-bottom:2px}
+.pc-section-sub{font-size:12px;color:var(--gray-600)}
+.pc-section-btn{flex-shrink:0;padding:10px 20px;border-radius:10px;background:var(--blue);color:white;text-decoration:none;font-size:13px;font-weight:700;transition:opacity .2s}
+.pc-section-btn:hover{opacity:.85}
+
+/* SEO 소개글 */
+.seo-desc{margin-top:16px;padding:16px;background:var(--gray-50);border-radius:12px;border-left:3px solid var(--blue);font-size:14px;color:var(--gray-700);line-height:1.7}
+
+/* 푸터 (SEO 텍스트 콘텐츠) */
+footer{max-width:800px;margin:40px auto 0;padding:24px 20px 60px;border-top:1px solid var(--gray-200);color:var(--gray-400);font-size:13px}
+footer h2{font-size:15px;color:var(--gray-600);margin-bottom:8px}
+footer p{margin-bottom:8px;line-height:1.7}
+</style>
+</head>
+<body>
+
+<nav><div class="nav-inner">
+  <div class="nav-logo" onclick="goHome()">이너앱<span style="color:var(--green)">.</span></div>
+  <div class="nav-search" id="navSearch">
+    <input type="text" id="searchInput" placeholder="앱 검색..." autocomplete="off" oninput="onSearch(this.value)" onkeydown="onSearchKey(event)">
+    <span class="search-icon">🔍</span>
+    <div class="search-results" id="searchResults"></div>
+  </div>
+</div></nav>
+
+<!-- 카테고리 메뉴 바 -->
+<div class="cat-bar" id="catBar"><div class="cat-bar-inner" id="catBarInner"></div></div>
+
+<div id="homePage" class="home-page">
+  <div class="page">
+    <h1 class="section-title" id="homeTitle">🌟 직접 써본 인기 추천 앱</h1>
+    <p class="section-sub" id="homeSub">카테고리를 선택해 원하는 앱을 찾아보세요</p>
+    <div class="app-grid" id="appGrid"></div>
+    <div class="empty-msg" id="emptyMsg" style="display:none">이 카테고리에 등록된 앱이 아직 없어요.</div>
+  </div>
+</div>
+
+<div id="detailPage" class="detail-page">
+  <div class="page">
+    <button class="back-btn" onclick="goHome()">← 목록으로 돌아가기</button>
+    <div class="detail-card">
+      <div id="detailHeader" style="display:flex; gap:20px; align-items:center"></div>
+      <div class="download-btns" id="downloadBtns"></div>
+      <div id="pcSection"></div>
+      <div id="appDesc" style="margin-top:20px; color:var(--gray-600); font-size:15px; white-space:pre-wrap"></div>
+      <div id="seoDesc" class="seo-desc" style="display:none"></div>
+    </div>
+    <div class="detail-card">
+      <h3 style="font-size:17px; margin-bottom:15px">📸 미리보기 (클릭 시 확대)</h3>
+      <div class="screenshot-container" id="screenshotScroll"></div>
+    </div>
+    <div class="detail-card">
+      <h3 style="font-size:17px; margin-bottom:15px">⚙️ 상세 사양 정보</h3>
+      <div id="specContainer"></div>
+    </div>
+    <div class="detail-card">
+      <h3 style="font-size:17px; margin-bottom:15px">🛠 설치 및 이용 방법</h3>
+      <div id="installSteps" style="font-size:14px; color:var(--gray-800)"></div>
+    </div>
+    <div class="detail-card">
+      <h3 style="font-size:17px; margin-bottom:15px">💬 사용자 리얼 리뷰</h3>
+      <div id="reviewList"></div>
+      <button id="moreReviewsBtn">리뷰 더보기 (10개)</button>
+    </div>
+    <div id="infiniteAds"></div>
+  </div>
+</div>
+
+<div id="imgModal" class="modal" onclick="this.classList.remove('show')">
+  <img id="modalImg" src="" alt="앱 스크린샷 확대 보기">
+</div>
+
+<footer>
+  <h2>이너앱 InnerApp 소개</h2>
+  <p>이너앱은 카카오톡·토스·유튜브 같은 필수 앱부터 인기 게임, 생산성 도구, 라이프스타일 앱까지 카테고리별로 직접 사용해 보고 추천하는 앱 큐레이션 서비스입니다. 각 앱의 iOS·안드로이드 다운로드 링크, 상세 사양, 실사용자 리뷰를 한 곳에 모아 제공합니다.</p>
+  <p id="footerCats"></p>
+  <p>© 2026 이너앱 InnerApp. 모든 앱 정보 및 이미지의 저작권은 각 제작사에 있습니다.</p>
+</footer>
+
+<script src="apps_data.js"></script>
+<script>
+/* ───────── 카테고리 정의 (한글 라벨) ───────── */
+const CAT_LABELS = {
+  all:'전체', sns:'소셜·커뮤니티', entertainment:'엔터테인먼트', shopping:'쇼핑',
+  food:'음식·배달', finance:'금융·재테크', game:'게임', productivity:'생산성·도구',
+  life:'라이프스타일', education:'교육', health:'건강·운동', travel:'여행·지도'
+};
+let currentCat = 'all';
+
+/* ───────── 카테고리 메뉴 렌더링 ───────── */
+function renderCatBar() {
+  const inner = document.getElementById('catBarInner');
+  // 실제 데이터에 존재하는 카테고리만 노출 ('전체'는 항상)
+  const used = new Set(APPS.map(a => a.cat));
+  const order = ['all','game','productivity','life','sns','entertainment','shopping','food','finance','education','health','travel'];
+  const cats = order.filter(c => c === 'all' || used.has(c));
+  inner.innerHTML = cats.map(c =>
+    `<div class="cat-chip${c===currentCat?' active':''}" data-cat="${c}">${CAT_LABELS[c]||c}</div>`
+  ).join('');
+  inner.querySelectorAll('.cat-chip').forEach(chip => {
+    chip.onclick = () => selectCat(chip.dataset.cat);
+  });
+  // 푸터 카테고리 텍스트 (SEO 보강)
+  document.getElementById('footerCats').textContent =
+    '카테고리: ' + cats.filter(c=>c!=='all').map(c=>CAT_LABELS[c]).join(' · ');
+}
+
+/* ───────── 슬러그 유틸 ───────── */
+function getSlug(app) {
+  if (app && app.slug) return app.slug;
+  if (!app || !app.name) return 'app';
+  let s = app.name.toLowerCase()
+    .replace(/[^\w\s-]/g, '')
+    .replace(/[\s_]+/g, '-')
+    .replace(/-+/g, '-')
+    .replace(/^-+|-+$/g, '');  // ← trim('-') 대신
+  return s || ('app-' + (app.id || ''));
+}
+
+function selectCat(cat) {
+  currentCat = cat;
+  document.querySelectorAll('.cat-chip').forEach(ch =>
+    ch.classList.toggle('active', ch.dataset.cat === cat));
+  renderHome();
+  const t = document.getElementById('homeTitle');
+  t.textContent = cat === 'all' ? '🌟 직접 써본 인기 추천 앱'
+                                : `${CAT_LABELS[cat]} 앱 추천`;
+  if (history.state?.appSlug === undefined) {
+    history.replaceState({cat}, '', cat==='all' ? location.pathname : `?cat=${cat}`);
+  }
+}
+
+/* ───────── 홈 그리드 ───────── */
+function renderHome() {
+  const grid = document.getElementById('appGrid');
+  const empty = document.getElementById('emptyMsg');
+  const list = currentCat === 'all' ? APPS : APPS.filter(a => a.cat === currentCat);
+  grid.innerHTML = '';
+  empty.style.display = list.length ? 'none' : 'block';
+  list.forEach(app => {
+    const card = document.createElement('div');
+    card.className = 'app-card';
+    card.innerHTML = `
+      <div class="icon-box"><img src="${app.icon||''}" alt="${app.name} 아이콘" loading="lazy" onerror="this.src='https://via.placeholder.com/64'"></div>
+      <div class="app-name">${app.name}</div>
+      <div style="font-size:11px; color:var(--gray-400); margin-top:4px">${(CAT_LABELS[app.cat]||app.cat)}</div>`;
+    card.onclick = () => showDetail(app);
+    // 크롤러용 숨김 링크 → 정적 HTML 페이지 연결
+    const aLink = document.createElement('a');
+    aLink.href = `/app/${getSlug(app)}.html`;
+    aLink.style.cssText = 'position:absolute;opacity:0;pointer-events:none';
+    aLink.setAttribute('aria-hidden','true');
+    aLink.setAttribute('tabindex','-1');
+    card.style.position = 'relative';
+    card.appendChild(aLink);
+    grid.appendChild(card);
+  });
+}
+
+/* ───────── 상세 페이지 ───────── */
+function showDetail(app, pushState = true) {
+  window.scrollTo(0, 0);
+  document.getElementById('homePage').classList.add('hide');
+  document.getElementById('detailPage').classList.add('show');
+  document.getElementById('catBar').style.display = 'none';
+  document.title = `${app.name} - 다운로드·사양·리뷰 | 이너앱`;
+
+  document.getElementById('detailHeader').innerHTML = `
+    <div class="icon-box" style="width:88px; height:88px; border-radius:20px"><img src="${app.icon}" alt="${app.name} 아이콘"></div>
+    <div>
+      <h2 style="font-size:24px; letter-spacing:-0.5px">${app.name}</h2>
+      <p style="color:var(--blue); font-size:14px; font-weight:500">${app.developer||''}</p>
+    </div>`;
+  document.getElementById('appDesc').textContent = app.desc || '';
+
+  /* SEO 소개글 (있을 때만 노출) */
+  const seoBox = document.getElementById('seoDesc');
+  if (app.seoDesc) {
+    seoBox.textContent = app.seoDesc;
+    seoBox.style.display = 'block';
+  } else {
+    seoBox.style.display = 'none';
+  }
+
+  /* 다운로드 버튼 — URL 검증 및 정규화 */
+  function normalizeUrl(u) {
+    if (!u || !u.startsWith('http')) return '';
+    // 앱스토어 URL: /id숫자 형태가 있어야 유효 (한글 인코딩 URL도 id 있으면 정규화)
+    if (u.includes('apps.apple.com')) {
+      const m = u.match(/\/id(\d+)/);
+      return m ? `https://apps.apple.com/kr/app/id${m[1]}` : '';
+    }
+    // 구글플레이: id= 파라미터가 있어야 유효
+    if (u.includes('play.google.com')) {
+      return u.includes('id=') ? u : '';
+    }
+    return u;
+  }
+  const iosUrl  = normalizeUrl(app.iosUrl);
+  const andUrl  = normalizeUrl(app.androidUrl);
+  const iosOk   = !!iosUrl;
+  const andOk   = !!andUrl;
+  let btns = `
+    <a href="${iosOk?iosUrl:'#'}" class="dl-btn btn-ios${iosOk?'':' disabled'}"
+       ${iosOk?`onclick="showAdPopup(event,'${iosUrl}')"`:''} rel="noopener">🍎 App Store</a>
+    <a href="${andOk?andUrl:'#'}" class="dl-btn btn-and${andOk?'':' disabled'}"
+       ${andOk?`onclick="showAdPopup(event,'${andUrl}')"`:''} rel="noopener">🤖 Google Play</a>`;
+  document.getElementById('downloadBtns').innerHTML = btns;
+
+  /* PC 버전 섹션 — 타입에 따라 다르게 표시 */
+  const pcSec = document.getElementById('pcSection');
+  if (app.pcUrl) {
+    const isDownload = app.pcType === 'download';
+    const icon = isDownload ? '⬇️' : '🌐';
+    const title = isDownload
+      ? `${app.name} PC 프로그램`
+      : `${app.name} PC 웹 버전`;
+    const sub = isDownload
+      ? 'PC에 설치해서 더 편하게 이용할 수 있어요'
+      : '웹 브라우저에서 바로 이용할 수 있어요';
+    const btnText = isDownload ? '다운로드' : 'PC로 열기';
+
+    pcSec.innerHTML = `
+      <div class="pc-section">
+        <div class="pc-section-icon">${icon}</div>
+        <div class="pc-section-body">
+          <div class="pc-section-title">${title}</div>
+          <div class="pc-section-sub">${sub}</div>
+        </div>
+        <a href="${app.pcUrl}" class="pc-section-btn" onclick="showAdPopup(event,'${app.pcUrl}')" rel="noopener">${btnText}</a>
+      </div>`;
+    pcSec.style.display = 'block';
+  } else {
+    pcSec.style.display = 'none';
+  }
+
+  document.getElementById('screenshotScroll').innerHTML = (app.screenshots||[])
+    .map(src => `<img src="${src}" onclick="zoomImg('${src}')" alt="${app.name} 스크린샷" loading="lazy">`).join('')
+    || '<p style="color:var(--gray-400);font-size:14px">미리보기 이미지가 없습니다.</p>';
+
+  const si = app.spec_ios||{}, sa = app.spec_and||{};
+  document.getElementById('specContainer').innerHTML = `
+    <table class="spec-table">
+      <tr><th>구분</th><td><b>iOS (Apple)</b></td><td><b>Android (Google)</b></td></tr>
+      <tr><th>버전</th><td>${si.ver||'-'}</td><td>${sa.ver||'-'}</td></tr>
+      <tr><th>최소 사양</th><td>${si.os||'-'}</td><td>${sa.os||'-'}</td></tr>
+      <tr><th>파일 용량</th><td>${si.size||'-'}</td><td>${sa.size||'-'}</td></tr>
+    </table>`;
+
+  document.getElementById('installSteps').innerHTML = (app.installSteps||[])
+    .map((s,i) => `<div style="margin-bottom:8px"><b>${i+1}.</b> ${s}</div>`).join('');
+
+  const reviewList = document.getElementById('reviewList');
+  const moreBtn = document.getElementById('moreReviewsBtn');
+  const reviews = app.reviews || [];
+  function displayReviews(count) {
+    reviewList.innerHTML = reviews.slice(0,count).map(r => `
+      <div class="review-item">
+        <div class="review-user">${r.user} <span style="color:#FFB800">⭐ ${r.rating}</span></div>
+        <div class="review-text">${r.text}</div>
+      </div>`).join('') || '<p style="color:var(--gray-400);font-size:14px">아직 등록된 리뷰가 없습니다.</p>';
+  }
+  displayReviews(5);
+  if (reviews.length > 5) {
+    moreBtn.style.display = 'block';
+    moreBtn.onclick = () => { displayReviews(10); moreBtn.style.display = 'none'; };
+  } else { moreBtn.style.display = 'none'; }
+
+  injectAppJsonLd(app);
+  injectDetailAd();
+  if (pushState) history.pushState({appSlug: getSlug(app)}, '', `?app=${getSlug(app)}`);
+}
+
+/* ───────── 상세페이지 구조화 데이터 (SoftwareApplication) ───────── */
+function injectAppJsonLd(app) {
+  const old = document.getElementById('appJsonLd');
+  if (old) old.remove();
+  const reviews = app.reviews || [];
+  const avg = reviews.length
+    ? (reviews.reduce((s,r)=>s+(+r.rating||0),0)/reviews.length).toFixed(1) : null;
+  const data = {
+    "@context":"https://schema.org","@type":"SoftwareApplication",
+    "name":app.name,"applicationCategory":CAT_LABELS[app.cat]||app.cat,
+    "operatingSystem":"iOS, Android","author":{"@type":"Organization","name":app.developer||""},
+    "description":app.desc||""
+  };
+  if (avg) data.aggregateRating = {
+    "@type":"AggregateRating","ratingValue":avg,"reviewCount":reviews.length,
+    "bestRating":"5","worstRating":"1"
+  };
+  const s = document.createElement('script');
+  s.type = 'application/ld+json'; s.id = 'appJsonLd';
+  s.textContent = JSON.stringify(data);
+  document.head.appendChild(s);
+}
+
+/* ───────── 유틸 ───────── */
+function zoomImg(src) {
+  document.getElementById('modalImg').src = src;
+  document.getElementById('imgModal').classList.add('show');
+}
+
+function goHome(pushState = true) {
+  window.scrollTo(0, 0);
+  document.getElementById('homePage').classList.remove('hide');
+  document.getElementById('detailPage').classList.remove('show');
+  document.getElementById('catBar').style.display = 'block';
+  document.title = '이너앱 InnerApp - 나에게 맞는 앱만 골랐어요 | 인기 앱 추천·다운로드';
+  const old = document.getElementById('appJsonLd');
+  if (old) old.remove();
+  if (pushState) history.pushState({cat:currentCat}, '',
+    currentCat==='all' ? location.pathname : `?cat=${currentCat}`);
+  const adArea = document.getElementById('infiniteAds');
+  adArea.innerHTML = '';
+  delete adArea.dataset.injected;
+}
+
+/* ───────── 애드센스 — 상세 페이지 하단 광고 (승인 후 자동 노출) ───────── */
+function injectDetailAd() {
+  const adArea = document.getElementById('infiniteAds');
+  if (adArea.dataset.injected) return;
+  adArea.dataset.injected = '1';
+  adArea.innerHTML = `
+    <div class="ad-wrap">
+      <div class="ad-label">광고</div>
+      <ins class="adsbygoogle"
+           style="display:block"
+           data-ad-client="ca-pub-1328779882408752"
+           data-ad-slot="auto"
+           data-ad-format="auto"
+           data-full-width-responsive="true"></ins>
+    </div>`;
+  try { (adsbygoogle = window.adsbygoogle || []).push({}); } catch(e) {}
+}
+
+/* ───────── 검색 기능 ───────── */
+let searchTimer = null;
+
+function onSearch(q) {
+  clearTimeout(searchTimer);
+  const box = document.getElementById('searchResults');
+  if (!q.trim()) { box.classList.remove('show'); box.innerHTML = ''; return; }
+  searchTimer = setTimeout(() => {
+    const kw = q.trim().toLowerCase();
+    const hits = APPS.filter(a =>
+      a.name.toLowerCase().includes(kw) ||
+      (CAT_LABELS[a.cat]||'').includes(kw) ||
+      (a.developer||'').toLowerCase().includes(kw)
+    ).slice(0, 8);
+
+    if (!hits.length) {
+      box.innerHTML = `<div class="search-empty">검색 결과가 없습니다</div>`;
+    } else {
+      box.innerHTML = hits.map(a => `
+        <div class="search-item" onclick="pickSearch(${a.id})">
+          <img src="${a.icon||''}" onerror="this.src='https://via.placeholder.com/36'" alt="${a.name}">
+          <div>
+            <div class="search-item-name">${highlight(a.name, kw)}</div>
+            <div class="search-item-cat">${CAT_LABELS[a.cat]||a.cat}</div>
+          </div>
+        </div>`).join('');
+    }
+    box.classList.add('show');
+  }, 150);
+}
+
+function highlight(text, kw) {
+  const i = text.toLowerCase().indexOf(kw);
+  if (i < 0) return text;
+  return text.slice(0,i) + `<mark style="background:#dbeafe;border-radius:3px;padding:0 1px">${text.slice(i,i+kw.length)}</mark>` + text.slice(i+kw.length);
+}
+
+function pickSearch(id) {
+  const app = APPS.find(a => a.id === id);
+  if (!app) return;
+  closeSearch();
+  showDetail(app);
+}
+
+function onSearchKey(e) {
+  if (e.key === 'Escape') closeSearch();
+  if (e.key === 'Enter') {
+    const first = document.querySelector('.search-item');
+    if (first) first.click();
+  }
+}
+
+function closeSearch() {
+  document.getElementById('searchInput').value = '';
+  const box = document.getElementById('searchResults');
+  box.classList.remove('show');
+  box.innerHTML = '';
+}
+
+// 검색창 외부 클릭 시 닫기
+document.addEventListener('click', e => {
+  if (!document.getElementById('navSearch').contains(e.target)) closeSearch();
+});
+
+/* ───────── 다운로드 광고 팝업 ───────── */
+function showAdPopup(e, destUrl) {
+  e.preventDefault();
+  const overlay = document.createElement('div');
+  overlay.className = 'ad-popup-overlay';
+  overlay.innerHTML = `
+    <div class="ad-popup">
+      <div class="ad-popup-title">잠깐! 광고 후 이동합니다</div>
+      <div class="ad-popup-sub">2초 후 자동으로 이동해요</div>
+      <div class="ad-popup-ad">
+        <ins class="adsbygoogle"
+          style="display:block;width:300px;height:100px"
+          data-ad-client="ca-pub-1328779882408752"
+          data-ad-slot="auto"
+          data-ad-format="auto"
+          data-full-width-responsive="true"></ins>
+      </div>
+      <div class="ad-popup-progress"><div class="ad-popup-bar" id="adBar"></div></div>
+      <div class="ad-popup-skip" onclick="closeAdPopup(this,'${destUrl}')">
+        건너뛰기 → <b>바로 이동</b>
+      </div>
+    </div>`;
+  document.body.appendChild(overlay);
+  try { (adsbygoogle = window.adsbygoogle || []).push({}); } catch(e2) {}
+  requestAnimationFrame(() => {
+    const bar = document.getElementById('adBar');
+    if (bar) bar.style.width = '100%';
+  });
+  overlay._timer = setTimeout(() => {
+    if (document.body.contains(overlay)) document.body.removeChild(overlay);
+    window.open(destUrl, '_blank', 'noopener');
+  }, 2000);
+}
+function closeAdPopup(el, destUrl) {
+  const overlay = el.closest('.ad-popup-overlay');
+  if (overlay) { clearTimeout(overlay._timer); document.body.removeChild(overlay); }
+  window.open(destUrl, '_blank', 'noopener');
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  renderCatBar();
+  renderHome();
+
+  const params = new URLSearchParams(location.search);
+  const appSlug = params.get('app');
+  const appId   = params.get('id');   // 구버전 호환
+  const cat = params.get('cat');
+  if (typeof APPS !== 'undefined') {
+    if (appSlug) {
+      const app = APPS.find(a => getSlug(a) === appSlug);
+      if (app) { showDetail(app, false); return; }
+    } else if (appId) {
+      const app = APPS.find(a => a.id == appId);
+      if (app) { showDetail(app, false); return; }
+    }
+  }
+  if (cat && CAT_LABELS[cat]) selectCat(cat);
+});
+
+window.onpopstate = (e) => {
+  if (e.state && e.state.appSlug !== undefined) {
+    const app = APPS.find(a => getSlug(a) === e.state.appSlug);
+    if (app) showDetail(app, false);
+  } else {
+    goHome(false);
+    if (e.state?.cat) selectCat(e.state.cat);
+  }
+};
+</script>
+</body>
+</html>
