@@ -1680,7 +1680,7 @@ const APPS = [
     "icon": "https://play-lh.googleusercontent.com/nM_bMwQmt0epELSrXmA57q5NHesrR_Nj_bt5-IV34cwNk3DFtWLQM7WCxZ6tyIrbXu_3gDyPxK1-h87s78aq",
     "developer": "Nuverse",
     "desc": "하츠네 미쿠와 함께하는 리듬게임입니다.",
-    "iosUrl": "https://apps.apple.com/kr/app/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B8%EC%B9%B4%EC%9D%B4-%EC%BB%AC%EB%9F%AC%ED%92%80-%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80-feat-%ED%95%98%EC%B8%A0%EB%84%A4-%EB%AF%B8%EC%BF%A0/id1598881852",
+    "iosUrl": "https://apps.apple.com/kr/app/id1598881852",
     "androidUrl": "https://play.google.com/store/apps/details?id=com.pjsekai.kr",
     "pcUrl": "",
     "screenshots": [],
