@@ -556,6 +556,38 @@ document.addEventListener('click', e => {
   if (!document.getElementById('navSearch').contains(e.target)) closeSearch();
 });
 
+  document.addEventListener('DOMContentLoaded', () => {
+  renderCatBar();
+  renderHome();
+
+  const params = new URLSearchParams(location.search);
+  const appSlug = params.get('app');
+  const appId = params.get('id');
+  const cat = params.get('cat');
+
+  if (typeof APPS !== 'undefined') {
+    if (appSlug) {
+      const app = APPS.find(a => getSlug(a) === appSlug);
+      if (app) { showDetail(app, false); return; }
+    } else if (appId) {
+      const app = APPS.find(a => a.id == appId);
+      if (app) { showDetail(app, false); return; }
+    }
+  }
+
+  if (cat && CAT_LABELS[cat]) selectCat(cat);
+});
+
+window.onpopstate = (e) => {
+  if (e.state && e.state.appSlug !== undefined) {
+    const app = APPS.find(a => getSlug(a) === e.state.appSlug);
+    if (app) showDetail(app, false);
+  } else {
+    goHome(false);
+    if (e.state?.cat) selectCat(e.state.cat);
+  }
+};
+
 </script>
 </body>
 </html>
