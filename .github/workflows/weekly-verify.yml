@@ -1,0 +1,42 @@
+name: 주간 앱 검수 및 iOS URL 복구
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 패키지 설치
+        run: pip install google-play-scraper requests
+
+      - name: 전체 앱 검수 및 iOS URL 복구
+        run: python verify_apps.py
+
+      - name: 정적 HTML 재생성
+        run: python gen_static.py
+        continue-on-error: true
+
+      - name: 결과 커밋
+        run: |
+          git config user.name  "innerapp-bot"
+          git config user.email "bot@innerapp.local"
+          git add apps_data.js sitemap.xml verify_report.json || true
+          git add app/ category/ || true
+          if git diff --cached --quiet; then
+            echo "변경 없음"
+          else
+            git commit -m "주간 검수: iOS URL 복구 및 데이터 보강 $(date +%Y-%m-%d)"
+            git push
+            echo "✅ 검수 완료"
+          fi
