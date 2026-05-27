@@ -22,6 +22,10 @@ import time
 import random
 import requests as req_lib
 
+HEADERS = {
+    "User-Agent": "Mozilla/5.0"
+}
+
 from scraper_core import build_app, CATEGORIES
 from auto_collect import load_apps, save_apps, log
 from gen_sitemap import generate as gen_sitemap
