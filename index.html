@@ -150,15 +150,7 @@ nav{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.9);backdrop-f
 /* 광고 */
 .ad-wrap{margin:32px 0;text-align:center}.ad-label{font-size:11px;color:var(--gray-400);margin-bottom:8px}
 /* ── 다운로드 광고 팝업 ── */
-.ad-popup-overlay{position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:2000;display:flex;align-items:center;justify-content:center;animation:fadeIn .2s}
-.ad-popup{background:#fff;border-radius:20px;padding:24px 20px 20px;width:min(360px,92vw);text-align:center}
-.ad-popup-title{font-size:15px;font-weight:700;margin-bottom:4px}
-.ad-popup-sub{font-size:13px;color:var(--gray-400);margin-bottom:14px}
-.ad-popup-ad{min-height:100px;background:var(--gray-50);border-radius:10px;display:flex;align-items:center;justify-content:center;overflow:hidden}
-.ad-popup-progress{height:3px;background:var(--gray-200);border-radius:2px;margin-top:14px;overflow:hidden}
-.ad-popup-bar{height:100%;width:0;background:var(--blue);border-radius:2px;transition:width 2s linear}
-.ad-popup-skip{margin-top:10px;font-size:12px;color:var(--gray-400);cursor:pointer}
-.ad-popup-skip b{color:var(--blue)}
+/* ── 광고 팝업 CSS 제거됨 ── */
 @keyframes fadeIn{from{opacity:0}to{opacity:1}}
 
 /* PC 다운로드 섹션 */
@@ -369,9 +361,9 @@ function showDetail(app, pushState = true) {
   const andOk   = !!andUrl;
   let btns = `
     <a href="${iosOk?iosUrl:'#'}" class="dl-btn btn-ios${iosOk?'':' disabled'}"
-       ${iosOk?`onclick="showAdPopup(event,'${iosUrl}')"`:''} rel="noopener">🍎 App Store</a>
+       ${iosOk?'target="_blank"':''} rel="noopener">🍎 App Store</a>
     <a href="${andOk?andUrl:'#'}" class="dl-btn btn-and${andOk?'':' disabled'}"
-       ${andOk?`onclick="showAdPopup(event,'${andUrl}')"`:''} rel="noopener">🤖 Google Play</a>`;
+       ${andOk?'target="_blank"':''} rel="noopener">🤖 Google Play</a>`;
   document.getElementById('downloadBtns').innerHTML = btns;
 
   /* PC 버전 섹션 — 타입에 따라 다르게 표시 */
@@ -394,7 +386,7 @@ function showDetail(app, pushState = true) {
           <div class="pc-section-title">${title}</div>
           <div class="pc-section-sub">${sub}</div>
         </div>
-        <a href="${app.pcUrl}" class="pc-section-btn" onclick="showAdPopup(event,'${app.pcUrl}')" rel="noopener">${btnText}</a>
+        <a href="${app.pcUrl}" class="pc-section-btn" target="_blank" rel="noopener">${btnText}</a>
       </div>`;
     pcSec.style.display = 'block';
   } else {
@@ -565,44 +557,6 @@ document.addEventListener('click', e => {
 });
 
 /* ───────── 다운로드 광고 팝업 ───────── */
-function showAdPopup(e, destUrl) {
-  e.preventDefault();
-  const overlay = document.createElement('div');
-  overlay.className = 'ad-popup-overlay';
-  overlay.innerHTML = `
-    <div class="ad-popup">
-      <div class="ad-popup-title">잠깐! 광고 후 이동합니다</div>
-      <div class="ad-popup-sub">2초 후 자동으로 이동해요</div>
-      <div class="ad-popup-ad">
-        <ins class="adsbygoogle"
-          style="display:block;width:300px;height:100px"
-          data-ad-client="ca-pub-1328779882408752"
-          data-ad-slot="auto"
-          data-ad-format="auto"
-          data-full-width-responsive="true"></ins>
-      </div>
-      <div class="ad-popup-progress"><div class="ad-popup-bar" id="adBar"></div></div>
-      <div class="ad-popup-skip" onclick="closeAdPopup(this,'${destUrl}')">
-        건너뛰기 → <b>바로 이동</b>
-      </div>
-    </div>`;
-  document.body.appendChild(overlay);
-  try { (adsbygoogle = window.adsbygoogle || []).push({}); } catch(e2) {}
-  requestAnimationFrame(() => {
-    const bar = document.getElementById('adBar');
-    if (bar) bar.style.width = '100%';
-  });
-  overlay._timer = setTimeout(() => {
-    if (document.body.contains(overlay)) document.body.removeChild(overlay);
-    window.open(destUrl, '_blank', 'noopener');
-  }, 2000);
-}
-function closeAdPopup(el, destUrl) {
-  const overlay = el.closest('.ad-popup-overlay');
-  if (overlay) { clearTimeout(overlay._timer); document.body.removeChild(overlay); }
-  window.open(destUrl, '_blank', 'noopener');
-}
-
 document.addEventListener('DOMContentLoaded', () => {
   renderCatBar();
   renderHome();
