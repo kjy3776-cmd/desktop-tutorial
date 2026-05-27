@@ -222,7 +222,6 @@
     {
       "name": "캐시워크",
       "issues": [
-        "iOS URL 불량: 404 앱 없음",
         "설명글 너무 짧음 (34자)"
       ]
     },
@@ -266,13 +265,18 @@
       "name": "식신",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "리디",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 43,
-    "skipped": 17,
+    "total": 44,
+    "skipped": 18,
     "has_issues": 26,
-    "total_issues": 51,
-    "fixed": 3
+    "total_issues": 50,
+    "fixed": 2
   }
 }
