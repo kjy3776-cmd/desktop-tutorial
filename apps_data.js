@@ -1746,7 +1746,7 @@ const APPS = [
     "icon": "https://play-lh.googleusercontent.com/J1zzZf_Clyg51sikuBbfTMD_sGVK64Ki5vyVtn3MmkUUzQ-AxKWq2-WuVDnpkrpai6Icun3wXspttadNAxy4djI",
     "developer": "Devsisters Corporation",
     "desc": "귀여운 쿠키 캐릭터들로 왕국을 건설하는 RPG 게임입니다.",
-    "iosUrl": "https://apps.apple.com/kr/app/id1523634983",
+    "iosUrl": "https://apps.apple.com/kr/app/%EC%BF%A0%ED%82%A4%EB%9F%B0-%ED%82%B9%EB%8D%A4/id1509450845",
     "androidUrl": "https://play.google.com/store/apps/details?id=com.devsisters.ck",
     "pcUrl": "",
     "screenshots": [],
