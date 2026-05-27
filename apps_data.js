@@ -1464,17 +1464,7 @@ const APPS = [
     "slug": "today-expense",
     "pcType": ""
   },
-  {
-    "id": 27,
-    "name": "이환",
-    "cat": "game",
-    "seoDesc": null,
-    "iosUrl": "https://apps.apple.com/kr/app/id6754593077",
-    "androidUrl": "https://play.google.com/store/apps/details?id=com.hottagames.nte",
-    "pcUrl": "https://nte.perfectworld.com/kr/",
-    "pcType": "download",
-    "slug": "neverness-to-everness"
-  },
+
   {
     "id": 28,
     "name": "밀리의 서재",
