@@ -230,12 +230,14 @@ nav a{{font-size:20px;font-weight:700;color:var(--blue);text-decoration:none}}
 .header{{display:flex;gap:20px;align-items:center;margin-bottom:20px}}
 .icon{{width:88px;height:88px;border-radius:20px;object-fit:cover;background:#eee}}
 .app-name{{font-size:26px;font-weight:700}}
-.app-page-title{{
-  font-size:14px;
+.app-page-title{
+  display:block;
+  font-size:15px;
   font-weight:700;
-  color:#111827;
-  margin-top:4px;
-}}
+  color:#6B7280;
+  margin-top:6px;
+  line-height:1.4;
+}
 .app-dev{{color:var(--blue);font-size:14px;margin-top:4px}}
 .btn{{display:inline-flex;align-items:center;gap:8px;padding:14px 20px;border-radius:12px;font-weight:700;color:#fff;text-decoration:none;font-size:15px;transition:opacity .2s}}
 .btn:hover{{opacity:.85}}
