@@ -1,425 +1,221 @@
 # -*- coding: utf-8 -*-
 """
-gen_compare_posts.py — 이너앱 비교·추천 글 자동 생성기
-
-역할:
-  - 하루 1개 앱 비교·추천 SEO 글 생성
-  - /compare/*.html 정적 페이지 생성
-  - /compare/index.html 목록 페이지 갱신
-  - compare_index.json으로 중복 생성 방지
-  - sitemap.xml 재생성 시도
-
-사용:
-  ANTHROPIC_API_KEY=sk-... python gen_compare_posts.py
-  python gen_compare_posts.py --force
-  python gen_compare_posts.py --force --title "카카오톡 vs 텔레그램 비교" --apps "카카오톡,텔레그램" --slug kakaotalk-vs-telegram
+gen_compare_posts.py - compare 글 페이지 생성용 수정본 핵심:
+- 모든 compare 페이지 왼쪽 위 로고는 innerapple.com 홈("/")으로 연결
+- 오른쪽 위 검색창 포함
+- /apps_data.js 검색 연동
 """
+import os, json, random, datetime, requests
 
-import os
-import re
-import sys
-import json
-import html
-import argparse
-import random
-import datetime
-from pathlib import Path
+from auto_collect import load_apps, log
+from gen_static import get_slug
 
-try:
-    import requests
-except Exception:
-    requests = None
-
-try:
-    from gen_sitemap import SITE_URL
-except Exception:
-    SITE_URL = "https://innerapple.com"
-
-BASE_DIR = Path(__file__).resolve().parent
-DATA_JS = BASE_DIR / "apps_data.js"
-LOG_FILE = BASE_DIR / "collect.log"
-COMPARE_DIR = BASE_DIR / "compare"
-INDEX_FILE = BASE_DIR / "compare_index.json"
-STATE_FILE = BASE_DIR / "compare_state.json"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+COMPARE_DIR = os.path.join(BASE_DIR, "compare")
+STATE_FILE = os.path.join(BASE_DIR, "compare_state.json")
 API_URL = "https://api.anthropic.com/v1/messages"
 MODEL = "claude-sonnet-4-20250514"
-DAILY_LIMIT = 1
+SITE_URL = "https://innerapple.com"
 
-CAT_LABELS = {
-    "sns":"소셜·커뮤니티", "entertainment":"엔터테인먼트", "shopping":"쇼핑",
-    "food":"음식·배달", "finance":"금융·재테크", "game":"게임",
-    "productivity":"생산성·도구", "life":"라이프스타일",
-    "education":"교육", "health":"건강·운동", "travel":"여행·지도",
-}
+os.makedirs(COMPARE_DIR, exist_ok=True)
 
-TOPIC_TEMPLATES = [
-    {"cat":"sns", "title":"무료 메신저·SNS 앱 추천 TOP5", "slug":"best-sns-messenger-apps", "intent":"메신저, SNS, 커뮤니티 앱을 고르는 사람"},
-    {"cat":"entertainment", "title":"OTT·영상 스트리밍 앱 비교 추천", "slug":"ott-video-app-comparison", "intent":"영화, 드라마, 영상 시청 앱을 고르는 사람"},
-    {"cat":"productivity", "title":"생산성 앱 추천 TOP5", "slug":"best-productivity-apps", "intent":"메모, 일정, 업무 도구 앱을 찾는 사람"},
-    {"cat":"shopping", "title":"쇼핑 앱 비교 추천", "slug":"shopping-app-comparison", "intent":"온라인 쇼핑 앱을 비교하는 사람"},
-    {"cat":"food", "title":"배달·맛집 앱 비교 추천", "slug":"food-delivery-app-comparison", "intent":"배달, 예약, 맛집 탐색 앱을 찾는 사람"},
-    {"cat":"finance", "title":"금융·재테크 앱 추천 TOP5", "slug":"finance-investment-apps", "intent":"송금, 결제, 투자 앱을 고르는 사람"},
-    {"cat":"game", "title":"인기 모바일 게임 앱 추천", "slug":"best-mobile-game-apps", "intent":"재미있는 모바일 게임을 찾는 사람"},
-    {"cat":"education", "title":"공부·교육 앱 추천 TOP5", "slug":"best-education-apps", "intent":"학습, 영어, 강의 앱을 찾는 사람"},
-    {"cat":"health", "title":"운동·건강관리 앱 추천 TOP5", "slug":"best-health-fitness-apps", "intent":"운동 기록과 건강관리 앱을 찾는 사람"},
-    {"cat":"travel", "title":"여행·지도 앱 비교 추천", "slug":"travel-map-app-comparison", "intent":"여행 예약, 지도, 길찾기 앱을 찾는 사람"},
+TOPICS = [
+    {"slug":"best-sns-messenger-apps","title":"무료 메신저 앱 추천","keywords":["카카오톡","네이버","인스타그램"]},
+    {"slug":"ott-video-app-comparison","title":"OTT 앱 비교 추천","keywords":["넷플릭스","티빙","왓챠"]},
+    {"slug":"shopping-app-comparison","title":"쇼핑 앱 비교 추천","keywords":["쿠팡","무신사","컬리"]},
 ]
 
-SYSTEM_PROMPT = """당신은 한국 앱 큐레이션 사이트 '이너앱'의 전문 에디터입니다.
-앱 비교·추천 글을 작성합니다.
-
-작성 규칙:
-- 1200~1800자 분량
-- 검색 사용자가 실제로 궁금해하는 기준으로 비교
-- 앱별 장점, 아쉬운 점, 추천 대상을 분리해서 설명
-- 과장 표현 금지: 최고, 압도적, 무조건, 완벽 같은 단어 지양
-- 스토어 설명 복붙 금지
-- 실제 사용자가 고르는 데 도움되는 문체
-- 제목, 소제목, 목록을 자연스럽게 포함
-- 결과는 본문 HTML 조각만 출력. html/head/body 태그는 쓰지 말 것
-- h2, h3, p, ul, li 태그만 사용
+SYSTEM_PROMPT = """
+당신은 한국 앱 추천 미디어 '이너앱'의 에디터입니다.
+앱 비교·추천 SEO 글을 작성하세요.
+규칙:
+- 1200~2000자
+- 실제 사용자가 비교하는 느낌
+- 과장 금지
+- 앱별 장단점, 추천 대상, 선택 기준 포함
+- 검색 키워드를 자연스럽게 포함
 """
 
+STYLE_AND_NAV = """
+<style>
+:root{--blue:#1B64DA;--gray-50:#F9FAFB;--gray-200:#E5E7EB;--gray-400:#9CA3AF;--gray-600:#4B5563;--gray-900:#111827}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Arial,'Apple SD Gothic Neo','Malgun Gothic',sans-serif;background:var(--gray-50);color:var(--gray-900);line-height:1.75}
+nav{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.92);backdrop-filter:blur(20px);border-bottom:1px solid var(--gray-200)}
+.nav-inner{max-width:1100px;margin:0 auto;display:flex;align-items:center;height:56px;padding:0 20px;gap:12px}
+.nav-logo{font-size:20px;font-weight:800;color:var(--blue);text-decoration:none;flex-shrink:0}
+.nav-search{flex:1;max-width:360px;position:relative;margin-left:auto}
+.nav-search input{width:100%;padding:8px 36px 8px 14px;border:1.5px solid var(--gray-200);border-radius:999px;font-size:14px;outline:none;background:var(--gray-50)}
+.search-icon{position:absolute;right:12px;top:50%;transform:translateY(-50%);color:var(--gray-400);font-size:15px}
+.search-results{position:absolute;top:calc(100% + 8px);left:0;right:0;background:#fff;border:1px solid var(--gray-200);border-radius:14px;box-shadow:0 8px 24px rgba(0,0,0,.1);z-index:200;max-height:320px;overflow-y:auto;display:none}
+.search-results.show{display:block}
+.search-item{display:flex;align-items:center;gap:12px;padding:10px 14px;cursor:pointer}
+.search-item:hover{background:var(--gray-50)}
+.search-item img{width:36px;height:36px;border-radius:9px;object-fit:cover;background:#eee}
+.search-item-name{font-size:14px;font-weight:700}.search-item-cat{font-size:11px;color:var(--gray-400)}
+.search-empty{padding:20px;text-align:center;color:var(--gray-400);font-size:14px}
+.wrap{max-width:900px;margin:0 auto;padding:36px 20px}
+.back{display:inline-block;margin-bottom:24px;color:var(--blue);font-weight:700;text-decoration:none}
+.hero,.content{background:#fff;border:1px solid var(--gray-200);border-radius:24px;padding:28px;margin-bottom:20px}
+h1{font-size:30px;margin-bottom:10px}.sub{color:var(--gray-600)}
+.app-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:14px;margin-top:22px}
+.app-card{text-decoration:none;color:inherit;border:1px solid var(--gray-200);border-radius:18px;padding:16px;text-align:center;background:#fff}
+.app-card img{width:64px;height:64px;border-radius:16px;object-fit:cover;margin-bottom:8px}
+article{font-size:16px;white-space:normal}
+@media(max-width:600px){.nav-inner{height:52px;padding:0 14px}.nav-logo{font-size:17px}.nav-search{max-width:none}.wrap{padding:24px 14px}.hero,.content{padding:20px}}
+</style>
+"""
 
-def log(msg: str):
-    stamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    line = f"[{stamp}] {msg}"
-    print(line)
-    try:
-        LOG_FILE.write_text((LOG_FILE.read_text(encoding="utf-8") if LOG_FILE.exists() else "") + line + "\n", encoding="utf-8")
-    except Exception:
-        pass
+NAV_HTML = """
+<nav>
+  <div class="nav-inner">
+    <a class="nav-logo" href="/">이너앱.</a>
+    <div class="nav-search">
+      <input id="searchInput" type="search" placeholder="앱 검색...">
+      <span class="search-icon">🔍</span>
+      <div id="searchResults" class="search-results"></div>
+    </div>
+  </div>
+</nav>
+"""
 
+SEARCH_SCRIPT = """
+<script src="/apps_data.js"></script>
+<script>
+const input=document.getElementById('searchInput');
+const results=document.getElementById('searchResults');
+function getSlug(app){return app.slug || String(app.name||'').toLowerCase().replace(/[^\\w\\s-]/g,'').replace(/[\\s_]+/g,'-').replace(/-+/g,'-').replace(/^-|-$/g,'');}
+function renderSearch(q){
+  const apps=(window.APPS||APPS||[]);
+  const query=q.trim().toLowerCase();
+  if(!query){results.classList.remove('show');results.innerHTML='';return;}
+  const matched=apps.filter(a=>(a.name||'').toLowerCase().includes(query)||(a.developer||'').toLowerCase().includes(query)).slice(0,8);
+  results.classList.add('show');
+  if(!matched.length){results.innerHTML='<div class="search-empty">검색 결과가 없어요</div>';return;}
+  results.innerHTML=matched.map(a=>`
+    <div class="search-item" onclick="location.href='/app/${getSlug(a)}.html'">
+      <img src="${a.icon||''}" alt="${a.name}">
+      <div><div class="search-item-name">${a.name}</div><div class="search-item-cat">${a.cat||''}</div></div>
+    </div>`).join('');
+}
+input.addEventListener('input',e=>renderSearch(e.target.value));
+document.addEventListener('click',e=>{if(!e.target.closest('.nav-search'))results.classList.remove('show')});
+</script>
+"""
 
-def load_apps():
-    if not DATA_JS.exists():
-        return []
-    raw = DATA_JS.read_text(encoding="utf-8").strip()
-    if raw.startswith("const APPS"):
-        raw = raw.split("=", 1)[1].strip()
-    raw = raw.rstrip(";").strip()
-    return json.loads(raw)
+def load_state():
+    if os.path.exists(STATE_FILE):
+        return json.load(open(STATE_FILE, encoding="utf-8"))
+    return {"generated": [], "last_date": ""}
 
+def save_state(data):
+    with open(STATE_FILE, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
-def _slug_text(text: str) -> str:
-    s = re.sub(r"[^a-zA-Z0-9가-힣\s-]", "", (text or "").lower()).strip()
-    s = re.sub(r"[\s_]+", "-", s)
-    s = re.sub(r"-+", "-", s).strip("-")
-    return s or "compare-post"
-
-
-def get_slug(app: dict) -> str:
-    if app.get("slug"):
-        return app["slug"]
-    return _slug_text(app.get("name", "")) or f"app-{app.get('id','')}"
-
-
-def load_json(path: Path, default):
-    if path.exists():
-        try:
-            return json.loads(path.read_text(encoding="utf-8"))
-        except Exception:
-            return default
-    return default
-
-
-def save_json(path: Path, data):
-    path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
-
-
-def today() -> str:
-    return datetime.date.today().isoformat()
-
-
-def pick_topic(apps, state):
-    generated = set(state.get("generated_slugs", []))
-    candidates = []
-    for topic in TOPIC_TEMPLATES:
-        cat_apps = [a for a in apps if a.get("cat") == topic["cat"]]
-        if len(cat_apps) >= 2 and topic["slug"] not in generated:
-            candidates.append((topic, cat_apps))
-    if not candidates:
-        for topic in TOPIC_TEMPLATES:
-            cat_apps = [a for a in apps if a.get("cat") == topic["cat"]]
-            if len(cat_apps) >= 2:
-                candidates.append((topic, cat_apps))
-    if not candidates:
-        return {"cat":"all", "title":"인기 앱 추천 TOP5", "slug":"best-popular-apps", "intent":"요즘 많이 쓰는 앱을 찾는 사람"}, apps[:5]
-    topic, cat_apps = random.choice(candidates)
-    ranked = sorted(cat_apps, key=lambda a: (len(a.get("reviews") or []), bool(a.get("seoDesc")), a.get("id",0)), reverse=True)
-    return topic, ranked[:5]
-
-
-def pick_custom_topic(apps, title=None, cat=None, app_names=None, slug=None):
-    selected = []
-    if app_names:
-        wanted = [x.strip().lower() for x in app_names.split(",") if x.strip()]
-        for w in wanted:
-            for a in apps:
-                if w in a.get("name", "").lower() or w in get_slug(a).lower():
-                    if a not in selected:
-                        selected.append(a)
-                    break
-    if not selected and cat:
-        cat_pool = [a for a in apps if a.get("cat") == cat]
-        selected = sorted(cat_pool, key=lambda a: (len(a.get("reviews") or []), bool(a.get("seoDesc")), a.get("id",0)), reverse=True)[:5]
-    if not selected:
-        selected = sorted(apps, key=lambda a: (len(a.get("reviews") or []), bool(a.get("seoDesc")), a.get("id",0)), reverse=True)[:5]
-    if len(selected) < 2:
-        return None, []
-    title = title or f"{CAT_LABELS.get(cat, '인기')} 앱 비교 추천"
-    post_slug = slug or _slug_text(title)
-    topic = {"cat": cat or selected[0].get("cat", "all"), "title": title, "slug": post_slug, "intent": f"{title} 정보를 찾는 사람"}
-    return topic, selected[:5]
-
-
-def fallback_content(title, apps, topic):
-    lis = []
-    for a in apps:
-        desc = html.escape((a.get("seoDesc") or a.get("desc") or "").strip()[:220])
-        lis.append(f"<li><strong>{html.escape(a.get('name',''))}</strong> — {desc}</li>")
-    names = ", ".join(a.get("name", "") for a in apps)
-    return f"""
-<h2>{html.escape(title)} 한눈에 보기</h2>
-<p>{html.escape(names)}를 중심으로 사용 목적, 주요 기능, 설치 환경을 비교했습니다. 이 글은 앱을 고르기 전 빠르게 차이를 확인할 수 있도록 정리한 추천 가이드입니다.</p>
-<h2>추천 앱 요약</h2>
-<ul>{''.join(lis)}</ul>
-<h2>어떤 기준으로 고르면 좋을까?</h2>
-<p>자주 쓰는 기능, 사용 기기, PC 버전 필요 여부, 리뷰에서 반복되는 장단점을 함께 확인하는 것이 좋습니다. 단순 다운로드보다 실제 사용 목적에 맞는 앱을 고르는 것이 중요합니다.</p>
-<h2>추천 대상</h2>
-<p>{html.escape(topic.get('intent','앱을 비교하려는 사용자'))}라면 위 앱들을 먼저 비교해보세요. 각 앱 상세 페이지에서 iOS, Android, PC 지원 여부와 리뷰를 함께 확인할 수 있습니다.</p>
-""".strip()
-
-
-def generate_content(title, apps, topic):
+def generate_compare_content(title, apps):
     api_key = os.environ.get("ANTHROPIC_API_KEY", "")
-    if not api_key or requests is None:
-        return fallback_content(title, apps, topic)
-    app_lines = []
-    for a in apps:
-        app_lines.append(
-            f"- 앱명: {a.get('name','')}\n"
-            f"  카테고리: {CAT_LABELS.get(a.get('cat',''), a.get('cat',''))}\n"
-            f"  개발사: {a.get('developer','')}\n"
-            f"  소개: {(a.get('seoDesc') or a.get('desc') or '')[:350]}\n"
-            f"  iOS 사양: {a.get('spec_ios',{})}\n"
-            f"  Android 사양: {a.get('spec_and',{})}"
-        )
-    prompt = f"""주제: {title}
-검색 의도: {topic.get('intent','앱 비교')}
-비교 대상 앱:
-{chr(10).join(app_lines)}
+    if not api_key:
+        return None
+    prompt = f"주제: {title}\n대상 앱: {', '.join([a['name'] for a in apps])}\n비교·추천 SEO 글 작성."
+    r = requests.post(API_URL, headers={
+        "x-api-key": api_key,
+        "anthropic-version": "2023-06-01",
+        "content-type": "application/json",
+    }, json={
+        "model": MODEL,
+        "max_tokens": 2200,
+        "system": SYSTEM_PROMPT,
+        "messages": [{"role": "user", "content": prompt}],
+    }, timeout=60)
+    if r.status_code == 200:
+        return r.json()["content"][0]["text"].strip()
+    log(f"Claude compare 오류 {r.status_code}: {r.text[:100]}")
+    return None
 
-위 정보를 바탕으로 앱 비교·추천 SEO 글을 작성해주세요.
-"""
-    headers = {"x-api-key": api_key, "anthropic-version": "2023-06-01", "content-type": "application/json"}
-    body = {"model": MODEL, "max_tokens": 2400, "system": SYSTEM_PROMPT, "messages": [{"role":"user", "content": prompt}]}
-    try:
-        r = requests.post(API_URL, headers=headers, json=body, timeout=60)
-        if r.status_code == 200:
-            return r.json()["content"][0]["text"].strip()
-        log(f"⚠️ Claude compare 오류 {r.status_code}: {r.text[:120]}")
-    except Exception as e:
-        log(f"⚠️ Claude compare 요청 실패: {e}")
-    return fallback_content(title, apps, topic)
-
-
-def app_cards(apps):
-    cards = []
-    for a in apps:
-        name = html.escape(a.get("name", ""))
-        dev = html.escape(a.get("developer", ""))
-        icon = html.escape(a.get("icon", ""))
-        cards.append(f"""
-<a class="app-card" href="{SITE_URL}/app/{get_slug(a)}.html">
-  <img src="{icon}" alt="{name} 아이콘" loading="lazy">
-  <strong>{name}</strong>
-  <span>{dev}</span>
-</a>""")
-    return "\n".join(cards)
-
-
-def build_compare_html(title, slug, content, apps, topic):
-    url = f"{SITE_URL}/compare/{slug}.html"
-    desc = f"{title} 기준으로 주요 앱의 장점, 아쉬운 점, 추천 대상을 비교했습니다."
-    faq_json = {"@context":"https://schema.org", "@type":"FAQPage", "mainEntity":[
-        {"@type":"Question", "name":f"{title}에서 어떤 기준을 보면 좋나요?", "acceptedAnswer":{"@type":"Answer", "text":"사용 목적, 지원 플랫폼, PC 버전 여부, 실제 리뷰에서 반복되는 장단점을 함께 확인하는 것이 좋습니다."}},
-        {"@type":"Question", "name":"앱 다운로드는 어디에서 하나요?", "acceptedAnswer":{"@type":"Answer", "text":"각 앱 상세 페이지에서 App Store, Google Play, PC 버전 링크를 확인할 수 있습니다."}}
-    ]}
-    breadcrumb = {"@context":"https://schema.org", "@type":"BreadcrumbList", "itemListElement":[
-        {"@type":"ListItem","position":1,"name":"이너앱","item":SITE_URL + "/"},
-        {"@type":"ListItem","position":2,"name":"앱 비교·분석","item":SITE_URL + "/compare/"},
-        {"@type":"ListItem","position":3,"name":title,"item":url}
-    ]}
+def build_html(title, content, apps, slug):
+    cards = ""
+    for app in apps:
+        cards += f"""
+        <a class="app-card" href="/app/{get_slug(app)}.html">
+            <img src="{app.get('icon','')}" alt="{app['name']}">
+            <div>{app['name']}</div>
+        </a>"""
+    article = content.replace("\n", "<br><br>")
     return f"""<!DOCTYPE html>
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{html.escape(title)} | 이너앱</title>
-<meta name="description" content="{html.escape(desc)}">
-<meta name="robots" content="index, follow, max-image-preview:large">
-<link rel="canonical" href="{url}">
-<meta property="og:type" content="article">
-<meta property="og:site_name" content="이너앱 InnerApp">
-<meta property="og:title" content="{html.escape(title)} | 이너앱">
-<meta property="og:description" content="{html.escape(desc)}">
-<meta property="og:url" content="{url}">
-<script type="application/ld+json">{json.dumps(faq_json, ensure_ascii=False)}</script>
-<script type="application/ld+json">{json.dumps(breadcrumb, ensure_ascii=False)}</script>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Pretendard:wght@400;500;600;700&display=swap" rel="stylesheet">
-<style>
-:root{{--blue:#1B64DA;--green:#00C471;--gray-50:#F9FAFB;--gray-200:#E5E7EB;--gray-500:#6B7280;--gray-900:#111827}}
-*{{box-sizing:border-box;margin:0;padding:0}}
-body{{font-family:'Pretendard',sans-serif;background:var(--gray-50);color:var(--gray-900);line-height:1.75}}
-nav{{height:56px;background:#fff;border-bottom:1px solid var(--gray-200);display:flex;align-items:center;padding:0 20px}}
-nav a{{font-weight:700;color:var(--blue);text-decoration:none;font-size:20px}}
-.page{{max-width:920px;margin:0 auto;padding:28px 20px 60px}}
-.breadcrumb{{font-size:13px;margin-bottom:18px;color:var(--gray-500)}}
-.breadcrumb a{{color:var(--blue);text-decoration:none}}
-.hero{{background:#fff;border:1px solid var(--gray-200);border-radius:24px;padding:28px;margin-bottom:20px}}
-h1{{font-size:30px;letter-spacing:-.5px;margin-bottom:10px}}
-.lead{{color:var(--gray-500);font-size:15px}}
-.app-grid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px;margin:22px 0}}
-.app-card{{background:#fff;border:1px solid var(--gray-200);border-radius:18px;padding:16px;text-decoration:none;color:var(--gray-900);display:flex;flex-direction:column;align-items:center;text-align:center;gap:7px;transition:all .18s}}
-.app-card:hover{{transform:translateY(-3px);box-shadow:0 8px 20px rgba(0,0,0,.07)}}
-.app-card img{{width:64px;height:64px;border-radius:16px;object-fit:cover;background:#eee}}
-.app-card span{{font-size:12px;color:var(--gray-500)}}
-article{{background:#fff;border:1px solid var(--gray-200);border-radius:24px;padding:28px}}
-article h2{{font-size:22px;margin:28px 0 10px}}
-article h2:first-child{{margin-top:0}}
-article h3{{font-size:18px;margin:22px 0 8px}}
-article p{{margin:10px 0;color:#374151}}
-article ul{{padding-left:22px;margin:12px 0}}
-article li{{margin:8px 0}}
-.cta{{margin-top:22px;padding:18px;border-radius:18px;background:#EBF1FD}}
-.cta a{{color:var(--blue);font-weight:700;text-decoration:none}}
-footer{{max-width:920px;margin:0 auto;padding:22px 20px;border-top:1px solid var(--gray-200);font-size:13px;color:var(--gray-500)}}
-</style>
+<title>{title} | 이너앱</title>
+<meta name="description" content="{title} 정보를 이너앱에서 비교해보세요.">
+<link rel="canonical" href="{SITE_URL}/compare/{slug}.html">
+{STYLE_AND_NAV}
 </head>
 <body>
-<nav><a href="{SITE_URL}/">이너앱<span style="color:var(--green)">.</span></a></nav>
-<div class="page">
-  <div class="breadcrumb"><a href="{SITE_URL}/">홈</a> › <a href="{SITE_URL}/compare/">앱 비교·분석</a> › {html.escape(title)}</div>
-  <section class="hero"><h1>{html.escape(title)}</h1><p class="lead">{html.escape(desc)}</p></section>
-  <section class="app-grid">{app_cards(apps)}</section>
-  <article>{content}</article>
-  <div class="cta">앱별 다운로드 링크와 상세 사양은 위 앱 카드 또는 <a href="{SITE_URL}/">이너앱 홈</a>에서 확인할 수 있습니다.</div>
-</div>
-<footer>이너앱 · 앱 비교·분석 · {html.escape(', '.join(a.get('name','') for a in apps))}</footer>
-</body>
-</html>"""
-
-
-def write_compare_index(items):
-    COMPARE_DIR.mkdir(exist_ok=True)
-    sorted_items = sorted(items, key=lambda x: x.get("created", ""), reverse=True)
-    cards = []
-    for item in sorted_items:
-        cards.append(f"""
-<a class="card" href="{SITE_URL}/compare/{html.escape(item['slug'])}.html">
-  <span>{html.escape(CAT_LABELS.get(item.get('cat',''), item.get('cat','앱')))}</span>
-  <h2>{html.escape(item['title'])}</h2>
-  <p>{html.escape(item.get('description',''))}</p>
-</a>""")
-    body_cards = "\n".join(cards) or "<div class='empty'><strong>아직 생성된 비교·분석 글이 없습니다.</strong><p>GitHub Actions에서 compare 워크플로우를 실행하면 이곳에 글 목록이 자동으로 표시됩니다.</p></div>"
-    index_html = f"""<!DOCTYPE html>
-<html lang="ko">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>앱 비교·분석 | 이너앱</title>
-<meta name="description" content="인기 앱 추천, 앱 비교, 카테고리별 앱 분석 글을 모아 확인하세요.">
-<meta name="robots" content="index, follow, max-image-preview:large">
-<link rel="canonical" href="{SITE_URL}/compare/">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Pretendard:wght@400;600;700&display=swap" rel="stylesheet">
-<style>
-:root{{--blue:#1B64DA;--green:#00C471;--gray-50:#F9FAFB;--gray-200:#E5E7EB;--gray-500:#6B7280;--gray-900:#111827}}
-*{{box-sizing:border-box;margin:0;padding:0}}
-body{{font-family:'Pretendard',sans-serif;background:var(--gray-50);color:var(--gray-900);line-height:1.65}}
-nav{{height:56px;background:#fff;border-bottom:1px solid var(--gray-200);display:flex;align-items:center;padding:0 20px}}
-nav a{{font-weight:700;color:var(--blue);text-decoration:none;font-size:20px}}
-.page{{max-width:1000px;margin:0 auto;padding:34px 20px}}
-.hero{{background:#fff;border:1px solid var(--gray-200);border-radius:24px;padding:28px;margin-bottom:22px}}
-h1{{font-size:32px;letter-spacing:-.6px;margin-bottom:8px}}
-.sub{{color:var(--gray-500)}}
-.grid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px}}
-.card{{display:block;background:#fff;border:1px solid var(--gray-200);border-radius:22px;padding:22px;text-decoration:none;color:var(--gray-900);transition:all .18s}}
-.card:hover{{transform:translateY(-3px);box-shadow:0 8px 20px rgba(0,0,0,.07)}}
-.card span{{font-size:12px;font-weight:700;color:var(--blue)}}
-.card h2{{font-size:19px;margin:8px 0}}
-.card p{{font-size:14px;color:var(--gray-500)}}
-.empty{{background:#fff;border:1px solid var(--gray-200);border-radius:22px;padding:24px;color:var(--gray-500)}}
-.empty strong{{display:block;color:var(--gray-900);font-size:18px;margin-bottom:8px}}
-</style>
-</head>
-<body>
-<nav><a href="{SITE_URL}/">이너앱<span style="color:var(--green)">.</span></a></nav>
-<main class="page">
-  <section class="hero"><h1>앱 비교·분석</h1><p class="sub">인기 앱 추천, 카테고리별 비교, 다운로드 전 확인할 내용을 모았습니다.</p></section>
-  <div class="grid">{body_cards}</div>
+{NAV_HTML}
+<main class="wrap">
+<a class="back" href="/compare/">← 앱 비교·분석으로 돌아가기</a>
+<section class="hero">
+<h1>{title}</h1>
+<p class="sub">앱별 특징과 추천 대상을 비교해 정리했습니다.</p>
+<div class="app-grid">{cards}</div>
+</section>
+<section class="content">
+<article>{article}</article>
+</section>
 </main>
+{SEARCH_SCRIPT}
 </body>
 </html>"""
-    (COMPARE_DIR / "index.html").write_text(index_html, encoding="utf-8")
 
-
-def run(force=False, title=None, cat=None, app_names=None, slug=None):
-    COMPARE_DIR.mkdir(exist_ok=True)
-    state = load_json(STATE_FILE, {"generated_slugs": [], "daily_count": {}})
-    index = load_json(INDEX_FILE, [])
-    current_count = state.get("daily_count", {}).get(today(), 0)
-    if current_count >= DAILY_LIMIT and not force:
-        log(f"ℹ️ 오늘 compare 글 이미 {current_count}개 생성됨 — 하루 상한({DAILY_LIMIT}) 유지")
-        write_compare_index(index)
-        return 0
+def run(force=False, title=None, slug=None, app_names=None):
     apps = load_apps()
-    if len(apps) < 2:
-        log("⚠️ compare 생성에는 앱이 최소 2개 필요합니다.")
-        write_compare_index(index)
-        return 0
-    if title or cat or app_names or slug:
-        topic, selected = pick_custom_topic(apps, title=title, cat=cat, app_names=app_names, slug=slug)
-        if not topic:
-            log("⚠️ 수동 compare 생성에는 매칭되는 앱이 최소 2개 필요합니다.")
-            write_compare_index(index)
-            return 0
-    else:
-        topic, selected = pick_topic(apps, state)
-    post_slug = topic["slug"]
-    existing_slugs = {i.get("slug") for i in index}
-    if post_slug in existing_slugs:
-        post_slug = f"{post_slug}-{today()}"
-    title = topic["title"]
-    content = generate_content(title, selected, topic)
-    out = COMPARE_DIR / f"{post_slug}.html"
-    out.write_text(build_compare_html(title, post_slug, content, selected, topic), encoding="utf-8")
-    item = {"slug": post_slug, "title": title, "cat": topic.get("cat", "all"), "description": f"{title} 기준으로 주요 앱의 장점, 아쉬운 점, 추천 대상을 비교했습니다.", "apps": [get_slug(a) for a in selected], "appNames": [a.get("name", "") for a in selected], "created": today(), "url": f"{SITE_URL}/compare/{post_slug}.html"}
-    index.append(item)
-    save_json(INDEX_FILE, index)
-    write_compare_index(index)
-    state.setdefault("generated_slugs", []).append(topic["slug"])
-    state.setdefault("daily_count", {})[today()] = current_count + 1
-    state["last_generated"] = today()
-    save_json(STATE_FILE, state)
-    try:
-        from gen_static import update_sitemap
-        n = update_sitemap(apps)
-        log(f"🗺 compare 포함 sitemap.xml 재생성 — {n}개 URL")
-    except Exception as e:
-        log(f"⚠️ compare sitemap 반영 실패: {e}")
-    log(f"🧠 compare 글 생성 완료: {title} → /compare/{post_slug}.html")
-    return 1
+    state = load_state()
+    today = datetime.date.today().isoformat()
+    if not force and state.get("last_date") == today:
+        log("오늘 compare 글 이미 생성됨")
+        return
 
+    if title and slug and app_names:
+        topic = {"title": title, "slug": slug, "keywords": [x.strip() for x in app_names.split(",") if x.strip()]}
+    else:
+        unused = [t for t in TOPICS if t["slug"] not in state.get("generated", [])]
+        if not unused:
+            state["generated"] = []
+            unused = TOPICS
+        topic = random.choice(unused)
+
+    selected = []
+    for keyword in topic["keywords"]:
+        for app in apps:
+            if keyword.lower() in app.get("name","").lower():
+                selected.append(app); break
+
+    if not selected:
+        log("compare 앱 매칭 실패")
+        return
+
+    content = generate_compare_content(topic["title"], selected)
+    if not content:
+        content = f"{topic['title']} 비교 글입니다. " + ", ".join([a["name"] for a in selected]) + "의 특징과 다운로드 정보를 확인해보세요."
+
+    html = build_html(topic["title"], content, selected, topic["slug"])
+    out = os.path.join(COMPARE_DIR, f"{topic['slug']}.html")
+    with open(out, "w", encoding="utf-8") as f:
+        f.write(html)
+
+    if topic["slug"] not in state.get("generated", []):
+        state.setdefault("generated", []).append(topic["slug"])
+    state["last_date"] = today
+    save_state(state)
+    log(f"compare 글 생성 완료: {topic['title']}")
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="InnerApp compare post generator")
-    parser.add_argument("--force", action="store_true", help="오늘 1개 제한을 무시하고 생성")
-    parser.add_argument("--title", default="", help="수동 생성할 compare 글 제목")
-    parser.add_argument("--cat", default="", help="카테고리 코드 예: sns, entertainment, productivity")
-    parser.add_argument("--apps", default="", help="비교할 앱명 또는 slug를 콤마로 입력")
-    parser.add_argument("--slug", default="", help="생성 파일 slug")
-    args = parser.parse_args()
-    run(force=args.force, title=args.title.strip() or None, cat=args.cat.strip() or None, app_names=args.apps.strip() or None, slug=args.slug.strip() or None)
+    import argparse
+    p = argparse.ArgumentParser()
+    p.add_argument("--force", action="store_true")
+    p.add_argument("--title")
+    p.add_argument("--slug")
+    p.add_argument("--apps")
+    args = p.parse_args()
+    run(force=args.force, title=args.title, slug=args.slug, app_names=args.apps)
