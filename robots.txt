@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
+Allow: /compare/
 
 # 네이버 검색로봇
 User-agent: Yeti

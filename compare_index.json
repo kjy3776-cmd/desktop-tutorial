@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "slug": "best-sns-messenger-apps",
+    "title": "무료 메신저 앱 추천 TOP5",
+    "cat": "sns",
+    "description": "무료 메신저 앱 추천 TOP5 기준으로 주요 앱의 장점, 아쉬운 점, 추천 대상을 비교했습니다.",
+    "apps": [
+      "discord",
+      "facebook",
+      "instagram",
+      "naver",
+      "kakaotalk"
+    ],
+    "appNames": [
+      "디스코드",
+      "페이스북",
+      "인스타그램",
+      "네이버",
+      "카카오톡"
+    ],
+    "created": "2026-05-28",
+    "url": "https://innerapple.com/compare/best-sns-messenger-apps.html"
+  }
+]
