@@ -281,11 +281,16 @@
         "안드로이드 사양 누락",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "국세청 홈택스",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 46,
-    "skipped": 19,
+    "total": 47,
+    "skipped": 20,
     "has_issues": 27,
     "total_issues": 51,
     "fixed": 1
