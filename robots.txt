@@ -13,4 +13,4 @@ Allow: /
 User-agent: Daumoa
 Allow: /
 
-Sitemap: https://innerapp.com/sitemap.xml
+Sitemap: https://innerapple.com/sitemap.xml

@@ -29,6 +29,8 @@ from gen_sitemap import SITE_URL
 BASE_DIR  = os.path.dirname(os.path.abspath(__file__))
 APP_DIR   = os.path.join(BASE_DIR, "app")
 CAT_DIR   = os.path.join(BASE_DIR, "category")
+COMPARE_DIR = os.path.join(BASE_DIR, "compare")
+COMPARE_INDEX = os.path.join(BASE_DIR, "compare_index.json")
 SITEMAP   = os.path.join(BASE_DIR, "sitemap.xml")
 
 CAT_LABELS = {
@@ -58,7 +60,59 @@ def get_slug(app: dict) -> str:
     return s or f"app-{app.get('id','')}"
 
 
-def app_html(app: dict) -> str:
+
+
+def _load_compare_posts():
+    # compare_index.json -> list
+    if not os.path.exists(COMPARE_INDEX):
+        return []
+    try:
+        return json.load(open(COMPARE_INDEX, encoding="utf-8"))
+    except Exception:
+        return []
+
+
+def _related_apps_html(app: dict, apps: list, max_count: int = 6) -> str:
+    # 같은 카테고리 앱 내부링크
+    if not apps:
+        return ""
+    slug = get_slug(app)
+    related = [a for a in apps if a.get("cat") == app.get("cat") and get_slug(a) != slug][:max_count]
+    if not related:
+        return ""
+    items = ""
+    for a in related:
+        items += f'''<a class="rel-card" href="{SITE_URL}/app/{get_slug(a)}.html">
+  <img src="{_esc(a.get('icon',''))}" alt="{_esc(a.get('name',''))} 아이콘" loading="lazy">
+  <span>{_esc(a.get('name',''))}</span>
+</a>'''
+    return f'''<div class="card"><h2>🔗 같은 카테고리 추천 앱</h2><div class="rel-grid">{items}</div></div>'''
+
+
+def _compare_links_html(app: dict, max_count: int = 4) -> str:
+    # 앱 상세 <-> compare 글 내부링크
+    posts = _load_compare_posts()
+    if not posts:
+        return ""
+    app_slug = get_slug(app)
+    name = app.get("name", "")
+    matched = []
+    for p in posts:
+        if app_slug in (p.get("apps") or []) or name in (p.get("appNames") or []):
+            matched.append(p)
+    if not matched:
+        matched = [p for p in posts if p.get("cat") == app.get("cat")]
+    matched = matched[:max_count]
+    if not matched:
+        return ""
+    items = "".join(
+        f'''<a class="compare-link" href="{SITE_URL}/compare/{_esc(p.get('slug',''))}.html">{_esc(p.get('title','앱 비교·분석'))}</a>'''
+        for p in matched
+    )
+    return f'''<div class="card"><h2>🧠 관련 앱 비교·분석</h2><div class="compare-list">{items}</div></div>'''
+
+
+def app_html(app: dict, all_apps=None) -> str:
     slug     = get_slug(app)
     name     = _esc(app["name"])
     cat_label= _esc(CAT_LABELS.get(app.get("cat",""), app.get("cat","")))
@@ -132,6 +186,8 @@ def app_html(app: dict) -> str:
 
     spec_ios = app.get("spec_ios", {})
     spec_and = app.get("spec_and", {})
+    related_apps_section = _related_apps_html(app, all_apps or [])
+    compare_links_section = _compare_links_html(app)
 
     return f"""<!DOCTYPE html>
 <html lang="ko">
@@ -199,6 +255,11 @@ h2{{font-size:17px;margin-bottom:14px}}
 .stars{{color:#FFB800;font-size:12px;margin-left:6px}}
 footer{{max-width:800px;margin:32px auto 0;padding:20px;border-top:1px solid var(--gray-200);font-size:13px;color:var(--gray-600)}}
 footer a{{color:var(--blue)}}
+.rel-grid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:12px}}
+.rel-card{{display:flex;flex-direction:column;align-items:center;gap:8px;text-align:center;text-decoration:none;color:var(--gray-900);background:var(--gray-50);border:1px solid var(--gray-200);border-radius:14px;padding:12px;font-size:13px;font-weight:700}}
+.rel-card img{{width:52px;height:52px;border-radius:12px;object-fit:cover}}
+.compare-list{{display:flex;flex-direction:column;gap:8px}}
+.compare-link{{display:block;padding:12px 14px;background:#EBF1FD;border-radius:12px;color:var(--blue);font-weight:700;text-decoration:none;font-size:14px}}
 </style>
 </head>
 <body>
@@ -236,6 +297,8 @@ footer a{{color:var(--blue)}}
   </div>
 
   {"<div class='card'><h2>💬 사용자 리뷰</h2>" + reviews_html + "</div>" if reviews_html else ""}
+  {compare_links_section}
+  {related_apps_section}
 </div>
 
 <footer>
@@ -317,6 +380,13 @@ def update_sitemap(apps: list):
     for c in cats:
         lines.append(u(f"{SITE_URL}/category/{c}.html", "0.8"))
 
+    # compare 인덱스 + 비교·추천 정적 페이지
+    compare_posts = _load_compare_posts()
+    lines.append(u(f"{SITE_URL}/compare/", "0.85", "daily"))
+    for p in compare_posts:
+        if p.get("slug"):
+            lines.append(u(f"{SITE_URL}/compare/{p['slug']}.html", "0.75", "weekly"))
+
     # 앱 정적 페이지 + SPA slug URL
     for a in apps:
         slug = get_slug(a)
@@ -338,6 +408,7 @@ def run(new_only=False):
 
     os.makedirs(APP_DIR, exist_ok=True)
     os.makedirs(CAT_DIR, exist_ok=True)
+    os.makedirs(COMPARE_DIR, exist_ok=True)
 
     apps = load_apps()
     cats = {}
@@ -349,7 +420,7 @@ def run(new_only=False):
         if new_only and os.path.exists(path):
             cats.setdefault(app["cat"], []).append(app)
             continue
-        html = app_html(app)
+        html = app_html(app, apps)
         with open(path, "w", encoding="utf-8") as f:
             f.write(html)
         cats.setdefault(app["cat"], []).append(app)
@@ -360,6 +431,13 @@ def run(new_only=False):
         path = os.path.join(CAT_DIR, f"{cat}.html")
         with open(path, "w", encoding="utf-8") as f:
             f.write(category_html(cat, cat_apps))
+
+    # compare index 보장
+    try:
+        from gen_compare_posts import write_compare_index, load_json, INDEX_FILE
+        write_compare_index(load_json(INDEX_FILE, []))
+    except Exception as e:
+        log(f"⚠️ compare index 생성 스킵: {e}")
 
     # 사이트맵 갱신
     n = update_sitemap(apps)

@@ -155,6 +155,12 @@ def run(dry_run=False):
             log("📄 정적 HTML 생성 완료")
         except Exception as e:
             log(f"⚠️ 정적 HTML 생성 실패: {e}")
+        try:
+            from gen_compare_posts import run as gen_compare
+            gen_compare(force=False)
+            log("🧠 compare 글 생성 체크 완료")
+        except Exception as e:
+            log(f"⚠️ compare 글 생성 실패: {e}")
     elif dry_run:
         log(f"🔍 [dry-run] {len(added)}개 수집 성공 (파일 미저장)")
 

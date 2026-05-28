@@ -1,607 +1,613 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://innerapp.com/</loc>
+    <loc>https://innerapple.com/</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/category/education.html</loc>
+    <loc>https://innerapple.com/compare/</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://innerapple.com/category/education.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/category/entertainment.html</loc>
+    <loc>https://innerapple.com/category/entertainment.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/category/finance.html</loc>
+    <loc>https://innerapple.com/category/finance.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/category/food.html</loc>
+    <loc>https://innerapple.com/category/food.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/category/game.html</loc>
+    <loc>https://innerapple.com/category/game.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/category/health.html</loc>
+    <loc>https://innerapple.com/category/health.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/category/life.html</loc>
+    <loc>https://innerapple.com/category/life.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/category/productivity.html</loc>
+    <loc>https://innerapple.com/category/productivity.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/category/shopping.html</loc>
+    <loc>https://innerapple.com/category/shopping.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/category/sns.html</loc>
+    <loc>https://innerapple.com/category/sns.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/kakaotalk.html</loc>
+    <loc>https://innerapple.com/app/kakaotalk.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=kakaotalk</loc>
+    <loc>https://innerapple.com/?app=kakaotalk</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/naver.html</loc>
+    <loc>https://innerapple.com/app/naver.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=naver</loc>
+    <loc>https://innerapple.com/?app=naver</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/instagram.html</loc>
+    <loc>https://innerapple.com/app/instagram.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=instagram</loc>
+    <loc>https://innerapple.com/?app=instagram</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/youtube.html</loc>
+    <loc>https://innerapple.com/app/youtube.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=youtube</loc>
+    <loc>https://innerapple.com/?app=youtube</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/netflix.html</loc>
+    <loc>https://innerapple.com/app/netflix.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=netflix</loc>
+    <loc>https://innerapple.com/?app=netflix</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/tving.html</loc>
+    <loc>https://innerapple.com/app/tving.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=tving</loc>
+    <loc>https://innerapple.com/?app=tving</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/watcha.html</loc>
+    <loc>https://innerapple.com/app/watcha.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=watcha</loc>
+    <loc>https://innerapple.com/?app=watcha</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/coupang.html</loc>
+    <loc>https://innerapple.com/app/coupang.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=coupang</loc>
+    <loc>https://innerapple.com/?app=coupang</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/daangn.html</loc>
+    <loc>https://innerapple.com/app/daangn.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=daangn</loc>
+    <loc>https://innerapple.com/?app=daangn</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/bunjang.html</loc>
+    <loc>https://innerapple.com/app/bunjang.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=bunjang</loc>
+    <loc>https://innerapple.com/?app=bunjang</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/musinsa.html</loc>
+    <loc>https://innerapple.com/app/musinsa.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=musinsa</loc>
+    <loc>https://innerapple.com/?app=musinsa</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/ohouse.html</loc>
+    <loc>https://innerapple.com/app/ohouse.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=ohouse</loc>
+    <loc>https://innerapple.com/?app=ohouse</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/29cm.html</loc>
+    <loc>https://innerapple.com/app/29cm.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=29cm</loc>
+    <loc>https://innerapple.com/?app=29cm</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/ably.html</loc>
+    <loc>https://innerapple.com/app/ably.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=ably</loc>
+    <loc>https://innerapple.com/?app=ably</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/oliveyoung.html</loc>
+    <loc>https://innerapple.com/app/oliveyoung.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=oliveyoung</loc>
+    <loc>https://innerapple.com/?app=oliveyoung</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/kurly.html</loc>
+    <loc>https://innerapple.com/app/kurly.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=kurly</loc>
+    <loc>https://innerapple.com/?app=kurly</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/baemin.html</loc>
+    <loc>https://innerapple.com/app/baemin.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=baemin</loc>
+    <loc>https://innerapple.com/?app=baemin</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/yogiyo.html</loc>
+    <loc>https://innerapple.com/app/yogiyo.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=yogiyo</loc>
+    <loc>https://innerapple.com/?app=yogiyo</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/coupang-eats.html</loc>
+    <loc>https://innerapple.com/app/coupang-eats.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=coupang-eats</loc>
+    <loc>https://innerapple.com/?app=coupang-eats</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/toss.html</loc>
+    <loc>https://innerapple.com/app/toss.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=toss</loc>
+    <loc>https://innerapple.com/?app=toss</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/kakaopay.html</loc>
+    <loc>https://innerapple.com/app/kakaopay.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=kakaopay</loc>
+    <loc>https://innerapple.com/?app=kakaopay</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/naverpay.html</loc>
+    <loc>https://innerapple.com/app/naverpay.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=naverpay</loc>
+    <loc>https://innerapple.com/?app=naverpay</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/google-drive.html</loc>
+    <loc>https://innerapple.com/app/google-drive.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=google-drive</loc>
+    <loc>https://innerapple.com/?app=google-drive</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/samsung-health.html</loc>
+    <loc>https://innerapple.com/app/samsung-health.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=samsung-health</loc>
+    <loc>https://innerapple.com/?app=samsung-health</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/today-expense.html</loc>
+    <loc>https://innerapple.com/app/kthdd.household_account_book.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=today-expense</loc>
+    <loc>https://innerapple.com/?app=kthdd.household_account_book</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/millie.html</loc>
+    <loc>https://innerapple.com/app/millie.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=millie</loc>
+    <loc>https://innerapple.com/?app=millie</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/brawl-stars.html</loc>
+    <loc>https://innerapple.com/app/brawl-stars.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=brawl-stars</loc>
+    <loc>https://innerapple.com/?app=brawl-stars</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/duolingo.html</loc>
+    <loc>https://innerapple.com/app/duolingo.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=duolingo</loc>
+    <loc>https://innerapple.com/?app=duolingo</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/chatgpt.html</loc>
+    <loc>https://innerapple.com/app/chatgpt.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=chatgpt</loc>
+    <loc>https://innerapple.com/?app=chatgpt</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/melon.html</loc>
+    <loc>https://innerapple.com/app/melon.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=melon</loc>
+    <loc>https://innerapple.com/?app=melon</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/minecraft.html</loc>
+    <loc>https://innerapple.com/app/minecraft.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=minecraft</loc>
+    <loc>https://innerapple.com/?app=minecraft</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/project-sekai.html</loc>
+    <loc>https://innerapple.com/app/project-sekai.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=project-sekai</loc>
+    <loc>https://innerapple.com/?app=project-sekai</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/notion.html</loc>
+    <loc>https://innerapple.com/app/notion.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=notion</loc>
+    <loc>https://innerapple.com/?app=notion</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/cookie-run-kingdom.html</loc>
+    <loc>https://innerapple.com/app/cookie-run-kingdom.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=cookie-run-kingdom</loc>
+    <loc>https://innerapple.com/?app=cookie-run-kingdom</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/evernote.html</loc>
+    <loc>https://innerapple.com/app/evernote.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=evernote</loc>
+    <loc>https://innerapple.com/?app=evernote</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/cashwalk.html</loc>
+    <loc>https://innerapple.com/app/cashwalk.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=cashwalk</loc>
+    <loc>https://innerapple.com/?app=cashwalk</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/slack.html</loc>
+    <loc>https://innerapple.com/app/slack.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=slack</loc>
+    <loc>https://innerapple.com/?app=slack</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/valorant-mobile.html</loc>
+    <loc>https://innerapple.com/app/valorant-mobile.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=valorant-mobile</loc>
+    <loc>https://innerapple.com/?app=valorant-mobile</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/disney-plus.html</loc>
+    <loc>https://innerapple.com/app/disney-plus.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=disney-plus</loc>
+    <loc>https://innerapple.com/?app=disney-plus</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/facebook.html</loc>
+    <loc>https://innerapple.com/app/facebook.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=facebook</loc>
+    <loc>https://innerapple.com/?app=facebook</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/11st.html</loc>
+    <loc>https://innerapple.com/app/11st.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=11st</loc>
+    <loc>https://innerapple.com/?app=11st</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/discord.html</loc>
+    <loc>https://innerapple.com/app/discord.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=discord</loc>
+    <loc>https://innerapple.com/?app=discord</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/sikshin.html</loc>
+    <loc>https://innerapple.com/app/sikshin.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=sikshin</loc>
+    <loc>https://innerapple.com/?app=sikshin</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/ridi.html</loc>
+    <loc>https://innerapple.com/app/ridi.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=ridi</loc>
+    <loc>https://innerapple.com/?app=ridi</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/app/youtube-music.html</loc>
+    <loc>https://innerapple.com/app/youtube-music.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://innerapp.com/?app=youtube-music</loc>
+    <loc>https://innerapple.com/?app=youtube-music</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
