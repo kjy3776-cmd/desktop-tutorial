@@ -1,0 +1,69 @@
+name: Write Compare Post Now
+
+on:
+  workflow_dispatch:
+    inputs:
+      title:
+        description: '비교글 제목 예: 카카오톡 vs 텔레그램 비교'
+        required: false
+        type: string
+      category:
+        description: '카테고리 코드 예: sns, entertainment, productivity, shopping, finance, game'
+        required: false
+        type: string
+      apps:
+        description: '비교할 앱명/slug 콤마 구분 예: 카카오톡,텔레그램,디스코드'
+        required: false
+        type: string
+      slug:
+        description: 'URL 파일명 예: kakaotalk-vs-telegram'
+        required: false
+        type: string
+      force:
+        description: '오늘 이미 생성했어도 강제 생성'
+        required: true
+        default: true
+        type: boolean
+
+jobs:
+  write-compare-post:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate compare post
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          INPUT_TITLE: ${{ inputs.title }}
+          INPUT_CATEGORY: ${{ inputs.category }}
+          INPUT_APPS: ${{ inputs.apps }}
+          INPUT_SLUG: ${{ inputs.slug }}
+          INPUT_FORCE: ${{ inputs.force }}
+        run: |
+          ARGS=""
+          if [ "$INPUT_FORCE" = "true" ]; then ARGS="$ARGS --force"; fi
+          if [ -n "$INPUT_TITLE" ]; then ARGS="$ARGS --title \"$INPUT_TITLE\""; fi
+          if [ -n "$INPUT_CATEGORY" ]; then ARGS="$ARGS --cat \"$INPUT_CATEGORY\""; fi
+          if [ -n "$INPUT_APPS" ]; then ARGS="$ARGS --apps \"$INPUT_APPS\""; fi
+          if [ -n "$INPUT_SLUG" ]; then ARGS="$ARGS --slug \"$INPUT_SLUG\""; fi
+          eval "python gen_compare_posts.py $ARGS"
+
+      - name: Commit and push changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git diff --cached --quiet || git commit -m "Write compare post"
+          git push
