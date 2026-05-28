@@ -73,7 +73,6 @@
     {
       "name": "29CM",
       "issues": [
-        "구글플레이 URL 불량: 404 앱 없음",
         "안드로이드 사양 누락",
         "리뷰 없음"
       ]
@@ -155,7 +154,7 @@
       "skipped": true
     },
     {
-      "name": "오늘의지출",
+      "name": "쉬운가계부",
       "issues": [],
       "skipped": true
     },
@@ -222,7 +221,6 @@
     {
       "name": "캐시워크",
       "issues": [
-        "iOS URL 불량: 404 앱 없음",
         "설명글 너무 짧음 (34자)"
       ]
     },
@@ -275,13 +273,21 @@
       "name": "유튜브 뮤직",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "정부24",
+      "issues": [
+        "구글플레이 URL 불량: URL 없음",
+        "안드로이드 사양 누락",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 45,
+    "total": 46,
     "skipped": 19,
-    "has_issues": 26,
-    "total_issues": 50,
-    "fixed": 2
+    "has_issues": 27,
+    "total_issues": 51,
+    "fixed": 1
   }
 }

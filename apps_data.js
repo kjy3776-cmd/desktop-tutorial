@@ -3157,5 +3157,42 @@ const APPS = [
     "fallback": "📱",
     "pcType": "web",
     "seoDesc": "구글에서 만든 유튜브 뮤직 다운로드하면 기존 음원 서비스에서 들을 수 없는 라이브 영상과 커버곡까지 한 번에 감상할 수 있어요. 운동할 때나 집중이 필요한 순간에 맞는 플레이리스트를 자동으로 추천해주고, 내 취향 기반 맞춤 믹스까지 제공해서 음악 스트리밍 앱 중에서도 특별한 경험을 선사합니다."
+  },
+  {
+    "id": 48,
+    "name": "정부24",
+    "slug": "정부24",
+    "cat": "finance",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/09/ad/3509adc7-c063-0a79-8a8a-ade10f38b82f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+    "developer": "Ministry of the Interior and Safety",
+    "desc": "1. 서비스  - 민원신청은 행정기관 방문 없이 언제, 어디서나 인터넷을 통해 필요한 민원을 안내받고 열람·신청·발급하는 서비스입니다. - 민원인은 5,000여종 민원사무에 대해 처리기관, 구비서류, 수수료, 처리기한, 관련법제도 등의 정보를 안내받을 수 있으며, 이중 자주 이용되는 민원서비스에 대해 모바일 서비스가 제공됩니다. 또한 대한민국 중앙행정기관, 공공기관, 지방자치단체가 제공하는 서비스를 12개로 분류하여, 개인의 생활에 필요한 맞춤형 서비스를 다양한 방법으로 제공합니다.  - 매일 업데이트되고 있으며, 총 9만여 건의 ",
+    "iosUrl": "https://apps.apple.com/kr/app/%EC%A0%95%EB%B6%8024-%EA%B5%AC-%EB%AF%BC%EC%9B%9024/id586454505?uo=4",
+    "androidUrl": "",
+    "pcUrl": "",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/cc/0e/14cc0ea7-59bd-4b61-6d1c-433113c230f8/85d4009d-aa00-49b3-8905-4604c177ebc4_KakaoTalk_20230207_104623255_4.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/87/91/5787915e-6300-207d-dc4f-21bf3e7ad489/12754293-62a9-42f6-b259-b521ebb2311a_KakaoTalk_20230207_104623255_3.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/d5/fb/bed5fbcc-6513-92ef-1cf0-445e5bc68b8b/cb2ebcec-e0ae-4a18-af32-c16301336935_KakaoTalk_20230207_104623255_2.png/392x696bb.png"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "2.6.63",
+      "os": "iOS 11.0 이상",
+      "size": "148.2MB"
+    },
+    "spec_and": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '정부24' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": "",
+    "seoDesc": "정부24 앱으로 주민등록등본, 건강보험자격득실확인서 등 필요한 서류를 집에서 바로 발급받고 있어요. 관공서 방문 없이 5000여 가지 민원업무를 모바일로 처리할 수 있어서 시간 절약에 정말 도움됩니다. 본인인증 후 각종 증명서 발급, 세금납부, 복지신청까지 원스톱으로 가능하네요. 직장인이나 육아맘처럼 관공서 방문이 어려운 분들께 추천하는 정부 공식 민원 앱입니다."
   }
 ];
