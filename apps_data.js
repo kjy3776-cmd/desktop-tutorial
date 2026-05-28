@@ -2990,7 +2990,7 @@ const APPS = [
     "icon": "https://play-lh.googleusercontent.com/VT-eG_cbI6wNsIaeCYSKDDpDM6PRcvyOc2TDRtomkk1j81w2ppiHxqdnNKc3k-azA9aztPb5nRZORGPmIiMMaw",
     "developer": "RIDI Corporation",
     "desc": " 당신의 취향을 저격할 웹툰, 웹소설\r - 인기 웹툰, 웹소설을 기다리면 무료로!\r - 최고 인기 작품은 실시간 랭킹으로 한눈에!\r - 좋아하는 작품은 선호작품으로 등록하고 편하게 읽으세요.\r \r ▪ 국내 최대 규모의 전자책 서비스\r - 최신 인기작과 경영 경제, 자기계발서는 물론 만화와 잡지까지!\r - 데이터 기반 추천으로 취향에 꼭 맞는 도서를 제안해 드려요.\r - 구매가 고민된다면 대여할 수도 있습니다.\r \r ▪ 월 4,900원으로 즐기는, 리디셀렉트\r - 베스트셀러부터 최신작까지 모두 무제한!\r \r ▪ 읽기 쉽고 듣기 쉬운 ",
-    "iosUrl": "https://apps.apple.com/kr/app/id409683087",
+    "iosUrl": "https://apps.apple.com/kr/app/id338813698",
     "androidUrl": "https://play.google.com/store/apps/details?id=com.initialcoms.ridi",
     "pcUrl": "",
     "screenshots": [
