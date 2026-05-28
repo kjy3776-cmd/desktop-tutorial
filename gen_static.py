@@ -194,11 +194,11 @@ def app_html(app: dict, all_apps=None) -> str:
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{name} 다운로드 - iOS·안드로이드{'·PC' if pc_url else ''} | 이너앱</title>
-<meta name="description" content="{seo_desc[:150]}">
+<title>{name} 앱 다운로드 </title>
+<meta name="description" content="{name} 앱 다운로드 정보와 iOS, 안드로이드, PC 버전 링크를 확인하세요. {seo_desc[:90]}">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="{url}">
-<meta property="og:title" content="{name} 다운로드 | 이너앱">
+<meta property="og:title" content="{name} 앱 다운로드">
 <meta property="og:description" content="{seo_desc[:150]}">
 <meta property="og:image" content="{icon}">
 <meta property="og:url" content="{url}">
