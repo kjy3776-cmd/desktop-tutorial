@@ -1450,7 +1450,7 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "seoDesc": "매일 가계부 쓰기가 번거로웠는데 오늘의지출 앱으로 바꾸니까 정말 간단해졌어요. 무료 가계부 어플입니다.",
-    "slug": "today-expense",
+    "slug": "kthdd.household_account_book",
     "pcType": ""
   },
   {
