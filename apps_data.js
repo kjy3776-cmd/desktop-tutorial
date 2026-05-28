@@ -1460,7 +1460,7 @@ const APPS = [
     "icon": "https://play-lh.googleusercontent.com/g0X1JyEwSdYwIMHN9KYiuewgS5TkKKXkUawu2Y4gr1MFObf0gxV3sFcJb3UveOF1yZph",
     "developer": "(주)kt 밀리의 서재",
     "desc": "가입자 수 1위, 전 국민이 선택한 독서 플랫폼. 베스트셀러, 신간, 오디오북 최다 보유.",
-    "iosUrl": "https://apps.apple.com/kr/app/id1071831264",
+    "iosUrl": "https://apps.apple.com/kr/app/id1213788923",
     "androidUrl": "https://play.google.com/store/apps/details?id=kr.co.millie.millieshelf",
     "pcUrl": "https://www.millie.co.kr/",
     "screenshots": [],
