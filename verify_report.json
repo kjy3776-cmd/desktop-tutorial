@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-27",
+  "date": "2026-05-28",
   "results": [
     {
       "name": "카카오톡",
@@ -253,7 +253,6 @@
     {
       "name": "11번가",
       "issues": [
-        "iOS URL 불량: 404 앱 없음",
         "설명글 너무 짧음 (26자)"
       ]
     },
@@ -282,7 +281,7 @@
     "total": 45,
     "skipped": 19,
     "has_issues": 26,
-    "total_issues": 51,
-    "fixed": 3
+    "total_issues": 50,
+    "fixed": 2
   }
 }
