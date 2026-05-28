@@ -898,7 +898,7 @@ const APPS = [
     "developer": "29CM",
     "desc": "Guide to better choice 감도 깊은 취향 셀렉트샵 29CM  누구나 자기다운 취향에 닿을 수 있는 거리 29CM 안에서 당신의 취향을 완성하는 영감과 힌트를 만나보세요.  ■ 29CM 더 가까운 취향을 발견하는 감도 깊은 큐레이션 29CM만큼 반 발짝 앞선 거리에서 당신에게 어울리는 제품과 라이프스타일을 제안합니다. 패션, 홈, 뷰티, 테크를 아우르는 다양한 카테고리와 고감도 브랜드 속에서 나만의 취향을 발견해 보세요.  ■ 29CM 더 깊은 시선이 담긴 콘텐츠 브랜드의 철학과 이야기를 독보적인 스토리텔링으로 전달하",
     "iosUrl": "https://apps.apple.com/kr/app/id789634744",
-    "androidUrl": "https://play.google.com/store/apps/details?id=kr.co.29cm.android",
+    "androidUrl": "https://play.google.com/store/search?q=29cm&c=apps",
     "pcUrl": "https://www.29cm.co.kr/",
     "screenshots": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/1a/2b/441a2b47-73e3-123d-bdc3-6e4065b63b28/3_APP_IPHONE_55_3.png/392x696bb.png",
