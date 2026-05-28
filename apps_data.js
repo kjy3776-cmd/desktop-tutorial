@@ -3167,7 +3167,7 @@ const APPS = [
     "developer": "Ministry of the Interior and Safety",
     "desc": "1. 서비스  - 민원신청은 행정기관 방문 없이 언제, 어디서나 인터넷을 통해 필요한 민원을 안내받고 열람·신청·발급하는 서비스입니다. - 민원인은 5,000여종 민원사무에 대해 처리기관, 구비서류, 수수료, 처리기한, 관련법제도 등의 정보를 안내받을 수 있으며, 이중 자주 이용되는 민원서비스에 대해 모바일 서비스가 제공됩니다. 또한 대한민국 중앙행정기관, 공공기관, 지방자치단체가 제공하는 서비스를 12개로 분류하여, 개인의 생활에 필요한 맞춤형 서비스를 다양한 방법으로 제공합니다.  - 매일 업데이트되고 있으며, 총 9만여 건의 ",
     "iosUrl": "https://apps.apple.com/kr/app/%EC%A0%95%EB%B6%8024-%EA%B5%AC-%EB%AF%BC%EC%9B%9024/id586454505?uo=4",
-    "androidUrl": "https://play.google.com/store/search?q=%EC%A0%95%EB%B6%8024&c=apps",
+    "androidUrl": "https://play.google.com/store/apps/details?id=kr.go.minwon.m",
     "pcUrl": "https://plus.gov.kr/",
     "screenshots": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/cc/0e/14cc0ea7-59bd-4b61-6d1c-433113c230f8/85d4009d-aa00-49b3-8905-4604c177ebc4_KakaoTalk_20230207_104623255_4.png/392x696bb.png",
