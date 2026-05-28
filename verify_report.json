@@ -275,24 +275,28 @@
       "skipped": true
     },
     {
-      "name": "정부24",
+      "name": "정부24 (구.민원24)",
       "issues": [
-        "구글플레이 URL 불량: URL 없음",
         "안드로이드 사양 누락",
         "리뷰 없음"
       ]
     },
     {
-      "name": "국세청 홈택스",
+      "name": "국세청 홈택스(손택스)",
+      "issues": [],
+      "skipped": true
+    },
+    {
+      "name": "밴드",
       "issues": [],
       "skipped": true
     }
   ],
   "summary": {
-    "total": 47,
-    "skipped": 20,
+    "total": 48,
+    "skipped": 21,
     "has_issues": 27,
-    "total_issues": 51,
-    "fixed": 1
+    "total_issues": 50,
+    "fixed": 2
   }
 }
