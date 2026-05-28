@@ -2902,7 +2902,7 @@ const APPS = [
     "icon": "https://play-lh.googleusercontent.com/zL6e5QgLU4aQXK80fzyYNJc-U4QFilEf1-MMD4AZ0-cPiS1suWS2hJEj2V3tQgdTFA",
     "developer": "SIKSIN Co., Ltd.",
     "desc": "식대 지급, 식권 결제, 식권 사용을 스마트폰 앱에서 한 번에! 식권 시스템의 새로운 패러다임 '식신 e-식권'! 언제 어디서나 간편하게 결제하고 사용하는 e-식권을 소개합니다.\r \r 하나! 식신 e-식권은 스마트합니다. \r 불편한 종이 식권을 내 손안의 스마트폰에 쏙~ 담았습니다. 이제 식사 때마다 종이 식권이나 법인카드를 챙기고 관리할 필요가 없습니다.\r 둘! 식신 e-식권은 빠릅니다.\r 회사에서 지급 받은 포인트로 식권을 결제한 후 식당 직원에게 제시하면 끝! \r 셋! 식신 e-식권은 다채롭습니다.\r 회사에 가맹된 여러 식당들",
-    "iosUrl": "https://apps.apple.com/kr/app/id870770372",
+    "iosUrl": "https://apps.apple.com/kr/app/id983835942",
     "androidUrl": "https://play.google.com/store/apps/details?id=com.seeon.uticket",
     "pcUrl": "",
     "screenshots": [
