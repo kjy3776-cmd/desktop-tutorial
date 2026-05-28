@@ -2285,7 +2285,7 @@ const APPS = [
     "icon": "https://play-lh.googleusercontent.com/9aPgGbu5zAwSrRVLOepTlvu8pFb7lY8riSM8A3R9fvtG1o-8H0nohyD_NB9N6lJP_7e-",
     "developer": "CashWalk, Inc.",
     "desc": "캐시워크는 걸으면 걸을수록 포인트가 쌓이는 만보기형 앱입니다.",
-    "iosUrl": "https://apps.apple.com/kr/app/id1100886614",
+    "iosUrl": "https://apps.apple.com/kr/app/id1220307907",
     "androidUrl": "https://play.google.com/store/apps/details?id=com.cashwalk.cashwalk",
     "pcUrl": "",
     "screenshots": [
