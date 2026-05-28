@@ -230,6 +230,12 @@ nav a{{font-size:20px;font-weight:700;color:var(--blue);text-decoration:none}}
 .header{{display:flex;gap:20px;align-items:center;margin-bottom:20px}}
 .icon{{width:88px;height:88px;border-radius:20px;object-fit:cover;background:#eee}}
 .app-name{{font-size:26px;font-weight:700}}
+.app-page-title{{
+  font-size:14px;
+  font-weight:700;
+  color:#111827;
+  margin-top:4px;
+}}
 .app-dev{{color:var(--blue);font-size:14px;margin-top:4px}}
 .btn{{display:inline-flex;align-items:center;gap:8px;padding:14px 20px;border-radius:12px;font-weight:700;color:#fff;text-decoration:none;font-size:15px;transition:opacity .2s}}
 .btn:hover{{opacity:.85}}
@@ -272,6 +278,7 @@ footer a{{color:var(--blue)}}
       <img class="icon" src="{icon}" alt="{name} 아이콘">
       <div>
         <div class="app-name">{name}</div>
+        <div class="app-page-title">{name} 앱 다운로드</div>
         <div class="app-dev">{dev}</div>
         <div style="font-size:13px;color:#9CA3AF;margin-top:2px">{cat_label}</div>
       </div>
