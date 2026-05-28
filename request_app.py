@@ -22,9 +22,12 @@ import time
 import random
 import requests as req_lib
 
+
 HEADERS = {
-    "User-Agent": "Mozilla/5.0"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36",
+    "Accept-Language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7",
 }
+
 
 from scraper_core import build_app, CATEGORIES
 from auto_collect import load_apps, save_apps, log
