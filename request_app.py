@@ -29,7 +29,16 @@ HEADERS = {
 }
 
 
-from scraper_core import build_app, CATEGORIES
+import scraper_core
+
+# scraper_core.py 내부 함수가 HEADERS 전역변수를 참조하는 경우가 있어
+# request_app.py에만 HEADERS를 정의하면 GitHub Actions에서 NameError가 날 수 있습니다.
+# 그래서 scraper_core 모듈 전역에도 강제로 주입합니다.
+scraper_core.HEADERS = HEADERS
+
+build_app = scraper_core.build_app
+CATEGORIES = scraper_core.CATEGORIES
+
 from auto_collect import load_apps, save_apps, log
 from gen_sitemap import generate as gen_sitemap
 
@@ -125,7 +134,8 @@ def run():
 
     if not rec:
         log(f"❌ '{name_kr}' 수집 실패 — iOS/Android 모두 찾지 못함")
-        log("   힌트: 영문명·iTunes ID·패키지명을 더 정확히 입력해보세요")
+        log("   힌트: 앱 이름만으로 안 잡히면 REQUEST_ITUNES 또는 REQUEST_PKG를 직접 넣어주세요.")
+        log("   예: 여기어때 iOS ID는 앱스토어 URL의 id 뒤 숫자, Android 패키지는 play.google.com URL의 id= 값입니다.")
         sys.exit(3)
 
     apps.append(rec)
