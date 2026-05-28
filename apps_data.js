@@ -2725,7 +2725,7 @@ const APPS = [
     "icon": "https://play-lh.googleusercontent.com/aEHnF2BiJxPv_M2wdZ14NVNQMOKZpb_nwluorAKgaP86fZD9fo5I8N3my0UOynHqhJIohRSKx_kRXDspQrDj6A",
     "developer": "11번가(주)",
     "desc": "무료 멤버십, 슈팅배송, 최저가 쇼핑 앱입니다.",
-    "iosUrl": "https://apps.apple.com/kr/app/id428433075",
+    "iosUrl": "https://apps.apple.com/kr/app/id397938216",
     "androidUrl": "https://play.google.com/store/apps/details?id=com.elevenst",
     "pcUrl": "https://www.11st.co.kr/",
     "screenshots": [
