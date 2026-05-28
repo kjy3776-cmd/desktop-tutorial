@@ -3080,7 +3080,7 @@ const APPS = [
     "desc": "드넓은 음악의 세계로 초대합니다\r ● 라이브 공연, 리메이크, 커버, 리믹스 등과 같이 다른 곳에서는 만나볼 수 없는 다양한 음악 콘텐츠\r ● 다양한 장르와 상황을 위해 선별된 수천 개의 재생목록\r \r 음악이 필요한 모든 순간에 어울리는 맞춤형 음악을 즐기세요\r ● 내가 좋아하는 음악 유형을 바탕으로 선별된 맞춤 재생목록 및 믹스\r ● 운동, 휴식, 집중을 위한 맞춤 활동 믹스\r ● 추천 음악으로 재생목록 만들기 또는 다른 음악 팬과 함께 완벽한 재생목록 만들기\r ● 좋아요 표시하거나 추가한 노래, 재생목록, 아티스트, 앨범이 모두",
     "iosUrl": "https://apps.apple.com/kr/app/id1017492454",
     "androidUrl": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music",
-    "pcUrl": "https://www.google.com/",
+    "pcUrl": "https://music.youtube.com/",
     "screenshots": [
       "https://play-lh.googleusercontent.com/pwprZCD9qE6zhOmvlqExwwuh_JE5BgGN7SF50MzAKz4qz5LUcOinv1LoC5N4P38CV47p",
       "https://play-lh.googleusercontent.com/QidkPh8YheZ2U7xALvGUqQ3Y0UdGER24zEY7EAWWBf6lJnEot2SAeNrAHkwBWDHd-g",
