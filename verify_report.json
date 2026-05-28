@@ -276,10 +276,8 @@
     },
     {
       "name": "정부24 (구.민원24)",
-      "issues": [
-        "안드로이드 사양 누락",
-        "리뷰 없음"
-      ]
+      "issues": [],
+      "skipped": true
     },
     {
       "name": "국세청 홈택스(손택스)",
@@ -294,9 +292,9 @@
   ],
   "summary": {
     "total": 48,
-    "skipped": 21,
-    "has_issues": 27,
-    "total_issues": 50,
-    "fixed": 2
+    "skipped": 22,
+    "has_issues": 26,
+    "total_issues": 48,
+    "fixed": 1
   }
 }
