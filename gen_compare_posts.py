@@ -16,6 +16,7 @@ gen_compare_posts.py — 이너앱 비교·추천 글 자동 생성기
 import os
 import re
 import sys
+import argparse
 import json
 import random
 import datetime
@@ -128,6 +129,41 @@ def pick_topic(apps, state):
     # 리뷰가 있거나 seoDesc가 있는 앱 우선
     ranked = sorted(cat_apps, key=lambda a: (len(a.get("reviews") or []), bool(a.get("seoDesc")), a.get("id",0)), reverse=True)
     return topic, ranked[:5]
+
+
+def pick_custom_topic(apps, title=None, cat=None, app_names=None, slug=None):
+    """수동 워크플로우에서 입력한 제목/카테고리/앱명으로 compare 글 생성."""
+    selected = []
+
+    if app_names:
+        wanted = [x.strip().lower() for x in app_names.split(",") if x.strip()]
+        for w in wanted:
+            for a in apps:
+                if w in a.get("name", "").lower() or w in get_slug(a).lower():
+                    if a not in selected:
+                        selected.append(a)
+                    break
+
+    if not selected and cat:
+        cat_pool = [a for a in apps if a.get("cat") == cat]
+        selected = sorted(cat_pool, key=lambda a: (len(a.get("reviews") or []), bool(a.get("seoDesc")), a.get("id", 0)), reverse=True)[:5]
+
+    if not selected:
+        selected = sorted(apps, key=lambda a: (len(a.get("reviews") or []), bool(a.get("seoDesc")), a.get("id", 0)), reverse=True)[:5]
+
+    if len(selected) < 2:
+        return None, []
+
+    title = title or f"{CAT_LABELS.get(cat, '인기')} 앱 비교 추천"
+    post_slug = slug or _slug_text(title)
+    topic = {
+        "type": "manual",
+        "cat": cat or selected[0].get("cat", "all"),
+        "title": title,
+        "slug": post_slug,
+        "intent": f"{title} 정보를 찾는 사람"
+    }
+    return topic, selected[:5]
 
 
 def fallback_content(title, apps, topic):
@@ -343,7 +379,7 @@ h1{{font-size:32px;letter-spacing:-.6px;margin-bottom:8px}}
     (COMPARE_DIR / "index.html").write_text(index_html, encoding="utf-8")
 
 
-def run(force=False):
+def run(force=False, title=None, cat=None, app_names=None, slug=None):
     COMPARE_DIR.mkdir(exist_ok=True)
     state = load_json(STATE_FILE, {"generated_slugs": [], "daily_count": {}})
     index = load_json(INDEX_FILE, [])
@@ -360,7 +396,14 @@ def run(force=False):
         write_compare_index(index)
         return 0
 
-    topic, selected = pick_topic(apps, state)
+    if title or cat or app_names or slug:
+        topic, selected = pick_custom_topic(apps, title=title, cat=cat, app_names=app_names, slug=slug)
+        if not topic:
+            log("⚠️ 수동 compare 생성에는 매칭되는 앱이 최소 2개 필요합니다.")
+            write_compare_index(index)
+            return 0
+    else:
+        topic, selected = pick_topic(apps, state)
     post_slug = topic["slug"]
     # 같은 slug가 이미 있으면 날짜 suffix로 중복 회피
     existing_slugs = {i.get("slug") for i in index}
@@ -405,4 +448,11 @@ def run(force=False):
 
 
 if __name__ == "__main__":
-    run(force="--force" in sys.argv)
+    parser = argparse.ArgumentParser(description="InnerApp compare post generator")
+    parser.add_argument("--force", action="store_true", help="오늘 1개 제한을 무시하고 생성")
+    parser.add_argument("--title", default="", help="수동 생성할 compare 글 제목")
+    parser.add_argument("--cat", default="", help="카테고리 코드 예: sns, entertainment, productivity")
+    parser.add_argument("--apps", default="", help="비교할 앱명 또는 slug를 콤마로 입력 예: 카카오톡,텔레그램,디스코드")
+    parser.add_argument("--slug", default="", help="생성 파일 slug 예: kakaotalk-vs-telegram")
+    args = parser.parse_args()
+    run(force=args.force, title=args.title.strip() or None, cat=args.cat.strip() or None, app_names=args.apps.strip() or None, slug=args.slug.strip() or None)
