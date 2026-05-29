@@ -308,11 +308,16 @@
       "name": "네이버지도",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "틱톡",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 52,
-    "skipped": 26,
+    "total": 53,
+    "skipped": 27,
     "has_issues": 26,
     "total_issues": 48,
     "fixed": 1
