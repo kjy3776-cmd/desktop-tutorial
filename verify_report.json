@@ -303,11 +303,16 @@
       "name": "라인",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "네이버지도",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 51,
-    "skipped": 25,
+    "total": 52,
+    "skipped": 26,
     "has_issues": 26,
     "total_issues": 48,
     "fixed": 1
