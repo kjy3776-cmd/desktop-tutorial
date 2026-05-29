@@ -298,11 +298,16 @@
       "name": "원드라이브",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "라인",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 50,
-    "skipped": 24,
+    "total": 51,
+    "skipped": 25,
     "has_issues": 26,
     "total_issues": 48,
     "fixed": 1
