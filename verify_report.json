@@ -313,11 +313,16 @@
       "name": "틱톡",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "구글 캘린더",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 53,
-    "skipped": 27,
+    "total": 54,
+    "skipped": 28,
     "has_issues": 26,
     "total_issues": 48,
     "fixed": 1
