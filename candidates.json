@@ -1,98 +1,9088 @@
 [
-  ["원신", "Genshin Impact", "1517783697", "com.miHoYo.GenshinImpact", "game"],
-  ["로블록스", "Roblox", "431946152", "com.roblox.client", "game"],
-  ["브롤스타즈", "Brawl Stars", "1229016807", "com.supercell.brawlstars", "game"],
-  ["쿠키런 킹덤", "Cookie Run Kingdom", "1523634983", "com.devsisters.ck", "game"],
-  ["마인크래프트", "Minecraft", "479516143", "com.mojang.minecraftpe", "game"],
-  ["젠레스 존 제로", "Zenless Zone Zero", "6444576278", "com.HoYoverse.Nap", "game"],
-  ["붕괴 스타레일", "Honkai Star Rail", "6448798030", "com.HoYoverse.hkrpgoversea", "game"],
-  ["클래시 오브 클랜", "Clash of Clans", "529479190", "com.supercell.clashofclans", "game"],
-  ["포켓몬 GO", "Pokemon GO", "1094591345", "com.nianticlabs.pokemongo", "game"],
-  ["서머너즈 워", "Summoners War", "852542072", "com.com2us.smon.normal.freefull.google.global.android.common", "game"],
-  ["검은사막 모바일", "Black Desert Mobile", "1325164526", "com.pearlabyss.blackdesertm.gl", "game"],
-  ["메이플스토리M", "MapleStory M", "1228790314", "com.nexon.maplekorea", "game"],
-  ["카트라이더 러쉬플러스", "KartRider Rush+", "1456893023", "com.nexon.kart", "game"],
-  ["리니지M", "Lineage M", "1330965420", "com.ncsoft.lineagem", "game"],
-  ["노션", "Notion", "1232780281", "notion.id", "productivity"],
-  ["챗GPT", "ChatGPT", "6448311069", "com.openai.chatgpt", "productivity"],
-  ["에버노트", "Evernote", "281796108", "com.evernote", "productivity"],
-  ["마이크로소프트 팀즈", "Microsoft Teams", "1113153706", "com.microsoft.teams", "productivity"],
-  ["구글 미트", "Google Meet", "1013231476", "com.google.android.apps.meetings", "productivity"],
-  ["줌", "Zoom", "546505307", "us.zoom.videomeetings", "productivity"],
-  ["슬랙", "Slack", "618783545", "com.Slack", "productivity"],
-  ["트렐로", "Trello", "461504587", "com.trello", "productivity"],
-  ["구글 캘린더", "Google Calendar", "909319292", "com.google.android.calendar", "productivity"],
-  ["클로드", "Claude", "6473753684", "com.anthropic.claude", "productivity"],
-  ["퍼플렉시티", "Perplexity", "6449594026", "ai.perplexity.app.android", "productivity"],
-  ["어도비 익스프레스", "Adobe Express", "1051737863", "com.adobe.spark.post", "productivity"],
-  ["원드라이브", "OneDrive", "477537958", "com.microsoft.skydrive", "productivity"],
-  ["드롭박스", "Dropbox", "327630330", "com.dropbox.android", "productivity"],
-  ["카카오맵", "KakaoMap", "304608425", "net.daum.android.map", "travel"],
-  ["네이버지도", "Naver Map", "311867728", "com.nhn.android.nmap", "travel"],
-  ["구글맵", "Google Maps", "585027354", "com.google.android.apps.maps", "travel"],
-  ["야놀자", "Yanolja", "467540975", "com.cultsotry.yanolja.nadrip", "travel"],
-  ["여기어때", "Yeogi", "892430571", "com.gccompany.gftrip", "travel"],
-  ["트리플", "Triple", "1225499481", "com.titicacacorp.triple", "travel"],
-  ["에어비앤비", "Airbnb", "401626263", "com.airbnb.android", "travel"],
-  ["부킹닷컴", "Booking.com", "367003476", "com.booking", "travel"],
-  ["스카이스캐너", "Skyscanner", "415458524", "net.skyscanner.android.main", "travel"],
-  ["인터파크 투어", "Interpark Tour", "521889073", "com.interpark.tour.mobile.main", "travel"],
-  ["눔", "Noom", "634598719", "com.wsl.noom", "health"],
-  ["캐시워크", "Cashwalk", "1100886614", "com.cashwalk.cashwalk", "health"],
-  ["나이키 런 클럽", "Nike Run Club", "387771637", "com.nike.plusgps", "health"],
-  ["스트라바", "Strava", "426826309", "com.strava", "health"],
-  ["마이피트니스팔", "MyFitnessPal", "341232718", "com.myfitnesspal.android", "health"],
-  ["필라이즈", "Pillize", "1504612680", "com.pillize.pillize", "health"],
-  ["닥터나우", "Doctor Now", "1494561684", "com.doctor_now.doctornow", "health"],
-  ["클래스101", "Class101", "1462847522", "com.classpang.android", "education"],
-  ["듀오링고", "Duolingo", "570060128", "com.duolingo", "education"],
-  ["밀리의 서재", "Millie", "1071831264", "kr.co.millie.millieshelf", "education"],
-  ["리디", "Ridi", "409683087", "com.initialcoms.ridi", "education"],
-  ["산타토익", "Santa TOEIC", "1048204631", "co.riiid.santa", "education"],
-  ["클래스유", "Classu", "1463774428", "com.classu.android", "education"],
-  ["패스트캠퍼스", "FastCampus", "1104261787", "kr.co.fastcampus.android", "education"],
-  ["탈잉", "Taling", "1273510252", "com.taling.app", "education"],
-  ["스포티파이", "Spotify", "324684580", "com.spotify.music", "entertainment"],
-  ["멜론", "Melon", "415597317", "com.iloen.melon", "entertainment"],
-  ["지니뮤직", "Genie", "520481810", "com.ktmusic.geniemusic", "entertainment"],
-  ["플로", "FLO", "1494188683", "kr.co.music.flo", "entertainment"],
-  ["유튜브 뮤직", "YouTube Music", "1017492454", "com.google.android.apps.youtube.music", "entertainment"],
-  ["디즈니플러스", "Disney+", "1446075923", "com.disney.disneyplus", "entertainment"],
-  ["웨이브", "Wavve", "1020664162", "com.skbroadband.viewer", "entertainment"],
-  ["라프텔", "Laftel", "1146001022", "com.laftel.laftelapp", "entertainment"],
-  ["네이버 웹툰", "Naver Webtoon", "425238507", "com.nhn.android.webtoon", "entertainment"],
-  ["카카오웹툰", "Kakao Webtoon", "1540959867", "com.kakao.webtoon", "entertainment"],
-  ["레진코믹스", "Lezhin Comics", "863467779", "com.lezhin.comics", "entertainment"],
-  ["카카오스타일", "Kakao Style", "1208340062", "com.kakaostyle.app", "shopping"],
-  ["지그재그", "Zigzag", "1063332772", "com.zigzag.client", "shopping"],
-  ["SSG닷컴", "SSG.COM", "638091310", "com.emart.ssg", "shopping"],
-  ["롯데온", "LotteON", "1491744576", "com.lotte.lotteon", "shopping"],
-  ["11번가", "11st", "428433075", "com.elevenst", "shopping"],
-  ["위메프", "WeMakePRice", "460635763", "com.wemakeprice", "shopping"],
-  ["G마켓", "Gmarket", "367124680", "com.ebay.korea.gmarket", "shopping"],
-  ["옥션", "Auction", "305019311", "com.auction.android", "shopping"],
-  ["카카오뱅크", "KakaoBank", "1258016940", "com.kakaobank.channel", "finance"],
-  ["케이뱅크", "K Bank", "1281757767", "com.kbankwith.kbank", "finance"],
-  ["신한SOL뱅크", "Shinhan SOL Bank", "1176317626", "com.shinhan.sbanking", "finance"],
-  ["KB스타뱅킹", "KB Star Banking", "459230152", "com.kbstar.kbbank", "finance"],
-  ["NH스마트뱅킹", "NH Smart Banking", "549480818", "nh.smart.android", "finance"],
-  ["하나원큐", "Hana 1Q", "924006586", "com.kebhana.hanapay", "finance"],
-  ["우리원뱅킹", "Woori WON Banking", "908710785", "com.wooribank.smart.won", "finance"],
-  ["직방", "Zigbang", "476203060", "com.zigbang", "life"],
-  ["다방", "Dabang", "827258587", "net.dabangapp", "life"],
-  ["당근알바", "Daangn Alba", "1548250784", "com.towneers.alba", "life"],
-  ["중고나라", "JoonggoPark", "1026822567", "kr.co.joonggonara", "life"],
-  ["망고플레이트", "MangoPlate", "516673029", "io.mangoplate.main", "life"],
-  ["식신", "Sikshin", "870770372", "com.sikshinapp.android", "life"],
-  ["카카오헤어샵", "Kakao Hair Shop", "1305694001", "com.kakao.hairshop", "life"],
-  ["강남언니", "Gangnam Unnie", "1218726763", "com.gangnamunni.app", "life"],
-  ["라인", "Line", "443904275", "jp.naver.line.android", "sns"],
-  ["트위터", "X Twitter", "333903271", "com.twitter.android", "sns"],
-  ["페이스북", "Facebook", "284882215", "com.facebook.katana", "sns"],
-  ["스레드", "Threads", "6446901002", "com.instagram.barcelona", "sns"],
-  ["틱톡", "TikTok", "835599320", "com.zhiliaoapp.musically", "sns"],
-  ["디스코드", "Discord", "985746746", "com.discord", "sns"],
-  ["밴드", "BAND", "542613670", "com.nhn.android.band", "sns"],
-  ["블라인드", "Blind", "1020116745", "com.teamblind.blind", "sns"],
-  ["에브리타임", "Everytime", "1015586366", "com.estsoft.everytime", "sns"]
+  [
+    "원신",
+    "Genshin Impact",
+    "1517783697",
+    "com.miHoYo.GenshinImpact",
+    "game"
+  ],
+  [
+    "로블록스",
+    "Roblox",
+    "431946152",
+    "com.roblox.client",
+    "game"
+  ],
+  [
+    "브롤스타즈",
+    "Brawl Stars",
+    "1229016807",
+    "com.supercell.brawlstars",
+    "game"
+  ],
+  [
+    "쿠키런 킹덤",
+    "Cookie Run Kingdom",
+    "1523634983",
+    "com.devsisters.ck",
+    "game"
+  ],
+  [
+    "마인크래프트",
+    "Minecraft",
+    "479516143",
+    "com.mojang.minecraftpe",
+    "game"
+  ],
+  [
+    "젠레스 존 제로",
+    "Zenless Zone Zero",
+    "6444576278",
+    "com.HoYoverse.Nap",
+    "game"
+  ],
+  [
+    "붕괴 스타레일",
+    "Honkai Star Rail",
+    "6448798030",
+    "com.HoYoverse.hkrpgoversea",
+    "game"
+  ],
+  [
+    "클래시 오브 클랜",
+    "Clash of Clans",
+    "529479190",
+    "com.supercell.clashofclans",
+    "game"
+  ],
+  [
+    "포켓몬 GO",
+    "Pokemon GO",
+    "1094591345",
+    "com.nianticlabs.pokemongo",
+    "game"
+  ],
+  [
+    "서머너즈 워",
+    "Summoners War",
+    "852542072",
+    "com.com2us.smon.normal.freefull.google.global.android.common",
+    "game"
+  ],
+  [
+    "검은사막 모바일",
+    "Black Desert Mobile",
+    "1325164526",
+    "com.pearlabyss.blackdesertm.gl",
+    "game"
+  ],
+  [
+    "메이플스토리M",
+    "MapleStory M",
+    "1228790314",
+    "com.nexon.maplekorea",
+    "game"
+  ],
+  [
+    "카트라이더 러쉬플러스",
+    "KartRider Rush+",
+    "1456893023",
+    "com.nexon.kart",
+    "game"
+  ],
+  [
+    "리니지M",
+    "Lineage M",
+    "1330965420",
+    "com.ncsoft.lineagem",
+    "game"
+  ],
+  [
+    "노션",
+    "Notion",
+    "1232780281",
+    "notion.id",
+    "productivity"
+  ],
+  [
+    "챗GPT",
+    "ChatGPT",
+    "6448311069",
+    "com.openai.chatgpt",
+    "productivity"
+  ],
+  [
+    "에버노트",
+    "Evernote",
+    "281796108",
+    "com.evernote",
+    "productivity"
+  ],
+  [
+    "마이크로소프트 팀즈",
+    "Microsoft Teams",
+    "1113153706",
+    "com.microsoft.teams",
+    "productivity"
+  ],
+  [
+    "구글 미트",
+    "Google Meet",
+    "1013231476",
+    "com.google.android.apps.meetings",
+    "productivity"
+  ],
+  [
+    "줌",
+    "Zoom",
+    "546505307",
+    "us.zoom.videomeetings",
+    "productivity"
+  ],
+  [
+    "슬랙",
+    "Slack",
+    "618783545",
+    "com.Slack",
+    "productivity"
+  ],
+  [
+    "트렐로",
+    "Trello",
+    "461504587",
+    "com.trello",
+    "productivity"
+  ],
+  [
+    "구글 캘린더",
+    "Google Calendar",
+    "909319292",
+    "com.google.android.calendar",
+    "productivity"
+  ],
+  [
+    "클로드",
+    "Claude",
+    "6473753684",
+    "com.anthropic.claude",
+    "productivity"
+  ],
+  [
+    "퍼플렉시티",
+    "Perplexity",
+    "6449594026",
+    "ai.perplexity.app.android",
+    "productivity"
+  ],
+  [
+    "어도비 익스프레스",
+    "Adobe Express",
+    "1051737863",
+    "com.adobe.spark.post",
+    "productivity"
+  ],
+  [
+    "원드라이브",
+    "OneDrive",
+    "477537958",
+    "com.microsoft.skydrive",
+    "productivity"
+  ],
+  [
+    "드롭박스",
+    "Dropbox",
+    "327630330",
+    "com.dropbox.android",
+    "productivity"
+  ],
+  [
+    "카카오맵",
+    "KakaoMap",
+    "304608425",
+    "net.daum.android.map",
+    "travel"
+  ],
+  [
+    "네이버지도",
+    "Naver Map",
+    "311867728",
+    "com.nhn.android.nmap",
+    "travel"
+  ],
+  [
+    "구글맵",
+    "Google Maps",
+    "585027354",
+    "com.google.android.apps.maps",
+    "travel"
+  ],
+  [
+    "야놀자",
+    "Yanolja",
+    "467540975",
+    "com.cultsotry.yanolja.nadrip",
+    "travel"
+  ],
+  [
+    "여기어때",
+    "Yeogi",
+    "892430571",
+    "com.gccompany.gftrip",
+    "travel"
+  ],
+  [
+    "트리플",
+    "Triple",
+    "1225499481",
+    "com.titicacacorp.triple",
+    "travel"
+  ],
+  [
+    "에어비앤비",
+    "Airbnb",
+    "401626263",
+    "com.airbnb.android",
+    "travel"
+  ],
+  [
+    "부킹닷컴",
+    "Booking.com",
+    "367003476",
+    "com.booking",
+    "travel"
+  ],
+  [
+    "스카이스캐너",
+    "Skyscanner",
+    "415458524",
+    "net.skyscanner.android.main",
+    "travel"
+  ],
+  [
+    "인터파크 투어",
+    "Interpark Tour",
+    "521889073",
+    "com.interpark.tour.mobile.main",
+    "travel"
+  ],
+  [
+    "눔",
+    "Noom",
+    "634598719",
+    "com.wsl.noom",
+    "health"
+  ],
+  [
+    "캐시워크",
+    "Cashwalk",
+    "1100886614",
+    "com.cashwalk.cashwalk",
+    "health"
+  ],
+  [
+    "나이키 런 클럽",
+    "Nike Run Club",
+    "387771637",
+    "com.nike.plusgps",
+    "health"
+  ],
+  [
+    "스트라바",
+    "Strava",
+    "426826309",
+    "com.strava",
+    "health"
+  ],
+  [
+    "마이피트니스팔",
+    "MyFitnessPal",
+    "341232718",
+    "com.myfitnesspal.android",
+    "health"
+  ],
+  [
+    "필라이즈",
+    "Pillize",
+    "1504612680",
+    "com.pillize.pillize",
+    "health"
+  ],
+  [
+    "닥터나우",
+    "Doctor Now",
+    "1494561684",
+    "com.doctor_now.doctornow",
+    "health"
+  ],
+  [
+    "클래스101",
+    "Class101",
+    "1462847522",
+    "com.classpang.android",
+    "education"
+  ],
+  [
+    "듀오링고",
+    "Duolingo",
+    "570060128",
+    "com.duolingo",
+    "education"
+  ],
+  [
+    "밀리의 서재",
+    "Millie",
+    "1071831264",
+    "kr.co.millie.millieshelf",
+    "education"
+  ],
+  [
+    "리디",
+    "Ridi",
+    "409683087",
+    "com.initialcoms.ridi",
+    "education"
+  ],
+  [
+    "산타토익",
+    "Santa TOEIC",
+    "1048204631",
+    "co.riiid.santa",
+    "education"
+  ],
+  [
+    "클래스유",
+    "Classu",
+    "1463774428",
+    "com.classu.android",
+    "education"
+  ],
+  [
+    "패스트캠퍼스",
+    "FastCampus",
+    "1104261787",
+    "kr.co.fastcampus.android",
+    "education"
+  ],
+  [
+    "탈잉",
+    "Taling",
+    "1273510252",
+    "com.taling.app",
+    "education"
+  ],
+  [
+    "스포티파이",
+    "Spotify",
+    "324684580",
+    "com.spotify.music",
+    "entertainment"
+  ],
+  [
+    "멜론",
+    "Melon",
+    "415597317",
+    "com.iloen.melon",
+    "entertainment"
+  ],
+  [
+    "지니뮤직",
+    "Genie",
+    "520481810",
+    "com.ktmusic.geniemusic",
+    "entertainment"
+  ],
+  [
+    "플로",
+    "FLO",
+    "1494188683",
+    "kr.co.music.flo",
+    "entertainment"
+  ],
+  [
+    "유튜브 뮤직",
+    "YouTube Music",
+    "1017492454",
+    "com.google.android.apps.youtube.music",
+    "entertainment"
+  ],
+  [
+    "디즈니플러스",
+    "Disney+",
+    "1446075923",
+    "com.disney.disneyplus",
+    "entertainment"
+  ],
+  [
+    "웨이브",
+    "Wavve",
+    "1020664162",
+    "com.skbroadband.viewer",
+    "entertainment"
+  ],
+  [
+    "라프텔",
+    "Laftel",
+    "1146001022",
+    "com.laftel.laftelapp",
+    "entertainment"
+  ],
+  [
+    "네이버 웹툰",
+    "Naver Webtoon",
+    "425238507",
+    "com.nhn.android.webtoon",
+    "entertainment"
+  ],
+  [
+    "카카오웹툰",
+    "Kakao Webtoon",
+    "1540959867",
+    "com.kakao.webtoon",
+    "entertainment"
+  ],
+  [
+    "레진코믹스",
+    "Lezhin Comics",
+    "863467779",
+    "com.lezhin.comics",
+    "entertainment"
+  ],
+  [
+    "카카오스타일",
+    "Kakao Style",
+    "1208340062",
+    "com.kakaostyle.app",
+    "shopping"
+  ],
+  [
+    "지그재그",
+    "Zigzag",
+    "1063332772",
+    "com.zigzag.client",
+    "shopping"
+  ],
+  [
+    "SSG닷컴",
+    "SSG.COM",
+    "638091310",
+    "com.emart.ssg",
+    "shopping"
+  ],
+  [
+    "롯데온",
+    "LotteON",
+    "1491744576",
+    "com.lotte.lotteon",
+    "shopping"
+  ],
+  [
+    "11번가",
+    "11st",
+    "428433075",
+    "com.elevenst",
+    "shopping"
+  ],
+  [
+    "위메프",
+    "WeMakePRice",
+    "460635763",
+    "com.wemakeprice",
+    "shopping"
+  ],
+  [
+    "G마켓",
+    "Gmarket",
+    "367124680",
+    "com.ebay.korea.gmarket",
+    "shopping"
+  ],
+  [
+    "옥션",
+    "Auction",
+    "305019311",
+    "com.auction.android",
+    "shopping"
+  ],
+  [
+    "카카오뱅크",
+    "KakaoBank",
+    "1258016940",
+    "com.kakaobank.channel",
+    "finance"
+  ],
+  [
+    "케이뱅크",
+    "K Bank",
+    "1281757767",
+    "com.kbankwith.kbank",
+    "finance"
+  ],
+  [
+    "신한SOL뱅크",
+    "Shinhan SOL Bank",
+    "1176317626",
+    "com.shinhan.sbanking",
+    "finance"
+  ],
+  [
+    "KB스타뱅킹",
+    "KB Star Banking",
+    "459230152",
+    "com.kbstar.kbbank",
+    "finance"
+  ],
+  [
+    "NH스마트뱅킹",
+    "NH Smart Banking",
+    "549480818",
+    "nh.smart.android",
+    "finance"
+  ],
+  [
+    "하나원큐",
+    "Hana 1Q",
+    "924006586",
+    "com.kebhana.hanapay",
+    "finance"
+  ],
+  [
+    "우리원뱅킹",
+    "Woori WON Banking",
+    "908710785",
+    "com.wooribank.smart.won",
+    "finance"
+  ],
+  [
+    "직방",
+    "Zigbang",
+    "476203060",
+    "com.zigbang",
+    "life"
+  ],
+  [
+    "다방",
+    "Dabang",
+    "827258587",
+    "net.dabangapp",
+    "life"
+  ],
+  [
+    "당근알바",
+    "Daangn Alba",
+    "1548250784",
+    "com.towneers.alba",
+    "life"
+  ],
+  [
+    "중고나라",
+    "JoonggoPark",
+    "1026822567",
+    "kr.co.joonggonara",
+    "life"
+  ],
+  [
+    "망고플레이트",
+    "MangoPlate",
+    "516673029",
+    "io.mangoplate.main",
+    "life"
+  ],
+  [
+    "식신",
+    "Sikshin",
+    "870770372",
+    "com.sikshinapp.android",
+    "life"
+  ],
+  [
+    "카카오헤어샵",
+    "Kakao Hair Shop",
+    "1305694001",
+    "com.kakao.hairshop",
+    "life"
+  ],
+  [
+    "강남언니",
+    "Gangnam Unnie",
+    "1218726763",
+    "com.gangnamunni.app",
+    "life"
+  ],
+  [
+    "라인",
+    "Line",
+    "443904275",
+    "jp.naver.line.android",
+    "sns"
+  ],
+  [
+    "트위터",
+    "X Twitter",
+    "333903271",
+    "com.twitter.android",
+    "sns"
+  ],
+  [
+    "페이스북",
+    "Facebook",
+    "284882215",
+    "com.facebook.katana",
+    "sns"
+  ],
+  [
+    "스레드",
+    "Threads",
+    "6446901002",
+    "com.instagram.barcelona",
+    "sns"
+  ],
+  [
+    "틱톡",
+    "TikTok",
+    "835599320",
+    "com.zhiliaoapp.musically",
+    "sns"
+  ],
+  [
+    "디스코드",
+    "Discord",
+    "985746746",
+    "com.discord",
+    "sns"
+  ],
+  [
+    "밴드",
+    "BAND",
+    "542613670",
+    "com.nhn.android.band",
+    "sns"
+  ],
+  [
+    "블라인드",
+    "Blind",
+    "1020116745",
+    "com.teamblind.blind",
+    "sns"
+  ],
+  [
+    "에브리타임",
+    "Everytime",
+    "1015586366",
+    "com.estsoft.everytime",
+    "sns"
+  ],
+  [
+    "드래곤빌리지3",
+    "",
+    "6499562253",
+    "",
+    "game"
+  ],
+  [
+    "포트리스3 BLUE",
+    "",
+    "6759036071",
+    "",
+    "game"
+  ],
+  [
+    "천년의 구미호 키우기",
+    "",
+    "6756037863",
+    "",
+    "game"
+  ],
+  [
+    "패왕의별M:한국무협 IP 1억뷰기념 1억은자 지급",
+    "",
+    "6761399468",
+    "",
+    "game"
+  ],
+  [
+    "블록 블라스트 (Block Blast)",
+    "",
+    "1617391485",
+    "",
+    "game"
+  ],
+  [
+    "스타세이비어",
+    "",
+    "6443597557",
+    "",
+    "game"
+  ],
+  [
+    "Jewel Coloring",
+    "",
+    "6759081967",
+    "",
+    "game"
+  ],
+  [
+    "Brain Puzzle 3: Crazy Mind",
+    "",
+    "6756482832",
+    "",
+    "game"
+  ],
+  [
+    "더 코지 플로리스트",
+    "",
+    "6760822948",
+    "",
+    "game"
+  ],
+  [
+    "템빨용사: 픽셀 아이템 머지 RPG",
+    "",
+    "6755585789",
+    "",
+    "game"
+  ],
+  [
+    "Tricky Story 2: Brain Twist",
+    "",
+    "6757844491",
+    "",
+    "game"
+  ],
+  [
+    "NBA Basketball World 2026",
+    "",
+    "6762259371",
+    "",
+    "game"
+  ],
+  [
+    "마법의 정렬 (Magic Sort!)",
+    "",
+    "6499209744",
+    "",
+    "game"
+  ],
+  [
+    "WOS: 화이트아웃 서바이벌",
+    "",
+    "6443575749",
+    "",
+    "game"
+  ],
+  [
+    "Pokémon GO",
+    "",
+    "1094591345",
+    "",
+    "game"
+  ],
+  [
+    "펭귄 대모험 : 꽁꽁 방어전",
+    "",
+    "6744437193",
+    "",
+    "game"
+  ],
+  [
+    "오늘의 꽃 : 진짜 꽃을 키우는 게임",
+    "",
+    "6759822089",
+    "",
+    "game"
+  ],
+  [
+    "운빨존많겜",
+    "",
+    "6482291732",
+    "",
+    "game"
+  ],
+  [
+    "로블록스(Roblox)",
+    "",
+    "431946152",
+    "",
+    "game"
+  ],
+  [
+    "밤탈출 - 49일",
+    "",
+    "6760175759",
+    "",
+    "game"
+  ],
+  [
+    "메이플 키우기",
+    "",
+    "6739616715",
+    "",
+    "game"
+  ],
+  [
+    "Tricky Mean2",
+    "",
+    "6758080238",
+    "",
+    "game"
+  ],
+  [
+    "테이스티 트레블: 합성 게임",
+    "",
+    "6471045672",
+    "",
+    "game"
+  ],
+  [
+    "Castle Busters",
+    "",
+    "6746328263",
+    "",
+    "game"
+  ],
+  [
+    "Arrows – Puzzle Escape",
+    "",
+    "6748397500",
+    "",
+    "game"
+  ],
+  [
+    "무한의 계단",
+    "",
+    "947742764",
+    "",
+    "game"
+  ],
+  [
+    "TopTop: 게임, 채팅 & 친구들",
+    "",
+    "6760818996",
+    "",
+    "game"
+  ],
+  [
+    "앵그리버드 2 (Angry Birds 2)",
+    "",
+    "880047117",
+    "",
+    "game"
+  ],
+  [
+    "나 혼자 만렙 키우기",
+    "",
+    "6566177585",
+    "",
+    "game"
+  ],
+  [
+    "Brain Puzzle: Tricky Quest",
+    "",
+    "6670789598",
+    "",
+    "game"
+  ],
+  [
+    "초자연 작전팀",
+    "",
+    "6755951087",
+    "",
+    "game"
+  ],
+  [
+    "로얄 킹덤 (Royal Kingdom)",
+    "",
+    "1606549505",
+    "",
+    "game"
+  ],
+  [
+    "Pixel Flow!",
+    "",
+    "6751056652",
+    "",
+    "game"
+  ],
+  [
+    "Cookingo: Perfect Meal",
+    "",
+    "6756288168",
+    "",
+    "game"
+  ],
+  [
+    "배틀그라운드",
+    "",
+    "1366526331",
+    "",
+    "game"
+  ],
+  [
+    "매직 타일 3™: 리듬 피아노 게임",
+    "",
+    "1443446174",
+    "",
+    "game"
+  ],
+  [
+    "Block Out! - Color Sort Puzzle",
+    "",
+    "6752672568",
+    "",
+    "game"
+  ],
+  [
+    "포켓몬 카드 게임 Pocket",
+    "",
+    "6479970832",
+    "",
+    "game"
+  ],
+  [
+    "Goose Goose Duck",
+    "",
+    "1558248707",
+    "",
+    "game"
+  ],
+  [
+    "킹갓캐슬: 빛의 운명",
+    "",
+    "1526791430",
+    "",
+    "game"
+  ],
+  [
+    "EA SPORTS FC Online M",
+    "",
+    "1273957743",
+    "",
+    "game"
+  ],
+  [
+    "Rummikub",
+    "",
+    "1015322991",
+    "",
+    "game"
+  ],
+  [
+    "킹샷:Kingshot",
+    "",
+    "6739554056",
+    "",
+    "game"
+  ],
+  [
+    "Arrows GO! - 화살 퍼즐 게임",
+    "",
+    "6758326278",
+    "",
+    "game"
+  ],
+  [
+    "어비스: 데스티니",
+    "",
+    "6642691353",
+    "",
+    "game"
+  ],
+  [
+    "Geometry Dash Lite",
+    "",
+    "698255242",
+    "",
+    "game"
+  ],
+  [
+    "컴투스프로야구V26",
+    "",
+    "1458848044",
+    "",
+    "game"
+  ],
+  [
+    "Brain Puzzle 2: Logic Twist",
+    "",
+    "6747063674",
+    "",
+    "game"
+  ],
+  [
+    "mo.co",
+    "",
+    "6474323148",
+    "",
+    "game"
+  ],
+  [
+    "꿈의 마을 (Township)",
+    "",
+    "638689075",
+    "",
+    "game"
+  ],
+  [
+    "픽셀 법사 키우기 : 방치형 RPG",
+    "",
+    "6741889270",
+    "",
+    "game"
+  ],
+  [
+    "들여보낼까 말까? - Let Them In?　",
+    "",
+    "6755861844",
+    "",
+    "game"
+  ],
+  [
+    "라스트 라이트",
+    "",
+    "6758203014",
+    "",
+    "game"
+  ],
+  [
+    "러쉬: 익스트림 (RUSH: Xtreme)",
+    "",
+    "6754098532",
+    "",
+    "game"
+  ],
+  [
+    "Glow Fashion Idol",
+    "",
+    "6446197181",
+    "",
+    "game"
+  ],
+  [
+    "특급 주령의 위협",
+    "",
+    "6761156133",
+    "",
+    "game"
+  ],
+  [
+    "Screwdom : 나사와 볼트 퍼즐",
+    "",
+    "6740043080",
+    "",
+    "game"
+  ],
+  [
+    "로얄 매치 (Royal Match)",
+    "",
+    "1482155847",
+    "",
+    "game"
+  ],
+  [
+    "가십하버: 합성 & 스토리 게임",
+    "",
+    "1623318294",
+    "",
+    "game"
+  ],
+  [
+    "스도쿠 - 클래식 로직 퍼즐 게임",
+    "",
+    "1193508329",
+    "",
+    "game"
+  ],
+  [
+    "순찰중! 바로 체포!",
+    "",
+    "6759997224",
+    "",
+    "game"
+  ],
+  [
+    "Subway Surfers",
+    "",
+    "512939461",
+    "",
+    "game"
+  ],
+  [
+    "Bus Escape: Traffic Jam",
+    "",
+    "6689516366",
+    "",
+    "game"
+  ],
+  [
+    "두근두근타운",
+    "",
+    "6746151928",
+    "",
+    "game"
+  ],
+  [
+    "텐텐오락실",
+    "",
+    "1144557284",
+    "",
+    "game"
+  ],
+  [
+    "Among Us!",
+    "",
+    "1351168404",
+    "",
+    "game"
+  ],
+  [
+    "Color Block Jam",
+    "",
+    "6504332779",
+    "",
+    "game"
+  ],
+  [
+    "컴투스프로야구2026",
+    "",
+    "880551258",
+    "",
+    "game"
+  ],
+  [
+    "세포 특공대 - 전략형 타워 디펜스",
+    "",
+    "6746465127",
+    "",
+    "game"
+  ],
+  [
+    "솔리테어 - 카드게임 또 워드퍼즐",
+    "",
+    "6748950306",
+    "",
+    "game"
+  ],
+  [
+    "Bus Rush Fever!",
+    "",
+    "6759763476",
+    "",
+    "game"
+  ],
+  [
+    "브레인 테스트 (Brain Test): 까다로운 퍼즐",
+    "",
+    "1486214495",
+    "",
+    "game"
+  ],
+  [
+    "데이터 필요없는 게임 - 와이파이 필요없는 게임",
+    "",
+    "6448104157",
+    "",
+    "game"
+  ],
+  [
+    "Yarn Loop: Knit Puzzle",
+    "",
+    "6755183085",
+    "",
+    "game"
+  ],
+  [
+    "머지 쿠킹 테마 레스토랑（Merge Cooking）",
+    "",
+    "1643509748",
+    "",
+    "game"
+  ],
+  [
+    "고양이와 스프: 마법의 레시피",
+    "",
+    "6446347021",
+    "",
+    "game"
+  ],
+  [
+    "몬스터의 모험: 진화의 시작",
+    "",
+    "6760326544",
+    "",
+    "game"
+  ],
+  [
+    "Hole.io",
+    "",
+    "1389111413",
+    "",
+    "game"
+  ],
+  [
+    "오목의 달인",
+    "",
+    "870442795",
+    "",
+    "game"
+  ],
+  [
+    "협동 타워 디펜스 : 친구와 함께",
+    "",
+    "6503702666",
+    "",
+    "game"
+  ],
+  [
+    "Downhill Race League",
+    "",
+    "6547846665",
+    "",
+    "game"
+  ],
+  [
+    "체스 · 플레이 및 배우기 온라인",
+    "",
+    "329218549",
+    "",
+    "game"
+  ],
+  [
+    "사과게임 - 화제의 인싸게임",
+    "",
+    "1566126120",
+    "",
+    "game"
+  ],
+  [
+    "비즈 앤 타운: 회사 경영 시뮬레이션 - 타이쿤 게임",
+    "",
+    "6478472449",
+    "",
+    "game"
+  ],
+  [
+    "탕후루의 달인 - 두쫀쿠, 급식, 배달 먹방 ASMR",
+    "",
+    "6466620626",
+    "",
+    "game"
+  ],
+  [
+    "의지의 히어로: 리바이벌 - Will Hero",
+    "",
+    "1612006192",
+    "",
+    "game"
+  ],
+  [
+    "Search It - Hidden Objects",
+    "",
+    "6756185760",
+    "",
+    "game"
+  ],
+  [
+    "비타 마작(Vita Mahjong)",
+    "",
+    "6468921495",
+    "",
+    "game"
+  ],
+  [
+    "포켓 정렬 (Pocket Sort): 동전 병합 퍼즐",
+    "",
+    "6755425214",
+    "",
+    "game"
+  ],
+  [
+    "aquapark.io",
+    "",
+    "1453989822",
+    "",
+    "game"
+  ],
+  [
+    "Disney Solitaire",
+    "",
+    "6475757306",
+    "",
+    "game"
+  ],
+  [
+    "전략적 팀 전투: 리그 오브 레전드 전략 게임",
+    "",
+    "1480616748",
+    "",
+    "game"
+  ],
+  [
+    "UNO!™",
+    "",
+    "1344700142",
+    "",
+    "game"
+  ],
+  [
+    "털실 마스터 - 마법의 정렬 버스주차퍼즐게임",
+    "",
+    "6743385713",
+    "",
+    "game"
+  ],
+  [
+    "매직 레벨 9: 탭 피아노 게임, 비트에 맞춰 춤추기",
+    "",
+    "1446874445",
+    "",
+    "game"
+  ],
+  [
+    "표류소녀: 다시 만난 세계",
+    "",
+    "6758332066",
+    "",
+    "game"
+  ],
+  [
+    "Sheep Dash- 양목장 주차장 분류 게임",
+    "",
+    "6754862574",
+    "",
+    "game"
+  ],
+  [
+    "Google Gemini",
+    "",
+    "6477489729",
+    "",
+    "productivity"
+  ],
+  [
+    "Claude by Anthropic",
+    "",
+    "6473753684",
+    "",
+    "productivity"
+  ],
+  [
+    "ChatGPT",
+    "",
+    "6448311069",
+    "",
+    "productivity"
+  ],
+  [
+    "K-패스",
+    "",
+    "1538531939",
+    "",
+    "productivity"
+  ],
+  [
+    "Gmail: Google이 제공하는 이메일",
+    "",
+    "422689480",
+    "",
+    "productivity"
+  ],
+  [
+    "Google Sheets",
+    "",
+    "842849113",
+    "",
+    "productivity"
+  ],
+  [
+    "Google 드라이브 – 안전한 온라인 파일 저장공간",
+    "",
+    "507874739",
+    "",
+    "productivity"
+  ],
+  [
+    "AnySchedule - 올인원 플래너 & 캘린더",
+    "",
+    "6759487521",
+    "",
+    "productivity"
+  ],
+  [
+    "Grok AI",
+    "",
+    "6670324846",
+    "",
+    "productivity"
+  ],
+  [
+    "VPN - Super Unlimited Proxy",
+    "",
+    "1370293473",
+    "",
+    "productivity"
+  ],
+  [
+    "데일리스케줄 - 시간표 (플래너,생활계획표,PDF)",
+    "",
+    "1662194776",
+    "",
+    "productivity"
+  ],
+  [
+    "Perplexity - 무엇이든 물어보세요",
+    "",
+    "1668000334",
+    "",
+    "productivity"
+  ],
+  [
+    "Notion: 메모, 작업, AI",
+    "",
+    "1232780281",
+    "",
+    "productivity"
+  ],
+  [
+    "Google Docs",
+    "",
+    "842842640",
+    "",
+    "productivity"
+  ],
+  [
+    "에이닷 - 나만의 AI 개인비서",
+    "",
+    "1615345993",
+    "",
+    "productivity"
+  ],
+  [
+    "클로바노트 - 음성 그 이상의 기록",
+    "",
+    "1530010245",
+    "",
+    "productivity"
+  ],
+  [
+    "Windows와 연결",
+    "",
+    "6443686328",
+    "",
+    "productivity"
+  ],
+  [
+    "TimeTree 캘린더 공유 앱",
+    "",
+    "952578473",
+    "",
+    "productivity"
+  ],
+  [
+    "Google NotebookLM",
+    "",
+    "6737527615",
+    "",
+    "productivity"
+  ],
+  [
+    "한컴독스 (오피스)",
+    "",
+    "1611732182",
+    "",
+    "productivity"
+  ],
+  [
+    "minical - 일정 관리 캘린더 앱 (달력)",
+    "",
+    "1558953048",
+    "",
+    "productivity"
+  ],
+  [
+    "vFlat Scan - PDF 스캐너",
+    "",
+    "1540238220",
+    "",
+    "productivity"
+  ],
+  [
+    "Google 프레젠테이션",
+    "",
+    "879478102",
+    "",
+    "productivity"
+  ],
+  [
+    "Microsoft Authenticator",
+    "",
+    "983156458",
+    "",
+    "productivity"
+  ],
+  [
+    "폴라리스 오피스 - 한글, PDF, MS문서, GPT",
+    "",
+    "698070860",
+    "",
+    "productivity"
+  ],
+  [
+    "Zip Unzip - Unrar Tool PRO",
+    "",
+    "6745427976",
+    "",
+    "productivity"
+  ],
+  [
+    "CJ대한통운 오네",
+    "",
+    "889796593",
+    "",
+    "productivity"
+  ],
+  [
+    "TeraBox: 1TB 클라우드 저장소 & AI 공간",
+    "",
+    "1509453185",
+    "",
+    "productivity"
+  ],
+  [
+    "Focus Town: Study With Friends",
+    "",
+    "6758457625",
+    "",
+    "productivity"
+  ],
+  [
+    "한컴오피스 Viewer",
+    "",
+    "369832061",
+    "",
+    "productivity"
+  ],
+  [
+    "Google 캘린더: 일정을 정리하세요",
+    "",
+    "909319292",
+    "",
+    "productivity"
+  ],
+  [
+    "Manus AI (마누스) - 범용 AI 에이전트",
+    "",
+    "6740909540",
+    "",
+    "productivity"
+  ],
+  [
+    "국군복지포털",
+    "",
+    "6449007256",
+    "",
+    "productivity"
+  ],
+  [
+    "삼성화재 다이렉트 자동차보험",
+    "",
+    "6747667223",
+    "",
+    "productivity"
+  ],
+  [
+    "Microsoft OneDrive",
+    "",
+    "477537958",
+    "",
+    "productivity"
+  ],
+  [
+    "투두메이트: 할 일, 루틴",
+    "",
+    "1505220130",
+    "",
+    "productivity"
+  ],
+  [
+    "Microsoft Excel",
+    "",
+    "586683407",
+    "",
+    "productivity"
+  ],
+  [
+    "printingbox",
+    "",
+    "6469260130",
+    "",
+    "productivity"
+  ],
+  [
+    "PDF Converter - OCR Reader",
+    "",
+    "6758373190",
+    "",
+    "productivity"
+  ],
+  [
+    "네이버 메일",
+    "",
+    "582152066",
+    "",
+    "productivity"
+  ],
+  [
+    "CamScanner - 문서 스캔 & PDF 변환",
+    "",
+    "388627783",
+    "",
+    "productivity"
+  ],
+  [
+    "Surfshark VPN: 프리미엄 VPN 경험",
+    "",
+    "1391782046",
+    "",
+    "productivity"
+  ],
+  [
+    "ALPACA - 앨범의 사진을 간단 정리 삭제하여 용량 확보하기",
+    "",
+    "934444072",
+    "",
+    "productivity"
+  ],
+  [
+    "딸깍 - 링크, 스크린샷, 메모 한 곳에 저장",
+    "",
+    "6670229348",
+    "",
+    "productivity"
+  ],
+  [
+    "Microsoft Outlook",
+    "",
+    "951937596",
+    "",
+    "productivity"
+  ],
+  [
+    "ipTIME 설치도우미",
+    "",
+    "1169273901",
+    "",
+    "productivity"
+  ],
+  [
+    "Turbo VPN Private Browser",
+    "",
+    "1365309175",
+    "",
+    "productivity"
+  ],
+  [
+    "센드애니웨어(Send Anywhere)",
+    "",
+    "596642855",
+    "",
+    "productivity"
+  ],
+  [
+    "젠스파크 AI 워크스페이스",
+    "",
+    "6739554054",
+    "",
+    "productivity"
+  ],
+  [
+    "네이버 클로바 - NAVER CLOVA",
+    "",
+    "1234216092",
+    "",
+    "productivity"
+  ],
+  [
+    "베이키 - 산돌구름 모바일 폰트 앱의 새로운 이름",
+    "",
+    "1499925527",
+    "",
+    "productivity"
+  ],
+  [
+    "네이버 캘린더 - Naver Calendar",
+    "",
+    "592346243",
+    "",
+    "productivity"
+  ],
+  [
+    "플래닛 - 할 일, 일정, 캘린더",
+    "",
+    "1603481820",
+    "",
+    "productivity"
+  ],
+  [
+    "마이루틴: 루틴 습관 투두 플래너・ADHD 하루 계획표",
+    "",
+    "1518956326",
+    "",
+    "productivity"
+  ],
+  [
+    "Meta AI - 어시스턴트 및 안경",
+    "",
+    "1558240027",
+    "",
+    "productivity"
+  ],
+  [
+    "스위치 - 국민 통화 녹음 앱",
+    "",
+    "1495012474",
+    "",
+    "productivity"
+  ],
+  [
+    "벨소리메이커 -벨소리 제조 응용 프로그램",
+    "",
+    "1358107315",
+    "",
+    "productivity"
+  ],
+  [
+    "모노티 (Monoti) - 올인원 워크 & 라이프",
+    "",
+    "6473604609",
+    "",
+    "productivity"
+  ],
+  [
+    "Microsoft Word",
+    "",
+    "586447913",
+    "",
+    "productivity"
+  ],
+  [
+    "NIIMBOT",
+    "",
+    "1359104615",
+    "",
+    "productivity"
+  ],
+  [
+    "심플 캘린더: 스케줄 플래너, 타임 관리 앱 (달력)",
+    "",
+    "1422994973",
+    "",
+    "productivity"
+  ],
+  [
+    "Dropbox: 클라우드 드라이브 및 파일 저장공간",
+    "",
+    "327630330",
+    "",
+    "productivity"
+  ],
+  [
+    "잠글시간: 앱 잠금 & 공부 타이머",
+    "",
+    "6504188981",
+    "",
+    "productivity"
+  ],
+  [
+    "Google One",
+    "",
+    "1451784328",
+    "",
+    "productivity"
+  ],
+  [
+    "Microsoft PowerPoint",
+    "",
+    "586449534",
+    "",
+    "productivity"
+  ],
+  [
+    "Flitto Chat Translation",
+    "",
+    "6736825552",
+    "",
+    "productivity"
+  ],
+  [
+    "데일리",
+    "",
+    "6737768320",
+    "",
+    "productivity"
+  ],
+  [
+    "Certpia",
+    "",
+    "928347102",
+    "",
+    "productivity"
+  ],
+  [
+    "Dola: 스마트 AI 도우미",
+    "",
+    "6451431247",
+    "",
+    "productivity"
+  ],
+  [
+    "Microsoft Copilot",
+    "",
+    "6472538445",
+    "",
+    "productivity"
+  ],
+  [
+    "Padlet",
+    "",
+    "834618886",
+    "",
+    "productivity"
+  ],
+  [
+    "Microsoft 365 Copilot",
+    "",
+    "541164041",
+    "",
+    "productivity"
+  ],
+  [
+    "다글로 - 세상 모든 AI를 한 번에",
+    "",
+    "1632867925",
+    "",
+    "productivity"
+  ],
+  [
+    "FocusFlight-집중을 되찾고 싶은 당신을 위해",
+    "",
+    "6648771147",
+    "",
+    "productivity"
+  ],
+  [
+    "Google Keep - 메모 및 목록",
+    "",
+    "1029207872",
+    "",
+    "productivity"
+  ],
+  [
+    "지키자: 앱 차단, 스크린타임, 공부 집중 타이머",
+    "",
+    "1668971820",
+    "",
+    "productivity"
+  ],
+  [
+    "Obsidian - Connected Notes",
+    "",
+    "1557175442",
+    "",
+    "productivity"
+  ],
+  [
+    "VPN Proxy Master - Super VPN",
+    "",
+    "1025707485",
+    "",
+    "productivity"
+  ],
+  [
+    "오늘근무",
+    "",
+    "1509907307",
+    "",
+    "productivity"
+  ],
+  [
+    "Notion 캘린더",
+    "",
+    "1607562761",
+    "",
+    "productivity"
+  ],
+  [
+    "타임스프레드 : 시간표, 캘린더, 일정관리, 돈버는앱",
+    "",
+    "457130897",
+    "",
+    "productivity"
+  ],
+  [
+    "Taska: 할 일 목록 & 플래너",
+    "",
+    "6758015022",
+    "",
+    "productivity"
+  ],
+  [
+    "ADT캡스 모바일 출입카드",
+    "",
+    "1481019064",
+    "",
+    "productivity"
+  ],
+  [
+    "GammaAI - 프레젠테이션 제작 도구",
+    "",
+    "6755874764",
+    "",
+    "productivity"
+  ],
+  [
+    "ChatNow・AI 챗봇 및 그림 생성기",
+    "",
+    "6670212540",
+    "",
+    "productivity"
+  ],
+  [
+    "건설안전패스",
+    "",
+    "6740196517",
+    "",
+    "productivity"
+  ],
+  [
+    "터닝: 앱 잠금, 폰 잠금, 공부/집중 타이머, 루틴",
+    "",
+    "6449270376",
+    "",
+    "productivity"
+  ],
+  [
+    "다음 메일 - Daum Mail",
+    "",
+    "1455817344",
+    "",
+    "productivity"
+  ],
+  [
+    "Forest - 집중 공부 타이머 & 디지털 디톡스",
+    "",
+    "866450515",
+    "",
+    "productivity"
+  ],
+  [
+    "Cloud 클라우드 스토리지 : 사진, 비디오 백업",
+    "",
+    "696551382",
+    "",
+    "productivity"
+  ],
+  [
+    "Widgetsmith",
+    "",
+    "1523682319",
+    "",
+    "productivity"
+  ],
+  [
+    "스프레드시트-XLSX 시트",
+    "",
+    "1518721142",
+    "",
+    "productivity"
+  ],
+  [
+    "해피 파킹 - 스마트 방문 차량 예약 앱",
+    "",
+    "1487013078",
+    "",
+    "productivity"
+  ],
+  [
+    "LilysAI(릴리스AI) - 유튜브,PDF, 웹 요약",
+    "",
+    "6759151868",
+    "",
+    "productivity"
+  ],
+  [
+    "DeepSeek - AI 어시스턴트",
+    "",
+    "6737597349",
+    "",
+    "productivity"
+  ],
+  [
+    "Goodnotes: AI 노트, 문서, PDF",
+    "",
+    "1444383602",
+    "",
+    "productivity"
+  ],
+  [
+    "폴라리스 뷰어 - PDF, 한글, 오피스 문서 리더",
+    "",
+    "1361508774",
+    "",
+    "productivity"
+  ],
+  [
+    "MyMoji - 이모티콘·특수문자·아스키아트·카오모지",
+    "",
+    "6747387267",
+    "",
+    "productivity"
+  ],
+  [
+    "아이젠하워 매트릭스: 투두, 메모 우선순위 관리",
+    "",
+    "6473735916",
+    "",
+    "productivity"
+  ],
+  [
+    "setlog",
+    "",
+    "6587576438",
+    "",
+    "sns"
+  ],
+  [
+    "Threads",
+    "",
+    "6446901002",
+    "",
+    "sns"
+  ],
+  [
+    "Telegram Messenger",
+    "",
+    "686449807",
+    "",
+    "sns"
+  ],
+  [
+    "WhatsApp Messenger",
+    "",
+    "310633997",
+    "",
+    "sns"
+  ],
+  [
+    "넥슨플레이",
+    "",
+    "624443513",
+    "",
+    "sns"
+  ],
+  [
+    "Discord - 대화, 플레이, 어울리기",
+    "",
+    "985746746",
+    "",
+    "sns"
+  ],
+  [
+    "WeChat",
+    "",
+    "414478124",
+    "",
+    "sns"
+  ],
+  [
+    "아하: 질문답변이 돈이 되는 Q&A 커뮤니티",
+    "",
+    "1615680677",
+    "",
+    "sns"
+  ],
+  [
+    "밴드-모임이 쉬워진다!",
+    "",
+    "542613198",
+    "",
+    "sns"
+  ],
+  [
+    "범프 - 친구들의 지도",
+    "",
+    "6471519217",
+    "",
+    "sns"
+  ],
+  [
+    "라인 LINE",
+    "",
+    "443904275",
+    "",
+    "sns"
+  ],
+  [
+    "rednote",
+    "",
+    "741292507",
+    "",
+    "sns"
+  ],
+  [
+    "네이버 블로그 - Naver Blog",
+    "",
+    "328813873",
+    "",
+    "sns"
+  ],
+  [
+    "핑퐁 Pingpong",
+    "",
+    "6761013824",
+    "",
+    "sns"
+  ],
+  [
+    "Facebook",
+    "",
+    "284882215",
+    "",
+    "sns"
+  ],
+  [
+    "Google Meet",
+    "",
+    "1096918571",
+    "",
+    "sns"
+  ],
+  [
+    "네이버 카페 – Naver Cafe",
+    "",
+    "420615104",
+    "",
+    "sns"
+  ],
+  [
+    "포스타입 POSTYPE",
+    "",
+    "1502367642",
+    "",
+    "sns"
+  ],
+  [
+    "위버스 - 아티스트와 더 가까이",
+    "",
+    "1456559188",
+    "",
+    "sns"
+  ],
+  [
+    "BeReal. Real한 당신의 친구들",
+    "",
+    "1459645446",
+    "",
+    "sns"
+  ],
+  [
+    "위피 - 동네친구가 필요할 때",
+    "",
+    "1261209014",
+    "",
+    "sns"
+  ],
+  [
+    "카카오톡 KakaoTalk",
+    "",
+    "362057947",
+    "",
+    "sns"
+  ],
+  [
+    "아이쉐어링: 위치추적, GPS 기기찾기, 가족 안심",
+    "",
+    "416436167",
+    "",
+    "sns"
+  ],
+  [
+    "노라보자",
+    "",
+    "6766067930",
+    "",
+    "sns"
+  ],
+  [
+    "인투펫 - 펫 AI 에이전트",
+    "",
+    "1093671594",
+    "",
+    "sns"
+  ],
+  [
+    "케밋 동네친구 소개팅 - MBTI부터 스킨십 궁합까지",
+    "",
+    "6443910395",
+    "",
+    "sns"
+  ],
+  [
+    "소모임 - 취미모임 동호회 앱 | 우리동네 취미 모임",
+    "",
+    "582910479",
+    "",
+    "sns"
+  ],
+  [
+    "스콜레클럽",
+    "",
+    "6762550353",
+    "",
+    "sns"
+  ],
+  [
+    "bubble with STARS",
+    "",
+    "1556582179",
+    "",
+    "sns"
+  ],
+  [
+    "Berriz 베리즈",
+    "",
+    "6737214694",
+    "",
+    "sns"
+  ],
+  [
+    "THE CAMP",
+    "",
+    "1364855523",
+    "",
+    "sns"
+  ],
+  [
+    "카카오비즈니스 파트너센터",
+    "",
+    "990571676",
+    "",
+    "sns"
+  ],
+  [
+    "헬로우봇: 2026 신년운세, 사주타로, 운세, 만세력",
+    "",
+    "1294957719",
+    "",
+    "sns"
+  ],
+  [
+    "히로인스- 엄마전용 만보기·체험단·앱테크·쇼핑·커뮤니티",
+    "",
+    "1644671834",
+    "",
+    "sns"
+  ],
+  [
+    "다음 카페 - Daum Cafe",
+    "",
+    "369302790",
+    "",
+    "sns"
+  ],
+  [
+    "글램 : 탈퇴하세요, 함께 - 소개팅 데이트 만남",
+    "",
+    "1058232900",
+    "",
+    "sns"
+  ],
+  [
+    "asked 에스크",
+    "",
+    "1185897042",
+    "",
+    "sns"
+  ],
+  [
+    "문토 - 소모임 취미 동호회 동네친구 원데이클래스",
+    "",
+    "1535886772",
+    "",
+    "sns"
+  ],
+  [
+    "oitalk",
+    "",
+    "1080240167",
+    "",
+    "sns"
+  ],
+  [
+    "키즈노트",
+    "",
+    "527574743",
+    "",
+    "sns"
+  ],
+  [
+    "윌유: 인연 큐레이터 - 소개팅 데이트",
+    "",
+    "1644080758",
+    "",
+    "sns"
+  ],
+  [
+    "PokeRaid - 세계 원격 레이드",
+    "",
+    "1507659524",
+    "",
+    "sns"
+  ],
+  [
+    "커넥팅: 글로벌 통화 친구& 소셜 대화",
+    "",
+    "1384259378",
+    "",
+    "sns"
+  ],
+  [
+    "아자르 - 마음 맞는 친구 찾기",
+    "",
+    "972558973",
+    "",
+    "sns"
+  ],
+  [
+    "팬딩 - 크리에이터와 팬이 가장 가까운 곳",
+    "",
+    "1448461765",
+    "",
+    "sns"
+  ],
+  [
+    "수다 - 마음이 통하는 채팅 친구 만들기",
+    "",
+    "1549820562",
+    "",
+    "sns"
+  ],
+  [
+    "정오의데이트 소개팅 - 동네친구, 데이트, 만남",
+    "",
+    "427242564",
+    "",
+    "sns"
+  ],
+  [
+    "bubble for YH",
+    "",
+    "6759778543",
+    "",
+    "sns"
+  ],
+  [
+    "안전Dream - 아동·여성·장애인경찰지원센터",
+    "",
+    "1067177137",
+    "",
+    "sns"
+  ],
+  [
+    "겜톡톡 - 게임친구와 리워드가 필요할 때",
+    "",
+    "731809954",
+    "",
+    "sns"
+  ],
+  [
+    "Messenger",
+    "",
+    "454638411",
+    "",
+    "sns"
+  ],
+  [
+    "Bluesky Social",
+    "",
+    "6444370199",
+    "",
+    "sns"
+  ],
+  [
+    "Likey 라이키 - 크리에이터와 만나는 최적의 공간",
+    "",
+    "1499066925",
+    "",
+    "sns"
+  ],
+  [
+    "카카오스토리",
+    "",
+    "486244601",
+    "",
+    "sns"
+  ],
+  [
+    "블릿 - 소개팅 & 커뮤니티",
+    "",
+    "1522829756",
+    "",
+    "sns"
+  ],
+  [
+    "자이홈패스",
+    "",
+    "6477419404",
+    "",
+    "sns"
+  ],
+  [
+    "Noeru - 비디오 통화·채팅으로 이야기를 나눈다",
+    "",
+    "6761586062",
+    "",
+    "sns"
+  ],
+  [
+    "카트 – TCG 카드 시세 & 거래",
+    "",
+    "6756939427",
+    "",
+    "sns"
+  ],
+  [
+    "마음 - 언어교환, 외국인 친구 만들기",
+    "",
+    "1535791771",
+    "",
+    "sns"
+  ],
+  [
+    "ZEPETO: 아바타, 채팅, 라이브",
+    "",
+    "1350301428",
+    "",
+    "sns"
+  ],
+  [
+    "Aspect: AI 전용 소셜 미디어",
+    "",
+    "6502742786",
+    "",
+    "sns"
+  ],
+  [
+    "Life360의 위치 공유",
+    "",
+    "384830320",
+    "",
+    "sns"
+  ],
+  [
+    "SOLOTTE!",
+    "",
+    "1420913667",
+    "",
+    "sns"
+  ],
+  [
+    "픽챠 - 덕후들의 비밀 아지트",
+    "",
+    "1673653026",
+    "",
+    "sns"
+  ],
+  [
+    "앙팅 즐팅 동네 채팅 친구 대화",
+    "",
+    "1102080322",
+    "",
+    "sns"
+  ],
+  [
+    "Signal - 안전한 메신저",
+    "",
+    "874139669",
+    "",
+    "sns"
+  ],
+  [
+    "내마리마찌 : 연애 재판, 커플 화해",
+    "",
+    "6770150969",
+    "",
+    "sns"
+  ],
+  [
+    "트립비토즈 - Play Share Stay",
+    "",
+    "1206972376",
+    "",
+    "sns"
+  ],
+  [
+    "Lysn",
+    "",
+    "1425722238",
+    "",
+    "sns"
+  ],
+  [
+    "레포브 - 일상/영화/책/음악 세상 모든 기록 & 공유",
+    "",
+    "6502975294",
+    "",
+    "sns"
+  ],
+  [
+    "MEEFF 미프 - 전 세계 외국인 친구 사귀기",
+    "",
+    "1064381508",
+    "",
+    "sns"
+  ],
+  [
+    "블루미 - AI 친구 채팅 & 현실 친구 만들기",
+    "",
+    "6743377956",
+    "",
+    "sns"
+  ],
+  [
+    "인포즈 - 모델, 사진작가, 스타일리스트 매칭 플랫폼",
+    "",
+    "1538711855",
+    "",
+    "sns"
+  ],
+  [
+    "스푼 : 라이브 & 팟노블",
+    "",
+    "1040047095",
+    "",
+    "sns"
+  ],
+  [
+    "블랙야크 알파인 클럽 BAC",
+    "",
+    "1328731534",
+    "",
+    "sns"
+  ],
+  [
+    "타입스",
+    "",
+    "1596043031",
+    "",
+    "sns"
+  ],
+  [
+    "pixiv",
+    "",
+    "337248563",
+    "",
+    "sns"
+  ],
+  [
+    "뉴친스 - 수다, 랜덤 채팅, 익명 친구, 랜챗",
+    "",
+    "6443841456",
+    "",
+    "sns"
+  ],
+  [
+    "아챗 - 채팅 친구가 필요할 때",
+    "",
+    "6476837272",
+    "",
+    "sns"
+  ],
+  [
+    "심쿵 - 동네 친구 사귀고 싶을 때",
+    "",
+    "995132477",
+    "",
+    "sns"
+  ],
+  [
+    "퍼플 : 플레이, 채팅, 라이브를 한 곳에서",
+    "",
+    "1229963744",
+    "",
+    "sns"
+  ],
+  [
+    "브런치 - 좋은 글과 작가를 만나보세요",
+    "",
+    "1001388574",
+    "",
+    "sns"
+  ],
+  [
+    "Truth Social",
+    "",
+    "1586018825",
+    "",
+    "sns"
+  ],
+  [
+    "앙톡 - 앙큼하고 톡톡 튀는 친구와 채팅하자",
+    "",
+    "1434652607",
+    "",
+    "sns"
+  ],
+  [
+    "하이바이 - 동네친구부터 부담없는 친구까지",
+    "",
+    "6458590604",
+    "",
+    "sns"
+  ],
+  [
+    "Instagram 앱, Instants",
+    "",
+    "6756442328",
+    "",
+    "sns"
+  ],
+  [
+    "VIVID 비비드 - 선명한 연결, 실시간 영상통화",
+    "",
+    "6752241786",
+    "",
+    "sns"
+  ],
+  [
+    "Zalo",
+    "",
+    "579523206",
+    "",
+    "sns"
+  ],
+  [
+    "Locket Widget",
+    "",
+    "1600525061",
+    "",
+    "sns"
+  ],
+  [
+    "Hash #",
+    "",
+    "6743992853",
+    "",
+    "sns"
+  ],
+  [
+    "브릿지 - 마음을 이어주는 다리, 소개팅",
+    "",
+    "1237074289",
+    "",
+    "sns"
+  ],
+  [
+    "Reports Unfollowers-인스타그램",
+    "",
+    "1499924074",
+    "",
+    "sns"
+  ],
+  [
+    "도킷 – 채팅, 일본친구, 일본여자, 외국친구",
+    "",
+    "1472692146",
+    "",
+    "sns"
+  ],
+  [
+    "핑블 - 채팅 친구 만들기",
+    "",
+    "962741918",
+    "",
+    "sns"
+  ],
+  [
+    "즐톡라이브 - 공감을 위한 채팅 커뮤니티",
+    "",
+    "1445824321",
+    "",
+    "sns"
+  ],
+  [
+    "비트윈 Between-커플,사진,기념일,디데이,연애",
+    "",
+    "458035189",
+    "",
+    "sns"
+  ],
+  [
+    "네이트온",
+    "",
+    "362693357",
+    "",
+    "sns"
+  ],
+  [
+    "레플리 - 캐릭터와 AI 채팅하기",
+    "",
+    "6498868262",
+    "",
+    "sns"
+  ],
+  [
+    "CGV",
+    "",
+    "6738896323",
+    "",
+    "entertainment"
+  ],
+  [
+    "Vigloo - 숏폼드라마",
+    "",
+    "6503421271",
+    "",
+    "entertainment"
+  ],
+  [
+    "롯데시네마",
+    "",
+    "601280722",
+    "",
+    "entertainment"
+  ],
+  [
+    "MegaBox",
+    "",
+    "894443858",
+    "",
+    "entertainment"
+  ],
+  [
+    "NetShort - 인기 드라마 및 TV 프로그램",
+    "",
+    "6504849169",
+    "",
+    "entertainment"
+  ],
+  [
+    "NOL 티켓",
+    "",
+    "440487844",
+    "",
+    "entertainment"
+  ],
+  [
+    "DramaBox - 영화와 숏폼 드라마",
+    "",
+    "6445905219",
+    "",
+    "entertainment"
+  ],
+  [
+    "쿠팡플레이",
+    "",
+    "1536885649",
+    "",
+    "entertainment"
+  ],
+  [
+    "TikTok 틱톡",
+    "",
+    "1235601864",
+    "",
+    "entertainment"
+  ],
+  [
+    "롯데월드 어드벤처",
+    "",
+    "6744043800",
+    "",
+    "entertainment"
+  ],
+  [
+    "TVING",
+    "",
+    "400101401",
+    "",
+    "entertainment"
+  ],
+  [
+    "티켓베이 - No.1 티켓 거래 플랫폼",
+    "",
+    "1063714698",
+    "",
+    "entertainment"
+  ],
+  [
+    "Everland",
+    "",
+    "396584034",
+    "",
+    "entertainment"
+  ],
+  [
+    "치지직",
+    "",
+    "1585297308",
+    "",
+    "entertainment"
+  ],
+  [
+    "티켓링크 – 스포츠, 공연전시 예매, 쉽고 빠르게!",
+    "",
+    "1021825736",
+    "",
+    "entertainment"
+  ],
+  [
+    "레진스낵 - 볼수록 맛있는 숏드라마",
+    "",
+    "6751880104",
+    "",
+    "entertainment"
+  ],
+  [
+    "복똑방 (동행복권 공식 앱)",
+    "",
+    "6752271563",
+    "",
+    "entertainment"
+  ],
+  [
+    "Netflix",
+    "",
+    "363590051",
+    "",
+    "entertainment"
+  ],
+  [
+    "제타(zeta) - 상상이 현실이 되는 AI 채팅",
+    "",
+    "1619030760",
+    "",
+    "entertainment"
+  ],
+  [
+    "TikTok Lite",
+    "",
+    "6447160980",
+    "",
+    "entertainment"
+  ],
+  [
+    "Disney+",
+    "",
+    "1446075923",
+    "",
+    "entertainment"
+  ],
+  [
+    "네이버 웹툰 - Naver Webtoon",
+    "",
+    "315795555",
+    "",
+    "entertainment"
+  ],
+  [
+    "기리고",
+    "",
+    "6749406672",
+    "",
+    "entertainment"
+  ],
+  [
+    "라이엇 모바일",
+    "",
+    "1077150310",
+    "",
+    "entertainment"
+  ],
+  [
+    "Steam Mobile",
+    "",
+    "495369748",
+    "",
+    "entertainment"
+  ],
+  [
+    "WePlay - 파티게임",
+    "",
+    "1619262637",
+    "",
+    "entertainment"
+  ],
+  [
+    "Waitcle: 사주,점성술,타로 운세 프롬프트 생성기",
+    "",
+    "6748270348",
+    "",
+    "entertainment"
+  ],
+  [
+    "U+tv모바일",
+    "",
+    "1637815745",
+    "",
+    "entertainment"
+  ],
+  [
+    "SOOP - Live Streaming",
+    "",
+    "334185830",
+    "",
+    "entertainment"
+  ],
+  [
+    "Wavve (웨이브)",
+    "",
+    "987782077",
+    "",
+    "entertainment"
+  ],
+  [
+    "메이플스토리 월드",
+    "",
+    "1553717881",
+    "",
+    "entertainment"
+  ],
+  [
+    "StardustTV - 숏폼&영화",
+    "",
+    "6502377927",
+    "",
+    "entertainment"
+  ],
+  [
+    "SBS play",
+    "",
+    "1020136055",
+    "",
+    "entertainment"
+  ],
+  [
+    "포스텔러 - 2026 신년운세, 운세의 모든 것",
+    "",
+    "1262949138",
+    "",
+    "entertainment"
+  ],
+  [
+    "카카오페이지",
+    "",
+    "616643813",
+    "",
+    "entertainment"
+  ],
+  [
+    "Mnet Plus",
+    "",
+    "6443405421",
+    "",
+    "entertainment"
+  ],
+  [
+    "위프 - 원하는 전개 그대로, AI채팅 (로맨스&BL)",
+    "",
+    "6753713932",
+    "",
+    "entertainment"
+  ],
+  [
+    "Fever: 이벤트 · 티켓",
+    "",
+    "497702817",
+    "",
+    "entertainment"
+  ],
+  [
+    "DramaBox Lite - 숏폼드라마 TV",
+    "",
+    "6755754589",
+    "",
+    "entertainment"
+  ],
+  [
+    "DramaWave -일본 / 한국 / 인기 단편 드라마",
+    "",
+    "6670430706",
+    "",
+    "entertainment"
+  ],
+  [
+    "MUNIVERSE",
+    "",
+    "6749677921",
+    "",
+    "entertainment"
+  ],
+  [
+    "왓챠 - WATCHA",
+    "",
+    "1096493180",
+    "",
+    "entertainment"
+  ],
+  [
+    "베이글챗",
+    "",
+    "6749137461",
+    "",
+    "entertainment"
+  ],
+  [
+    "YouTube Kids",
+    "",
+    "936971630",
+    "",
+    "entertainment"
+  ],
+  [
+    "Amazon Prime Video",
+    "",
+    "545519333",
+    "",
+    "entertainment"
+  ],
+  [
+    "서울랜드",
+    "",
+    "6739317313",
+    "",
+    "entertainment"
+  ],
+  [
+    "프롬 - FrommyArti",
+    "",
+    "1641293296",
+    "",
+    "entertainment"
+  ],
+  [
+    "톡토리(talktory)- AI 캐릭터 채팅 게임",
+    "",
+    "6754052183",
+    "",
+    "entertainment"
+  ],
+  [
+    "iDrama - 숏드라마 허브",
+    "",
+    "6741501595",
+    "",
+    "entertainment"
+  ],
+  [
+    "포토그레이",
+    "",
+    "6478901226",
+    "",
+    "entertainment"
+  ],
+  [
+    "9.81 PARK",
+    "",
+    "1456217076",
+    "",
+    "entertainment"
+  ],
+  [
+    "멜론 티켓(Melon Ticket)",
+    "",
+    "1103635576",
+    "",
+    "entertainment"
+  ],
+  [
+    "Battle.net",
+    "",
+    "1241040030",
+    "",
+    "entertainment"
+  ],
+  [
+    "마이 티제이",
+    "",
+    "6504318853",
+    "",
+    "entertainment"
+  ],
+  [
+    "빅크 - 더쇼 투표와 최애 라이브까지",
+    "",
+    "1575835045",
+    "",
+    "entertainment"
+  ],
+  [
+    "지니 TV 모바일",
+    "",
+    "6443873604",
+    "",
+    "entertainment"
+  ],
+  [
+    "SMTOWN | OFFICIAL",
+    "",
+    "633333205",
+    "",
+    "entertainment"
+  ],
+  [
+    "도서문화상품권, 북앤라이프",
+    "",
+    "1021880847",
+    "",
+    "entertainment"
+  ],
+  [
+    "Crushie AI - 당신만을 위한 AI 파트너!",
+    "",
+    "6741790631",
+    "",
+    "entertainment"
+  ],
+  [
+    "뮤빗 Mubeat : kpop 팬들을 위한 모든 것",
+    "",
+    "1320789688",
+    "",
+    "entertainment"
+  ],
+  [
+    "Delta - Game Emulator",
+    "",
+    "1048524688",
+    "",
+    "entertainment"
+  ],
+  [
+    "AnyReel - Good Short & Drama",
+    "",
+    "6504592262",
+    "",
+    "entertainment"
+  ],
+  [
+    "크랙 - 즉흥 서사 플레이, AI 채팅",
+    "",
+    "6740223370",
+    "",
+    "entertainment"
+  ],
+  [
+    "I'm Miri 미리 - AI 라이프 코치",
+    "",
+    "6761462965",
+    "",
+    "entertainment"
+  ],
+  [
+    "경주월드",
+    "",
+    "6756393869",
+    "",
+    "entertainment"
+  ],
+  [
+    "Tokyo Disney Resort App",
+    "",
+    "1313147771",
+    "",
+    "entertainment"
+  ],
+  [
+    "Nintendo Switch App",
+    "",
+    "1234806557",
+    "",
+    "entertainment"
+  ],
+  [
+    "카카오웹툰 – KAKAO WEBTOON",
+    "",
+    "736602666",
+    "",
+    "entertainment"
+  ],
+  [
+    "Akinator",
+    "",
+    "933135994",
+    "",
+    "entertainment"
+  ],
+  [
+    "보드게임카페 레드버튼",
+    "",
+    "1612012561",
+    "",
+    "entertainment"
+  ],
+  [
+    "와이스 - 피규어ㆍTCGㆍ포켓몬카드ㆍ레고ㆍ스포츠카드",
+    "",
+    "1604496060",
+    "",
+    "entertainment"
+  ],
+  [
+    "PLVE",
+    "",
+    "6444673914",
+    "",
+    "entertainment"
+  ],
+  [
+    "왓챠피디아",
+    "",
+    "644185507",
+    "",
+    "entertainment"
+  ],
+  [
+    "윗치폼",
+    "",
+    "1561560151",
+    "",
+    "entertainment"
+  ],
+  [
+    "디시인사이드 - 대한민국 대표 커뮤니티",
+    "",
+    "1263389332",
+    "",
+    "entertainment"
+  ],
+  [
+    "포카마켓",
+    "",
+    "1638848943",
+    "",
+    "entertainment"
+  ],
+  [
+    "롯데월드 어드벤처 부산",
+    "",
+    "6744044083",
+    "",
+    "entertainment"
+  ],
+  [
+    "红果短剧 - 海量热门短剧随心看",
+    "",
+    "6451407032",
+    "",
+    "entertainment"
+  ],
+  [
+    "숫자별로 색칠하기: 픽셀 색칠 게임",
+    "",
+    "1317978215",
+    "",
+    "entertainment"
+  ],
+  [
+    "MiraiMind - 나만의 캐릭터 만들기",
+    "",
+    "6502377840",
+    "",
+    "entertainment"
+  ],
+  [
+    "Drama Go - 단편 드라마",
+    "",
+    "6742006251",
+    "",
+    "entertainment"
+  ],
+  [
+    "U+모바일tv",
+    "",
+    "663697257",
+    "",
+    "entertainment"
+  ],
+  [
+    "피클플러스",
+    "",
+    "6474522879",
+    "",
+    "entertainment"
+  ],
+  [
+    "Plus Chat 플러스챗",
+    "",
+    "6446480483",
+    "",
+    "entertainment"
+  ],
+  [
+    "모바일 B tv",
+    "",
+    "1255487920",
+    "",
+    "entertainment"
+  ],
+  [
+    "마음타로",
+    "",
+    "1400108819",
+    "",
+    "entertainment"
+  ],
+  [
+    "Unlock!",
+    "",
+    "1186762992",
+    "",
+    "entertainment"
+  ],
+  [
+    "오상",
+    "",
+    "6760097640",
+    "",
+    "entertainment"
+  ],
+  [
+    "StarPlayer+",
+    "",
+    "1474597276",
+    "",
+    "entertainment"
+  ],
+  [
+    "씨네Q",
+    "",
+    "1329381089",
+    "",
+    "entertainment"
+  ],
+  [
+    "FlickReels: 숏폼드라마,도라마코리아 & 시리즈",
+    "",
+    "6514312894",
+    "",
+    "entertainment"
+  ],
+  [
+    "IDOLCHAMP",
+    "",
+    "1185735018",
+    "",
+    "entertainment"
+  ],
+  [
+    "베이비챗 BabeChat",
+    "",
+    "6740225767",
+    "",
+    "entertainment"
+  ],
+  [
+    "몬스터파크",
+    "",
+    "6447489174",
+    "",
+    "entertainment"
+  ],
+  [
+    "PlayStation App",
+    "",
+    "410896080",
+    "",
+    "entertainment"
+  ],
+  [
+    "Google TV: 무비/TV 시청",
+    "",
+    "746894884",
+    "",
+    "entertainment"
+  ],
+  [
+    "ValoStore - 발로란트 상점",
+    "",
+    "6761961323",
+    "",
+    "entertainment"
+  ],
+  [
+    "클립 크리에이터",
+    "",
+    "925205585",
+    "",
+    "entertainment"
+  ],
+  [
+    "iQIYI - 중국/태국드라마, 중국 예능",
+    "",
+    "1461999674",
+    "",
+    "entertainment"
+  ],
+  [
+    "유니클로 UNIQLO - 쇼핑",
+    "",
+    "730814188",
+    "",
+    "shopping"
+  ],
+  [
+    "Temu: 억만장자처럼 쇼핑하기",
+    "",
+    "1641486558",
+    "",
+    "shopping"
+  ],
+  [
+    "네이버플러스 스토어",
+    "",
+    "6738063154",
+    "",
+    "shopping"
+  ],
+  [
+    "스파오 SPAO - 온라인 공식몰",
+    "",
+    "1527037287",
+    "",
+    "shopping"
+  ],
+  [
+    "AliExpress Shopping App",
+    "",
+    "436672029",
+    "",
+    "shopping"
+  ],
+  [
+    "KREAM(크림) - No.1 한정판 거래 플랫폼",
+    "",
+    "1490580239",
+    "",
+    "shopping"
+  ],
+  [
+    "컬리 - 마켓컬리, 뷰티컬리",
+    "",
+    "1080244833",
+    "",
+    "shopping"
+  ],
+  [
+    "Ralph Lauren- 랄프 로렌 앱",
+    "",
+    "6761515266",
+    "",
+    "shopping"
+  ],
+  [
+    "SHEIN - 온라인 쇼핑",
+    "",
+    "878577184",
+    "",
+    "shopping"
+  ],
+  [
+    "4910 : 사고 싶은 스타일의 발견",
+    "",
+    "6449024239",
+    "",
+    "shopping"
+  ],
+  [
+    "淘宝-万能的淘宝！",
+    "",
+    "387682726",
+    "",
+    "shopping"
+  ],
+  [
+    "Nike SNKRS: 특별한 스니커즈와 스트리트웨어",
+    "",
+    "911130812",
+    "",
+    "shopping"
+  ],
+  [
+    "온라인 패션 스토어 무신사",
+    "",
+    "1003139529",
+    "",
+    "shopping"
+  ],
+  [
+    "쿠팡(Coupang)-모바일 쇼핑",
+    "",
+    "454434967",
+    "",
+    "shopping"
+  ],
+  [
+    "에이블리 - 전 상품 무료배송",
+    "",
+    "1084960428",
+    "",
+    "shopping"
+  ],
+  [
+    "후루츠패밀리: 빈티지, 세컨핸드 패션 중고거래 커뮤니티",
+    "",
+    "1466193804",
+    "",
+    "shopping"
+  ],
+  [
+    "폴센트 - 최저가 알림ㆍ가격비교ㆍ핫딜ㆍ쇼핑이벤트",
+    "",
+    "1638569789",
+    "",
+    "shopping"
+  ],
+  [
+    "오늘의집 - 라이프스타일 슈퍼앱",
+    "",
+    "1008236892",
+    "",
+    "shopping"
+  ],
+  [
+    "ZARA",
+    "",
+    "547951480",
+    "",
+    "shopping"
+  ],
+  [
+    "SSF SHOP",
+    "",
+    "1020223989",
+    "",
+    "shopping"
+  ],
+  [
+    "TOPTEN10",
+    "",
+    "6450069980",
+    "",
+    "shopping"
+  ],
+  [
+    "중고나라 - 안심되는 중고거래",
+    "",
+    "896515652",
+    "",
+    "shopping"
+  ],
+  [
+    "T 멤버십",
+    "",
+    "464205249",
+    "",
+    "shopping"
+  ],
+  [
+    "IKEA",
+    "",
+    "1452164827",
+    "",
+    "shopping"
+  ],
+  [
+    "LG전자 LGE.COM",
+    "",
+    "1561079401",
+    "",
+    "shopping"
+  ],
+  [
+    "샵백 ShopBack - 쇼핑하고 돌려받는 현금 캐시백",
+    "",
+    "1086505626",
+    "",
+    "shopping"
+  ],
+  [
+    "T 우주",
+    "",
+    "6480496299",
+    "",
+    "shopping"
+  ],
+  [
+    "지그재그 - ZIGZAG",
+    "",
+    "976131101",
+    "",
+    "shopping"
+  ],
+  [
+    "나이키: 신발, 의류, 스포츠 스토리",
+    "",
+    "1095459556",
+    "",
+    "shopping"
+  ],
+  [
+    "롯데ON",
+    "",
+    "376622474",
+    "",
+    "shopping"
+  ],
+  [
+    "K Car - 케이카 직영중고차",
+    "",
+    "1068751035",
+    "",
+    "shopping"
+  ],
+  [
+    "H&M",
+    "",
+    "834465911",
+    "",
+    "shopping"
+  ],
+  [
+    "MUJI KR",
+    "",
+    "6739993593",
+    "",
+    "shopping"
+  ],
+  [
+    "룩핀 - 1000만 남성 코디 패션앱",
+    "",
+    "1102358106",
+    "",
+    "shopping"
+  ],
+  [
+    "soldout(솔드아웃)",
+    "",
+    "1515428637",
+    "",
+    "shopping"
+  ],
+  [
+    "다비치마켓 - 눈이 먼저 찾는 마켓",
+    "",
+    "6760438047",
+    "",
+    "shopping"
+  ],
+  [
+    "SSG.COM - 쓱닷컴",
+    "",
+    "786135420",
+    "",
+    "shopping"
+  ],
+  [
+    "W컨셉",
+    "",
+    "968266068",
+    "",
+    "shopping"
+  ],
+  [
+    "픽앤팝 - 내 손안의 미니 가챠샵",
+    "",
+    "6752372089",
+    "",
+    "shopping"
+  ],
+  [
+    "롯데마트GO",
+    "",
+    "987435592",
+    "",
+    "shopping"
+  ],
+  [
+    "아디다스: 스포츠 신발과 의류를 위한 쇼핑 앱",
+    "",
+    "1266591536",
+    "",
+    "shopping"
+  ],
+  [
+    "더현대Hi",
+    "",
+    "1067693191",
+    "",
+    "shopping"
+  ],
+  [
+    "오렌즈",
+    "",
+    "1071031131",
+    "",
+    "shopping"
+  ],
+  [
+    "Alibaba.com B2B 거래 앱",
+    "",
+    "503451073",
+    "",
+    "shopping"
+  ],
+  [
+    "쿠지맨",
+    "",
+    "6751103439",
+    "",
+    "shopping"
+  ],
+  [
+    "이마트몰 - Emartmall",
+    "",
+    "588620185",
+    "",
+    "shopping"
+  ],
+  [
+    "신세계면세점",
+    "",
+    "1174635397",
+    "",
+    "shopping"
+  ],
+  [
+    "롯데면세점",
+    "",
+    "492083651",
+    "",
+    "shopping"
+  ],
+  [
+    "ABC-MART",
+    "",
+    "1622149150",
+    "",
+    "shopping"
+  ],
+  [
+    "네스프레소",
+    "",
+    "1609639566",
+    "",
+    "shopping"
+  ],
+  [
+    "렌즈미",
+    "",
+    "6744803831",
+    "",
+    "shopping"
+  ],
+  [
+    "Payke 쿠폰으로 일본 여행 알뜰하게! 번역·리뷰",
+    "",
+    "1040452788",
+    "",
+    "shopping"
+  ],
+  [
+    "CJ온스타일",
+    "",
+    "366509410",
+    "",
+    "shopping"
+  ],
+  [
+    "MITSUKOSHI ISETAN JAPAN",
+    "",
+    "6738402688",
+    "",
+    "shopping"
+  ],
+  [
+    "Amazon Shopping",
+    "",
+    "297606951",
+    "",
+    "shopping"
+  ],
+  [
+    "스탬플리 - 혜택 받는 경유 쇼핑",
+    "",
+    "6463767665",
+    "",
+    "shopping"
+  ],
+  [
+    "신세계쇼핑",
+    "",
+    "987734239",
+    "",
+    "shopping"
+  ],
+  [
+    "신라면세점-뷰티,패션,주류 면세 쇼핑",
+    "",
+    "657305753",
+    "",
+    "shopping"
+  ],
+  [
+    "GS SHOP",
+    "",
+    "365438600",
+    "",
+    "shopping"
+  ],
+  [
+    "iHerb: 비타민 & 보충제",
+    "",
+    "636609212",
+    "",
+    "shopping"
+  ],
+  [
+    "무무즈",
+    "",
+    "1507151980",
+    "",
+    "shopping"
+  ],
+  [
+    "크로켓 - 전세계 커넥팅 쇼핑",
+    "",
+    "1348148420",
+    "",
+    "shopping"
+  ],
+  [
+    "렌블링 LENBLING - 트렌디한 컬러렌즈",
+    "",
+    "6737029355",
+    "",
+    "shopping"
+  ],
+  [
+    "현대홈쇼핑",
+    "",
+    "870397981",
+    "",
+    "shopping"
+  ],
+  [
+    "인천공항면세점",
+    "",
+    "6743690389",
+    "",
+    "shopping"
+  ],
+  [
+    "eBay online shopping & selling",
+    "",
+    "282614216",
+    "",
+    "shopping"
+  ],
+  [
+    "삼성닷컴",
+    "",
+    "6472879198",
+    "",
+    "shopping"
+  ],
+  [
+    "니콘내콘 : No.1 기프티콘 앱",
+    "",
+    "1198506454",
+    "",
+    "shopping"
+  ],
+  [
+    "아이디어스(idus)",
+    "",
+    "872469884",
+    "",
+    "shopping"
+  ],
+  [
+    "차란 - NO.1 세컨핸드 패션 앱",
+    "",
+    "1667756218",
+    "",
+    "shopping"
+  ],
+  [
+    "리시트 호그 - 영수증 찍고 현금 버는 앱테크 생활",
+    "",
+    "525373618",
+    "",
+    "shopping"
+  ],
+  [
+    "롯데하이마트",
+    "",
+    "503522370",
+    "",
+    "shopping"
+  ],
+  [
+    "SKECHERS KOREA",
+    "",
+    "6754304244",
+    "",
+    "shopping"
+  ],
+  [
+    "아몬즈 – 주얼리, a부터 z까지",
+    "",
+    "1384790834",
+    "",
+    "shopping"
+  ],
+  [
+    "拼多多 - 多多买菜，百亿补贴",
+    "",
+    "1044283059",
+    "",
+    "shopping"
+  ],
+  [
+    "홈플러스",
+    "",
+    "429151787",
+    "",
+    "shopping"
+  ],
+  [
+    "하나로마트앱(App)",
+    "",
+    "6458731236",
+    "",
+    "shopping"
+  ],
+  [
+    "SK스토아",
+    "",
+    "1129146609",
+    "",
+    "shopping"
+  ],
+  [
+    "StyleHint (스타일 힌트) - 스타일링 추천",
+    "",
+    "1440248752",
+    "",
+    "shopping"
+  ],
+  [
+    "코베",
+    "",
+    "1434654394",
+    "",
+    "shopping"
+  ],
+  [
+    "오늘공구 - 공동구매, 핫딜, 특가링크, 인스타최저가",
+    "",
+    "6761676496",
+    "",
+    "shopping"
+  ],
+  [
+    "8 seconds",
+    "",
+    "570615562",
+    "",
+    "shopping"
+  ],
+  [
+    "코오롱몰",
+    "",
+    "1141830073",
+    "",
+    "shopping"
+  ],
+  [
+    "노스페이스 코리아",
+    "",
+    "6450890314",
+    "",
+    "shopping"
+  ],
+  [
+    "통수산",
+    "",
+    "6761232409",
+    "",
+    "shopping"
+  ],
+  [
+    "롯데홈쇼핑",
+    "",
+    "380934119",
+    "",
+    "shopping"
+  ],
+  [
+    "카시나 (kasina) - 글로벌 멀티 컬처 플랫폼",
+    "",
+    "1670569982",
+    "",
+    "shopping"
+  ],
+  [
+    "POIZON - 스니커즈 & 의류",
+    "",
+    "1509915974",
+    "",
+    "shopping"
+  ],
+  [
+    "헤메코랩 - 매일 만나는 뷰티의 모든 것",
+    "",
+    "6448773004",
+    "",
+    "shopping"
+  ],
+  [
+    "EQL",
+    "",
+    "1516774853",
+    "",
+    "shopping"
+  ],
+  [
+    "홈&쇼핑",
+    "",
+    "687619460",
+    "",
+    "shopping"
+  ],
+  [
+    "미쏘",
+    "",
+    "1558399163",
+    "",
+    "shopping"
+  ],
+  [
+    "댄블 - 직장인 남성 패션앱",
+    "",
+    "6447453022",
+    "",
+    "shopping"
+  ],
+  [
+    "Rakufun - 일본직구",
+    "",
+    "6503286105",
+    "",
+    "shopping"
+  ],
+  [
+    "펫프렌즈 - 반려동물 1등 쇼핑몰",
+    "",
+    "1086466469",
+    "",
+    "shopping"
+  ],
+  [
+    "하나은행, 새로워진 하나원큐를 경험해 보세요",
+    "",
+    "6743190232",
+    "",
+    "finance"
+  ],
+  [
+    "국세청 홈택스 [손택스]",
+    "",
+    "495157796",
+    "",
+    "finance"
+  ],
+  [
+    "미래에셋증권 M-STOCK",
+    "",
+    "1248716281",
+    "",
+    "finance"
+  ],
+  [
+    "monimo(삼성금융통합앱)생명 화재 카드 증권 모니모",
+    "",
+    "379577046",
+    "",
+    "finance"
+  ],
+  [
+    "모바일티머니",
+    "",
+    "1470361790",
+    "",
+    "finance"
+  ],
+  [
+    "모바일지로",
+    "",
+    "385847124",
+    "",
+    "finance"
+  ],
+  [
+    "키움증권 영웅문S#(NEW)",
+    "",
+    "1570370057",
+    "",
+    "finance"
+  ],
+  [
+    "한투-한국투자증권,MTS,투자,증권,해외주식,주식어플",
+    "",
+    "1621986905",
+    "",
+    "finance"
+  ],
+  [
+    "삼쩜삼-세금ㆍ병원비 환급, 휴대폰 지원금, 앱테크",
+    "",
+    "1584600717",
+    "",
+    "finance"
+  ],
+  [
+    "부동산 전자계약",
+    "",
+    "1281387986",
+    "",
+    "finance"
+  ],
+  [
+    "NH올원뱅크(농협은행 대표 플랫폼)",
+    "",
+    "1641628055",
+    "",
+    "finance"
+  ],
+  [
+    "우리WON뱅킹",
+    "",
+    "1470181651",
+    "",
+    "finance"
+  ],
+  [
+    "PASS by SKT",
+    "",
+    "1141258007",
+    "",
+    "finance"
+  ],
+  [
+    "실손24",
+    "",
+    "6553966660",
+    "",
+    "finance"
+  ],
+  [
+    "삼성증권 mPOP",
+    "",
+    "1150231646",
+    "",
+    "finance"
+  ],
+  [
+    "KB Pay",
+    "",
+    "695436326",
+    "",
+    "finance"
+  ],
+  [
+    "신한 SOL페이 - 신한카드 대표플랫폼",
+    "",
+    "572462317",
+    "",
+    "finance"
+  ],
+  [
+    "NH pay(NH페이)",
+    "",
+    "1177889176",
+    "",
+    "finance"
+  ],
+  [
+    "PASS by U+",
+    "",
+    "1147394645",
+    "",
+    "finance"
+  ],
+  [
+    "신한 SOL뱅크 – 신한은행 스마트폰뱅킹",
+    "",
+    "357484932",
+    "",
+    "finance"
+  ],
+  [
+    "디지털온누리",
+    "",
+    "6738372450",
+    "",
+    "finance"
+  ],
+  [
+    "하나Pay(하나카드)",
+    "",
+    "847268987",
+    "",
+    "finance"
+  ],
+  [
+    "PASS by KT",
+    "",
+    "1134371550",
+    "",
+    "finance"
+  ],
+  [
+    "현대백화점",
+    "",
+    "1031843830",
+    "",
+    "finance"
+  ],
+  [
+    "현대카드",
+    "",
+    "702653088",
+    "",
+    "finance"
+  ],
+  [
+    "내 곁에 국민연금",
+    "",
+    "1321282064",
+    "",
+    "finance"
+  ],
+  [
+    "KB M-able - KB증권의 대표 MTS",
+    "",
+    "350742701",
+    "",
+    "finance"
+  ],
+  [
+    "지역상품권_chak",
+    "",
+    "6449449658",
+    "",
+    "finance"
+  ],
+  [
+    "NH콕뱅크(농협)",
+    "",
+    "1131147442",
+    "",
+    "finance"
+  ],
+  [
+    "우리카드 우리WON카드",
+    "",
+    "1499598869",
+    "",
+    "finance"
+  ],
+  [
+    "나무증권 - NH투자증권 MTS",
+    "",
+    "486312400",
+    "",
+    "finance"
+  ],
+  [
+    "디지로카(롯데카드)",
+    "",
+    "688047200",
+    "",
+    "finance"
+  ],
+  [
+    "페이북/ISP",
+    "",
+    "369125087",
+    "",
+    "finance"
+  ],
+  [
+    "업비트 - 국가대표 디지털 자산 거래소",
+    "",
+    "1256371195",
+    "",
+    "finance"
+  ],
+  [
+    "DB손해보험",
+    "",
+    "430297602",
+    "",
+    "finance"
+  ],
+  [
+    "KB손해보험 공식앱 (대표+다이렉트 통합)",
+    "",
+    "1445130863",
+    "",
+    "finance"
+  ],
+  [
+    "SSGPAY - 혜택 위의 혜택",
+    "",
+    "666237916",
+    "",
+    "finance"
+  ],
+  [
+    "현대해상 모바일 앱",
+    "",
+    "1614585856",
+    "",
+    "finance"
+  ],
+  [
+    "대신증권크레온 - 대신증권MTS",
+    "",
+    "558783357",
+    "",
+    "finance"
+  ],
+  [
+    "안심전세",
+    "",
+    "1633013098",
+    "",
+    "finance"
+  ],
+  [
+    "신한 SOL증권 - 대표MTS",
+    "",
+    "1168512940",
+    "",
+    "finance"
+  ],
+  [
+    "인천e음",
+    "",
+    "1383589803",
+    "",
+    "finance"
+  ],
+  [
+    "My 삼성화재",
+    "",
+    "390413333",
+    "",
+    "finance"
+  ],
+  [
+    "트래블월렛 – travel Pay",
+    "",
+    "1460769945",
+    "",
+    "finance"
+  ],
+  [
+    "i-ONE Bank - 개인고객용",
+    "",
+    "1460543865",
+    "",
+    "finance"
+  ],
+  [
+    "하나머니(트래블로그)",
+    "",
+    "1038288833",
+    "",
+    "finance"
+  ],
+  [
+    "SAVE : 투자의 모든 소식, 이제 한 곳에서",
+    "",
+    "6751139540",
+    "",
+    "finance"
+  ],
+  [
+    "메리츠화재 공식 앱",
+    "",
+    "886095123",
+    "",
+    "finance"
+  ],
+  [
+    "시그널플래너 - 보험의 슈퍼앱",
+    "",
+    "1484594804",
+    "",
+    "finance"
+  ],
+  [
+    "어카운트인포-계좌정보통합관리",
+    "",
+    "1225117985",
+    "",
+    "finance"
+  ],
+  [
+    "서울Pay+ (서울페이,서울페이플러스,서울사랑상품권)",
+    "",
+    "6479675842",
+    "",
+    "finance"
+  ],
+  [
+    "경기지역화폐",
+    "",
+    "1451774088",
+    "",
+    "finance"
+  ],
+  [
+    "위플 가계부 - Weple Money",
+    "",
+    "467936485",
+    "",
+    "finance"
+  ],
+  [
+    "비플페이 - 브랜드상품권, 지역사랑상품권",
+    "",
+    "1481328073",
+    "",
+    "finance"
+  ],
+  [
+    "제주 탐나는전",
+    "",
+    "6756000197",
+    "",
+    "finance"
+  ],
+  [
+    "한전ON",
+    "",
+    "410187082",
+    "",
+    "finance"
+  ],
+  [
+    "뱅크페이 - 금융기관 공동 계좌이체 결제, 제로페이",
+    "",
+    "398456030",
+    "",
+    "finance"
+  ],
+  [
+    "롯데모바일상품권",
+    "",
+    "1126609183",
+    "",
+    "finance"
+  ],
+  [
+    "뱅크샐러드",
+    "",
+    "1195804784",
+    "",
+    "finance"
+  ],
+  [
+    "삼성화재",
+    "",
+    "409967827",
+    "",
+    "finance"
+  ],
+  [
+    "제주은행 JBANK",
+    "",
+    "6443788309",
+    "",
+    "finance"
+  ],
+  [
+    "스마트공동인증(SKT, KT,  LG U+)",
+    "",
+    "1055559876",
+    "",
+    "finance"
+  ],
+  [
+    "Investing.com: 주가차트 & 금융뉴스 제공",
+    "",
+    "909998122",
+    "",
+    "finance"
+  ],
+  [
+    "우체국보험",
+    "",
+    "1288387246",
+    "",
+    "finance"
+  ],
+  [
+    "한화생명",
+    "",
+    "1448335675",
+    "",
+    "finance"
+  ],
+  [
+    "IBK 카드",
+    "",
+    "6738555765",
+    "",
+    "finance"
+  ],
+  [
+    "한화손보 모바일 앱",
+    "",
+    "959889713",
+    "",
+    "finance"
+  ],
+  [
+    "현대카드 M몰",
+    "",
+    "369502181",
+    "",
+    "finance"
+  ],
+  [
+    "MG더뱅킹",
+    "",
+    "425089902",
+    "",
+    "finance"
+  ],
+  [
+    "빗썸",
+    "",
+    "1299421592",
+    "",
+    "finance"
+  ],
+  [
+    "기금e든든",
+    "",
+    "1482071412",
+    "",
+    "finance"
+  ],
+  [
+    "교보생명 - 오늘도 교보로부터",
+    "",
+    "1642268866",
+    "",
+    "finance"
+  ],
+  [
+    "PayPal",
+    "",
+    "283646709",
+    "",
+    "finance"
+  ],
+  [
+    "서민금융 잇다",
+    "",
+    "1492433957",
+    "",
+    "finance"
+  ],
+  [
+    "메리츠SMART (계좌개설 겸용)",
+    "",
+    "1104272974",
+    "",
+    "finance"
+  ],
+  [
+    "삼성생명",
+    "",
+    "416962263",
+    "",
+    "finance"
+  ],
+  [
+    "청약홈",
+    "",
+    "1492025423",
+    "",
+    "finance"
+  ],
+  [
+    "하나증권 - 원큐프로(계좌개설포함)",
+    "",
+    "1506702407",
+    "",
+    "finance"
+  ],
+  [
+    "바이오인증공동앱",
+    "",
+    "1189411033",
+    "",
+    "finance"
+  ],
+  [
+    "편한가계부",
+    "",
+    "560481810",
+    "",
+    "finance"
+  ],
+  [
+    "OK 저축은행",
+    "",
+    "973344869",
+    "",
+    "finance"
+  ],
+  [
+    "도미노 - 모든 투자를 관리하세요",
+    "",
+    "1540576519",
+    "",
+    "finance"
+  ],
+  [
+    "Binance: Buy Bitcoin & Crypto",
+    "",
+    "1436799971",
+    "",
+    "finance"
+  ],
+  [
+    "삼성카드",
+    "",
+    "535125356",
+    "",
+    "finance"
+  ],
+  [
+    "광주 와뱅크",
+    "",
+    "1576149106",
+    "",
+    "finance"
+  ],
+  [
+    "iM뱅크 - 아이엠뱅크 모바일뱅킹",
+    "",
+    "1067748687",
+    "",
+    "finance"
+  ],
+  [
+    "PASMO（パスモ）",
+    "",
+    "1489151487",
+    "",
+    "finance"
+  ],
+  [
+    "우리WON MTS(증권)",
+    "",
+    "6745938978",
+    "",
+    "finance"
+  ],
+  [
+    "TradingView - 주식, 증권 및 비트코인",
+    "",
+    "1205990992",
+    "",
+    "finance"
+  ],
+  [
+    "Suica",
+    "",
+    "1156875272",
+    "",
+    "finance"
+  ],
+  [
+    "부산이즈굿 동백전",
+    "",
+    "1611664001",
+    "",
+    "finance"
+  ],
+  [
+    "우체국뱅킹",
+    "",
+    "554920991",
+    "",
+    "finance"
+  ],
+  [
+    "전북은행 - 쏙뱅크",
+    "",
+    "1547903285",
+    "",
+    "finance"
+  ],
+  [
+    "Nike Run Club: 러닝 앱",
+    "",
+    "387771637",
+    "",
+    "health"
+  ],
+  [
+    "챌린저스 - 돈이 돌아오는 쇼핑 앱",
+    "",
+    "1438855824",
+    "",
+    "health"
+  ],
+  [
+    "The Almanac",
+    "",
+    "6742649363",
+    "",
+    "health"
+  ],
+  [
+    "InBody",
+    "",
+    "884923678",
+    "",
+    "health"
+  ],
+  [
+    "런데이:즐겁게 달리기, 만보기, 계단, 등산 코칭 PT",
+    "",
+    "1042937618",
+    "",
+    "health"
+  ],
+  [
+    "강남언니: 1등 피부 / 성형 병원, 미용 뷰티 예약",
+    "",
+    "1035105027",
+    "",
+    "health"
+  ],
+  [
+    "필라이즈 - 다이어트 AI 코치, 식단, 혈당, 운동",
+    "",
+    "1595472563",
+    "",
+    "health"
+  ],
+  [
+    "인아웃 - 다이어트 코치 & 식단, 운동, 체중 기록",
+    "",
+    "1599210729",
+    "",
+    "health"
+  ],
+  [
+    "Cardiora: Blood Pressure",
+    "",
+    "6753161422",
+    "",
+    "health"
+  ],
+  [
+    "튼튼머니",
+    "",
+    "6759998621",
+    "",
+    "health"
+  ],
+  [
+    "바비톡 - AI 피부과/성형 시술 정보 후기 예약",
+    "",
+    "757934825",
+    "",
+    "health"
+  ],
+  [
+    "StressWatch: AI 스트레스 & 습관 추적기",
+    "",
+    "6444737095",
+    "",
+    "health"
+  ],
+  [
+    "Charlie - 찰리와 걷기",
+    "",
+    "1638926773",
+    "",
+    "health"
+  ],
+  [
+    "머니워크 - 돈 버는 만보기, 앱테크, 건강, 돈버는앱",
+    "",
+    "1638253339",
+    "",
+    "health"
+  ],
+  [
+    "캐시워크 - 돈 버는 만보기",
+    "",
+    "1220307907",
+    "",
+    "health"
+  ],
+  [
+    "짐워크 - 운동기록 운동일지 헬스 운동루틴",
+    "",
+    "1563624436",
+    "",
+    "health"
+  ],
+  [
+    "파스타(PASTA) - 혈당, 체중, 다이어트 앱",
+    "",
+    "6462661411",
+    "",
+    "health"
+  ],
+  [
+    "복지로",
+    "",
+    "490534512",
+    "",
+    "health"
+  ],
+  [
+    "손목닥터9988",
+    "",
+    "6456750933",
+    "",
+    "health"
+  ],
+  [
+    "핑크다이어리-생리 배란 임신 헬스케어 앱",
+    "",
+    "516498899",
+    "",
+    "health"
+  ],
+  [
+    "KD헬스케어",
+    "",
+    "6749523533",
+    "",
+    "health"
+  ],
+  [
+    "앳플리 – 내 몸의 스마트한 습관",
+    "",
+    "1581072694",
+    "",
+    "health"
+  ],
+  [
+    "플랜핏 - 운동 루틴 추천과 헬스 홈트 다이어트 기록",
+    "",
+    "1511876936",
+    "",
+    "health"
+  ],
+  [
+    "여신티켓 - 피부시술/성형 정보,피부과 병원 예약 어플",
+    "",
+    "1228558605",
+    "",
+    "health"
+  ],
+  [
+    "돈이돼지 - 만보기 앱테크, 돈버는앱, 현금인출, 캐시",
+    "",
+    "6742818389",
+    "",
+    "health"
+  ],
+  [
+    "모두닥 - 안과/치과 최저가, 인증된 리뷰",
+    "",
+    "1438086768",
+    "",
+    "health"
+  ],
+  [
+    "더 클라임 라이프",
+    "",
+    "6754832827",
+    "",
+    "health"
+  ],
+  [
+    "Garmin Connect™",
+    "",
+    "583446403",
+    "",
+    "health"
+  ],
+  [
+    "워크온(WalkOn)",
+    "",
+    "1501801389",
+    "",
+    "health"
+  ],
+  [
+    "바디코디 회원용 - 1등 피트니스 예약 / 입장 관리앱",
+    "",
+    "1557408918",
+    "",
+    "health"
+  ],
+  [
+    "운톡(브로제이 온오피티)",
+    "",
+    "1440250144",
+    "",
+    "health"
+  ],
+  [
+    "마인드카페 - 24시간 멘탈케어, 심리상담, 코칭",
+    "",
+    "1441402766",
+    "",
+    "health"
+  ],
+  [
+    "마이아큐브",
+    "",
+    "997683365",
+    "",
+    "health"
+  ],
+  [
+    "OKOK·International",
+    "",
+    "1028294311",
+    "",
+    "health"
+  ],
+  [
+    "adidas Running: 운동 앱",
+    "",
+    "336599882",
+    "",
+    "health"
+  ],
+  [
+    "에이지알 - 메디큐브 디지털클리닉 AGE-R",
+    "",
+    "1610283967",
+    "",
+    "health"
+  ],
+  [
+    "꼬끼오 알람 : 당신의 이어폰 알람 (쪽잠, 수면)",
+    "",
+    "6476931095",
+    "",
+    "health"
+  ],
+  [
+    "건강e음",
+    "",
+    "492606369",
+    "",
+    "health"
+  ],
+  [
+    "마통 - 마사지, 에스테틱, 왁싱 최저가 어플",
+    "",
+    "1179397204",
+    "",
+    "health"
+  ],
+  [
+    "PeakWatch - AI 피트니스 코치",
+    "",
+    "6478431075",
+    "",
+    "health"
+  ],
+  [
+    "덴티아이경기",
+    "",
+    "1464482091",
+    "",
+    "health"
+  ],
+  [
+    "칼로그 - 다이어트 식단 체중 기록, AI 칼로리 계산",
+    "",
+    "6755748205",
+    "",
+    "health"
+  ],
+  [
+    "런닝, 조깅, 걷기 및 만보기 - Goals 어플",
+    "",
+    "1136617388",
+    "",
+    "health"
+  ],
+  [
+    "힐리 - 내 주변 최저가 마사지 탐색,발견,예약 어플",
+    "",
+    "1572394627",
+    "",
+    "health"
+  ],
+  [
+    "알파카 - No.1 공유 킥보드",
+    "",
+    "1328860619",
+    "",
+    "health"
+  ],
+  [
+    "짐박스 - 내가 찾던 진정한 헬스장",
+    "",
+    "1603180638",
+    "",
+    "health"
+  ],
+  [
+    "Mi Fitness (Xiaomi Wear Lite)",
+    "",
+    "1493500777",
+    "",
+    "health"
+  ],
+  [
+    "해피문데이-생리주기 배란일 임신 준비 캘린더",
+    "",
+    "1477295943",
+    "",
+    "health"
+  ],
+  [
+    "플릭 - 운동일지, 운동기록, 운동일기, 운동루틴",
+    "",
+    "1576993198",
+    "",
+    "health"
+  ],
+  [
+    "간단 - 간헐적 단식 다이어트 식단 몸무게 기록 관리",
+    "",
+    "1467464443",
+    "",
+    "health"
+  ],
+  [
+    "디스턴싱 - 비약물 심리치료",
+    "",
+    "6471821968",
+    "",
+    "health"
+  ],
+  [
+    "오락: 만보기 탄소중립 앱테크",
+    "",
+    "6480400926",
+    "",
+    "health"
+  ],
+  [
+    "밀리그램 - 앱 하나로 다이어트 기록, 계획, 공유",
+    "",
+    "1514163957",
+    "",
+    "health"
+  ],
+  [
+    "어떠케어 - 내 몸이 궁금할 때",
+    "",
+    "1568995483",
+    "",
+    "health"
+  ],
+  [
+    "다짐(多Gym) - 운동할 땐, 다짐부터",
+    "",
+    "1195530295",
+    "",
+    "health"
+  ],
+  [
+    "Pacer 만보기 어플",
+    "",
+    "600446812",
+    "",
+    "health"
+  ],
+  [
+    "짐구독",
+    "",
+    "6497406116",
+    "",
+    "health"
+  ],
+  [
+    "Da Fit",
+    "",
+    "1316004998",
+    "",
+    "health"
+  ],
+  [
+    "Flo-생리 주기 앱, 배란일 및 생리 달력, 임신",
+    "",
+    "1038369065",
+    "",
+    "health"
+  ],
+  [
+    "Flowspace: 드로잉과 명상",
+    "",
+    "6504600386",
+    "",
+    "health"
+  ],
+  [
+    "세라젬 웰라이프 멤버십",
+    "",
+    "1544390993",
+    "",
+    "health"
+  ],
+  [
+    "나의건강기록",
+    "",
+    "1580017428",
+    "",
+    "health"
+  ],
+  [
+    "Garmin Sports",
+    "",
+    "985510139",
+    "",
+    "health"
+  ],
+  [
+    "fatsecret의 칼로리 카운터",
+    "",
+    "347184248",
+    "",
+    "health"
+  ],
+  [
+    "열달후에 - 임신, 출산, 육아, 임신준비 필수앱",
+    "",
+    "1533627245",
+    "",
+    "health"
+  ],
+  [
+    "트랭글 : 등산, 지도, 걷기, 만보기, 운동, 자전거",
+    "",
+    "505902704",
+    "",
+    "health"
+  ],
+  [
+    "다이어트를 지속할 수 있는 체중관리 앱 스마트 다이어트",
+    "",
+    "1320729984",
+    "",
+    "health"
+  ],
+  [
+    "GloryFit",
+    "",
+    "1237479843",
+    "",
+    "health"
+  ],
+  [
+    "타이머 플러스 - 운동 타이머",
+    "",
+    "1279716547",
+    "",
+    "health"
+  ],
+  [
+    "루션 - 다이어트&식단/체중/운동기록",
+    "",
+    "6741460190",
+    "",
+    "health"
+  ],
+  [
+    "러닝라이프 - 러닝대회, 러닝크루, 대회평가, 러닝",
+    "",
+    "6503121199",
+    "",
+    "health"
+  ],
+  [
+    "닥터에디션",
+    "",
+    "6478137306",
+    "",
+    "health"
+  ],
+  [
+    "만보기 어플 – 만보 걷기 앱 및 걸음수 측정기",
+    "",
+    "1027151285",
+    "",
+    "health"
+  ],
+  [
+    "FITNERS 피트너스",
+    "",
+    "6475913501",
+    "",
+    "health"
+  ],
+  [
+    "InBody+",
+    "",
+    "6450072536",
+    "",
+    "health"
+  ],
+  [
+    "덴티아이",
+    "",
+    "1606399583",
+    "",
+    "health"
+  ],
+  [
+    "StepsApp 만보기",
+    "",
+    "1037595083",
+    "",
+    "health"
+  ],
+  [
+    "하이타이 - 1등 마사지 앱, 타이마사지 할인",
+    "",
+    "947725771",
+    "",
+    "health"
+  ],
+  [
+    "Sleep Cycle - 수면 분석",
+    "",
+    "320606217",
+    "",
+    "health"
+  ],
+  [
+    "365mc멤버십",
+    "",
+    "1137532261",
+    "",
+    "health"
+  ],
+  [
+    "야핏무브 - 걷기만 해도 돈버는 앱, 앱테크, 만보기",
+    "",
+    "1033791986",
+    "",
+    "health"
+  ],
+  [
+    "터치마인드",
+    "",
+    "1533217627",
+    "",
+    "health"
+  ],
+  [
+    "Rappo - 강사와 회원이 가까워지는 공간",
+    "",
+    "1635062466",
+    "",
+    "health"
+  ],
+  [
+    "제때 - 친구와 함께하는 다이어트",
+    "",
+    "6502585057",
+    "",
+    "health"
+  ],
+  [
+    "마사지맵 - 국내부터 베트남까지 마사지 최저가 예약!",
+    "",
+    "1618394655",
+    "",
+    "health"
+  ],
+  [
+    "건강의신",
+    "",
+    "6752885853",
+    "",
+    "health"
+  ],
+  [
+    "번핏 -헬스 & 운동일지 운동기록 운동루틴 헬스루틴",
+    "",
+    "1503464984",
+    "",
+    "health"
+  ],
+  [
+    "봄 캘린더 - 생리, 피임, 임신 준비",
+    "",
+    "1190438906",
+    "",
+    "health"
+  ],
+  [
+    "F45 - Korea (new)",
+    "",
+    "6751717648",
+    "",
+    "health"
+  ],
+  [
+    "Yazio(야지오): AI 칼로리 계산기",
+    "",
+    "946099227",
+    "",
+    "health"
+  ],
+  [
+    "Growth Map",
+    "",
+    "6745831233",
+    "",
+    "health"
+  ],
+  [
+    "DB손해보험 실비보험 실손의료보험",
+    "",
+    "6478903077",
+    "",
+    "health"
+  ],
+  [
+    "원더클럽",
+    "",
+    "6447486005",
+    "",
+    "health"
+  ],
+  [
+    "버핏그라운드 - 운동 본질에 집중하는 헬스장",
+    "",
+    "1604107805",
+    "",
+    "health"
+  ],
+  [
+    "Relive: 달리기, 라이딩, 하이킹과 그 외 활동",
+    "",
+    "1201703657",
+    "",
+    "health"
+  ],
+  [
+    "여성생리달력 - 가임기간 임신 배란",
+    "",
+    "896501514",
+    "",
+    "health"
+  ],
+  [
+    "다짐매니저 회원용 예약 앱",
+    "",
+    "1568641864",
+    "",
+    "health"
+  ],
+  [
+    "단백질 리딩방 - 채찍단",
+    "",
+    "6714480308",
+    "",
+    "health"
+  ],
+  [
+    "Samsung Health(삼성 헬스)",
+    "",
+    "1224541484",
+    "",
+    "health"
+  ],
+  [
+    "Fitify :집에서 하는 운동 & 피트니스 계획",
+    "",
+    "1463386686",
+    "",
+    "health"
+  ],
+  [
+    "듀오링고(Duolingo): 언어 학습",
+    "",
+    "570060128",
+    "",
+    "education"
+  ],
+  [
+    "나이스플러스(NEIS+)",
+    "",
+    "1664015586",
+    "",
+    "education"
+  ],
+  [
+    "말해보카: 단어, 문법, 스피킹, 영어 회화",
+    "",
+    "1460766549",
+    "",
+    "education"
+  ],
+  [
+    "열품타",
+    "",
+    "1441909643",
+    "",
+    "education"
+  ],
+  [
+    "LingoLooper: AI Language Game",
+    "",
+    "1670913076",
+    "",
+    "education"
+  ],
+  [
+    "랭플릭스 - 영어회화, 스피킹, 단어, 리스닝",
+    "",
+    "6739905184",
+    "",
+    "education"
+  ],
+  [
+    "영어 학습 및 말하기 실습",
+    "",
+    "1624701477",
+    "",
+    "education"
+  ],
+  [
+    "Stellarium Mobile - 천체 지도",
+    "",
+    "1458716890",
+    "",
+    "education"
+  ],
+  [
+    "HelloTalk 헬로톡 - 영어 일본어 중국어회화",
+    "",
+    "557130558",
+    "",
+    "education"
+  ],
+  [
+    "찰칵: 막힘없는 공부의 시작",
+    "",
+    "6747833381",
+    "",
+    "education"
+  ],
+  [
+    "26초 - 초고속 단어 암기",
+    "",
+    "6738269475",
+    "",
+    "education"
+  ],
+  [
+    "운전면허 PLUS - 운전면허 필기시험(2026최신판)",
+    "",
+    "644223359",
+    "",
+    "education"
+  ],
+  [
+    "Star Walk 2 Plus: 천체관측 별자리 어플",
+    "",
+    "1112481571",
+    "",
+    "education"
+  ],
+  [
+    "한국장학재단",
+    "",
+    "1400580506",
+    "",
+    "education"
+  ],
+  [
+    "오르조: 기출문제, 수능·내신·공무원·자격증CBT·토익",
+    "",
+    "1529046013",
+    "",
+    "education"
+  ],
+  [
+    "AI 튜터 (Learna AI): 언어 학습",
+    "",
+    "6478287397",
+    "",
+    "education"
+  ],
+  [
+    "스픽 (Speak) - 영어회화, 스피킹, 발음",
+    "",
+    "1286609883",
+    "",
+    "education"
+  ],
+  [
+    "Airlearn - 언어 학습",
+    "",
+    "6479639235",
+    "",
+    "education"
+  ],
+  [
+    "아이사랑 모바일",
+    "",
+    "490070696",
+    "",
+    "education"
+  ],
+  [
+    "네이버 사전",
+    "",
+    "673085116",
+    "",
+    "education"
+  ],
+  [
+    "YBM 어학시험",
+    "",
+    "410244795",
+    "",
+    "education"
+  ],
+  [
+    "클래스카드",
+    "",
+    "1176435331",
+    "",
+    "education"
+  ],
+  [
+    "나이스학부모서비스",
+    "",
+    "6446389541",
+    "",
+    "education"
+  ],
+  [
+    "고용24 직업훈련 출결관리",
+    "",
+    "588283412",
+    "",
+    "education"
+  ],
+  [
+    "모니토앱",
+    "",
+    "1599135647",
+    "",
+    "education"
+  ],
+  [
+    "산타 - AI 토익/토플",
+    "",
+    "1148006701",
+    "",
+    "education"
+  ],
+  [
+    "Quik: 릴스로 빠른 단어 암기, 영어·중국어·일본어",
+    "",
+    "6748110457",
+    "",
+    "education"
+  ],
+  [
+    "Q-Net 큐넷 (국가자격/디지털배지/전자지갑)",
+    "",
+    "6478648383",
+    "",
+    "education"
+  ],
+  [
+    "픽코",
+    "",
+    "6670237365",
+    "",
+    "education"
+  ],
+  [
+    "ThetaWave-AI Study Notes",
+    "",
+    "6744060956",
+    "",
+    "education"
+  ],
+  [
+    "똑똑보카-영어,일본어,중국어등 언어 공부하고 돈버는 앱",
+    "",
+    "6449407706",
+    "",
+    "education"
+  ],
+  [
+    "코참패스",
+    "",
+    "1205403862",
+    "",
+    "education"
+  ],
+  [
+    "Google Classroom",
+    "",
+    "924620788",
+    "",
+    "education"
+  ],
+  [
+    "김과외(대한민국 대표 과외 플랫폼)",
+    "",
+    "1392809044",
+    "",
+    "education"
+  ],
+  [
+    "코코지",
+    "",
+    "1581056078",
+    "",
+    "education"
+  ],
+  [
+    "ETS 토익기출 수험서",
+    "",
+    "480908919",
+    "",
+    "education"
+  ],
+  [
+    "Toca Boca World: 집꾸미기",
+    "",
+    "1208138685",
+    "",
+    "education"
+  ],
+  [
+    "학원친구",
+    "",
+    "1123529010",
+    "",
+    "education"
+  ],
+  [
+    "10 Minute English",
+    "",
+    "1558659494",
+    "",
+    "education"
+  ],
+  [
+    "콴다(QANDA) - 수학 문제풀이 AI 공부앱",
+    "",
+    "1270676408",
+    "",
+    "education"
+  ],
+  [
+    "스터디모아 - 스터디공간 예약 앱",
+    "",
+    "1482125295",
+    "",
+    "education"
+  ],
+  [
+    "하이클래스",
+    "",
+    "1472488819",
+    "",
+    "education"
+  ],
+  [
+    "Quizlet: 낱말카드로 학습하기",
+    "",
+    "546473125",
+    "",
+    "education"
+  ],
+  [
+    "스마트 공지시스템 e알리미",
+    "",
+    "899929551",
+    "",
+    "education"
+  ],
+  [
+    "리로스쿨",
+    "",
+    "995221497",
+    "",
+    "education"
+  ],
+  [
+    "어스플러스 - 올바른 투자",
+    "",
+    "6448978924",
+    "",
+    "education"
+  ],
+  [
+    "스마트러닝 - 모바일연수원",
+    "",
+    "6748604633",
+    "",
+    "education"
+  ],
+  [
+    "클래스노트",
+    "",
+    "1549831181",
+    "",
+    "education"
+  ],
+  [
+    "족보닷컴 - 전과목 기출, 해설, 풀이, 중고등 내신",
+    "",
+    "6473707145",
+    "",
+    "education"
+  ],
+  [
+    "도깨비 전화",
+    "",
+    "566799704",
+    "",
+    "education"
+  ],
+  [
+    "레슨북 - 레슨에 관한 모든 기능을 하나로 !",
+    "",
+    "1071745813",
+    "",
+    "education"
+  ],
+  [
+    "D.up(디.업) : 더프 모의고사",
+    "",
+    "6755669416",
+    "",
+    "education"
+  ],
+  [
+    "런즈 - 학원정보, 커뮤니티, 레테 등 실시간 교육정보",
+    "",
+    "6450406644",
+    "",
+    "education"
+  ],
+  [
+    "GrowMe: Micro Learning Daily",
+    "",
+    "6504612112",
+    "",
+    "education"
+  ],
+  [
+    "이로이로 일본어 공부 JLPT 단어장: 한자도 한 번에",
+    "",
+    "6752556844",
+    "",
+    "education"
+  ],
+  [
+    "유니브 AI – PDF 요약, 퀴즈, AI 튜터",
+    "",
+    "6754797367",
+    "",
+    "education"
+  ],
+  [
+    "스터디라이브 - 함께 공부하는 캠스터디",
+    "",
+    "6747420037",
+    "",
+    "education"
+  ],
+  [
+    "워드마스터 통합 학습앱",
+    "",
+    "6747540936",
+    "",
+    "education"
+  ],
+  [
+    "컴시간알리미",
+    "",
+    "6478664393",
+    "",
+    "education"
+  ],
+  [
+    "올클-공부타이머, 할일, 챌린지, 영단어, 일기, 명언",
+    "",
+    "1598278474",
+    "",
+    "education"
+  ],
+  [
+    "원보카: 나만의 단어장, 단어, 영단어, 일본어, 암기",
+    "",
+    "1242173441",
+    "",
+    "education"
+  ],
+  [
+    "Language Learning: Pingo AI",
+    "",
+    "6738882620",
+    "",
+    "education"
+  ],
+  [
+    "EBS 중학프리미엄",
+    "",
+    "1360224883",
+    "",
+    "education"
+  ],
+  [
+    "헤이링: AI 전화영어, 스픽•영어회화•스피킹•발음",
+    "",
+    "6511246156",
+    "",
+    "education"
+  ],
+  [
+    "EBSi 고교강의",
+    "",
+    "669006959",
+    "",
+    "education"
+  ],
+  [
+    "스피킹맥스: 현지체험 외국어 학습",
+    "",
+    "1561565153",
+    "",
+    "education"
+  ],
+  [
+    "충남대학교 중앙도서관",
+    "",
+    "6760174733",
+    "",
+    "education"
+  ],
+  [
+    "해커스토익 기출보카",
+    "",
+    "875258834",
+    "",
+    "education"
+  ],
+  [
+    "또박또박: 스피치, 더빙, 발음, 발성",
+    "",
+    "6651842414",
+    "",
+    "education"
+  ],
+  [
+    "전자문제집 CBT - 오답노트 기출문제 자격증 공무원",
+    "",
+    "6746083907",
+    "",
+    "education"
+  ],
+  [
+    "Cake: 전 세계 1억 다운로드 영어 학습 앱",
+    "",
+    "1350420987",
+    "",
+    "education"
+  ],
+  [
+    "VoCat - 나만의 단어장",
+    "",
+    "1538546706",
+    "",
+    "education"
+  ],
+  [
+    "젤리아이 HOME – 젤리아이 가정 연계 서비스",
+    "",
+    "6760459183",
+    "",
+    "education"
+  ],
+  [
+    "회독JLPT(AD)",
+    "",
+    "1257680916",
+    "",
+    "education"
+  ],
+  [
+    "MARU일본어 첫걸음",
+    "",
+    "1208009110",
+    "",
+    "education"
+  ],
+  [
+    "메가스터디 스마트러닝",
+    "",
+    "670116327",
+    "",
+    "education"
+  ],
+  [
+    "스픽 AI - 영어회화, 스피킹, 발음",
+    "",
+    "6747023517",
+    "",
+    "education"
+  ],
+  [
+    "전쟁∙군사박물관 전시안내",
+    "",
+    "1457523202",
+    "",
+    "education"
+  ],
+  [
+    "밀리언즈 - 스터디카페 & 타이머 리워드",
+    "",
+    "6443950843",
+    "",
+    "education"
+  ],
+  [
+    "체리(Chery) - 내신이 쉬워진다!",
+    "",
+    "1572312819",
+    "",
+    "education"
+  ],
+  [
+    "진학닷컴",
+    "",
+    "1595037237",
+    "",
+    "education"
+  ],
+  [
+    "수학대왕 - AI디지털문제집",
+    "",
+    "1501165233",
+    "",
+    "education"
+  ],
+  [
+    "JLPT Plus: 일본어 단어 공부",
+    "",
+    "6744651554",
+    "",
+    "education"
+  ],
+  [
+    "코리아교육그룹-스마트러닝",
+    "",
+    "1489265851",
+    "",
+    "education"
+  ],
+  [
+    "제로아이즈(ZeroEyes)",
+    "",
+    "1532649224",
+    "",
+    "education"
+  ],
+  [
+    "한국자격증협회",
+    "",
+    "6758323026",
+    "",
+    "education"
+  ],
+  [
+    "선배교사 – 교직생활의 모든 답",
+    "",
+    "6756334480",
+    "",
+    "education"
+  ],
+  [
+    "트니트니",
+    "",
+    "1443967881",
+    "",
+    "education"
+  ],
+  [
+    "일본어 공부: 히라가나, 가타가나, 한자, 카나",
+    "",
+    "1322000057",
+    "",
+    "education"
+  ],
+  [
+    "운전선생 - 운전면허 학원 예약 & 필기시험",
+    "",
+    "6444027313",
+    "",
+    "education"
+  ],
+  [
+    "해커스 MP3 플레이어",
+    "",
+    "531669642",
+    "",
+    "education"
+  ],
+  [
+    "아이알리미",
+    "",
+    "1123278063",
+    "",
+    "education"
+  ],
+  [
+    "PlaynPlay",
+    "",
+    "1664643965",
+    "",
+    "education"
+  ],
+  [
+    "올림",
+    "",
+    "739652501",
+    "",
+    "education"
+  ],
+  [
+    "맞추다 -자격증 CBT기출 전기 소방 건축 산업안전기사",
+    "",
+    "1590305807",
+    "",
+    "education"
+  ],
+  [
+    "기출넷 - 자격증 기출문제 및 해설",
+    "",
+    "6451071711",
+    "",
+    "education"
+  ],
+  [
+    "모바일 학생증(School Pass)",
+    "",
+    "6569225708",
+    "",
+    "education"
+  ],
+  [
+    "엘스(Else): 영어회화, 단어, 리스닝, 섀도잉",
+    "",
+    "6745596023",
+    "",
+    "education"
+  ],
+  [
+    "해커스토익 - TOEIC",
+    "",
+    "430260350",
+    "",
+    "education"
+  ],
+  [
+    "탈잉 - 올해는 달라질거야!",
+    "",
+    "1153218962",
+    "",
+    "education"
+  ],
+  [
+    "Trip.com 트립닷컴 - 여행 할인 예약",
+    "",
+    "681752345",
+    "",
+    "life"
+  ],
+  [
+    "NOL(야놀자)",
+    "",
+    "436731843",
+    "",
+    "life"
+  ],
+  [
+    "카카오 T - 택시, 세차, 주차, 바이크, 항공, 퀵",
+    "",
+    "981110422",
+    "",
+    "life"
+  ],
+  [
+    "티머니GO - 택시 고속시외 따릉이 킥보드",
+    "",
+    "1483433931",
+    "",
+    "life"
+  ],
+  [
+    "Uber Taxi(우버 택시) - 택시 호출 플랫폼",
+    "",
+    "368677368",
+    "",
+    "life"
+  ],
+  [
+    "SRT - 수서고속철도",
+    "",
+    "1350286957",
+    "",
+    "life"
+  ],
+  [
+    "지쿠",
+    "",
+    "1501264071",
+    "",
+    "life"
+  ],
+  [
+    "T locker 또타라커 - 지하철 물품 보관 전달함",
+    "",
+    "1503291383",
+    "",
+    "life"
+  ],
+  [
+    "아고다: 모텔, 호텔, 항공권 특가",
+    "",
+    "440676901",
+    "",
+    "life"
+  ],
+  [
+    "코레일톡",
+    "",
+    "1000558562",
+    "",
+    "life"
+  ],
+  [
+    "여기어때: 호텔, 모텔, 숙소, 항공권 여행 최저가",
+    "",
+    "884043462",
+    "",
+    "life"
+  ],
+  [
+    "쏘카 - 라이프타임 모빌리티 플랫폼",
+    "",
+    "515173864",
+    "",
+    "life"
+  ],
+  [
+    "Airbnb",
+    "",
+    "401626263",
+    "",
+    "life"
+  ],
+  [
+    "로밍도깨비 eSIM – 데이터가 필요한 순간",
+    "",
+    "1525664178",
+    "",
+    "life"
+  ],
+  [
+    "스윙 - 택시, 자전거, 킥보드",
+    "",
+    "1459344011",
+    "",
+    "life"
+  ],
+  [
+    "고속버스 티머니",
+    "",
+    "957276809",
+    "",
+    "life"
+  ],
+  [
+    "클룩 KLOOK: 액티비티, 투어, 렌터카 예약",
+    "",
+    "961850126",
+    "",
+    "life"
+  ],
+  [
+    "대한항공 My",
+    "",
+    "1512918989",
+    "",
+    "life"
+  ],
+  [
+    "THE LOUNGE / 더라운지",
+    "",
+    "1202136480",
+    "",
+    "life"
+  ],
+  [
+    "Grab: 택시 및 음식 배달",
+    "",
+    "647268330",
+    "",
+    "life"
+  ],
+  [
+    "스카이스캐너 – 항공권・호텔 ・렌트카 최저가 비교",
+    "",
+    "415458524",
+    "",
+    "life"
+  ],
+  [
+    "프리즘 (PRIZM) - 프리미엄 호텔, 여행",
+    "",
+    "1605514692",
+    "",
+    "life"
+  ],
+  [
+    "Pie VAT",
+    "",
+    "1438421140",
+    "",
+    "life"
+  ],
+  [
+    "제주항공",
+    "",
+    "373053637",
+    "",
+    "life"
+  ],
+  [
+    "마이리얼트립 - 진짜 나다운 여행",
+    "",
+    "1141745032",
+    "",
+    "life"
+  ],
+  [
+    "일본현지 택시 앱 GO",
+    "",
+    "1254341709",
+    "",
+    "life"
+  ],
+  [
+    "G car - 그린카의 새로운 이름",
+    "",
+    "457792991",
+    "",
+    "life"
+  ],
+  [
+    "Beam – 새로워진 도시 흐름",
+    "",
+    "1427114484",
+    "",
+    "life"
+  ],
+  [
+    "진에어",
+    "",
+    "435624636",
+    "",
+    "life"
+  ],
+  [
+    "티웨이항공",
+    "",
+    "564901451",
+    "",
+    "life"
+  ],
+  [
+    "아시아나항공",
+    "",
+    "373932237",
+    "",
+    "life"
+  ],
+  [
+    "대전시 타슈(QR단말기전용)",
+    "",
+    "1634766279",
+    "",
+    "life"
+  ],
+  [
+    "트리플 - 항공·호텔 최저가 예약, 여행계획",
+    "",
+    "1225499481",
+    "",
+    "life"
+  ],
+  [
+    "스마트공항",
+    "",
+    "1072289043",
+    "",
+    "life"
+  ],
+  [
+    "킥고잉 - 이동에 즐거움을 더하다",
+    "",
+    "1435549774",
+    "",
+    "life"
+  ],
+  [
+    "이스타항공",
+    "",
+    "1199278868",
+    "",
+    "life"
+  ],
+  [
+    "유심사 - 글로벌 eSIM 서비스",
+    "",
+    "1635360522",
+    "",
+    "life"
+  ],
+  [
+    "도시락eSIM - 해외여행 필수 데이터 로밍 앱",
+    "",
+    "1620488208",
+    "",
+    "life"
+  ],
+  [
+    "ユニバーサル・スタジオ・ジャパン 公式アプリ",
+    "",
+    "532097000",
+    "",
+    "life"
+  ],
+  [
+    "DiDi China: Ride Hailing",
+    "",
+    "554499054",
+    "",
+    "life"
+  ],
+  [
+    "데이트팝",
+    "",
+    "815000358",
+    "",
+    "life"
+  ],
+  [
+    "투루카: 실시간 카셰어링, 렌트카 대여 플랫폼",
+    "",
+    "1079892948",
+    "",
+    "life"
+  ],
+  [
+    "씽씽 - 새로운 이동생활",
+    "",
+    "1460221520",
+    "",
+    "life"
+  ],
+  [
+    "Booking.com 여행 특가",
+    "",
+    "367003839",
+    "",
+    "life"
+  ],
+  [
+    "하나투어 – 패키지·항공·호텔 여행 할인",
+    "",
+    "550971489",
+    "",
+    "life"
+  ],
+  [
+    "소노호텔앤리조트",
+    "",
+    "6478385594",
+    "",
+    "life"
+  ],
+  [
+    "말톡나우: AI여행, 이심, 유심",
+    "",
+    "6470261161",
+    "",
+    "life"
+  ],
+  [
+    "DiDi Rider – 합리적인 가격의 택시 이용",
+    "",
+    "1362398401",
+    "",
+    "life"
+  ],
+  [
+    "타다 - 프리미엄 택시 예약, 공항 의전 카시트 웨딩카",
+    "",
+    "1422751774",
+    "",
+    "life"
+  ],
+  [
+    "Bolt: Request a Ride",
+    "",
+    "675033630",
+    "",
+    "life"
+  ],
+  [
+    "렌트카 카모아 - 국내 해외 렌터카 1등",
+    "",
+    "1217310212",
+    "",
+    "life"
+  ],
+  [
+    "Marriott Bonvoy",
+    "",
+    "455004730",
+    "",
+    "life"
+  ],
+  [
+    "대한민국 구석구석",
+    "",
+    "417340980",
+    "",
+    "life"
+  ],
+  [
+    "My BMW",
+    "",
+    "1522361512",
+    "",
+    "life"
+  ],
+  [
+    "에어부산",
+    "",
+    "603844013",
+    "",
+    "life"
+  ],
+  [
+    "스테이폴리오",
+    "",
+    "1546581749",
+    "",
+    "life"
+  ],
+  [
+    "ESTA Mobile",
+    "",
+    "1529604353",
+    "",
+    "life"
+  ],
+  [
+    "Wanderlog 여행계획 - 트래블로그 여행 플래너",
+    "",
+    "1476732439",
+    "",
+    "life"
+  ],
+  [
+    "디어 deer",
+    "",
+    "1455718957",
+    "",
+    "life"
+  ],
+  [
+    "上海迪士尼度假区",
+    "",
+    "1073826118",
+    "",
+    "life"
+  ],
+  [
+    "NOL 인터파크투어",
+    "",
+    "775349206",
+    "",
+    "life"
+  ],
+  [
+    "타운카 - 이웃 간 카셰어링",
+    "",
+    "1515071453",
+    "",
+    "life"
+  ],
+  [
+    "캠핏 Camfit",
+    "",
+    "1584553599",
+    "",
+    "life"
+  ],
+  [
+    "에어로케이항공",
+    "",
+    "6761522475",
+    "",
+    "life"
+  ],
+  [
+    "맘맘 - 아이랑 갈곳, 살것 추천",
+    "",
+    "1559151230",
+    "",
+    "life"
+  ],
+  [
+    "꿀스테이 - 가성비 숙박앱 꿀스테이",
+    "",
+    "1522616111",
+    "",
+    "life"
+  ],
+  [
+    "호텔스닷컴: 호텔, 펜션, 리조트 지금 예약",
+    "",
+    "284971959",
+    "",
+    "life"
+  ],
+  [
+    "OTP라커",
+    "",
+    "6444036952",
+    "",
+    "life"
+  ],
+  [
+    "카카오 T 대리",
+    "",
+    "1110271804",
+    "",
+    "life"
+  ],
+  [
+    "한화리조트",
+    "",
+    "1306431302",
+    "",
+    "life"
+  ],
+  [
+    "Visit Japan Web: AI Guide",
+    "",
+    "6471913222",
+    "",
+    "life"
+  ],
+  [
+    "inDrive: Book Comfortable Cars",
+    "",
+    "780125801",
+    "",
+    "life"
+  ],
+  [
+    "솜씨당- 취미와 원데이클래스 모든 것",
+    "",
+    "1436254520",
+    "",
+    "life"
+  ],
+  [
+    "체스터톤스 호텔",
+    "",
+    "6446873970",
+    "",
+    "life"
+  ],
+  [
+    "트래블로카 - 항공권・숙소・액티비티 특가 예약",
+    "",
+    "898244857",
+    "",
+    "life"
+  ],
+  [
+    "AustralianETA",
+    "",
+    "1527982364",
+    "",
+    "life"
+  ],
+  [
+    "여객선예매-가보고싶은섬",
+    "",
+    "523545219",
+    "",
+    "life"
+  ],
+  [
+    "인터치 - 임직원 여가지원 종합솔루션",
+    "",
+    "6752929280",
+    "",
+    "life"
+  ],
+  [
+    "LEGOLAND® Korea Resort",
+    "",
+    "1592076860",
+    "",
+    "life"
+  ],
+  [
+    "Saily - 간편하고 안전한 여행용 eSIM 앱",
+    "",
+    "6475045151",
+    "",
+    "life"
+  ],
+  [
+    "Omio: 전 세계 기차 버스 페리 항공권 예약",
+    "",
+    "885372509",
+    "",
+    "life"
+  ],
+  [
+    "미미테이블: 웨이팅없는 일본맛집여행",
+    "",
+    "6615082097",
+    "",
+    "life"
+  ],
+  [
+    "STATION by UHC",
+    "",
+    "6740265704",
+    "",
+    "life"
+  ],
+  [
+    "Charichari - Bike Share",
+    "",
+    "1341611829",
+    "",
+    "life"
+  ],
+  [
+    "와그 - 세상의 모든 경험",
+    "",
+    "1109193105",
+    "",
+    "life"
+  ],
+  [
+    "에어프레미아",
+    "",
+    "6566176762",
+    "",
+    "life"
+  ],
+  [
+    "반려생활 - 반려동물 1등 여행앱",
+    "",
+    "1441374822",
+    "",
+    "life"
+  ],
+  [
+    "환율 계산기 환율 계산",
+    "",
+    "1457309557",
+    "",
+    "life"
+  ],
+  [
+    "모비 - 통신사가 만든 eSIM 로밍",
+    "",
+    "6756096473",
+    "",
+    "life"
+  ],
+  [
+    "캐치프로그: 특가 항공권, 호텔, eSIM 최저가 예약",
+    "",
+    "6737223338",
+    "",
+    "life"
+  ],
+  [
+    "에어서울",
+    "",
+    "1140026677",
+    "",
+    "life"
+  ],
+  [
+    "Flightradar24 | Flight Tracker",
+    "",
+    "382233851",
+    "",
+    "life"
+  ],
+  [
+    "경주 타실라",
+    "",
+    "1631783046",
+    "",
+    "life"
+  ],
+  [
+    "어울링 공영자전거",
+    "",
+    "1408417032",
+    "",
+    "life"
+  ],
+  [
+    "신라호텔 - 호텔예약",
+    "",
+    "1297887151",
+    "",
+    "life"
+  ],
+  [
+    "MiRi - 광역버스 좌석예약 서비스",
+    "",
+    "1251927393",
+    "",
+    "life"
+  ],
+  [
+    "Freenow by Lyft - taxi & more",
+    "",
+    "357852748",
+    "",
+    "life"
+  ],
+  [
+    "Japan Wi-Fi auto-connect",
+    "",
+    "1461015351",
+    "",
+    "life"
+  ],
+  [
+    "여수 공영자전거 여수랑",
+    "",
+    "1575326974",
+    "",
+    "life"
+  ],
+  [
+    "경기버스정보",
+    "",
+    "895828154",
+    "",
+    "life"
+  ],
+  [
+    "네이버 파파고 - AI 통번역",
+    "",
+    "1147874819",
+    "",
+    "travel"
+  ],
+  [
+    "네이버 - NAVER",
+    "",
+    "393499958",
+    "",
+    "travel"
+  ],
+  [
+    "Google 번역",
+    "",
+    "414706506",
+    "",
+    "travel"
+  ],
+  [
+    "Kuli Kuli - 신뢰받는 여행 번역",
+    "",
+    "6458146511",
+    "",
+    "travel"
+  ],
+  [
+    "롤토체스 전적검색 - 롤체지지",
+    "",
+    "1470197564",
+    "",
+    "travel"
+  ],
+  [
+    "실시간 음성 번역기 앱: AI 번역",
+    "",
+    "1036725690",
+    "",
+    "travel"
+  ],
+  [
+    "Valking.gg - Valorant Tracker",
+    "",
+    "1555939999",
+    "",
+    "travel"
+  ],
+  [
+    "성경 ·",
+    "",
+    "282935706",
+    "",
+    "travel"
+  ],
+  [
+    "OP.GG - 오피지지",
+    "",
+    "605722237",
+    "",
+    "travel"
+  ],
+  [
+    "작명어플 : 넴유베 (Name Your Baby)",
+    "",
+    "975107189",
+    "",
+    "travel"
+  ],
+  [
+    "DeepL 번역",
+    "",
+    "1552407475",
+    "",
+    "travel"
+  ],
+  [
+    "파파고 플러스 - Papago Plus",
+    "",
+    "6743303161",
+    "",
+    "travel"
+  ],
+  [
+    "AI 실시간 번역기 - 다국어 지원",
+    "",
+    "6740606431",
+    "",
+    "travel"
+  ],
+  [
+    "PSA: Card Scanner & Grading",
+    "",
+    "996239729",
+    "",
+    "travel"
+  ],
+  [
+    "숨겨진 카메라 탐지기",
+    "",
+    "6612037031",
+    "",
+    "travel"
+  ],
+  [
+    "스카이 가이드",
+    "",
+    "576588894",
+    "",
+    "travel"
+  ],
+  [
+    "나무위키 공식앱",
+    "",
+    "1623510780",
+    "",
+    "travel"
+  ],
+  [
+    "반지 사이즈 측정: Ring Sizer",
+    "",
+    "6446276693",
+    "",
+    "travel"
+  ],
+  [
+    "AllT - All about TFT",
+    "",
+    "6448737621",
+    "",
+    "travel"
+  ],
+  [
+    "HoloDex - TCG Scan & Collect",
+    "",
+    "6747442689",
+    "",
+    "travel"
+  ],
+  [
+    "번역기 - 지금 번역: 음성, 텍스트 및 사진 번역",
+    "",
+    "1348028646",
+    "",
+    "travel"
+  ],
+  [
+    "나이트 스카이",
+    "",
+    "475772902",
+    "",
+    "travel"
+  ],
+  [
+    "네이트 (nate)",
+    "",
+    "402681762",
+    "",
+    "travel"
+  ],
+  [
+    "플리토(Flitto)-번역기, 외국어 리워드 앱",
+    "",
+    "493235942",
+    "",
+    "travel"
+  ],
+  [
+    "MoFA Mitra",
+    "",
+    "1441267962",
+    "",
+    "travel"
+  ],
+  [
+    "Merlin Bird ID by Cornell Lab",
+    "",
+    "773457673",
+    "",
+    "travel"
+  ],
+  [
+    "바이블 애플 - 개역개정, ESV, NASB 성경 제공",
+    "",
+    "488089999",
+    "",
+    "travel"
+  ],
+  [
+    "LH임대알리미 - 주택청약 공공주택 임대분양정보",
+    "",
+    "6444817477",
+    "",
+    "travel"
+  ],
+  [
+    "가톨릭",
+    "",
+    "736015071",
+    "",
+    "travel"
+  ],
+  [
+    "공동체 성경 읽기(드라마바이블).",
+    "",
+    "6474954895",
+    "",
+    "travel"
+  ],
+  [
+    "Collectr - TCG Collector App",
+    "",
+    "1603892248",
+    "",
+    "travel"
+  ],
+  [
+    "줌(zum) - 실시간 이슈 & 포인트 적립",
+    "",
+    "767175312",
+    "",
+    "travel"
+  ],
+  [
+    "협회공인 작명어플 작명가 – 이름짓기, 이름추천, 개명",
+    "",
+    "1643878884",
+    "",
+    "travel"
+  ],
+  [
+    "닥지지 - 롤체지지 & 전적검색",
+    "",
+    "6444504031",
+    "",
+    "travel"
+  ],
+  [
+    "영한사전 - Dict Box",
+    "",
+    "424389010",
+    "",
+    "travel"
+  ],
+  [
+    "번역 갈매기 - AI 동시통역・음성・비디오 번역 앱",
+    "",
+    "6505100587",
+    "",
+    "travel"
+  ],
+  [
+    "도사: 110원 사주, 타로, 궁합, 운세·만세력·상담",
+    "",
+    "6741585416",
+    "",
+    "travel"
+  ],
+  [
+    "Bobo 번역 - AI 화면 번역",
+    "",
+    "6757137583",
+    "",
+    "travel"
+  ],
+  [
+    "문묵천기 자미두수 (역술가 버전)",
+    "",
+    "1529056487",
+    "",
+    "travel"
+  ],
+  [
+    "위키백과",
+    "",
+    "324715238",
+    "",
+    "travel"
+  ],
+  [
+    "Sky Tonight: 증강 현실이 포함된 별자리 어플",
+    "",
+    "1570594940",
+    "",
+    "travel"
+  ],
+  [
+    "HappyMood - All Games Library",
+    "",
+    "6752773778",
+    "",
+    "travel"
+  ],
+  [
+    "AI Translator - Translate AI",
+    "",
+    "6738304985",
+    "",
+    "travel"
+  ],
+  [
+    "이루미 - 작명, 개명, 아기이름",
+    "",
+    "6759095609",
+    "",
+    "travel"
+  ],
+  [
+    "작명어플 작명왕 - 이름짓기, 이름추천과 풀이, 개명",
+    "",
+    "6473813242",
+    "",
+    "travel"
+  ],
+  [
+    "Lok l0k-Watch Drama Movies,TV",
+    "",
+    "6761259426",
+    "",
+    "travel"
+  ],
+  [
+    "섯다 족보 & 가이드북",
+    "",
+    "1612649851",
+    "",
+    "travel"
+  ],
+  [
+    "동시통역 - 음성 번역・받아쓰기",
+    "",
+    "6740851285",
+    "",
+    "travel"
+  ],
+  [
+    "TCG Card Scanner TCG Collector",
+    "",
+    "6742734047",
+    "",
+    "travel"
+  ],
+  [
+    "Quranify: Quran Audio Player",
+    "",
+    "6756227351",
+    "",
+    "travel"
+  ],
+  [
+    "메이트 - 번역기 및 사전",
+    "",
+    "1073473333",
+    "",
+    "travel"
+  ],
+  [
+    "House Builder for Minecraft PE",
+    "",
+    "1497683446",
+    "",
+    "travel"
+  ],
+  [
+    "ER 닥지지",
+    "",
+    "6742165422",
+    "",
+    "travel"
+  ],
+  [
+    "Oxford Dictionary & Thesaurus",
+    "",
+    "978674211",
+    "",
+    "travel"
+  ],
+  [
+    "오사카 지하철 - 환승 안내",
+    "",
+    "6747218379",
+    "",
+    "travel"
+  ],
+  [
+    "수어 사전 (Flashcards M)",
+    "",
+    "1525308623",
+    "",
+    "travel"
+  ],
+  [
+    "BMW Driver's Guide",
+    "",
+    "714042749",
+    "",
+    "travel"
+  ],
+  [
+    "메이플북 - 큐브 & 스타포스, 수익 통계",
+    "",
+    "6502565190",
+    "",
+    "travel"
+  ],
+  [
+    "PriceCharting: TCG, Games+",
+    "",
+    "6452190948",
+    "",
+    "travel"
+  ],
+  [
+    "우파루 가이드",
+    "",
+    "6474457167",
+    "",
+    "travel"
+  ],
+  [
+    "Tomodachi Miis Ideas",
+    "",
+    "6762808124",
+    "",
+    "travel"
+  ],
+  [
+    "Bird Identifier: 새소리 식별자",
+    "",
+    "6449354786",
+    "",
+    "travel"
+  ],
+  [
+    "InstantTranslator: AI 번역",
+    "",
+    "6636468891",
+    "",
+    "travel"
+  ],
+  [
+    "Muslim: Prayer Times, Qibla",
+    "",
+    "1137963102",
+    "",
+    "travel"
+  ],
+  [
+    "Celestron StarSense Explorer",
+    "",
+    "1368600689",
+    "",
+    "travel"
+  ],
+  [
+    "VPN - 夏时国际加速器 VPN",
+    "",
+    "1544742935",
+    "",
+    "travel"
+  ],
+  [
+    "Star Walk의 위성 추적기",
+    "",
+    "1248172706",
+    "",
+    "travel"
+  ],
+  [
+    "롤 전적검색 - 포로지지",
+    "",
+    "1465707263",
+    "",
+    "travel"
+  ],
+  [
+    "TCG Card Scanner for Pokemon",
+    "",
+    "6711355393",
+    "",
+    "travel"
+  ],
+  [
+    "농산물 실시간 경매 - 최신 농산물 경매 거래내역 확인",
+    "",
+    "1605831935",
+    "",
+    "travel"
+  ],
+  [
+    "Auto Clicker: Tap Automation",
+    "",
+    "6758081018",
+    "",
+    "travel"
+  ],
+  [
+    "JW Library",
+    "",
+    "672417831",
+    "",
+    "travel"
+  ],
+  [
+    "快喵加速器- VPN快喵智能网络加速代理",
+    "",
+    "6740050242",
+    "",
+    "travel"
+  ],
+  [
+    "Muslim Pro: 꾸란 예배 안내",
+    "",
+    "388389451",
+    "",
+    "travel"
+  ],
+  [
+    "VR Virtual Reality 360°",
+    "",
+    "1579274717",
+    "",
+    "travel"
+  ],
+  [
+    "시사경제용어 (Flashcards M)",
+    "",
+    "1019315966",
+    "",
+    "travel"
+  ],
+  [
+    "Pleco Chinese Dictionary",
+    "",
+    "341922306",
+    "",
+    "travel"
+  ],
+  [
+    "마인크래프트 용 스킨 맵 모드 쉐이더",
+    "",
+    "1459232480",
+    "",
+    "travel"
+  ],
+  [
+    "Merriam-Webster Dictionary",
+    "",
+    "399452287",
+    "",
+    "travel"
+  ],
+  [
+    "글자수 세기 (글세)",
+    "",
+    "6759443544",
+    "",
+    "travel"
+  ],
+  [
+    "낚시 매듭",
+    "",
+    "681286803",
+    "",
+    "travel"
+  ],
+  [
+    "포코 라이프",
+    "",
+    "6760477621",
+    "",
+    "travel"
+  ],
+  [
+    "중국어 - 표준 중국어 사전",
+    "",
+    "1352944887",
+    "",
+    "travel"
+  ],
+  [
+    "발로란트 조준선 - 발로란트 조준선",
+    "",
+    "1583246834",
+    "",
+    "travel"
+  ],
+  [
+    "Yandex Translate",
+    "",
+    "584291439",
+    "",
+    "travel"
+  ],
+  [
+    "FoilSnap: TCG 카드 스캐너",
+    "",
+    "6752642525",
+    "",
+    "travel"
+  ],
+  [
+    "Acorn TCG ‒ Card Scanner App",
+    "",
+    "6740246597",
+    "",
+    "travel"
+  ],
+  [
+    "百度翻译-AI英语学习词典与翻译官",
+    "",
+    "605670941",
+    "",
+    "travel"
+  ],
+  [
+    "流光壁纸：锦鲤荷花动态壁纸&萌宠写真召唤器",
+    "",
+    "6757378387",
+    "",
+    "travel"
+  ],
+  [
+    "ASMS 2026",
+    "",
+    "6744935677",
+    "",
+    "travel"
+  ],
+  [
+    "돈키호테",
+    "",
+    "1074279241",
+    "",
+    "travel"
+  ],
+  [
+    "Transly - 동시통역",
+    "",
+    "6743425444",
+    "",
+    "travel"
+  ],
+  [
+    "Yomiwa - 일본어 사전",
+    "",
+    "670931120",
+    "",
+    "travel"
+  ],
+  [
+    "Cambridge English Dictionary",
+    "",
+    "728359831",
+    "",
+    "travel"
+  ],
+  [
+    "GTOPlaybook",
+    "",
+    "6761044736",
+    "",
+    "travel"
+  ],
+  [
+    "PlantAI: 식물 식별 및 진단",
+    "",
+    "1664437810",
+    "",
+    "travel"
+  ],
+  [
+    "MyEGS",
+    "",
+    "1338755216",
+    "",
+    "travel"
+  ],
+  [
+    "Logos: 로고스 성경 리서치 플랫폼",
+    "",
+    "336400266",
+    "",
+    "travel"
+  ],
+  [
+    "Hallow: Prayer & Meditation",
+    "",
+    "1405323394",
+    "",
+    "travel"
+  ],
+  [
+    "MINI Driver's Guide",
+    "",
+    "834510424",
+    "",
+    "travel"
+  ],
+  [
+    "Google Play 게임즈",
+    "",
+    "",
+    "com.google.android.play.games",
+    "game"
+  ],
+  [
+    "로블록스 (Roblox)",
+    "",
+    "",
+    "com.roblox.client",
+    "game"
+  ],
+  [
+    "모바일 레전드: Bang Bang",
+    "",
+    "",
+    "com.mobile.legends",
+    "game"
+  ],
+  [
+    "캔디크러쉬사가 (Candy Crush Saga)",
+    "",
+    "",
+    "com.king.candycrushsaga",
+    "game"
+  ],
+  [
+    "Among Us",
+    "",
+    "",
+    "com.innersloth.spacemafia",
+    "game"
+  ],
+  [
+    "Stumble Guys 스텀블 가이즈",
+    "",
+    "",
+    "com.kitkagames.fallbuddies",
+    "game"
+  ],
+  [
+    "Carrom Pool: Disc Game",
+    "",
+    "",
+    "com.miniclip.carrom",
+    "game"
+  ],
+  [
+    "몬길: STAR DIVE",
+    "",
+    "",
+    "com.netmarble.monster2",
+    "game"
+  ],
+  [
+    "더 디비전 리서전스",
+    "",
+    "",
+    "com.ubisoft.the.division.mobile.combat.shooting.open.world.rpg",
+    "game"
+  ],
+  [
+    "Plants vs. Zombies™",
+    "",
+    "",
+    "com.ea.game.pvzfree_row",
+    "game"
+  ],
+  [
+    "Free Fire: Undersea Mystery",
+    "",
+    "",
+    "com.dts.freefireth",
+    "game"
+  ],
+  [
+    "Dream League Soccer 2026",
+    "",
+    "",
+    "com.firsttouchgames.dls7",
+    "game"
+  ],
+  [
+    "Toca Boca World",
+    "",
+    "",
+    "com.tocaboca.tocalifeworld",
+    "game"
+  ],
+  [
+    "아스팔트 8: 에어본 - 인기 리얼카 레이싱 게임",
+    "",
+    "",
+    "com.gameloft.android.ANMP.GloftA8HM",
+    "game"
+  ],
+  [
+    "로얄 매치 Royal Match",
+    "",
+    "",
+    "com.dreamgames.royalmatch",
+    "game"
+  ],
+  [
+    "Mob Control",
+    "",
+    "",
+    "com.vincentb.MobControl",
+    "game"
+  ],
+  [
+    "Free Fire MAX",
+    "",
+    "",
+    "com.dts.freefiremax",
+    "game"
+  ],
+  [
+    "꿈의 정원 (Gardenscapes)",
+    "",
+    "",
+    "com.playrix.gardenscapes",
+    "game"
+  ],
+  [
+    "타일 클럽 - 매칭 게임",
+    "",
+    "",
+    "com.gamovation.tileclub",
+    "game"
+  ],
+  [
+    "앵그리버드2",
+    "",
+    "",
+    "com.rovio.baba",
+    "game"
+  ],
+  [
+    "Tile Explorer - 트리플 매치",
+    "",
+    "",
+    "com.oakever.tiletrip",
+    "game"
+  ],
+  [
+    "Avatar World ®",
+    "",
+    "",
+    "com.pazugames.avatarworld",
+    "game"
+  ],
+  [
+    "Pooking - 당구대",
+    "",
+    "",
+    "com.billiards.city.pool.nation.club",
+    "game"
+  ],
+  [
+    "Moto X3M Bike Race Game",
+    "",
+    "",
+    "air.com.aceviral.motox3m",
+    "game"
+  ],
+  [
+    "Forest: 공부 집중 & 생산성 타이머",
+    "",
+    "",
+    "cc.forestapp",
+    "productivity"
+  ],
+  [
+    "Google Calendar",
+    "",
+    "",
+    "com.google.android.calendar",
+    "productivity"
+  ],
+  [
+    "Todoist: 할일 목록 & 캘린더",
+    "",
+    "",
+    "com.todoist",
+    "productivity"
+  ],
+  [
+    "PDF용 Adobe Acrobat Reader",
+    "",
+    "",
+    "com.adobe.reader",
+    "productivity"
+  ],
+  [
+    "Meta AI - 바이브와 AI 안경",
+    "",
+    "",
+    "com.facebook.stella",
+    "productivity"
+  ],
+  [
+    "Microsoft Excel: Spreadsheets",
+    "",
+    "",
+    "com.microsoft.office.excel",
+    "productivity"
+  ],
+  [
+    "DoDay: To-Do List & Planner",
+    "",
+    "",
+    "de.doday.doday",
+    "productivity"
+  ],
+  [
+    "Google 드라이브",
+    "",
+    "",
+    "com.google.android.apps.docs",
+    "productivity"
+  ],
+  [
+    "Perplexity (퍼플렉시티) 무엇이든 물어보세요",
+    "",
+    "",
+    "ai.perplexity.app.android",
+    "productivity"
+  ],
+  [
+    "Microsoft Word: Edit Documents",
+    "",
+    "",
+    "com.microsoft.office.word",
+    "productivity"
+  ],
+  [
+    "Notion: 노트, 작업, AI",
+    "",
+    "",
+    "notion.id",
+    "productivity"
+  ],
+  [
+    "CamScanner - 문서를 PDF로 스캔하기",
+    "",
+    "",
+    "com.intsig.camscanner",
+    "productivity"
+  ],
+  [
+    "Google Slides",
+    "",
+    "",
+    "com.google.android.apps.docs.editors.slides",
+    "productivity"
+  ],
+  [
+    "Manus AI",
+    "",
+    "",
+    "tech.butterfly.app",
+    "productivity"
+  ],
+  [
+    "WPS Office-PDF,Word,Sheet,PPT",
+    "",
+    "",
+    "cn.wps.moffice_eng",
+    "productivity"
+  ],
+  [
+    "Microsoft OneNote: Save Notes",
+    "",
+    "",
+    "com.microsoft.office.onenote",
+    "productivity"
+  ],
+  [
+    "Samsung Notes",
+    "",
+    "",
+    "com.samsung.android.app.notes",
+    "productivity"
+  ],
+  [
+    "Instagram",
+    "",
+    "",
+    "com.instagram.android",
+    "sns"
+  ],
+  [
+    "TikTok 틱톡 - 숏폼 영상, 크리에이터, 수익창출",
+    "",
+    "",
+    "com.ss.android.ugc.trill",
+    "sns"
+  ],
+  [
+    "X",
+    "",
+    "",
+    "com.twitter.android",
+    "sns"
+  ],
+  [
+    "Snapchat",
+    "",
+    "",
+    "com.snapchat.android",
+    "sns"
+  ],
+  [
+    "VK: music, video, messenger",
+    "",
+    "",
+    "com.vkontakte.android",
+    "sns"
+  ],
+  [
+    "Pinterest(핀터레스트)",
+    "",
+    "",
+    "com.pinterest",
+    "sns"
+  ],
+  [
+    "Facebook Lite",
+    "",
+    "",
+    "com.facebook.lite",
+    "sns"
+  ],
+  [
+    "Reddit",
+    "",
+    "",
+    "com.reddit.frontpage",
+    "sns"
+  ],
+  [
+    "LinkedIn",
+    "",
+    "",
+    "com.linkedin.android",
+    "sns"
+  ],
+  [
+    "Bluesky",
+    "",
+    "",
+    "xyz.blueskyweb.app",
+    "sns"
+  ],
+  [
+    "ShareChat Trends Videos & Live",
+    "",
+    "",
+    "in.mohalla.sharechat",
+    "sns"
+  ],
+  [
+    "TikTok Lite 포인트 & 쿠폰 & 리워드",
+    "",
+    "",
+    "com.ss.android.ugc.tiktok.lite",
+    "sns"
+  ],
+  [
+    "Reclub - Social Sports Nearby",
+    "",
+    "",
+    "co.reclub",
+    "sns"
+  ],
+  [
+    "비고 라이브 BIGO LIVE - 글로벌 라이브 방송",
+    "",
+    "",
+    "sg.bigo.live",
+    "sns"
+  ],
+  [
+    "Patreon",
+    "",
+    "",
+    "com.patreon.android",
+    "sns"
+  ],
+  [
+    "小红书 — 你的生活兴趣社区",
+    "",
+    "",
+    "com.xingin.xhs",
+    "sns"
+  ],
+  [
+    "Likee - Short Video Community",
+    "",
+    "",
+    "video.like",
+    "sns"
+  ],
+  [
+    "Substack",
+    "",
+    "",
+    "com.substack.app",
+    "sns"
+  ],
+  [
+    "Moj: Free Short Drama & Reels",
+    "",
+    "",
+    "in.mohalla.video",
+    "sns"
+  ],
+  [
+    "Tumblr— 팬덤, 아트, 카오스",
+    "",
+    "",
+    "com.tumblr",
+    "sns"
+  ],
+  [
+    "KICK: Live Streaming",
+    "",
+    "",
+    "com.kick.mobile",
+    "sns"
+  ],
+  [
+    "Playtomic - Play padel",
+    "",
+    "",
+    "com.playtomic",
+    "sns"
+  ],
+  [
+    "YouTube",
+    "",
+    "",
+    "com.google.android.youtube",
+    "entertainment"
+  ],
+  [
+    "Netflix(넷플릭스)",
+    "",
+    "",
+    "com.netflix.mediaclient",
+    "entertainment"
+  ],
+  [
+    "Prime Video",
+    "",
+    "",
+    "com.amazon.avod.thirdpartyclient",
+    "entertainment"
+  ],
+  [
+    "Google TV",
+    "",
+    "",
+    "com.google.android.videos",
+    "entertainment"
+  ],
+  [
+    "YouTube for Android TV",
+    "",
+    "",
+    "com.google.android.youtube.tv",
+    "entertainment"
+  ],
+  [
+    "Xbox",
+    "",
+    "",
+    "com.microsoft.xboxone.smartglass",
+    "entertainment"
+  ],
+  [
+    "PolyBuzz - AI 캐릭터와 대화하기",
+    "",
+    "",
+    "ai.socialapps.speakmaster",
+    "entertainment"
+  ],
+  [
+    "BookMyShow | Movies & Events",
+    "",
+    "",
+    "com.bt.bms",
+    "entertainment"
+  ],
+  [
+    "SHEIN-온라인 쇼핑",
+    "",
+    "",
+    "com.zzkko",
+    "shopping"
+  ],
+  [
+    "AliExpress",
+    "",
+    "",
+    "com.alibaba.aliexpresshd",
+    "shopping"
+  ],
+  [
+    "Flipkart Online Shopping App",
+    "",
+    "",
+    "com.flipkart.android",
+    "shopping"
+  ],
+  [
+    "Myntra - Fashion Shopping App",
+    "",
+    "",
+    "com.myntra.android",
+    "shopping"
+  ],
+  [
+    "WISH: 알뜰한 쇼핑",
+    "",
+    "",
+    "com.contextlogic.wish",
+    "shopping"
+  ],
+  [
+    "Mercado Libre",
+    "",
+    "",
+    "com.mercadolibre",
+    "shopping"
+  ],
+  [
+    "Daraz Online Shopping App",
+    "",
+    "",
+    "com.daraz.android",
+    "shopping"
+  ],
+  [
+    "Alibaba.com - B2B 시장",
+    "",
+    "",
+    "com.alibaba.intl.android.apps.poseidon",
+    "shopping"
+  ],
+  [
+    "Meesho: Online Shopping App",
+    "",
+    "",
+    "com.meesho.supply",
+    "shopping"
+  ],
+  [
+    "Lazada 6.6 Super Wow Sale",
+    "",
+    "",
+    "com.lazada.android",
+    "shopping"
+  ],
+  [
+    "모바일 쇼핑은 옥션",
+    "",
+    "",
+    "com.ebay.kr.auction",
+    "shopping"
+  ],
+  [
+    "Shopee 6.6 ลดใหญ่ แบรนด์แท้",
+    "",
+    "",
+    "com.shopee.th",
+    "shopping"
+  ],
+  [
+    "ASOS",
+    "",
+    "",
+    "com.asos.app",
+    "shopping"
+  ],
+  [
+    "Banggood - 온라인 쇼핑",
+    "",
+    "",
+    "com.banggood.client",
+    "shopping"
+  ],
+  [
+    "나이키: 신발, 의류, 스토리",
+    "",
+    "",
+    "com.nike.omega",
+    "shopping"
+  ],
+  [
+    "Tokopedia",
+    "",
+    "",
+    "com.tokopedia.tkpd",
+    "shopping"
+  ],
+  [
+    "Shop MM - Online Shopping App",
+    "",
+    "",
+    "com.shop.android",
+    "shopping"
+  ],
+  [
+    "MANGO - 온라인 패션",
+    "",
+    "",
+    "com.dylvian.mango.activities",
+    "shopping"
+  ],
+  [
+    "Shopee 6.6 Đại Tiệc Giữa Năm",
+    "",
+    "",
+    "com.shopee.vn",
+    "shopping"
+  ],
+  [
+    "Etsy: Shop Home, Style & More",
+    "",
+    "",
+    "com.etsy.android",
+    "shopping"
+  ],
+  [
+    "Trendyol - Online Alışveriş",
+    "",
+    "",
+    "trendyol.com",
+    "shopping"
+  ],
+  [
+    "noon Online Shopping & Grocery",
+    "",
+    "",
+    "com.noon.buyerapp",
+    "shopping"
+  ],
+  [
+    "Shopee PH: 6.6-7.7 Sale",
+    "",
+    "",
+    "com.shopee.ph",
+    "shopping"
+  ],
+  [
+    "OZON: товары, одежда, билеты",
+    "",
+    "",
+    "ru.ozon.app.android",
+    "shopping"
+  ],
+  [
+    "Yahoo Finance",
+    "",
+    "",
+    "com.yahoo.mobile.client.android.finance",
+    "finance"
+  ],
+  [
+    "인베스팅닷컴(Investing.com):글로벌 주식시장",
+    "",
+    "",
+    "com.fusionmedia.investing",
+    "finance"
+  ],
+  [
+    "Nickel - Compte pour tous",
+    "",
+    "",
+    "com.fpe.comptenickel",
+    "finance"
+  ],
+  [
+    "Bloomberg: Finance Market News",
+    "",
+    "",
+    "com.bloomberg.android.plus",
+    "finance"
+  ],
+  [
+    "Yape",
+    "",
+    "",
+    "com.bcp.innovacxion.yapeapp",
+    "finance"
+  ],
+  [
+    "파이낸스 프로",
+    "",
+    "",
+    "com.financepro",
+    "finance"
+  ],
+  [
+    "Bluecoins 재정 및 예산",
+    "",
+    "",
+    "com.rammigsoftware.bluecoins",
+    "finance"
+  ],
+  [
+    "DANA Indonesia Digital Wallet",
+    "",
+    "",
+    "id.dana",
+    "finance"
+  ],
+  [
+    "PhonePe UPI, Payment, Recharge",
+    "",
+    "",
+    "com.phonepe.app",
+    "finance"
+  ],
+  [
+    "Paytm: Secure UPI Payments",
+    "",
+    "",
+    "net.one97.paytm",
+    "finance"
+  ],
+  [
+    "Nubank: conta, cartão e mais",
+    "",
+    "",
+    "com.nu.production",
+    "finance"
+  ],
+  [
+    "Budget App & Tracker: Spendee",
+    "",
+    "",
+    "com.cleevio.spendee",
+    "finance"
+  ],
+  [
+    "Chase Mobile",
+    "",
+    "",
+    "com.chase.sig.android",
+    "finance"
+  ],
+  [
+    "MetaTrader 5",
+    "",
+    "",
+    "net.metaquotes.metatrader5",
+    "finance"
+  ],
+  [
+    "Revolut — Banking & Beyond",
+    "",
+    "",
+    "com.revolut.revolut",
+    "finance"
+  ],
+  [
+    "TradingView - 주식 과 가상화폐",
+    "",
+    "",
+    "com.tradingview.tradingviewapp",
+    "finance"
+  ],
+  [
+    "Banco Itaú: Conta, Cartão e +",
+    "",
+    "",
+    "com.itau",
+    "finance"
+  ],
+  [
+    "Banco PicPay: Cartão, Pix e +",
+    "",
+    "",
+    "com.picpay",
+    "finance"
+  ],
+  [
+    "GoPay: Transfer, Bayar, QRIS",
+    "",
+    "",
+    "com.gojek.gopay",
+    "finance"
+  ],
+  [
+    "Inter: Conta, Cartão e Pix",
+    "",
+    "",
+    "br.com.intermedium",
+    "finance"
+  ],
+  [
+    "Klarna: Smarter everyday money",
+    "",
+    "",
+    "com.myklarnamobile",
+    "finance"
+  ],
+  [
+    "Wise - Global Money",
+    "",
+    "",
+    "com.transferwise.android",
+    "finance"
+  ],
+  [
+    "Trust: Crypto & Bitcoin Wallet",
+    "",
+    "",
+    "com.wallet.crypto.trustapp",
+    "finance"
+  ],
+  [
+    "Google 오피니언 리워드",
+    "",
+    "",
+    "com.google.android.apps.paidtasks",
+    "finance"
+  ],
+  [
+    "Remitly: 송금 및 국제 자금 추적",
+    "",
+    "",
+    "com.remitly.androidapp",
+    "finance"
+  ],
+  [
+    "삼성 월렛",
+    "",
+    "",
+    "com.samsung.android.spay",
+    "finance"
+  ],
+  [
+    "MetaMask: 암호화폐 거래",
+    "",
+    "",
+    "io.metamask",
+    "finance"
+  ],
+  [
+    "Zalopay - Quét Mọi QR",
+    "",
+    "",
+    "vn.com.vng.zalopay",
+    "finance"
+  ],
+  [
+    "Google Health (Fitbit)",
+    "",
+    "",
+    "com.fitbit.FitbitMobile",
+    "health"
+  ],
+  [
+    "Google 피트니스: 활동 추적",
+    "",
+    "",
+    "com.google.android.apps.fitness",
+    "health"
+  ],
+  [
+    "헬스 커넥트",
+    "",
+    "",
+    "com.google.android.apps.healthdata",
+    "health"
+  ],
+  [
+    "NoiseFit: Health & Fitness",
+    "",
+    "",
+    "com.noisefit",
+    "health"
+  ],
+  [
+    "My Health",
+    "",
+    "",
+    "com.transsion.healthlife",
+    "health"
+  ],
+  [
+    "Seven - 7 Minute Workout",
+    "",
+    "",
+    "se.perigee.android.seven",
+    "health"
+  ],
+  [
+    "MyFitnessPal: Calorie Counter",
+    "",
+    "",
+    "com.myfitnesspal.android",
+    "health"
+  ],
+  [
+    "홈 트레이닝 - 기구가 필요 없습니다",
+    "",
+    "",
+    "homeworkout.homeworkouts.noequipment",
+    "health"
+  ],
+  [
+    "Mi Fitness (Xiaomi Wear)",
+    "",
+    "",
+    "com.xiaomi.wearable",
+    "health"
+  ],
+  [
+    "Sweatcoin 걸음 수 추적기",
+    "",
+    "",
+    "in.sweatco.app",
+    "health"
+  ],
+  [
+    "Nike Run Club - 러닝 코치",
+    "",
+    "",
+    "com.nike.plusgps",
+    "health"
+  ],
+  [
+    "Pikmin Bloom",
+    "",
+    "",
+    "com.nianticlabs.pikmin",
+    "health"
+  ],
+  [
+    "Zepp",
+    "",
+    "",
+    "com.huami.watch.hmwatchmanager",
+    "health"
+  ],
+  [
+    "Hevy - 헬스일지 운동기록 피트니스앱",
+    "",
+    "",
+    "com.hevy",
+    "health"
+  ],
+  [
+    "AllTrails: Hike, Bike & Run",
+    "",
+    "",
+    "com.alltrails.alltrails",
+    "health"
+  ],
+  [
+    "Calm - 명상, 수면, 휴식",
+    "",
+    "",
+    "com.calm.android",
+    "health"
+  ],
+  [
+    "Finch: Self-Care Pet",
+    "",
+    "",
+    "com.finch.finch",
+    "health"
+  ],
+  [
+    "슬립 사이클: 수면 분석 및 스마트 알람 시계",
+    "",
+    "",
+    "com.northcube.sleepcycle",
+    "health"
+  ],
+  [
+    "Lose It! - 칼로리 카운터",
+    "",
+    "",
+    "com.fitnow.loseit",
+    "health"
+  ],
+  [
+    "Insight Timer - Meditation App",
+    "",
+    "",
+    "com.spotlightsix.zentimerlite2",
+    "health"
+  ],
+  [
+    "Headspace: Sleep & Meditation",
+    "",
+    "",
+    "com.getsomeheadspace.android",
+    "health"
+  ],
+  [
+    "Nike Training Club",
+    "",
+    "",
+    "com.nike.ntc",
+    "health"
+  ],
+  [
+    "데일리오 - 일기, 기분일기장, 다이어리, 일기장",
+    "",
+    "",
+    "net.daylio",
+    "health"
+  ],
+  [
+    "Lifesum: AI Calorie Tracker",
+    "",
+    "",
+    "com.sillens.shapeupclub",
+    "health"
+  ],
+  [
+    "Personify Health",
+    "",
+    "",
+    "com.virginpulse.virginpulse",
+    "health"
+  ],
+  [
+    "Minecraft Education",
+    "",
+    "",
+    "com.mojang.minecraftedu",
+    "education"
+  ],
+  [
+    "Google 클래스룸",
+    "",
+    "",
+    "com.google.android.apps.classroom",
+    "education"
+  ],
+  [
+    "Khan Academy Kids",
+    "",
+    "",
+    "org.khankids.android",
+    "education"
+  ],
+  [
+    "Fluvsies Academy - 키즈 게임",
+    "",
+    "",
+    "com.tutotoons.app.fluvsiesacademy",
+    "education"
+  ],
+  [
+    "Photomath",
+    "",
+    "",
+    "com.microblink.photomath",
+    "education"
+  ],
+  [
+    "Karnataka Academy Education",
+    "",
+    "",
+    "com.karnatakaacademy.learnerss",
+    "education"
+  ],
+  [
+    "Moodle",
+    "",
+    "",
+    "com.moodle.moodlemobile",
+    "education"
+  ],
+  [
+    "Starfall",
+    "",
+    "",
+    "air.com.starfall.more",
+    "education"
+  ],
+  [
+    "Alison: Online Learning App",
+    "",
+    "",
+    "com.alison.mobile.flutter",
+    "education"
+  ],
+  [
+    "HelloTalk 헬로톡 - 언어공부 외국친구찾기",
+    "",
+    "",
+    "com.hellotalk",
+    "education"
+  ],
+  [
+    "일생을 위한 언어 학습, 멤라이즈",
+    "",
+    "",
+    "com.memrise.android.memrisecompanion",
+    "education"
+  ],
+  [
+    "수학문제",
+    "",
+    "",
+    "com.holucent.math",
+    "education"
+  ],
+  [
+    "41개 국어를 배워 보세요 - Mondly",
+    "",
+    "",
+    "com.atistudios.mondly.languages",
+    "education"
+  ],
+  [
+    "Teachmint AI Online Teaching",
+    "",
+    "",
+    "com.teachmint.teachmint",
+    "education"
+  ],
+  [
+    "Learn to Read: Reading.com",
+    "",
+    "",
+    "teaching_com.reading_com",
+    "education"
+  ],
+  [
+    "CampusLearn - AI Companion",
+    "",
+    "",
+    "ai.szl.mobileapp",
+    "education"
+  ],
+  [
+    "ClassDojo( 교실 도장 ) : 교실과 집",
+    "",
+    "",
+    "com.classdojo.android",
+    "education"
+  ],
+  [
+    "SplashLearn: Kids Learning App",
+    "",
+    "",
+    "com.splash.kids.education.learning.games.free.multiplication.reading.math.grade.app.splashmath",
+    "education"
+  ],
+  [
+    "PRONOTE",
+    "",
+    "",
+    "com.IndexEducation.Pronote",
+    "education"
+  ],
+  [
+    "Udemy - 유데미 온라인 학습",
+    "",
+    "",
+    "com.udemy.android",
+    "education"
+  ],
+  [
+    "PictureThis - 꽃 & 식물 찾기",
+    "",
+    "",
+    "cn.danatech.xingseus",
+    "education"
+  ],
+  [
+    "Early Learning Academy",
+    "",
+    "",
+    "mobi.abcmouse.academy_goo",
+    "education"
+  ],
+  [
+    "Coursera: 경력 성장",
+    "",
+    "",
+    "org.coursera.android",
+    "education"
+  ],
+  [
+    "Khan Academy",
+    "",
+    "",
+    "org.khanacademy.android",
+    "education"
+  ],
+  [
+    "Kahoot! 플레이 & 퀴즈 만들기",
+    "",
+    "",
+    "no.mobitroll.kahoot.android",
+    "education"
+  ],
+  [
+    "Lingokids: 영어 게임",
+    "",
+    "",
+    "es.monkimun.lingokids",
+    "education"
+  ],
+  [
+    "Elevate - Brain Training",
+    "",
+    "",
+    "com.wonder",
+    "education"
+  ],
+  [
+    "유아용 아기 게임: 배우고 놀기, 숫자, 수학, 퍼즐",
+    "",
+    "",
+    "com.rvappstudios.baby.toddler.kids.games.learning.activity",
+    "education"
+  ],
+  [
+    "Glowin - Lifestyle Routines",
+    "",
+    "",
+    "com.kompanion.glowin.android",
+    "life"
+  ],
+  [
+    "Master Lifestyle",
+    "",
+    "",
+    "com.master.lifestyle",
+    "life"
+  ],
+  [
+    "Internet Lifestyle Hub",
+    "",
+    "",
+    "com.tagmango.internetlifestylehub",
+    "life"
+  ],
+  [
+    "Sands Lifestyle",
+    "",
+    "",
+    "com.scl.slapp",
+    "life"
+  ],
+  [
+    "Lifestyle | لايف ستايل",
+    "",
+    "",
+    "ps.lifestyle.myapp",
+    "life"
+  ],
+  [
+    "Simple Lifestyle",
+    "",
+    "",
+    "com.evlop.shopify.ikealifestylemyanmar",
+    "life"
+  ],
+  [
+    "LIFESTYLE Fitness App",
+    "",
+    "",
+    "com.netpulse.mobile.lifestylefitnessapp",
+    "life"
+  ],
+  [
+    "Me+ Lifestyle Routine",
+    "",
+    "",
+    "daily.planner.routine.habits",
+    "life"
+  ],
+  [
+    "Lifestyle FIT",
+    "",
+    "",
+    "com.innovatise.lifestylemed",
+    "life"
+  ],
+  [
+    "Lofat LifeStyle",
+    "",
+    "",
+    "com.lofat.lifestyle",
+    "life"
+  ],
+  [
+    "Freedom Lifestyle & Fitness",
+    "",
+    "",
+    "com.wellyx.freedomlf",
+    "life"
+  ],
+  [
+    "Byoh - Lifestyle",
+    "",
+    "",
+    "com.etm.smyouth",
+    "life"
+  ],
+  [
+    "LIFESTYLE TRANSFORMATIONS",
+    "",
+    "",
+    "com.trainerize.lptacademy",
+    "life"
+  ],
+  [
+    "Withlocals",
+    "",
+    "",
+    "com.withlocals.Withlocals",
+    "travel"
+  ],
+  [
+    "MakeMyTrip: Hotel, Flight, Bus",
+    "",
+    "",
+    "com.makemytrip",
+    "travel"
+  ],
+  [
+    "ConfirmTkt: Train Booking App",
+    "",
+    "",
+    "com.confirmtkt.lite",
+    "travel"
+  ],
+  [
+    "Goibibo: Hotel, Flight & Train",
+    "",
+    "",
+    "com.goibibo",
+    "travel"
+  ],
+  [
+    "Freetour.com - travel app",
+    "",
+    "",
+    "com.freetour.android.mobileapp",
+    "travel"
+  ],
+  [
+    "KAYAK: 항공권, 호텔, 렌터카",
+    "",
+    "",
+    "com.kayak.android",
+    "travel"
+  ],
+  [
+    "mObywatel",
+    "",
+    "",
+    "pl.nask.mobywatel",
+    "travel"
+  ],
+  [
+    "클룩 KLOOK: 여행, 투어, 렌터카 예약",
+    "",
+    "",
+    "com.klook",
+    "travel"
+  ],
+  [
+    "Trip.com 트립닷컴 - 호텔, 항공권, 기차",
+    "",
+    "",
+    "ctrip.english",
+    "travel"
+  ],
+  [
+    "GetYourGuide: 계획하고 예약",
+    "",
+    "",
+    "com.getyourguide.android",
+    "travel"
+  ],
+  [
+    "호텔 예약은 Booking.com",
+    "",
+    "",
+    "com.booking",
+    "travel"
+  ],
+  [
+    "Throne Bathroom Network",
+    "",
+    "",
+    "com.thronelabs.app",
+    "travel"
+  ],
+  [
+    "스카이스캐너 – 항공권 호텔 렌터카",
+    "",
+    "",
+    "net.skyscanner.android.main",
+    "travel"
+  ],
+  [
+    "동남아 택시 호출 및 음식 배달",
+    "",
+    "",
+    "com.grabtaxi.passenger",
+    "travel"
+  ],
+  [
+    "Airbnb (에어비앤비) - 색다른 숙소 특별한 여행",
+    "",
+    "",
+    "com.airbnb.android",
+    "travel"
+  ],
+  [
+    "트립어드바이저: 여행 계획 및 예약하기",
+    "",
+    "",
+    "com.tripadvisor.tripadvisor",
+    "travel"
+  ],
+  [
+    "Wanderlog - 트래블월렛 여행계획 & 일정 앱",
+    "",
+    "",
+    "com.wanderlog.android",
+    "travel"
+  ],
+  [
+    "네이버지도 - 장소의 발견과 예약, 내비게이션",
+    "",
+    "",
+    "com.nhn.android.nmap",
+    "travel"
+  ],
+  [
+    "호텔스컴바인: 호텔 ∙ 항공권 ∙ 렌터카",
+    "",
+    "",
+    "com.hotelscombined.mobile",
+    "travel"
+  ],
+  [
+    "OnTrip - Your Travel Companion",
+    "",
+    "",
+    "com.tc.ontrip.app",
+    "travel"
+  ],
+  [
+    "Rapido: Bike-Taxi, Auto & Cabs",
+    "",
+    "",
+    "com.rapido.passenger",
+    "travel"
+  ],
+  [
+    "redBus Book Bus, Train Tickets",
+    "",
+    "",
+    "in.redbus.android",
+    "travel"
+  ],
+  [
+    "maxim — order a taxi & food",
+    "",
+    "",
+    "com.taxsee.taxsee",
+    "travel"
+  ],
+  [
+    "BlaBlaCar: Carpooling and Bus",
+    "",
+    "",
+    "com.comuto",
+    "travel"
+  ],
+  [
+    "Meu INSS – Central de Serviços",
+    "",
+    "",
+    "br.gov.dataprev.meuinss",
+    "travel"
+  ],
+  [
+    "익스피디아: 여행, 호텔, 항공",
+    "",
+    "",
+    "com.expedia.bookings",
+    "travel"
+  ],
+  [
+    "리그 오브 레전드: 와일드 리프트",
+    "League of Legends: Wild Rift",
+    "1480616990",
+    "com.riotgames.league.wildrift",
+    "game"
+  ],
+  [
+    "푸바오 키우기",
+    "FUBAO",
+    "",
+    "",
+    "game"
+  ],
+  [
+    "당근마켓",
+    "Carrot Market",
+    "1018769995",
+    "com.towneers.www",
+    "shopping"
+  ],
+  [
+    "지마켓",
+    "Gmarket",
+    "418096645",
+    "com.ebay.kr.gmarket",
+    "shopping"
+  ],
+  [
+    "삼성 헬스",
+    "Samsung Health",
+    "1224541484",
+    "com.sec.android.app.shealth",
+    "health"
+  ],
+  [
+    "만보기",
+    "StepCounter",
+    "",
+    "",
+    "health"
+  ]
 ]
