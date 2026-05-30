@@ -349,13 +349,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "홈 트레이닝 - 기구가 필요 없습니다",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 60,
+    "total": 61,
     "skipped": 33,
-    "has_issues": 27,
-    "total_issues": 49,
+    "has_issues": 28,
+    "total_issues": 50,
     "fixed": 1
   }
 }
