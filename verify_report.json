@@ -343,13 +343,19 @@
       "name": "킥고잉 - 이동에 즐거움을 더하다",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "캔디크러쉬사가 (Candy Crush Saga)",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 59,
+    "total": 60,
     "skipped": 33,
-    "has_issues": 26,
-    "total_issues": 48,
+    "has_issues": 27,
+    "total_issues": 49,
     "fixed": 1
   }
 }
