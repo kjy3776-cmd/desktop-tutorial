@@ -323,11 +323,16 @@
       "name": "어도비 익스프레스",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "카카오맵",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 55,
-    "skipped": 29,
+    "total": 56,
+    "skipped": 30,
     "has_issues": 26,
     "total_issues": 48,
     "fixed": 1
