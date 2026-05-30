@@ -338,11 +338,16 @@
       "name": "패스트캠퍼스",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "킥고잉 - 이동에 즐거움을 더하다",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 58,
-    "skipped": 32,
+    "total": 59,
+    "skipped": 33,
     "has_issues": 26,
     "total_issues": 48,
     "fixed": 1
