@@ -328,11 +328,16 @@
       "name": "카카오맵",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "붕괴 스타레일",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 56,
-    "skipped": 30,
+    "total": 57,
+    "skipped": 31,
     "has_issues": 26,
     "total_issues": 48,
     "fixed": 1
