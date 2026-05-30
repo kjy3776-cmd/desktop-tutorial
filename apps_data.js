@@ -4213,5 +4213,53 @@ const APPS = [
     "fallback": "📱",
     "pcType": "download",
     "seoDesc": "miHoYo의 신작 턴제 RPG 붕괴 스타레일을 직접 플레이해보니 원신과는 완전히 다른 매력이 있네요. 은하열차를 타고 여러 행성을 탐험하며 캐릭터들과 함께하는 스토리가 정말 몰입감 있고, 턴제 전투 시스템이 생각보다 전략적이라 재밌어요. 3D 그래픽도 모바일 게임 수준을 넘어서는 퀄리티구요. RPG 좋아하시거나 스토리 중심 게임 찾는 분들에게 추천드려요. 다만 용량이 꽤 크니까 와이파이 환경에서 다운로드하시는 게 좋을 것 같아요."
+  },
+  {
+    "id": 60,
+    "name": "패스트캠퍼스",
+    "slug": "fastcampus",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/DCS9EKNMYztgGomclkfu-T0oigUkRqV6vEp3GMF6fpEV3F0elj2Z6ZHhlLO90mum_uWO",
+    "developer": "Fastcampus",
+    "desc": "[패스트캠퍼스 B2B 고객을 위한 온라인 컨텐츠 수강장]\r - 계약을 맺은 고객사의 임직원을 대상으로 온라인 컨텐츠 수강 환경을 제공합니다.\r - 계약을 맺은 컨텐츠 제공 범위에 따라, 인공지능, 프로그래밍, 데이터 사이언스 등 다양한 카테고리의 강의를 제공합니다\r - 모바일 환경에서 언제든 원하는 강의를 수강할 수 있습니다",
+    "iosUrl": "https://apps.apple.com/kr/app/id1104261787",
+    "androidUrl": "https://play.google.com/store/apps/details?id=kr.co.day1company.skillflo",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/jBoOAf6lQ0ks2UkBp35aggCsK1Kvwhwpfc4fu4YeZOZRk2htEytWKs49BgULuZs-Mcc",
+      "https://play-lh.googleusercontent.com/ByjOlVT6zlwhPFphR5DM92oQf46e0_-RoS-YPL2iEFvZ06xwsurFxgRU0FfbM62S6KA",
+      "https://play-lh.googleusercontent.com/Qh04Q6KdZSQA_EyqDB5DqYIttjAwzozno47x7QotR8szgtOE-xHMLZMOYhhm0mpdo8kT"
+    ],
+    "reviews": [
+      {
+        "user": "주영진",
+        "text": "강의 터치해도 먹통 지웠다 깔아도 안됨..",
+        "rating": 1
+      },
+      {
+        "user": "김영우",
+        "text": "로그인만 반복됨",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '패스트캠퍼스' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": "",
+    "seoDesc": "회사에서 패스트캠퍼스 교육 계약이 있다면 꼭 설치해야 할 앱입니다. 인공지능, 프로그래밍, 데이터 사이언스 등 업무 스킬업에 필요한 강의를 모바일로 편리하게 수강할 수 있어요. 출퇴근 시간이나 점심시간 같은 자투리 시간을 활용해 전문 강의를 들을 수 있어서 직장인들에게 인기입니다. 설치 전에는 소속 회사가 패스트캠퍼스와 교육 계약을 맺었는지 확인하세요."
   }
 ];
