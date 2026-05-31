@@ -371,11 +371,16 @@
       "name": "Forest - 집중 공부 타이머 & 디지털 디톡스",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Star Walk 2 Plus: 천체관측 별자리 어플",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 64,
-    "skipped": 35,
+    "total": 65,
+    "skipped": 36,
     "has_issues": 29,
     "total_issues": 51,
     "fixed": 1
