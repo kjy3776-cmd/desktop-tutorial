@@ -4613,5 +4613,93 @@ const APPS = [
     "fallback": "📱",
     "pcType": "",
     "seoDesc": "심심할 때 동네 사람들과 바로 연결되는 즐톡라이브를 써보니 생각보다 괜찮네요. 복잡한 가입 절차 없이 랜덤채팅으로 근처 친구들과 즉석에서 대화할 수 있어서 편리했어요. 특히 지역 기반 매칭 기능이 있어서 같은 동네 사람들과 자연스럽게 소통할 수 있고, 공감대 형성도 쉬운 편입니다. 새로운 인연을 찾는 분들이나 일상 대화 상대가 필요한 분들에게 추천하는데, 안전한 채팅을 위해 신고 기능과 차단 기능도 미리 확인해보세요."
+  },
+  {
+    "id": 65,
+    "name": "Microsoft OneNote: Save Notes",
+    "slug": "microsoft-onenote-save-notes",
+    "cat": "productivity",
+    "icon": "https://play-lh.googleusercontent.com/et2mBcPlX10BHjyvlUCf90wAPbdIuaB_o1JhI4q3wHXcEq8MwKfsOYwpRW7aG2iXr_K05LVq6_LqUsNUWUt9BhM",
+    "developer": "Microsoft Corporation",
+    "desc": "나만의 방식 창조\r 타이핑, 손글씨, 웹에서 클리핑한 내용으로 노트에 생각을 정리해보세요. OneNote의 유연한 캔버스를 사용하여 원하는 곳에 콘텐츠를 놓아보세요. 손으로 필기한 노트나 페이지를 OneNote에 스캔한 후 검색할 수 있게 만들 수 있습니다.\r \r 체계적인 정리\r One Note는 친숙한 실제 3공 바인더를 디지털 시대에 가져오기 위한 노트처럼 설정되었습니다. 섹션과 페이지를 사용하여 학교, 가정, 직장에서 주제별로 손쉽게 생각을 분리할 수 있습니다. 태그를 사용하여 해야 할 일에 라벨을 지정하거나, 항목을 추적하거",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.microsoft.office.onenote",
+    "pcUrl": "https://www.microsoft.com/ko-kr/",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/huP_I_1aBHDayAtgCV9OIw3LVX9rMa8mQ9I9e4oUfqBwZD2OX09iGLpvLdosFUnvGEpU",
+      "https://play-lh.googleusercontent.com/pWQynKOUOOspsCmw27V9D1xYNR7FTiiuF9CWwFoc0TYyLqxhuayp1Yu-ogp4uYg_tWM",
+      "https://play-lh.googleusercontent.com/6cMTuAV9GcbosTyZPHgZK9FOiiIbIZf6zG_jqqOLat9YVJ7kV04Us0eg9EkSy2_7PVK6"
+    ],
+    "reviews": [
+      {
+        "user": "이정남",
+        "text": "솔직히 PC버전 생각하면 사실상 다른 소프트웨어. 2차원 페이지가 끝없이 늘어날 수 있는 컨셉이 다른 노트 앱 대비 장점이지만 모바일 버전은 PC버전에서 적은 내용들을 열람하고 어느정도 편집할 수 있다는 점에서만 의의가 있다. 특히 필기부분은 몇 년째 균일한 굵기 기능도 지원이 안 되는....ㅎㅎ 올가미는 버벅여서 쓰기 힘들다.",
+        "rating": 3
+      },
+      {
+        "user": "서준수 (재규어)",
+        "text": "최근 업데이트로 도저히 쓸수도 없을 정도로 어마어마한 버그가 발생함. 로그인이 계속 풀려버리고, 메모작성하는데 렉 엄청나게 걸림(계속 로그인 시도하나봄). s26 울트라 기준으로 도저히 사용이 불가능할 정도로 버벅여서 삼성노트로 갈아타려고 함. 마소니까 아마 최대한 빨리 고쳐도 1년은 걸릴듯.",
+        "rating": 1
+      },
+      {
+        "user": "Ryang Dark",
+        "text": "로그인이 거의 매번 풀려 오프라인상태라 캐시삭제, 데이터삭제 해봐도 별 개선이 없음. 동기화도 기종간 각기다르고 잘안되서 불편, 어려운 기능들도 아닌데 왜 이런 기본 기능들이 많이 허술한 지 마이크로소프트에 매우 실망중 Frankly this App is still a trash. always not keeping pf the login after log in every time. too uncomfortable to use this app each then",
+        "rating": 1
+      },
+      {
+        "user": "박영우",
+        "text": "정말 오래 사용해 왔는데 폰을 s26울트라로 바꾸고 나서 호환성의 문제인지 총체적 난관이네요. 버벅임문제, 동기화문제, 필기시 팜리젝션 미작동, 가로모드에서 필기안되는 문제, 지워도 안지워지거나 지워졌는데 화면에 계속 표시되는 등 정말 오랜만에 다른 필기 어플을 기웃거리고 있네요.",
+        "rating": 1
+      },
+      {
+        "user": "옹태식이",
+        "text": "스마트폰 앱으로 쓰는데 버그인지 몰라도 불편한게 너무 많음. 1. 특수 문자가 지멋대로 바뀌는 경우가 있음 예를들어 ■ ,▪︎<- 이 문자들을 쓰는데 문자의 크기가 일정하지 않고 크거나 작게 나오는 경우가 있음. 2. - 부호는 자동으로 글머리 넣기 기능 때문에 원노트 앱에서 자유롭게 사용하기 힘듬. 끄는 방법 찾아봤는데 스마트폰 앱 버전에서는 끄는 기능이 없는거 같음. 3. 화면 크기 고정이 안되고 양옆으로 계속 흔들림. 4. 이유 없는 페이지 충돌 때문에 동기화가 안됨. 원인이 뭔지도 모름",
+        "rating": 1
+      },
+      {
+        "user": "김성훈",
+        "text": "s26ultra 사용자입니다. 앱이 어제부터 먹통이 되어서 아이콘을 눌러도 반응하지 않습니다. 앱 삭제 후 다시 설치해봐도 마찬가지 입니다. 마이크로소프트 365 결제까지 해서 쓰는데 앱이 작동을 안하니 너무 돈 아깝고 속상하네요.",
+        "rating": 1
+      },
+      {
+        "user": "SE JIN PARK (Leonardo)",
+        "text": "분명히 문제가 있어요. 8th March 업데이트가 문제인가봅니다. 갑자기 커서도 이중커서돼고안드로이드 환경에서 몹시 사용할 수 없을 정도로 앱이 느려지고 오류가 발생해요. re-install해도 문제는 똑같습니다. 분명한 S/W 에러입니다.",
+        "rating": 1
+      },
+      {
+        "user": "물이물이",
+        "text": "며칠전까지 잘 썼는데, 계속 버벅이고, 느리네요. onenote 를 재설치해봤지만 동일합니다. S25 울트라 사용중이고, 폰을 재부팅해도 마찬가지네요. 잘안되서 Edge 로 웹으로 쓰고 있습니다...",
+        "rating": 1
+      },
+      {
+        "user": "Gun Lee",
+        "text": "다 좋고 pc 랑 핸드폰으로 책 통으로 암기할 수 있어서 정말 유용한데 태블릿과 랩톱으로는 랙 심하고 지나치게 예민해서 잘못 눌러지는 경우가 상당수고 반대로 지우개는 팬 자국을 못 지우기도 함. 그래서 오늘 내 소중한 시험 준비 시간 1시간 통으로 허비했음. 이 리뷰 쓰는것도 시간 낭비인거 같아서 안쓰려 했다가 본사가 상황을 알아야 할 것 같아서 작성함.",
+        "rating": 2
+      },
+      {
+        "user": "Sang­min Lee",
+        "text": "버벅거리는 현상은 >> 삼성 전용앱인 '스토어' 들어가서 'OneNote' 검색해서 찾은다음 삭제하고 재설치 누르면 됨. ★최근 3.8업데이트가 문제인 듯. 삼성 스토어 가면 이전 버전 설치됨. 서두르지 않으면 생산성 하락함돠~ 삼성 스토어로 고고고 ㅎㅎㅎ ★★중요 : 구글 play스토어에서 사용하던 필기장 찾아서 열어야 함★★ p.s. 문자에서 온 내용이 바로 공유가 안 되어서 라마인드로 옮겼다가 다시 원노트로 옮겼다가 했었는데 이제야 이것도 잘 되네요~^^* 모두 정상 작동 Good!!!",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "16.0.19929.20122",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Microsoft OneNote: Save Notes' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": "web",
+    "seoDesc": "손글씨와 타이핑을 자유롭게 섞어 쓸 수 있는 디지털 노트앱을 찾고 있다면 마이크로소프트 원노트를 추천합니다. 아이패드에서 애플펜슬로 필기한 내용도 텍스트 검색이 되고, 웹페이지 클리핑 기능으로 자료 수집도 편리합니다. 무료로 사용할 수 있어 학생이나 직장인 모두에게 유용하며, 윈도우·맥·안드로이드와 실시간 동기화되는 점이 특히 만족스럽습니다. 설치 전 마이크로소프트 계정이 필요한 점만 확인하세요."
   }
 ];

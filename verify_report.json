@@ -360,13 +360,19 @@
       "name": "즐톡라이브 - 공감을 위한 채팅 커뮤니티",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Microsoft OneNote: Save Notes",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 62,
+    "total": 63,
     "skipped": 34,
-    "has_issues": 28,
-    "total_issues": 50,
+    "has_issues": 29,
+    "total_issues": 51,
     "fixed": 1
   }
 }
