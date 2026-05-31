@@ -366,11 +366,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Forest - 집중 공부 타이머 & 디지털 디톡스",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 63,
-    "skipped": 34,
+    "total": 64,
+    "skipped": 35,
     "has_issues": 29,
     "total_issues": 51,
     "fixed": 1
