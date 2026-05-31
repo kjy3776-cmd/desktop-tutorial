@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-30",
+  "date": "2026-05-31",
   "results": [
     {
       "name": "카카오톡",
@@ -355,11 +355,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "즐톡라이브 - 공감을 위한 채팅 커뮤니티",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 61,
-    "skipped": 33,
+    "total": 62,
+    "skipped": 34,
     "has_issues": 28,
     "total_issues": 50,
     "fixed": 1
