@@ -376,13 +376,19 @@
       "name": "Star Walk 2 Plus: 천체관측 별자리 어플",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "동남아 택시 호출 및 음식 배달",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 65,
+    "total": 66,
     "skipped": 36,
-    "has_issues": 29,
-    "total_issues": 51,
+    "has_issues": 30,
+    "total_issues": 52,
     "fixed": 1
   }
 }
