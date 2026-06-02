@@ -387,11 +387,16 @@
       "name": "iQIYI - 중국/태국드라마, 중국 예능",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "뉴친스 - 수다, 랜덤 채팅, 익명 친구, 랜챗",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 67,
-    "skipped": 37,
+    "total": 68,
+    "skipped": 38,
     "has_issues": 30,
     "total_issues": 52,
     "fixed": 1

@@ -5053,5 +5053,93 @@ const APPS = [
     "fallback": "📱",
     "pcType": "",
     "seoDesc": "중국 드라마와 태국 BL 드라마 좋아한다면 iQIYI 앱 다운로드 추천합니다. 국내 OTT에서 볼 수 없는 독점 오리지널 작품들이 많고, 특히 숏드라마 콘텐츠가 풍부해서 출퇴근길 시청용으로 좋아요. 한국어 자막 지원되는 작품들도 있어서 편하게 볼 수 있고, 무료 시청 가능한 에피소드들도 제법 있습니다. 아시아 드라마 덕후나 새로운 장르 콘텐츠 찾는 분들에게 적합한 무료 스트리밍 앱이에요."
+  },
+  {
+    "id": 70,
+    "name": "뉴친스 - 수다, 랜덤 채팅, 익명 친구, 랜챗",
+    "slug": "뉴친스-수다-랜덤-채팅-익명-친구-랜챗",
+    "cat": "sns",
+    "icon": "https://play-lh.googleusercontent.com/ppqILQG329unWXhcpM_tXal0e3sCBoFj8cemP4WUMY7jaG7GPS2KszH3VIdh24muMfXI",
+    "developer": "Thing Apps",
+    "desc": "언제나 설레는 새로움!\r 새로운 친구 사귀기 커뮤니티, 뉴친스에서 친구를 사귀어보세요!\r 맞춤 필터링으로 원하는 친구를 찾고 1대1 전화와 대화, 그룹채팅으로 친해져보세요!\r \r 프로필을 설정하고 사진을 올려 새로운 친구들이 접근하기 쉽게 해보세요.\r MBTI, 취미, 라이프스타일을 설정하여 내 자신을 나타내어\r 더 쉽게 친구들을 사귈수 있어요.\r \r 24시간 인공지능 모니터링으로 커뮤니티가 클린하게 유지됩니다.\r \r [Minimum supported app version: 1.7.2]\r ----\r 개발자 연락처 :\r 띵앱스 대한민",
+    "iosUrl": "https://apps.apple.com/kr/app/id6443841456",
+    "androidUrl": "https://play.google.com/store/apps/details?id=xyz.thingapps.randomchat",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/jMG6bcll2gyFVjcpwPEMHsgPXkEyNkf3Tvw5ATqNT_9dGsA2UTm2orsPC7Bq2ZrtVF4",
+      "https://play-lh.googleusercontent.com/lyF8B_vCLjgWxPK_o7Y9dJpmUGTxmwdCyqJNQKReh22Va-LfZ-mO4sXtCDT23nj_4g",
+      "https://play-lh.googleusercontent.com/WqDr8Y1XYG9WBJkyWaE2BzAdpLSwt_g8ptTyyiTAd-xLtgN6bjs1eCXbE9UvKwlC9f8"
+    ],
+    "reviews": [
+      {
+        "user": "꼬부기 (김려은)",
+        "text": "업데이트 하라더니 앱자체가 안되게 해놨네 1.72버전으로 업데이트 하라 해놓고 안되잖아",
+        "rating": 3
+      },
+      {
+        "user": "Moon Kim",
+        "text": "알바랑 유령계정이 너무 많음 ㅠㅜ 게다가 광고도 너무 많이 떠서 아마도 안들아올 확률이 매우 높음",
+        "rating": 1
+      },
+      {
+        "user": "김찬호",
+        "text": "아니 알림와서 들어가면 아무것도 없고 고쳐지겠지 기다리는데 몇개월째냐고",
+        "rating": 1
+      },
+      {
+        "user": "이선우",
+        "text": "출석체크 버튼이랑 포인트 보상 버튼이 아예 안눌려서 포인트를 모을 수 없네요 ㅠㅜ 빠른 개선 부탁드리겠습니다.",
+        "rating": 1
+      },
+      {
+        "user": "카일",
+        "text": "이걸로 친구 많이 만들수있게되서 좋았어요",
+        "rating": 5
+      },
+      {
+        "user": "김동하",
+        "text": "적당히 할만한것 같네요",
+        "rating": 5
+      },
+      {
+        "user": "장대일",
+        "text": "결제오류 처리가 매우 느립니다.",
+        "rating": 2
+      },
+      {
+        "user": "박프로",
+        "text": "굿 잘생기니까 하루만에 여친생김ㅋㅋㅋㅋ",
+        "rating": 5
+      },
+      {
+        "user": "김동혁",
+        "text": "무료어플이라고 해서 깔았는데 완전 사기",
+        "rating": 1
+      },
+      {
+        "user": "Minhoe Kim",
+        "text": "사용하기 쉽네요",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.7.2",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '뉴친스 - 수다, 랜덤 채팅, 익명 친구, 랜챗' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": "",
+    "seoDesc": "새로운 친구를 찾고 있다면 뉴친스 다운로드를 추천합니다. MBTI와 취미 기반 맞춤 필터링으로 나와 맞는 사람들을 쉽게 찾을 수 있어서 좋더라고요. 랜덤 채팅부터 1대1 전화, 그룹채팅까지 다양한 방식으로 소통할 수 있는 익명 친구 만들기 앱이에요. 대학생이나 새로운 환경에서 친구가 필요한 분들에게 특히 유용합니다. 안전한 채팅을 위해 신고 기능과 차단 시스템이 잘 되어있는지 미리 확인해보세요."
   }
 ];
