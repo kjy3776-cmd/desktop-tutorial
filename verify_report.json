@@ -398,13 +398,20 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Lifestyle FIT",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 69,
+    "total": 70,
     "skipped": 38,
-    "has_issues": 31,
-    "total_issues": 53,
-    "fixed": 1
+    "has_issues": 32,
+    "total_issues": 55,
+    "fixed": 2
   }
 }

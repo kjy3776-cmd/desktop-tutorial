@@ -5229,5 +5229,42 @@ const APPS = [
     "fallback": "📱",
     "pcType": "",
     "seoDesc": "전 세계 사람들과 실시간으로 소통하고 싶다면 비고 라이브를 추천합니다. 라이브 방송을 통해 다양한 국가의 사용자들과 채팅하고 새로운 친구를 만날 수 있어요. 오디오 채팅 기능도 있어서 부담 없이 대화를 나눌 수 있습니다. 글로벌 라이브 방송 앱을 찾는 분들에게 적합하며, 개인정보 보호 설정을 미리 확인해보시길 권합니다."
+  },
+  {
+    "id": 72,
+    "name": "Lifestyle FIT",
+    "slug": "lifestyle-fit",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/5I06eOn4WN4Gl28uUrO-vAHt0GssEPcuW0zUYTY88lV4kDM41ncNExUlrdJVUaeyiJ-sLTT8vlddvtHz6woD",
+    "developer": "Innovatise GmbH",
+    "desc": "당신의 라이프스타일 스튜디오는 항상 주머니 속에 있습니다. 귀하의 라이프스타일에 관한 모든 뉴스를 놓치지 마시고 새로운 프로모션, 제안 및 혁신에 대한 최신 정보를 얻으십시오.\r \r 라이프스타일 핏 정보:\r 스튜디오에 직접 연결\r 가장 중요한 사항을 한눈에: 영업 시간, 연락처 등 중요한 정보를 검색하는 데 너무 많은 시간을 소비하지 마세요. 이 앱 덕분에 스마트폰에서 클릭 한 번만 하면 필요한 정보를 즉시 얻을 수 있습니다. 집에서 소파에 누워 있거나 기차역에서 기다리고 있을 때에도 편안하게 최신 스튜디오 사진을 탐색할 수 있습니",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.innovatise.lifestylemed",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/cnzMGG20AJMkyL0D5h4beTvpSjlG-6kPSXaXZ7QqgHdqjT-rlDQtB0eo8U_XlgSTzfBy9KwAphkHPixuns50jQ",
+      "https://play-lh.googleusercontent.com/-Dfo-oYhCeUO0fifBhOdljnOUMPwt0zrcTNzKshwhEyoVA27312Y3DZ6Z5w7wR-37gKKTOtVEt6vX0SBvN7edA",
+      "https://play-lh.googleusercontent.com/unzivPorE0Yh2pG8DWM6o7JiEL3eCnupvi4Ki1lHEiGxZ0V_4HPQVm14UeGPPqzfpLgp2n70usqvCbf1Hft4Pw"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Lifestyle FIT' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": "",
+    "seoDesc": "헬스장이나 피트니스 스튜디오를 자주 이용하는 분들에게 추천하는 라이프스타일 관리 앱입니다. Lifestyle FIT 다운로드하면 스튜디오 운영시간과 연락처를 빠르게 확인할 수 있고, 새로운 프로모션이나 할인 혜택도 놓치지 않고 받아볼 수 있어요. 스튜디오와 직접 연결되는 기능이 특히 유용한데, 매번 전화로 문의하거나 웹사이트를 찾아다닐 필요가 없어 편리합니다. 안드로이드와 아이폰 모두 지원하니 설치 전 본인이 이용하는 스튜디오에서 이 앱을 지원하는지 미리 확인해보세요."
   }
 ];
