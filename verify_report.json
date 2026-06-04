@@ -411,11 +411,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "쏘카 - 라이프타임 모빌리티 플랫폼",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 71,
-    "skipped": 38,
+    "total": 72,
+    "skipped": 39,
     "has_issues": 33,
     "total_issues": 56,
     "fixed": 2
