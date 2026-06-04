@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-03",
+  "date": "2026-06-04",
   "results": [
     {
       "name": "카카오톡",
@@ -392,13 +392,19 @@
       "name": "뉴친스 - 수다, 랜덤 채팅, 익명 친구, 랜챗",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "비고 라이브 BIGO LIVE - 글로벌 라이브 방송",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 68,
+    "total": 69,
     "skipped": 38,
-    "has_issues": 30,
-    "total_issues": 52,
+    "has_issues": 31,
+    "total_issues": 53,
     "fixed": 1
   }
 }
