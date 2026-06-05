@@ -416,11 +416,16 @@
       "name": "쏘카 - 라이프타임 모빌리티 플랫폼",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "아이쉐어링: 위치추적, GPS 기기찾기, 가족 안심",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 72,
-    "skipped": 39,
+    "total": 73,
+    "skipped": 40,
     "has_issues": 33,
     "total_issues": 56,
     "fixed": 2
