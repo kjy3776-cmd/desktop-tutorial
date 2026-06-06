@@ -5530,5 +5530,42 @@ const APPS = [
     "fallback": "📱",
     "pcType": "",
     "seoDesc": "가족들끼리 실시간 위치를 공유해서 안심할 수 있는 GPS 위치추적 앱이에요. 아이나 부모님이 어디 계신지 궁금할 때 전화 대신 앱으로 바로 확인 가능하고, 위급상황에서는 SOS 버튼으로 긴급 알림을 보낼 수 있어서 실용적입니다. 휴대폰을 잃어버렸을 때 기기찾기 기능도 유용하고요. 가족 구성원이 많거나 자녀 안전이 걱정되는 부모님들에게 추천하는데, 위치 정보 동의는 필수라서 설치 전 가족과 충분히 상의해보세요."
+  },
+  {
+    "id": 76,
+    "name": "mObywatel",
+    "slug": "mobywatel",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/5nwoPp3uTycsDjWB3syfbBWT8zDmHgxVpY_S2hvCLSMFrNJTEVlbtPBMaCes2hRhr1T9C_GHAyXEr6GQG_5w",
+    "developer": "Ministerstwo Cyfryzacji",
+    "desc": "mObywatel과 함께 디지털 세상의 가능성을 경험해 보세요!\r \r 앱을 설치하고 간편하고 편리하게 공식 업무를 처리하세요. 필요한 서류를 항상 휴대폰에 보관할 수 있습니다.\r \r <b>간편한 시작</b>\r 앱을 설치하고 신뢰할 수 있는 프로필, 전자 신분증(e-ID), 또는 온라인 뱅킹으로 본인 인증을 완료하면 바로 사용할 수 있습니다!\r \r <b>무엇을 얻을 수 있을까요?</b>\r • 모든 디지털 서류를 한 곳에서 – mDowód(이민신고서), mPrawo(운전면허증), 신분증, 대가족증 등 다양한 서류를 확인할 수 있습니다.",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=pl.nask.mobywatel",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/mblzVZIlWi0xz0YOdTwcSvGG7ry_4rZUEwHkRHWHFEpkDr8ex3WmzZn2JD2wPpp7W9LPWvEKGC-kxR4IZdk-",
+      "https://play-lh.googleusercontent.com/yTQ_xRAZnqwPcLsBg8iLbGT9x8M75eWAZ1T6PhgKy1rn5paS4C0l4-FXo9aSCvXDSH1c_X2-0m1rIkjHL4U-",
+      "https://play-lh.googleusercontent.com/XfcW1Fpk_P9bovxBaqOEfnAQufSc1mkD600WGorn4qrLyV1V2tn8u4BTvwcqgTsOqNIl7hAxUgfrG_bXVkK4kA"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "4.83.0 (6182)",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'mObywatel' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": "",
+    "seoDesc": "폴란드 여행이나 거주 중이라면 꼭 필요한 공식 디지털 신분증 앱입니다. mObywatel 다운로드로 전자 신분증과 각종 공문서를 스마트폰에 안전하게 보관하고, 관공서 방문 없이도 간편하게 공식 업무를 처리할 수 있어요. 신뢰할 수 있는 프로필이나 온라인 뱅킹으로 본인 인증만 하면 바로 사용 가능합니다. 폴란드 정부에서 직접 개발한 안드로이드 앱이라 보안성이 뛰어나고, 각종 증명서 발급부터 행정 서비스까지 원스톱으로 이용할 수 있어 현지 생활이 훨씬 편리해집니다."
   }
 ];

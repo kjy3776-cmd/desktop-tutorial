@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-05",
+  "date": "2026-06-06",
   "results": [
     {
       "name": "카카오톡",
@@ -421,13 +421,20 @@
       "name": "아이쉐어링: 위치추적, GPS 기기찾기, 가족 안심",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "mObywatel",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 73,
+    "total": 74,
     "skipped": 40,
-    "has_issues": 33,
-    "total_issues": 56,
-    "fixed": 2
+    "has_issues": 34,
+    "total_issues": 58,
+    "fixed": 3
   }
 }
