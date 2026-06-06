@@ -5831,5 +5831,93 @@ const APPS = [
     "fallback": "📱",
     "pcType": "",
     "seoDesc": "포켓몬고 원격 레이드 참여가 어려웠던 분들에게 추천하는 PokeRaid 앱입니다. 전 세계 트레이너들과 실시간으로 연결되어 전설 포켓몬과 메가 레이드에 쉽게 참여할 수 있어요. 레이드 방 생성부터 참가자 모집까지 간단한 인터페이스로 처리되며, 언어 장벽 없이 소통 가능한 시스템이 특히 유용합니다. 혼자서는 클리어하기 힘든 고난이도 레이드도 협력으로 성공할 수 있어 포켓몬고 다운로드 후 레이드 참여에 어려움을 겪던 유저들이 많이 찾고 있습니다."
+  },
+  {
+    "id": 80,
+    "name": "Oxford Dictionary & Thesaurus",
+    "slug": "oxford-dictionary-thesaurus",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/rOcfgRhSpcAt1iIHj2xSVk7hXOeN5V5bTeLahPEXVtD4Oxp2xivs8kYlqujDJT3YrQ",
+    "developer": "MobiSystems",
+    "desc": "<b>손안에서 만나는 15대 옥스퍼드 사전</b>\r Oxford Languages에서 제공하는 옥스퍼드 사전은 오늘날 언어 연구 및 참고 분야에서 가장 권위 있는 사전 중 하나로 널리 인정받고 있습니다. 고급 검색 및 학습 도구와 함께 15대 옥스퍼드 사전을 쉽게 전환하고 탐색하세요.\r \r · 옥스포드 영어 사전 및 유의어 사전\r · 신 옥스포드 미국 사전 및 유의어 사전\r · 옥스포드 아셰트 프랑스어 사전\r · 옥스포드 독일어 사전\r · 옥스포드 스페인어 사전\r · 옥스포드 러시아어 사전\r · 옥스포드 중국어 사전\r · 옥스포드 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id978674211",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.mobisystems.msdict.embedded.wireless.oxford.dictionaryofenglish",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/OKPY2EBoawJLxV3u3p4C11rqpAZK2YXJX2vgMV3tgO7Ao2ADq7ZazBCmW5_DncncAE3F",
+      "https://play-lh.googleusercontent.com/oUvUIWKSyBrXPlR61rjyMOYCIb1e_akoUxE4aE3C945mZk1QgV8ugpQt9UqkG8CWvQ",
+      "https://play-lh.googleusercontent.com/MLmuHYFLUV9l2z1u_m-L8bDgpH8USRPTqJCw-TAszBskXxWTwVi_BSwLtTUjc6DTTkU"
+    ],
+    "reviews": [
+      {
+        "user": "Hyejin Lee",
+        "text": "단어 하나찾는데 이상한 광고가자꾸 나오고 돈 내야하는 것이 너무많아서 너무 불편함! 듣기는무료인줄 알았는데 유료라서 어린애가 쓰긴 좀 그럼.",
+        "rating": 1
+      },
+      {
+        "user": "임수현",
+        "text": "일년 premium 사용으로 지불하고 구입했는데, 발음 아이콘을 반복해서 눌러도 소리가 전혀 나오지 않습니다. 해결해주세요.",
+        "rating": 1
+      },
+      {
+        "user": "Google 사용자",
+        "text": "단어 정의가 이해하기 쉽게 잘 되어 있습니다. 예문도 있어서 좋구요. 다만 발음을 들을 수 없는 점은 아쉽네요.",
+        "rating": 4
+      },
+      {
+        "user": "손다이크",
+        "text": "일년 premium 사용으로 29,000원을 지불하고 구입했는데, 발음 아이콘을 반복해서 눌러도 소리가 전혀 나오지 않네요... 왜 그런것일까요?",
+        "rating": 3
+      },
+      {
+        "user": "백승돈",
+        "text": "Offline mode를 구매했고 휴대폰 교체 시기가되어 Smartphone을 교체했는데 offline이 안되고 offline mode를 사용하기위해 선택했는데 비용 지불을 하라고 합니다 어떻게 해야하나요? 앞존 교체시에는 이런 문제가 없었는데요 어떻게 해야하나요?",
+        "rating": 4
+      },
+      {
+        "user": "닥공",
+        "text": "잘 사용하고 있습니다. 근데 오늘 찾아 본 것이 사전에 없습니다. 'to take the biscuit' 설명을 못 찾았습니다. Longman이나Collins dictionary에는 잘 설명되어 있습니다. ---- 찾아보니 take the biscuit이나 biscuit항목에는 없고 take 아래에 설명이 있네요. 사전 찾는 방식이 달라서 그런가 봅니다.",
+        "rating": 5
+      },
+      {
+        "user": "You See",
+        "text": "이거 왜 갑자기 일본어버전으로 나오죠? 그뒤로도 계속 재설치해도 일본버전이네요 다시 영어버전 부탁드립니다",
+        "rating": 4
+      },
+      {
+        "user": "Google 사용자",
+        "text": "offline에서 쓰거나, 발음을 들으려면 12,000원부터 지불해야 하네요! 발음은 들려주지... 롱맨하고 비교됩니다.",
+        "rating": 2
+      },
+      {
+        "user": "Google 사용자",
+        "text": "발음을 못 듣는 다는 점은 아쉽지만, 의미가 많이 나와서 이해하기가 좋음.",
+        "rating": 5
+      },
+      {
+        "user": "박미향",
+        "text": "발음을 들으려고 누르면 프리미엄 버전 광고로 이어지면서 발음을 들을 수가 없는데 무료버전에서 발음 지원은 안되는건가요?",
+        "rating": 3
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "15.9.1144",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Oxford Dictionary & Thesaurus' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": "",
+    "seoDesc": "영어 공부하면서 정확한 단어 뜻이나 유의어를 찾고 싶을 때 Oxford Dictionary & Thesaurus만큼 믿을 만한 앱이 없더라고요. 옥스퍼드에서 공식 제공하는 15개 사전을 하나의 앱에서 모두 이용할 수 있어서, 영국식·미국식 영어는 물론 전문 용어까지 정확하게 찾아볼 수 있습니다. 인터넷 연결 없이도 사용 가능한 오프라인 기능이 특히 유용해요. 영어 학습자나 번역 업무를 하시는 분들에게 추천하는데, 앱 용량이 꽤 큰 편이니 와이파이 환경에서 다운로드받으세요."
   }
 ];
