@@ -428,11 +428,16 @@
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "Sheep Dash- 양목장 주차장 분류 게임",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 74,
-    "skipped": 40,
+    "total": 75,
+    "skipped": 41,
     "has_issues": 34,
     "total_issues": 58,
     "fixed": 3
