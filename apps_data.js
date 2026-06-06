@@ -5919,5 +5919,42 @@ const APPS = [
     "fallback": "📱",
     "pcType": "",
     "seoDesc": "영어 공부하면서 정확한 단어 뜻이나 유의어를 찾고 싶을 때 Oxford Dictionary & Thesaurus만큼 믿을 만한 앱이 없더라고요. 옥스퍼드에서 공식 제공하는 15개 사전을 하나의 앱에서 모두 이용할 수 있어서, 영국식·미국식 영어는 물론 전문 용어까지 정확하게 찾아볼 수 있습니다. 인터넷 연결 없이도 사용 가능한 오프라인 기능이 특히 유용해요. 영어 학습자나 번역 업무를 하시는 분들에게 추천하는데, 앱 용량이 꽤 큰 편이니 와이파이 환경에서 다운로드받으세요."
+  },
+  {
+    "id": 81,
+    "name": "H1 Lifestyle",
+    "slug": "h1-lifestyle",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/9e7KLX6xuCjagfWnGw44hcwZPa6VaW0PFt5_0jiV0oQemS6Afb_I7i4tyRFPoEDdmA",
+    "developer": "Towngas Telecom",
+    "desc": "TGT H1 라이프스타일 앱은 헨리 파크, 더 헨리, 더 홀본, 더 로열, 39 킹스 로드 등 헨더슨 랜드 개발(HLD)의 주거 및 상업용 부동산 5곳을 아우르는 편리한 생활 환경을 제공합니다. 입주민은 휴대폰이나 스마트 스피커를 사용하여 홈 기기와 장면을 원격으로 제어할 수 있습니다. TGT H1 라이프스타일 앱은 스마트 홈 및 스마트 빌딩을 위한 원스톱 솔루션일 뿐만 아니라, 온라인 예약 시스템을 갖춘 부동산 관리 및 클럽하우스를 위한 역동적인 플랫폼이기도 합니다.\r 주요 기능은 다음과 같습니다.\r • 스마트 홈 및 스마트 빌딩",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=hk.tgt.h1lifestyle",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/1IiNNF6J5ISNbBs4c3f5lBC5tUPuUATkgD4_Meh3ppru1bmRzXCq4QUg4njG56ZqodFb",
+      "https://play-lh.googleusercontent.com/kjWaNI-O0wm0eepBLWAfYMM8fwrO-J7rCPlJPRT7RAUrb4P03bJqNCPRhoVI-SMJIQ",
+      "https://play-lh.googleusercontent.com/lwQYD51WwqoVgU7n7kLVBEQomqMmIev-qI6fR252Yefv94AvvhSDUZHcVAE4mlJLW78"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'H1 Lifestyle' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": "",
+    "seoDesc": "헨더슨 랜드 개발 부동산 입주민을 위한 스마트홈 통합 관리 앱입니다. 헨리 파크, 더 헨리 등 5개 건물에서 휴대폰으로 조명, 에어컨 등 홈 기기를 원격 제어할 수 있어요. 스마트 스피커 연동과 시나리오 설정 기능으로 일상 생활이 한결 편리해집니다. 해당 부동산 거주자만 이용 가능하니 다운로드 전 입주 건물 확인이 필요해요."
   }
 ];
