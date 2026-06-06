@@ -433,11 +433,16 @@
       "name": "Sheep Dash- 양목장 주차장 분류 게임",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "와그 - 세상의 모든 경험",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 75,
-    "skipped": 41,
+    "total": 76,
+    "skipped": 42,
     "has_issues": 34,
     "total_issues": 58,
     "fixed": 3
