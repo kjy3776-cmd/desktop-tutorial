@@ -438,11 +438,16 @@
       "name": "와그 - 세상의 모든 경험",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "PokeRaid - 세계 원격 레이드",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 76,
-    "skipped": 42,
+    "total": 77,
+    "skipped": 43,
     "has_issues": 34,
     "total_issues": 58,
     "fixed": 3
