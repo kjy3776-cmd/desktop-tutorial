@@ -477,11 +477,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "하이타이 - 1등 마사지 앱, 타이마사지 할인",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 83,
-    "skipped": 46,
+    "total": 84,
+    "skipped": 47,
     "has_issues": 37,
     "total_issues": 62,
     "fixed": 4
