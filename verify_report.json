@@ -465,13 +465,19 @@
       "name": "오토 클릭 - 클릭 도우미",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "VK: music, video, messenger",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 81,
+    "total": 82,
     "skipped": 46,
-    "has_issues": 35,
-    "total_issues": 60,
+    "has_issues": 36,
+    "total_issues": 61,
     "fixed": 4
   }
 }
