@@ -460,11 +460,16 @@
       "name": "당근마켓",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "오토 클릭 - 클릭 도우미",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 80,
-    "skipped": 45,
+    "total": 81,
+    "skipped": 46,
     "has_issues": 35,
     "total_issues": 60,
     "fixed": 4

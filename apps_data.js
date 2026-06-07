@@ -6044,5 +6044,48 @@ const APPS = [
     "fallback": "📱",
     "pcType": "",
     "seoDesc": "동네 기반 중고거래 앱으로 직거래의 편리함을 제대로 느껴본 분들이라면 당근마켓 다운로드를 추천합니다. GPS 위치 인증으로 실제 이웃들과만 거래할 수 있어 안전하고, 택배비 부담 없이 근처에서 바로 만나 물건을 확인하고 살 수 있어요. 중고 가전부터 의류, 가구까지 다양한 카테고리가 있고 동네 정보 공유 기능도 유용합니다. 안드로이드와 아이폰 모두 지원하니 중고거래나 동네 소통이 필요한 분들에게 적합한 무료 앱입니다."
+  },
+  {
+    "id": 83,
+    "name": "오토 클릭 - 클릭 도우미",
+    "slug": "오토-클릭-클릭-도우미",
+    "cat": "productivity",
+    "icon": "https://play-lh.googleusercontent.com/N1QmRUzVHOB83utEnRGJDGoTCTQXw1waxmObMuKjZfTkKwQOMmTdonxnZ8u0aMAnxP_gSn_GvP2o0CcZLQdt9g",
+    "developer": "PixelCraft Studios",
+    "desc": "Auto Click - Auto tap은 반복되는 탭, 길게 누르기, 스와이프를 스크립트로 만들어 자동 실행해 시간을 절약하고 번거로운 작업을 줄여주는 터치 자동화 도구입니다. 스크립트를 시각적으로 만들고 지연/루프를 설정한 뒤, 플로팅 패널에서 시작/일시정지/재개/중지를 언제든지 제어할 수 있습니다.\r \r 주요 기능:\r \t•\t스크립트 편집기: 탭, 길게 누르기, 스와이프, 멀티 포인트 시퀀스\r \t•\t시간 설정: 지연, 간격, 누름 시간, 반복 횟수, 루프 모드\r \t•\t랜덤 지터(선택): 더 자연스러운 탭을 위한 미세 좌표 변화\r ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6443993125",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.pixelcraft.autoclicker",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/IVeftDKmuzQ8u6qcwEOYVaCB3_85IDBrhcZsSVmUjf7gI2_hTCFYLmS8qBpiwUhYjLjTSG52v-ySqFosUPA96w",
+      "https://play-lh.googleusercontent.com/-ztgWwgn26KCinv941NAhtCuaHBSZcT4427sS5-thLkHWdE5OeU7TVsNf4qRMKDcdHD23BV1tUn_MRk5fbb9hGc",
+      "https://play-lh.googleusercontent.com/5kzT-cyw5pKezj7kOUWUNrfJgoHMxGOUwvoNvPDCPPdaNcQDbTjW2abxE1ZE5AZvzURLkWWSpwh8UwQb6CZip_Q"
+    ],
+    "reviews": [
+      {
+        "user": "이학우",
+        "text": "굿. 그리고. 원격 지원도. 부탁드림",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '오토 클릭 - 클릭 도우미' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": "",
+    "seoDesc": "반복적인 화면 터치 작업에 지친 분들께 추천하는 오토 클릭 앱입니다. 게임에서 같은 동작을 계속 반복하거나 업무용 앱에서 동일한 패턴으로 터치해야 할 때 정말 유용해요. 스크립트 편집기로 탭, 길게 누르기, 스와이프 동작을 시각적으로 설정할 수 있고, 지연 시간과 반복 횟수도 자유롭게 조정 가능합니다. 플로팅 패널 덕분에 다른 앱을 사용하면서도 언제든 시작하거나 멈출 수 저있어 편리하네요. 안드로이드 자동화 도구를 찾는 분들이라면 한번 써보세요."
   }
 ];
