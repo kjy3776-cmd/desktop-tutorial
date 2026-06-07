@@ -471,13 +471,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Free Fire MAX",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 82,
+    "total": 83,
     "skipped": 46,
-    "has_issues": 36,
-    "total_issues": 61,
+    "has_issues": 37,
+    "total_issues": 62,
     "fixed": 4
   }
 }
