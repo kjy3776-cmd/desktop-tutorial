@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-06",
+  "date": "2026-06-07",
   "results": [
     {
       "name": "카카오톡",
@@ -455,11 +455,16 @@
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "당근마켓",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 79,
-    "skipped": 44,
+    "total": 80,
+    "skipped": 45,
     "has_issues": 35,
     "total_issues": 60,
     "fixed": 4
