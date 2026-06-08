@@ -482,13 +482,19 @@
       "name": "하이타이 - 1등 마사지 앱, 타이마사지 할인",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Forest: 공부 집중 & 생산성 타이머",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 84,
+    "total": 85,
     "skipped": 47,
-    "has_issues": 37,
-    "total_issues": 62,
+    "has_issues": 38,
+    "total_issues": 63,
     "fixed": 4
   }
 }
