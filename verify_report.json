@@ -493,13 +493,19 @@
       "name": "리그 오브 레전드: 와일드 리프트",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Pooking - 당구대",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 86,
+    "total": 87,
     "skipped": 48,
-    "has_issues": 38,
-    "total_issues": 63,
+    "has_issues": 39,
+    "total_issues": 64,
     "fixed": 4
   }
 }
