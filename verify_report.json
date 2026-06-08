@@ -488,11 +488,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "리그 오브 레전드: 와일드 리프트",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 85,
-    "skipped": 47,
+    "total": 86,
+    "skipped": 48,
     "has_issues": 38,
     "total_issues": 63,
     "fixed": 4
