@@ -510,11 +510,16 @@
       "name": "업비트 - 국가대표 디지털 자산 거래소",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "다이어트를 지속할 수 있는 체중관리 앱 스마트 다이어트",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 89,
-    "skipped": 49,
+    "total": 90,
+    "skipped": 50,
     "has_issues": 40,
     "total_issues": 65,
     "fixed": 4
