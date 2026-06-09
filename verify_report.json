@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-08",
+  "date": "2026-06-09",
   "results": [
     {
       "name": "카카오톡",
@@ -499,13 +499,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "X",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 87,
+    "total": 88,
     "skipped": 48,
-    "has_issues": 39,
-    "total_issues": 64,
+    "has_issues": 40,
+    "total_issues": 65,
     "fixed": 4
   }
 }
