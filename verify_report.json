@@ -515,11 +515,16 @@
       "name": "다이어트를 지속할 수 있는 체중관리 앱 스마트 다이어트",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "바이블 애플 - 개역개정, ESV, NASB 성경 제공",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 90,
-    "skipped": 50,
+    "total": 91,
+    "skipped": 51,
     "has_issues": 40,
     "total_issues": 65,
     "fixed": 4
