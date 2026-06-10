@@ -525,11 +525,16 @@
       "name": "인터파크 투어",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "복사해서 붙여넣는 암기카드 M",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 92,
-    "skipped": 52,
+    "total": 93,
+    "skipped": 53,
     "has_issues": 40,
     "total_issues": 65,
     "fixed": 4
