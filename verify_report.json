@@ -535,11 +535,16 @@
       "name": "AI Translator - Translate AI",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "똑똑보카-영어,일본어,중국어등 언어 공부하고 돈버는 앱",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 94,
-    "skipped": 54,
+    "total": 95,
+    "skipped": 55,
     "has_issues": 40,
     "total_issues": 65,
     "fixed": 4
