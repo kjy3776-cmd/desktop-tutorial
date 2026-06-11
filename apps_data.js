@@ -7143,5 +7143,53 @@ const APPS = [
     "fallback": "📱",
     "pcType": "",
     "seoDesc": "현대카드 회원이라면 놓치면 안 될 쇼핑 앱입니다. M포인트로 다양한 상품을 구매할 수 있고, 특히 선물하기 기능이 유용해서 메시지 카드와 함께 마음을 전할 수 있어요. 매일 업데이트되는 기획전과 브랜드 탭을 통해 취향에 맞는 아이템을 발견하는 재미가 쏠쏠합니다. 현대카드 M포인트 적립 내역이 있는 분들에게 추천하며, 일반 쇼핑몰과 달리 포인트 전용 커머스라는 점을 미리 확인해보세요."
+  },
+  {
+    "id": 96,
+    "name": "AI Translator - Translate AI",
+    "slug": "ai-translator-translate-ai",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/9OPCj_Y8IEmxsuEltRy_KVGH0a2c9omLTJds5zvx7NI-5nnWIql_s4wJOh1uQq-SVwlwBn4GLi28LfoAeKoT",
+    "developer": "HEYOS",
+    "desc": "AI Translator로 언어 장벽을 즉시 깨세요 - 실시간 실시간 번역 도우미\r 언제 어디서나 말하고, 스캔하고, 번역하세요. 일상의 소통, 여행, 비즈니스, 학습을 위한 최고의 AI 번역기, Translate AI를 만나보세요. 새로운 나라를 여행하든, 해외 친구와 채팅하든, 국제 거래를 성사시키든, 이 강력한 실시간 번역기는 여러분이 이해하고 상대방도 이해하도록 도와줍니다.\r 첨단 AI를 탑재한 Translate AI는 실시간 음성 및 오디오 번역 도구, 카메라 기반 AI 이미지 번역, 텍스트 번역, 오프라인 회화집 기능을 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6738304985",
+    "androidUrl": "https://play.google.com/store/apps/details?id=co.appnation.aivoicetranslator",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/IOGhy3W1pv7tP87zMLr3hb9_5DDnvbsXzMioRnn6CP9-BPGRENMIq8BQl5htcx7pyZ4EU_wppwLIGHV92Ks6Ug",
+      "https://play-lh.googleusercontent.com/j3reiyaGwUK3jOz3sHzQgS378OLoedkYSZ_xt7C9Y7d82_FrcAkEgxjPoQpOqwfIhpbrSw7pdJhzVwh3HCAy",
+      "https://play-lh.googleusercontent.com/styn3ZsshEycUfiFbjkcXQhz8b08AEQ7XKLRLDH0FJBth24HOG5EtuqORsReyOCDBC3rr-Ij3fA96w1yXqD_"
+    ],
+    "reviews": [
+      {
+        "user": "Jae-Gil Jang",
+        "text": "앱 설치하려다 유료라 취소하려고 백(back)을 했더니 안되고 무조건 고(go)만 되니 참고하세요",
+        "rating": 1
+      },
+      {
+        "user": "땅끝제자선교tv",
+        "text": "훌륭합니다",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2.1.2",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'AI Translator - Translate AI' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": "",
+    "seoDesc": "해외여행이나 외국어 공부할 때 정말 유용한 AI 번역 앱이에요. 음성을 실시간으로 번역해주고, 카메라로 텍스트를 스캔해서 바로 번역도 가능해서 메뉴판이나 간판 읽을 때 편리합니다. 100개 이상 언어를 지원하고 오프라인에서도 사용할 수 있어서 와이파이 없는 곳에서도 걱정 없어요. 여행자나 외국어 학습자에게 추천하는데, 무료 버전은 번역 횟수 제한이 있으니 참고하세요."
   }
 ];
