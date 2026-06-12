@@ -540,11 +540,16 @@
       "name": "똑똑보카-영어,일본어,중국어등 언어 공부하고 돈버는 앱",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "인포즈 - 모델, 사진작가, 스타일리스트 매칭 플랫폼",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 95,
-    "skipped": 55,
+    "total": 96,
+    "skipped": 56,
     "has_issues": 40,
     "total_issues": 65,
     "fixed": 4
