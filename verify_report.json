@@ -561,11 +561,16 @@
       "name": "이로이로 일본어 공부 JLPT 단어장: 한자도 한 번에",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "해피문데이-생리주기 배란일 임신 준비 캘린더",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 99,
-    "skipped": 58,
+    "total": 100,
+    "skipped": 59,
     "has_issues": 41,
     "total_issues": 66,
     "fixed": 4
