@@ -556,11 +556,16 @@
       "name": "ALPACA - 앨범의 사진을 간단 정리 삭제하여 용량 확보하기",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "이로이로 일본어 공부 JLPT 단어장: 한자도 한 번에",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 98,
-    "skipped": 57,
+    "total": 99,
+    "skipped": 58,
     "has_issues": 41,
     "total_issues": 66,
     "fixed": 4
