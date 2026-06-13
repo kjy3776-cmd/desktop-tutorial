@@ -545,13 +545,19 @@
       "name": "인포즈 - 모델, 사진작가, 스타일리스트 매칭 플랫폼",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "AllTrails: Hike, Bike & Run",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 96,
+    "total": 97,
     "skipped": 56,
-    "has_issues": 40,
-    "total_issues": 65,
+    "has_issues": 41,
+    "total_issues": 66,
     "fixed": 4
   }
 }

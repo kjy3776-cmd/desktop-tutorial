@@ -7367,5 +7367,93 @@ const APPS = [
     "fallback": "📱",
     "pcType": "",
     "seoDesc": "사진 촬영이 필요한데 모델이나 작가를 어디서 구해야 할지 막막했다면 인포즈를 써보세요. 모델, 사진작가, 스타일리스트가 한곳에 모여 서로 매칭되는 플랫폼이에요. 개인 촬영부터 상업용까지 다양한 프로젝트에 참여할 수 있고, 촬영계약서 작성 기능으로 안전하게 작업 진행이 가능해요. 후기 시스템을 통해 신뢰할 만한 파트너를 찾을 수 있고, 구인구직 탭에서는 장기 협업 상대도 구할 수 있어서 창작 활동하는 분들에게 유용한 앱입니다."
+  },
+  {
+    "id": 99,
+    "name": "AllTrails: Hike, Bike & Run",
+    "slug": "alltrails-hike-bike-run",
+    "cat": "health",
+    "icon": "https://play-lh.googleusercontent.com/VGEJRpXhcohBLp64CcZkufSHI97tfN1LQBJsvcNojlHZZTy6bQRFxr6xogqlEv-f5RwkLIcvVLiBAEfkZqrXqA",
+    "developer": "AllTrails, LLC",
+    "desc": "하이킹, 자전거 타기, 달리기, 걷기 등 어떤 야외 활동을 하든 AllTrails는 든든한 동반자이자 길잡이가 되어줍니다. 여러분과 같은 트레일 이용자들이 남긴 상세한 리뷰와 영감을 얻으세요. AllTrails는 여러분의 야외 모험을 계획하고, 경험하고, 공유하는 데 도움을 드립니다.\r \r AllTrails는 단순한 러닝 앱이나 피트니스 활동 추적기 그 이상입니다. 반려견 동반 가능, 어린이 동반 가능, 유모차 동반 가능, 휠체어 이용 가능 등 다양한 편의 시설을 갖춘 트레일을 찾고, 단계별 내비게이션으로 안전하게 탐험을 시작하세요",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.alltrails.alltrails",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/E6EcSZMLpB-uUDrphf29TOEHRniYYPF2RJOM4_oi10xTtoKRUABLgc4xJn1gjgO55tjk38nmd_qu2VKtNFeh",
+      "https://play-lh.googleusercontent.com/ORVVvJroRT2eJGWi3QN7u1xfU3fObu_nzfSY7u8t2RPD_NtYVQGPb7hXYq5w4keh_B0yePzjtMkshKDWTBYhFA",
+      "https://play-lh.googleusercontent.com/IPCUH5o_3U5hHY_4322uPnoYY2hC1QB8qoKiYHcd5K_Yg1E4BnR9ri9au5R4scqcx9m89v68IbTGTq6aLBY8gcQ"
+    ],
+    "reviews": [
+      {
+        "user": "Coreman",
+        "text": "산악인 뿐만아니라 초보자 분들 한테도 좋은정보를 제공하는 앱 입니다",
+        "rating": 5
+      },
+      {
+        "user": "김락희 (Rocky)",
+        "text": "아주 좋습니다.편리해서 잘 활용하고 있어요",
+        "rating": 5
+      },
+      {
+        "user": "Joshua Yoon",
+        "text": "사용이 편하고 새로운 길에 자신감이 생긴다",
+        "rating": 5
+      },
+      {
+        "user": "terryfox1961",
+        "text": "삼성 워치랑 오프라인지도를 공유할수없나요?",
+        "rating": 1
+      },
+      {
+        "user": "김병우 MemoryOf",
+        "text": "네팔의 안나푸르나 베이스캠프를 갔다왔는데 데우랄리부터 MBC가는 협곡을 recap 해보면 협곡인데 갑자기 고도가 높아지게 이상하게 표시되어 있다",
+        "rating": 1
+      },
+      {
+        "user": "moon suh daved park",
+        "text": "아주 유용한 앱 이네요",
+        "rating": 5
+      },
+      {
+        "user": "황보상석",
+        "text": "자세한 사용방법 부탁드립니다",
+        "rating": 3
+      },
+      {
+        "user": "Hoonbro",
+        "text": "good!!",
+        "rating": 5
+      },
+      {
+        "user": "Hyejin Kim",
+        "text": "very useful 👌 👍 👏 must have when you are hiking.",
+        "rating": 5
+      },
+      {
+        "user": "H Lee",
+        "text": "best trail map ever",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'AllTrails: Hike, Bike & Run' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": "",
+    "seoDesc": "등산로 찾기가 막막했는데 AllTrails 하나면 해결됩니다. 전국 트레일 지도와 실제 이용자 리뷰를 보고 난이도별로 코스를 선택할 수 있어서 초보자도 안심이에요. GPS 추적으로 길 잃을 걱정 없고, 하이킹뿐만 아니라 자전거나 러닝 코스도 풍부합니다. 야외 활동 좋아하는 분들에게 강력 추천하는 무료 앱입니다. 다만 일부 프리미엄 기능은 유료 결제가 필요하니 미리 확인해보세요."
   }
 ];
