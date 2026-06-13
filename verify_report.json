@@ -571,11 +571,16 @@
       "name": "스태시 Stashhh - 올인원 클립보드",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Grab: 택시 및 음식 배달",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 101,
-    "skipped": 60,
+    "total": 102,
+    "skipped": 61,
     "has_issues": 41,
     "total_issues": 66,
     "fixed": 4

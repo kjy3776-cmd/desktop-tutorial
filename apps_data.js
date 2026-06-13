@@ -7726,5 +7726,93 @@ const APPS = [
     "fallback": "📱",
     "pcType": "",
     "seoDesc": "SNS에서 본 맛집 정보나 유용한 게시물들을 따로 저장해두고 싶었던 분들에게 딱인 앱이에요. 스태시는 인스타그램, 틱톡, 유튜브 등에서 발견한 콘텐츠를 한 곳에 모아 체계적으로 정리해주는 올인원 클립보드 앱입니다. 스크린샷 찍거나 링크 복사할 필요 없이 바로 저장하면 앱이 알아서 세부 정보까지 추출해서 보여줘요. 나중에 찾기도 쉽고 카테고리별로 분류도 자동으로 해줘서 생산성 도구로 활용하기 좋습니다."
+  },
+  {
+    "id": 104,
+    "name": "Grab: 택시 및 음식 배달",
+    "slug": "grab-택시-및-음식-배달",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/8O49PX2SWFtlvCY-5OQsn8lOKaBhO8y8vEanRk1430s4g9RR5pj2B-LENB8ojlxdGjQ",
+    "developer": "Grab Holdings",
+    "desc": "안녕하세요 드라이버 파트너 여러분,\r \r 여러분과 함께 이 여행을 하게 되어 기쁩니다. 우리와 협력하면 소득 잠재력을 높이고 지속 가능한 생계를 구축하는 데 도움이 됩니다.\r \r Grab은 동남아시아 최고의 슈퍼앱입니다. 우리는 싱가포르, 인도네시아, 말레이시아, 태국, 필리핀, 베트남, 캄보디아 및 미얀마 전역의 6억 7천만 명 이상의 사람들에게 필수적인 일상 서비스를 제공합니다. 귀하와 이 지역의 모든 사람들에게 경제적 권한을 부여하여 동남아시아를 발전시키는 것이 우리의 사명입니다.\r \r Grab 파트너로 등록하면 유연성과 안정",
+    "iosUrl": "https://apps.apple.com/kr/app/id647268330",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.grabtaxi.driver2",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/ik-qdBi1ol0MJMMhS2iFbW8d56kFZHdwjEdtsz6crPOxx2SI-KWcf7FWvpK_9Wlm4Q",
+      "https://play-lh.googleusercontent.com/reFCfnpbmhoBYnjTX5cOOev3GKG7lnaiVszzzdLRsK-NWVmx3Ev52flNAqtSEz6_wOo",
+      "https://play-lh.googleusercontent.com/m_IJzBR4q4B56-RB9_iqctHmsf0hJJIvDlQ8RtwDSF6TYhduJDBt2ocXlI3ff16XTxw"
+    ],
+    "reviews": [
+      {
+        "user": "SEUNGHEE HAN (영육치유)",
+        "text": "할인해주겠다고 알림을 여러번 주고도 실제 툭툭이 기사 휴대폰에는 연결되어 있지 않아 열받은 때가 종종 있다. 그리고 기사들에게 할인가격을 보여주면 안된다. 거리에 따른 가격이 표기되면, 호출된 기사는 아에 안온다. 90% 기사님들은 정말 성실하고 친절하다. 여느나라든 옥의 티는 있겠지만, 못된 기사들은 평가하는 별을 자기들 마음대로 손님휴대폰에 손을 대서 강제로 별5개를 표시하고는 줄행랑치듯 가버리거나, 이미 결정된 도로를 이용하지 않고 기사마음대로 돌아다니느라 오히려 손님에게 시간을 허비하게 하고는 요금을 더 요구하며 어깃장을 부릴 때는 마치 외국인이 돈을 조금 지불해서 안가고 있는 것처럼 땡깡부려 난처할 때도 있다. 귀사의 무궁한 발전을 바라지만, 이런 옥의 티는 시정해주었으면 더할나위없을 듯 하다.",
+        "rating": 4
+      },
+      {
+        "user": "김건우 (청년방개)",
+        "text": "나는 이 앱을 가입하지도 않고 존재하는지도 몰랐다. 하지만 오늘 내 구글이메일에 내 구글 계정으로 비밀번호 재설정 메일이 왔다. 내 계정을 누가 사용하고 있는지 확인을 해주십시오. 그리고 만약 내 구글 이메일로 계정이 만들어져있다면 삭제해 주시길 바랍니다.",
+        "rating": 2
+      },
+      {
+        "user": "Google 사용자",
+        "text": "친절하고 안전하고 좀더 싸게 사용할수 있어 좋다",
+        "rating": 5
+      },
+      {
+        "user": "이종찬",
+        "text": "구글 로그인도안되고 그냥 아예접속이 안됨 볼트쓰셈",
+        "rating": 1
+      },
+      {
+        "user": "배한석",
+        "text": "로그인할려고하면 구글계정등록이안되어 사용을못합니다 왜그런가요?",
+        "rating": 1
+      },
+      {
+        "user": "강예진",
+        "text": "다운만 받아도 결제된다는 얘기가 있어서요 취소요청드립니다.",
+        "rating": 2
+      },
+      {
+        "user": "exciting life",
+        "text": "현지 도착해서 실행해야 로그인 됩니다.",
+        "rating": 4
+      },
+      {
+        "user": "Google 사용자",
+        "text": "서버가 안되있다고해서 사인업도 했는데도 안돼네요",
+        "rating": 1
+      },
+      {
+        "user": "KYU L",
+        "text": "이건 안되네요? 영업용인가요? 홀딩스?",
+        "rating": 1
+      },
+      {
+        "user": "미니에프",
+        "text": "멍청한 사람들 왜케 많아??? 너네 수준을 별점으로~~",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "5.440.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Grab: 택시 및 음식 배달' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": "",
+    "seoDesc": "동남아 여행이나 출장에서 꼭 필요한 그랩 앱을 소개합니다. 택시 호출부터 음식 배달까지 하나의 앱으로 해결할 수 있어서 현지에서 정말 편리해요. 싱가포르, 태국, 말레이시아, 베트남 등 8개국에서 사용 가능하고, 카드 결제도 간편합니다. 동남아 여행객들에게는 필수 앱이지만, 국내에서는 사용할 수 없다는 점을 미리 확인하세요."
   }
 ];
