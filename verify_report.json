@@ -551,11 +551,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "ALPACA - 앨범의 사진을 간단 정리 삭제하여 용량 확보하기",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 97,
-    "skipped": 56,
+    "total": 98,
+    "skipped": 57,
     "has_issues": 41,
     "total_issues": 66,
     "fixed": 4

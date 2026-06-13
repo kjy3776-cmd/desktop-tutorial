@@ -7455,5 +7455,63 @@ const APPS = [
     "fallback": "📱",
     "pcType": "",
     "seoDesc": "등산로 찾기가 막막했는데 AllTrails 하나면 해결됩니다. 전국 트레일 지도와 실제 이용자 리뷰를 보고 난이도별로 코스를 선택할 수 있어서 초보자도 안심이에요. GPS 추적으로 길 잃을 걱정 없고, 하이킹뿐만 아니라 자전거나 러닝 코스도 풍부합니다. 야외 활동 좋아하는 분들에게 강력 추천하는 무료 앱입니다. 다만 일부 프리미엄 기능은 유료 결제가 필요하니 미리 확인해보세요."
+  },
+  {
+    "id": 100,
+    "name": "ALPACA - 앨범의 사진을 간단 정리 삭제하여 용량 확보하기",
+    "slug": "alpaca-앨범의-사진을-간단-정리-삭제하여-용량-확보하기",
+    "cat": "productivity",
+    "icon": "https://play-lh.googleusercontent.com/8hCeLAaTNGtUhuXs2ZBBmLe2GUV9vNu646c9OGQxIV5qyvfhTYP7lbPkmryfFzi3cmEYXnKELlql6zuA3pG2aA",
+    "developer": "RV AppStudios",
+    "desc": "장치에 있는 동일한 파일로 인해 혼동되는 일이 없습니다. 중복 파일 정리를로 깔끔한 디지털 경험을 즐겨보세요! 잘 구성된 디지털 환경의 이점을 활용해 보세요. 더 향상된 저장 용량, 번거로움 없는 사용자 경험을 즐겨보세요. 중복 사진 정리앱은 깔끔하고 최적화된 디지털 라이프스타일을 위한 티켓입니다!\r \r 🌈 이 빠른 중복파일 찾기의 놀라운 기능을 살펴보세요:\r \r 다중 형식 호환성: 사진 중복 삭제, 비디오, 텍스트 문서 또는 APK가 필요한 경우 Android용 중복 사진 정리는 여러 파일 형식을 효율적으로 검사하고 제거합니다.\r",
+    "iosUrl": "https://apps.apple.com/kr/app/id934444072",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.rvappstudios.duplicate.similar.files.photo.finder.cleaner",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/EqVLnsY7EkCOUIfB4AVtjyGpuRLe6WIOW3t3gNluAgz5PBOVY0BBoSUopkaOA6Wk3aI9cxvtpZERYfb6CNO8",
+      "https://play-lh.googleusercontent.com/SA3HiJvw-1uCYkZqopOS1_WfjXAit-vz2szjubth6ZtMaPDX8lhWAMyuh4Nn0UcACI0129WyLqC4IIOeEeHwGQ",
+      "https://play-lh.googleusercontent.com/_uENHmUpveLHzZn6C8Pd7INVzryyEL0MZfntR_t1Gf3Yn5VED7QTMlb7y3DwJ-GcQQZ3QFvWCxL8RtXY0nfOyQ"
+    ],
+    "reviews": [
+      {
+        "user": "Bowoo Lee",
+        "text": "모든 유형의 음악 파일을 그룹별로 중복파일을 확인해서 삭제가능함. 다른 프로그램들은 안됨",
+        "rating": 5
+      },
+      {
+        "user": "차",
+        "text": "빠르고 잘돼요 진작 깔 걸",
+        "rating": 5
+      },
+      {
+        "user": "김종호",
+        "text": "너무나도 문제를 잘 해결하였습니다.",
+        "rating": 5
+      },
+      {
+        "user": "문혜영",
+        "text": "감사합니다",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.2.3",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'ALPACA - 앨범의 사진을 간단 정리 삭제하여 용량 확보하기' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": "",
+    "seoDesc": "스마트폰 갤러리가 비슷한 사진들로 가득 차서 용량 부족에 시달리고 계신가요? ALPACA는 중복 사진을 자동으로 찾아주고 한 번에 정리할 수 있는 무료 앱입니다. 똑같은 셀카나 연속 촬영한 사진들을 빠르게 검색해서 보여주니까, 필요한 것만 남기고 나머지는 간단하게 삭제할 수 있어요. 아이폰이나 안드로이드 모두 지원하며, 몇 분 만에 몇 기가 용량을 확보할 수 있습니다. 사진이 많아서 정리가 부담스러운 분들에게 추천하는 앱이에요."
   }
 ];
