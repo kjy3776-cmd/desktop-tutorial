@@ -566,11 +566,16 @@
       "name": "해피문데이-생리주기 배란일 임신 준비 캘린더",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "스태시 Stashhh - 올인원 클립보드",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 100,
-    "skipped": 59,
+    "total": 101,
+    "skipped": 60,
     "has_issues": 41,
     "total_issues": 66,
     "fixed": 4

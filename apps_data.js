@@ -7689,5 +7689,42 @@ const APPS = [
     "fallback": "📱",
     "pcType": "",
     "seoDesc": "매달 생리일이 언제인지 깜빡해서 당황했던 경험 있으신가요? 해피문데이는 생리주기 예측과 배란일 관리를 한번에 해결해주는 여성 건강 앱이에요. 개인 기록을 학습해서 점점 더 정확한 예측을 제공하고, 생리 전 미리 알림을 받을 수 있어 준비할 시간이 충분해져요. 임신 계획이 있다면 가임기와 배란일 추적 기능도 유용하고, 생리 증상이나 컨디션까지 함께 기록할 수 있어서 건강 관리에도 도움돼요. 아이폰과 안드로이드 모두 무료 다운로드 가능하니, 생리주기 관리 앱을 찾고 계신 분들께 추천해요."
+  },
+  {
+    "id": 103,
+    "name": "스태시 Stashhh - 올인원 클립보드",
+    "slug": "스태시-stashhh-올인원-클립보드",
+    "cat": "productivity",
+    "icon": "https://play-lh.googleusercontent.com/sAKeItF3RmMeuq5uk-m0F6LZXEFvnOvRSO0s_UjM_zxpZ7PiyiU0dzeeeEBdW97Uv8HFdEgYLl67fk_8koVFBw",
+    "developer": "Stasht",
+    "desc": "저장한 모든 것, 게시물, 스크린샷, 사진, 링크 등을 저장해 두세요. 나머지는 저희가 알아서 해드립니다.\r \r Instagram, TikTok, Facebook, X, YouTube 등 어떤 앱에서든 저장하세요. 저희가 저장한 내용을 정리하고, 세부 정보를 추출하여 필요할 때 다시 보여드립니다.\r \r 누군가 Instagram에 올린 레스토랑이 근처에 있을 때 지도에 표시됩니다. 친구가 TikTok에 공유한 콘서트가 매진되기 전에 캘린더에 추가됩니다. 저장해 둔 선물 아이디어가 제때 다시 나타납니다.\r \r 지도에서 확인하는 내 저장",
+    "iosUrl": "https://apps.apple.com/kr/app/id6767171278",
+    "androidUrl": "https://play.google.com/store/apps/details?id=app.stasht",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/XdAklYZicYWV08tiUEfokqe6uvD_KJbUJw064lr_SmS-mhHZ4sarDSfZ1bOE_6r5WHrv9gCQRtVMgJppgGpoOsA",
+      "https://play-lh.googleusercontent.com/2VZUz6HKT3rO3ZufxqlYQGDLfF5Cn0rq280XsHE8FYIcHgsACzGWygwskI8YJs3ayPEQRVrJLnH5gEcCMOE6YA",
+      "https://play-lh.googleusercontent.com/Hyboc8w4wsEgJWo67Pjf7S-_g0nsOxKDbehCoPP1uAonr6Aa9LOEUB44qAZ1gZ95QW0jVOVDc0AcTw-PH6Jz"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '스태시 Stashhh - 올인원 클립보드' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": "",
+    "seoDesc": "SNS에서 본 맛집 정보나 유용한 게시물들을 따로 저장해두고 싶었던 분들에게 딱인 앱이에요. 스태시는 인스타그램, 틱톡, 유튜브 등에서 발견한 콘텐츠를 한 곳에 모아 체계적으로 정리해주는 올인원 클립보드 앱입니다. 스크린샷 찍거나 링크 복사할 필요 없이 바로 저장하면 앱이 알아서 세부 정보까지 추출해서 보여줘요. 나중에 찾기도 쉽고 카테고리별로 분류도 자동으로 해줘서 생산성 도구로 활용하기 좋습니다."
   }
 ];
