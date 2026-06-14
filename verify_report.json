@@ -576,13 +576,19 @@
       "name": "Grab: 택시 및 음식 배달",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Hollister Co.",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 102,
+    "total": 103,
     "skipped": 61,
-    "has_issues": 41,
-    "total_issues": 66,
+    "has_issues": 42,
+    "total_issues": 67,
     "fixed": 4
   }
 }

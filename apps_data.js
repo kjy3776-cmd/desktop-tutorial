@@ -7814,5 +7814,93 @@ const APPS = [
     "fallback": "📱",
     "pcType": "",
     "seoDesc": "동남아 여행이나 출장에서 꼭 필요한 그랩 앱을 소개합니다. 택시 호출부터 음식 배달까지 하나의 앱으로 해결할 수 있어서 현지에서 정말 편리해요. 싱가포르, 태국, 말레이시아, 베트남 등 8개국에서 사용 가능하고, 카드 결제도 간편합니다. 동남아 여행객들에게는 필수 앱이지만, 국내에서는 사용할 수 없다는 점을 미리 확인하세요."
+  },
+  {
+    "id": 105,
+    "name": "Hollister Co.",
+    "slug": "hollister-co",
+    "cat": "shopping",
+    "icon": "https://play-lh.googleusercontent.com/fR2MF4yXs4N57tN_mny5nkFrSM6Sn2c4s1Qc9102Omu8XB5JNrWX3pdgfVdEZdhWhjk",
+    "developer": "Abercrombie & Fitch Co",
+    "desc": "홀리스터 앱을 다운로드하세요. 편안하고 다재다능하며 사계절 내내 활용도 높은 필수 아이템입니다.\r \r 포함 사항:\r \r 홀리스터 하우스 리워드\r 하우스 멤버십 회원은 더 많은 혜택을 누리세요.\r \r 리스트 보내기\r 좋아하는 상품을 공유하여 즉각적인 피드백을 받으세요.\r \r 아웃핏 영감 받기\r 좋아하는 스타일을 활용하는 방법.\r \r 편리한 이동\r 더욱 빠르게 쇼핑하고 결제하세요.\r \r 맞춤 쇼핑\r 스타일에 맞춰 마음에 드는 상품을 추천해 드립니다.\r \r 쉐어투페이\r 앱에서만 독점 제공. 공유하고 결제하세요.\r \r 스캔하고 쇼핑하기\r ",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.abercrombie.hollister",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/6wkKVoZpZI7GlgCNoM5GiS0f0W3XBVNSATZLkKtgVvveHP1N1eHVnEftKJVMoRM9A69nu6OcVvm9IdGTECnU7Q",
+      "https://play-lh.googleusercontent.com/GoM5EyYQbqpsELuGb7gWa1LpyeFC6ExrvRFfsftT2ecHlGcfEldviJyUG48Korz_ia8En4J2rXgAf7eYO32Q-gk",
+      "https://play-lh.googleusercontent.com/ugFJOrWsBsFUxg2C5ljpCVdcSMhull9kvPbuAcuQykzswqM-v4tDRObX5mYsSe-bPXNDrYOoObilG4JCsBXWoA"
+    ],
+    "reviews": [
+      {
+        "user": "Google 사용자",
+        "text": "100달러 이상이면 한국으로의 배송도 무료라는 점이 정말 좋습니다.",
+        "rating": 5
+      },
+      {
+        "user": "Da Hyun",
+        "text": "정말 품질이 좋고 배송비가 없어서 진짜 애용합니다 계속 해주세요♡♡♡",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "즐겁게 쇼핑 중입니다.",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "깔끔한 앱입니다.",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "oops!!something went wrong.check your connection and try again?????",
+        "rating": 1
+      },
+      {
+        "user": "Google 사용자",
+        "text": "I'd like to listen to the playlist, but it's only showing 'can't load playlist' sign. could you plz fix it?",
+        "rating": 1
+      },
+      {
+        "user": "Google 사용자",
+        "text": "대박편함",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "good",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "Good!!",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "간단하게 보기좋아서 너무 편해요",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "11.25.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Hollister Co.' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": "",
+    "seoDesc": "홀리스터 공식 앱 다운로드로 캐주얼 패션 쇼핑이 훨씬 편해졌어요. 하우스 리워드 멤버십으로 적립과 할인 혜택을 받고, 마음에 드는 아이템을 친구들과 바로 공유할 수 있어서 쇼핑 결정이 빨라집니다. 스타일링 아이디어도 앱에서 확인 가능하고요. 10대와 20대 캐주얼 브랜드 좋아하는 분들에게 추천하는데, 앱 전용 할인이나 신상품 알림 기능도 유용합니다."
   }
 ];
