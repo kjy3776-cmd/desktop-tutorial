@@ -26,6 +26,7 @@
     "Hill Climb Racing",
     "Hollister Co.",
     "Lifestyle FIT",
+    "LingoLooper: AI Language Game",
     "MITSUKOSHI ISETAN JAPAN",
     "Microsoft OneNote: Save Notes",
     "NH스마트뱅킹",
@@ -170,7 +171,7 @@
     "호텔스닷컴: 호텔, 펜션, 리조트 지금 예약",
     "홈 트레이닝 - 기구가 필요 없습니다"
   ],
-  "last_run": "2026-06-14",
+  "last_run": "2026-06-15",
   "next_id": 0,
   "today_count": {
     "2026-05-26": 2,
@@ -192,6 +193,7 @@
     "2026-06-11": 2,
     "2026-06-12": 1,
     "2026-06-13": 6,
-    "2026-06-14": 2
+    "2026-06-14": 2,
+    "2026-06-15": 0
   }
 }
