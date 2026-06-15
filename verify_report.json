@@ -592,11 +592,16 @@
       "name": "VPN - 夏时国际加速器 VPN",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "스트라바",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 105,
-    "skipped": 63,
+    "total": 106,
+    "skipped": 64,
     "has_issues": 42,
     "total_issues": 67,
     "fixed": 4
