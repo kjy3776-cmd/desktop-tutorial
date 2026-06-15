@@ -7990,5 +7990,42 @@ const APPS = [
     "fallback": "📱",
     "pcType": "",
     "seoDesc": "전 세계 50만개 숙소를 한 번에 비교할 수 있는 호텔스닷컴 앱으로 여행 예약이 정말 편해졌어요. 회원가 할인으로 10% 이상 저렴하게 예약하고, 숙박할 때마다 리워드도 쌓여서 다음 여행비 부담을 줄일 수 있거든요. 해외여행 계획 중이라면 호텔 펜션 리조트 가격 비교용으로 미리 다운로드해두시길 추천해요."
+  },
+  {
+    "id": 107,
+    "name": "VPN - 夏时国际加速器 VPN",
+    "slug": "vpn-夏时国际加速器-vpn",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/oghzaBg0DzNT_w3TGYQCGBqR65FpgUCuSxB0cpHXaSLkBSDiapoMVn98sLesgUMQuCEEB-CMr21-p-CwNIwezg",
+    "developer": "Cross-border VPN",
+    "desc": "크로스보더 VPN | 안전하고 안정적인 무료 네트워크 가속 및 개인정보 보호 솔루션\r \r 크로스보더 VPN은 전문적인 네트워크 가속 도구, 개인정보 보호 도구, 그리고 안전한 연결 서비스를 제공합니다. 고속 암호화 채널을 통해 더욱 안정적이고 안전한 네트워크 환경을 제공하며, 다양한 플랫폼과 언어를 지원하여 공용 Wi-Fi, 원격 근무, 출장 등 다양한 용도에 적합합니다.\r \r 1. 핵심 기능\r \r 【고도의 개인정보 보호 및 데이터 보안】\r \r 은행 수준의 AES-256 데이터 암호화 사용\r \r 실제 IP 주소를 숨겨 온라인 익명성",
+    "iosUrl": "https://apps.apple.com/kr/app/id1544742935",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.free.aurora.vpn",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/hn7kKRWZ5Q5uQ8M_2gexpaFPV5QjjsZC_y2Kx0sfnwadA4lNkNgK4ZhI0yhDK-gtArNFL0MfbPbTvdkDIGoiHw",
+      "https://play-lh.googleusercontent.com/N3Vg3xpBQpyYYpQ6SOZ42t90r5mivScmaQXgucmFcMFtVFftf8B7aJaAG_VwZahqbIxD1mL8cbGSNLxuMyN4",
+      "https://play-lh.googleusercontent.com/5J_zpZ72SVgFuz_Wdl1NzmgvZJ7qJJbAIOAjOpvu8OysH6WJIroc7tBU3t-8XzkH4s9rLdLNX3qzDPFq5w5OtnA"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'VPN - 夏时国际加速器 VPN' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": "",
+    "seoDesc": "해외여행이나 출장 중 인터넷 연결이 불안정할 때 유용한 VPN 앱입니다. 공용 와이파이에서도 안전하게 개인정보를 보호하면서 빠른 네트워크 속도를 제공하는 점이 좋았어요. 무료로 이용할 수 있어 부담 없이 시작할 수 있고, 원격근무나 해외 사이트 접속이 필요한 분들에게 추천합니다. 다만 설치 전 개인정보 처리방침과 서버 위치를 미리 확인해보시길 바라요."
   }
 ];

@@ -587,11 +587,16 @@
       "name": "호텔스닷컴: 호텔, 펜션, 리조트 지금 예약",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "VPN - 夏时国际加速器 VPN",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 104,
-    "skipped": 62,
+    "total": 105,
+    "skipped": 63,
     "has_issues": 42,
     "total_issues": 67,
     "fixed": 4
