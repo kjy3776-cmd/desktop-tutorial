@@ -597,13 +597,20 @@
       "name": "스트라바",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Freetour.com - travel app",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 106,
+    "total": 107,
     "skipped": 64,
-    "has_issues": 42,
-    "total_issues": 67,
-    "fixed": 4
+    "has_issues": 43,
+    "total_issues": 69,
+    "fixed": 5
   }
 }

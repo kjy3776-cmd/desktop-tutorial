@@ -8114,5 +8114,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 109,
+    "name": "Freetour.com - travel app",
+    "slug": "freetourcom-travel-app",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/AwNvehkO78eDx0syNps0M4LP-Wx0vnQ5qiJWkUffRB2H8DthWaUQUbCQ9IonlJXapnXiEwyqbt9nQVI0w2ivKw",
+    "developer": "Freetour.com GmbH",
+    "desc": "FREETOUR.com으로 현지인의 시각으로 도시를 탐험해 보세요!\r \r FREETOUR.com은 열정적인 현지 가이드와 함께하는 무료 도보 투어, 저렴한 투어, 그리고 진정한 현지 체험을 발견하고 예약할 수 있는 글로벌 여행 앱입니다. 유럽 및 전 세계에서 즐길 거리를 찾고, 신뢰할 수 있는 투어 제공업체를 비교하고, 140개 이상의 국가에서 도시 투어를 예약하세요.\r \r 바르셀로나, 부다페스트, 로마, 베니스, 비엔나, 나폴리에서 무료 투어를 찾고 계신가요? 도시 여행, 배낭여행, 주말 여행 또는 장기 휴가를 계획 중이신가요? ",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.freetour.android.mobileapp",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/BX2lfPFm_rJdwpFZ_2tYWGun5CGWObEeSd_es43KCBJ7qrCprkJTFC1BNue77R9Spi03zZ9wZi0t4BXmAFBBFgQ",
+      "https://play-lh.googleusercontent.com/5EXo81u5c30wFT_jn3TBvsJNKqcrSPImRcKFe4sElH3ejTr-ob2rMsICPCnaURcpwI-19-W-FYExV3oW-X5NCw",
+      "https://play-lh.googleusercontent.com/frkXrfy-vVqWINaM7Ew2Kf83imRzR4gdFBzRUxD3ttdAkTRKheTBl2sn0-cnMQe8uxEl0V_b9-PlVv7cb06qGmc"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2.7.1",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Freetour.com - travel app' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
