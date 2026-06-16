@@ -8150,5 +8150,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 110,
+    "name": "Daraz Online Shopping App",
+    "slug": "daraz-online-shopping-app",
+    "cat": "shopping",
+    "icon": "https://play-lh.googleusercontent.com/9TsiJAH3aOaYHFmYbV5UfWDGVW2ob1VicZZ1vjTwlUCSzKyHV-9GEWb2FA8Ldg2J7DnibJQ8ujh-t26-WOeVSA",
+    "developer": "Daraz Mobile",
+    "desc": "<center><h1><b>Daraz 11.11 올해 최대 세일이 다가왔습니다! </b></h1></center>\r 전국 무료 배송, 메가 딜, 플래시 딜 등을 통해 최대의 비용 절감 효과를 누리세요.\r 10월 25일부터 Daraz에서 수천 개가 넘는 브랜드를 최저가로 쇼핑하세요. 놓치고 싶지 않은 올해 최대 세일입니다!\r Daraz 11.11이 여러분을 위해 준비한 내용은 다음과 같습니다.\r <b>첫 번째 주문에 대한 독점 할인</b>\r 신규 구매자는 첫 주문 시 독점 할인을 받습니다. 더 많은 할인을 받으려면 지금 Daraz 앱",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.daraz.android",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/TsbUnyJokoWqD1vEGQ7vUT-mRrr61Xwe7uXXEOrUQnSuK3v4X6EirNuVFZiOGCnglCQf9p8FiaNrKi59U8GdGA",
+      "https://play-lh.googleusercontent.com/KiQ0F5LuAWZeD_RbXTwZ2wpWj1n8Zy3RvdnoCWc3MDYgWb-PqLhrI7y0s6efp4j7PVZOYKajcl8EwWyAr9Qbdg",
+      "https://play-lh.googleusercontent.com/0CcfX2UJEQxs7x2lcDtmlLOOCnN625o-T0Kfjfu7aZc960uK78AugV0R-cofEycURmpT47HlZAQwOeRNymhngQ4"
+    ],
+    "reviews": [
+      {
+        "user": "mani bok",
+        "text": "\"Search word\" service is very poor...",
+        "rating": 1
+      },
+      {
+        "user": "윤성준",
+        "text": "it's very convenient.",
+        "rating": 5
+      },
+      {
+        "user": "강순철",
+        "text": "very good",
+        "rating": 5
+      },
+      {
+        "user": "killer nepales",
+        "text": "very limited products with China, India products only.",
+        "rating": 1
+      },
+      {
+        "user": "Rajib Alimul",
+        "text": "Very good app for online shopping in Bangladesh.",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "Easy to buy!",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "Good",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "they cancel my orders by themself easily.",
+        "rating": 3
+      },
+      {
+        "user": "Google 사용자",
+        "text": "Internet ad wateno meken",
+        "rating": 3
+      },
+      {
+        "user": "alimul rajib",
+        "text": "Nice shopping app in Bangladesh",
+        "rating": 4
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "9.36.2",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Daraz Online Shopping App' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
