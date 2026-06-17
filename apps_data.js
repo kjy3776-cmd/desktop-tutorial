@@ -8483,5 +8483,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 115,
+    "name": "GrowMe: Micro Learning Daily",
+    "slug": "growme-micro-learning-daily",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/eRGRZn7X5UL_lJ2WaVB34GLj-L7wGUwKCdTpZ9RX8-Ur791SEB5A9jHzGJHFq5AF9JrrIj1KOtIGDqTh6eCt",
+    "developer": "Extramile Limited",
+    "desc": "MyGrowth – 당신의 마이크로러닝 필수 앱!\r \r 무의미하게 스크롤하는 데 지치셨나요? 이제 그만하고 자투리 시간을 진정한 성장에 투자하세요. MyGrowth는 어디서든 읽거나 들을 수 있는 짧고 재미있는 마이크로러닝 강의를 제공합니다.\r \r 두꺼운 교과서도, 지루한 강의도 필요 없습니다. 당신의 일상에 딱 맞는 짧고 알찬 학습이 기다리고 있습니다. 생물학, 역사, 수학, 미술, 커뮤니케이션 등 어떤 분야에 관심이 있든, MyGrowth의 마이크로러닝 강의는 당신의 호기심을 자극하고 지식을 확실하게 다질 수 있도록 설계되었습니",
+    "iosUrl": "https://apps.apple.com/kr/app/id6504612112",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.extramile.mygrowth",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/ISorTnHJBnSTh5ZTxtTP9FV5c5vMV6Ws0opm1DKF094DVu2Pmgasw6NBoy8abVOrSL8XZNofz6CUMfGBLLvFFg",
+      "https://play-lh.googleusercontent.com/AbfeiSCGbym0rI-o_tdSibc6RwAxBT4A5hPSeSaV618zpr5LRFUzSyyOM_ckozyBcL2l5wOVbn55cyxFF25j",
+      "https://play-lh.googleusercontent.com/OQQt9KxLwRJ9thqeFmx8uxeulZ4Pc6deXHIus4KM3JUPlXdsXLztXWe5ZJBCwf1GycIAGYnLbjgOs0pp-3vK"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.8.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'GrowMe: Micro Learning Daily' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

@@ -631,11 +631,16 @@
       "name": "FocusFlight-집중을 되찾고 싶은 당신을 위해",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "GrowMe: Micro Learning Daily",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 112,
-    "skipped": 67,
+    "total": 113,
+    "skipped": 68,
     "has_issues": 45,
     "total_issues": 71,
     "fixed": 5
