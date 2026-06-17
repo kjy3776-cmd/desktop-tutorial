@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "results": [
     {
       "name": "카카오톡",
@@ -610,13 +610,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Kalliu Game World",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 108,
+    "total": 109,
     "skipped": 64,
-    "has_issues": 44,
-    "total_issues": 70,
+    "has_issues": 45,
+    "total_issues": 71,
     "fixed": 5
   }
 }
