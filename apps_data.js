@@ -8360,5 +8360,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 113,
+    "name": "Unrot: Earn your Screen Time",
+    "slug": "unrot-earn-your-screen-time",
+    "cat": "productivity",
+    "icon": "https://play-lh.googleusercontent.com/JphYFvhrjbPqMq--ld0b2vzlT7vJp4l20Tz1pSn-kj-GSV0Q3E9q0scuTfWjzoH4a2y6SWbJN8gWYwgosw6tdw",
+    "developer": "Live Talk - Phone Number Tracker and Location",
+    "desc": "Unrot: Earn your Screen Time은 루틴, 습관, 시간 기반 접근을 중심으로 설계된 스크린 타임 관리 앱입니다. 스크린 타임 제어, 습관 추적, 집중력 향상 도구들을 하나의 시스템으로 통합하여 기기 사용 시간을 체계적으로 관리할 수 있도록 도와줍니다.\r \r 이 앱은 일상 활동과 스크린 타임 사용을 연결하는 아이디어를 기반으로 합니다. 기존의 앱 차단 기능에만 의존하는 대신, Unrot은 기기 사용 시간을 작업, 습관, 예정된 활동과 연결하는 루틴 기반 접근 방식을 도입합니다. 이를 통해 스크린 타임이 더 넓은 일상",
+    "iosUrl": "https://apps.apple.com/kr/app/id6746537171",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.screentime.unrot",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/kI6COa89Jg8pZn-ITulVnmvD2niIGWnh6J7Bi6cuOFb0AcrFU-9x-JiShZPrfM4WzTyKrJmzSHQdnOEuQe8",
+      "https://play-lh.googleusercontent.com/__whsV_g0qM8jv_A0IUDYc4xt5mhCCLJYLU4CaHGyaG2jgstbDEptxG7hr5HWi-iZ1aeI-lvFCud3BLxx_BqHw",
+      "https://play-lh.googleusercontent.com/9ff8fU90HBqbSu-JRliW8nmgYNXhrid57gg1OpcEcZ-99tDMMcITUh5Zk3H9XVMoQrC85b6v_9uUYmL4YzcSn1A"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Unrot: Earn your Screen Time' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

@@ -621,11 +621,16 @@
       "name": "HappyMood - All Games Library",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Unrot: Earn your Screen Time",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 110,
-    "skipped": 65,
+    "total": 111,
+    "skipped": 66,
     "has_issues": 45,
     "total_issues": 71,
     "fixed": 5
