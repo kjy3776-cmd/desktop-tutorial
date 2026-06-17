@@ -8324,5 +8324,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 112,
+    "name": "HappyMood - All Games Library",
+    "slug": "happymood-all-games-library",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/eKG2pK3FdxiFdLlY12d4p_VU0Zw8AEsWVUL7qXvQ38edA0RPbr6WEmuuB-QRYXknSb0wA7b5F-cA1GIB4hBiLg",
+    "developer": "HAPPY MODD LTD",
+    "desc": "HappyModd에 오신 것을 환영합니다! HappyModd는 300개 이상의 재미있고 신나는, 온 가족이 함께 즐길 수 있는 게임을 하나의 앱에서 모두 즐길 수 있는 엔터테인먼트 허브입니다.\r \r 액션, 어드벤처, 퍼즐, 전략, 스포츠, 아케이드 게임 등 어떤 장르를 좋아하든 HappyModd는 모든 플레이어와 모든 기분에 맞는 다양한 재미를 선사합니다.\r \r HappyModd를 사용하면 여러 개의 작은 앱을 설치할 필요가 없습니다.\r 앱을 열고 탭하기만 하면 언제 어디서든 바로 게임을 즐길 수 있습니다.\r \r 🎮 HappyMod",
+    "iosUrl": "https://apps.apple.com/kr/app/id6752773778",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.happymoddltd.happymodd",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/qY1xWme_H26vNzHbVoZT233PaWf5QX3lQIg_btPEa5UCQd9Z_3rHFDgw8O9eiCXzG4reHhE5fwoaqFJRXQgFdg",
+      "https://play-lh.googleusercontent.com/W2UcnsepEX-dWeLIhXLfgFGKGnBSC6jRHe_D_-efZZNG9J60mjb3cvFTGUf_YJ4npAAvpOp60jGVTbGRoMrDEQ",
+      "https://play-lh.googleusercontent.com/eSKI00wg7jaSoOwPz1Qu_Go_P9kIei4dDgS0AgltW5dYBZLrrtBmtMrO6j2brg8-NJE3yQLZYvhjVeqenlpFZg"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'HappyMood - All Games Library' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
