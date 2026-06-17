@@ -626,11 +626,16 @@
       "name": "Unrot: Earn your Screen Time",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "FocusFlight-집중을 되찾고 싶은 당신을 위해",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 111,
-    "skipped": 66,
+    "total": 112,
+    "skipped": 67,
     "has_issues": 45,
     "total_issues": 71,
     "fixed": 5
