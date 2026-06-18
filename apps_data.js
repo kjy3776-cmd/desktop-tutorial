@@ -8693,5 +8693,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 118,
+    "name": "Booking.com 여행 특가",
+    "slug": "bookingcom-여행-특가",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/WWaMYyHLe8Z_JGh_QIwfo2p2x78lXnMX5JhyMHWeqKeCmw0xBvRiXw7pvEmpfZMhtEvUur6mO1qQjCnsMakL",
+    "developer": "Travelale - Flights, Hotels & Rental Cars",
+    "desc": "이제 호텔 예약이 더 편리해졌습니다. 우리의 예약 호텔・저렴한 호텔 앱은 수백 개의 호텔 예약 제공업체를 몇 초 만에 비교할 수 있도록 도와줍니다. 또한 고객님의 행복한 숙박을 위해 막바지 호텔, 모텔, 베케이션 렌탈 등을 제공합니다.\r \r <b>주요 호텔 예약 업체와 비교🏨</b>\r 우리의 저렴한 호텔 앱은 선택할 수 있는 백만 개 이상의 호텔과 비교할 수 있는 수백 개의 호텔 예약 사이트를 제공합니다. 에어비앤비, 아고 다, 호텔스닷컴, 호텔즈컴바인, 부킹닷컴, 트립 어드바이저, Airbnb, Agoda, Klook, Exped",
+    "iosUrl": "https://apps.apple.com/kr/app/id367003839",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.hotelbooking.androidapp",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/QDExq5occstExEQ9BIEIpGbU40U2tkweLmdyyne5LCuH_bCo6-UFeqHCa5HrVjK7tVZBQJj-Nz-MzJMeP1j0ig",
+      "https://play-lh.googleusercontent.com/s00DlfJGSdoeD1gSft4KXEpDzktQDv90PiXd4qmPJAIftpqLxXMNcjlLkobu0it-JvA0X11qcYHsB4ce5b0y",
+      "https://play-lh.googleusercontent.com/6MRQ03zWzjWsr9UZCrN8IwtA6tEi3rgmo_pwuMweb32u41XH73lz7pyJ_RTh4xO9NSg15FiFdIGXHh5G86WLuA"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "3.0.1",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Booking.com 여행 특가' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

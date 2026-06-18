@@ -646,11 +646,16 @@
       "name": "하이바이 - 동네친구부터 부담없는 친구까지",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Booking.com 여행 특가",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 115,
-    "skipped": 70,
+    "total": 116,
+    "skipped": 71,
     "has_issues": 45,
     "total_issues": 71,
     "fixed": 5
