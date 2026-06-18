@@ -636,11 +636,16 @@
       "name": "GrowMe: Micro Learning Daily",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "의 무값은 예언자",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 113,
-    "skipped": 68,
+    "total": 114,
+    "skipped": 69,
     "has_issues": 45,
     "total_issues": 71,
     "fixed": 5

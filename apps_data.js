@@ -8519,5 +8519,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 116,
+    "name": "의 무값은 예언자",
+    "slug": "의-무값은-예언자",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/k61apDtyS1tLSToUBggDJAnh9BPpdDMzS_fzKotIRswwfnIvtsVea2RQmKLPsdKtoZhWT3rv5vAP0yy9-r7tNg",
+    "developer": "써주",
+    "desc": "모여봐요 동물의 숲 무파니의 무 가격을 예측해서 보여주는 서비스 입니다.\r \r - 일요일\r 일요일 오전에 구매한 무 가격을 입력 합니다.\r \r - 월요일 ~ 토요일\r 매일 오전 08:00~11:59, 오후 12:00~22:00마다 동물의 숲 게임에서 변경되는 가격을 입력합니다.\r \r - 결과\r 입력된 무 가격을 바탕으로 통계를 통해 여러 패턴들을 취합하여 평균 데이터를 그래프로 보여줍니다.\r \r 참고용으로만 사용해 주세요!",
+    "iosUrl": "https://apps.apple.com/kr/app/id1506986942",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.sseoju.turnippriceandroid",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/G9ylyy7PS_HdLrto-_ZPzTyVdG2w6Efhm2fvrMl0L1YkeZkYSGjIzV43bV9E0P0ZjA_2sF4hBxX_Z19gNqKfbRY",
+      "https://play-lh.googleusercontent.com/NRKHQF2J9fU4abL9UojgMkWKhJ-ugutXezZatF76QKBzj65Z5wnvDc5qUaHrO09zzCrlKQ8BN2cs8GZtLGvJCg",
+      "https://play-lh.googleusercontent.com/0xoR_KjTdYLZN8GrtLa5aa5slIw7qN4jkylUPox0-342b-zuxjiQrGykHHXwbGRKZyxEVRIaMbL6iSIc-AFV"
+    ],
+    "reviews": [
+      {
+        "user": "『 윤 슬 』 00:00",
+        "text": "좋습니다 , 다른 사이트와 비교는 안해봤지만 최소값, 최대값 안에 정확히 들어가요 . 내려가는 타이밍도 일치하더라고요. 단점이라 하면 , 표를 보는데 약간 버벅거림이 있었지만 수요일 오후까지 치니까 이해가 다 됐습니다. 덕에 이득 많이 봤습니다! 감사합니다",
+        "rating": 5
+      },
+      {
+        "user": "김정현",
+        "text": "한번만 맞고 나머지 나락임. 화요일오후라고 했다가, 수요일오후라 했다가, 금요일 오전까지 갔는데 목요일오후금액까지 쓰고나서야 월요일 오전이 제일 높은 감소형이라고 와나 진짜",
+        "rating": 1
+      },
+      {
+        "user": "임현",
+        "text": "우와아아 대박임니닷 재가 무가 1000개있을깨부터 시작해서 500000벨정도 벌고있다가 이거딱까니까 딱딱 계산 정확하게 계산해서 무가 1개에 최고가격 600벨까지나와서 100000000벨 이있네요 물론 통장에있는거까지 더한거지만.. 그레도 이앱좋네요 업댓많이해서 더좋은앱 만들면 좋겠습니닷 ..... 너무신나서 좋아서 글씨가 틀렸네요 ㄷ",
+        "rating": 5
+      },
+      {
+        "user": "이현경",
+        "text": "처음에는 좀 괜찮은데 두번째사용할때는 뒤에 요일은 아에 변동없이 계속 일자로 표시되네여 그래서 망했습니다. 내 무...... 3번째사용 혹시몰라 한번더사용하는데 이제는 아에 평균 뜨지도 않네요 이야...",
+        "rating": 3
+      },
+      {
+        "user": "갈비",
+        "text": "잘되지만 광고있음",
+        "rating": 3
+      },
+      {
+        "user": "콜라곰",
+        "text": "제법 정확한 편에 속함. 해외 동숲유저들이 쓰는 사이트중 신뢰도가 가장 높다는 사이트랑 결과값이 같음. 그래프대로 떡락하는거까지 확인했음.",
+        "rating": 5
+      },
+      {
+        "user": "심환희",
+        "text": "토요일이 토툐일이라고 써져있네요ㅋㅋ 그리고 이거 타임슬립을 해야 하는건가요? 그리고 일요일 값을 쓰라는것은 구매가를 쓰라는건가요? 알려주세요.",
+        "rating": 3
+      },
+      {
+        "user": "엍오톹",
+        "text": "정확하긴 한데 60벨 밑으로 내려가면 그래프가 안나와요",
+        "rating": 3
+      },
+      {
+        "user": "윤도열",
+        "text": "오늘 깔아서 좋은건 모르겠지만! 암튼 일요일칸에는 무파니 한테 산 무1개의 가격을 쓰는거 맞나요???(답변 주세요!)",
+        "rating": 5
+      },
+      {
+        "user": "YJ K",
+        "text": "정확도가 떨어집니다.",
+        "rating": 3
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '의 무값은 예언자' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
