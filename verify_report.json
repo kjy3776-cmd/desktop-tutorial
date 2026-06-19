@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "results": [
     {
       "name": "카카오톡",
@@ -651,11 +651,16 @@
       "name": "Booking.com 여행 특가",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "데일리스케줄 - 시간표 (플래너,생활계획표,PDF)",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 116,
-    "skipped": 71,
+    "total": 117,
+    "skipped": 72,
     "has_issues": 45,
     "total_issues": 71,
     "fixed": 5
