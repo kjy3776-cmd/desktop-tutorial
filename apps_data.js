@@ -8816,5 +8816,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 120,
+    "name": "DoDay: To-Do List & Planner",
+    "slug": "doday-to-do-list-planner",
+    "cat": "productivity",
+    "icon": "https://play-lh.googleusercontent.com/Of5haHe-3HGtvg90pKG55JWeElaMfrPBh6D6YHnceIfxqGW94bhESW1S1OabxVjJd9RNQgMg_5V6ubr2bP0FFA",
+    "developer": "KGE Apps",
+    "desc": "<b>DoDay – 할 일 목록 및 일일 플래너</b>로 미루는 습관을 버리고 매일 더 많은 것을 달성하세요.\r <i>클라우드 동기화(프리미엄)</i> 덕분에 여러 기기에서 쉽고 직관적으로 작업을 계획하고, 하루 일정을 관리하고, 진행 상황을 추적할 수 있습니다.\r \r 집안일, 숙제, 청구서, 회의, 개인적인 목표 등 어떤 일이든 DoDay는 생산성을 유지하고 더 나은 일상 습관을 기르는 데 도움을 줍니다. 반복되는 작업, 플래그 기반 우선순위, 색상으로 구분된 카테고리, 홈 화면 위젯, <i>상세 통계(프리미엄)</i>와 같은 스",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=de.doday.doday",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/PMPb_pKAFqyU8qVDSwHzbkZiLRY3o0NNVRj_FLsXxJtZAyI0qkh_iRzhEMJJrYK4kAcYqtKSV0K8srAf_7dAnQ",
+      "https://play-lh.googleusercontent.com/ZnjwV3JJCEVBfTB26bRnkc3nN9iYbvHazzz6zVPqUGdmk-NIGs0srhKgkH7stIexTZZkNtyF6ms_zveinQYBW4g",
+      "https://play-lh.googleusercontent.com/tG_GxgmazmOllNj1oH_0LaDsI4xZb26gAPCmdJHzdkcYraUDFpPd8MdJlBtMVFJOImDgP_Vq9qHIqqi1RtTFPA"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "4.3.1",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'DoDay: To-Do List & Planner' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

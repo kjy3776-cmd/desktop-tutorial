@@ -656,13 +656,20 @@
       "name": "데일리스케줄 - 시간표 (플래너,생활계획표,PDF)",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "DoDay: To-Do List & Planner",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 117,
+    "total": 118,
     "skipped": 72,
-    "has_issues": 45,
-    "total_issues": 71,
-    "fixed": 5
+    "has_issues": 46,
+    "total_issues": 73,
+    "fixed": 6
   }
 }
