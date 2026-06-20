@@ -669,11 +669,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Cardiora: Blood Pressure",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 119,
-    "skipped": 72,
+    "total": 120,
+    "skipped": 73,
     "has_issues": 47,
     "total_issues": 74,
     "fixed": 6

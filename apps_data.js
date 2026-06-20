@@ -8939,5 +8939,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 122,
+    "name": "Cardiora: Blood Pressure",
+    "slug": "cardiora-blood-pressure",
+    "cat": "health",
+    "icon": "https://play-lh.googleusercontent.com/tDrcYgkTQbUvFmXuLWOCDiJ-s7X-bbNk3dw85YcFpxp-WP1-BPZQu2qVpsZYFayTsXkbHNCzoIATOck176fr5Q",
+    "developer": "Stackwares",
+    "desc": "NexPulse: 손끝에서 만나는 심장 박동\r \r 혁신적인 심박수 모니터링 앱, NexPulse로 더욱 건강한 나를 발견하세요. 기기의 카메라를 사용하여 정확한 실시간 심박수 측정값을 제공합니다. 운동량을 관리하거나, 스트레스를 관리하거나, 단순히 심장 건강에 대해 궁금한 점이 있을 때, NexPulse는 쉽고 편리하게 사용할 수 있도록 도와줍니다.\r \r 주요 기능:\r \r 카메라 기반 모니터링: 카메라에 손가락을 대기만 하면 NexPulse가 피부색의 미묘한 변화를 분석하여 심박수를 계산합니다. 별도의 장비가 필요하지 않습니다!\r ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6753161422",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.nexpulse.app",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/lXZfpsHxHnIiIBkwIHd59L-9zb9yIoh5BcdZ6tTTV24tUPxn2KX3WtMO1eeTGYx90jg50tezb43g6h5vSpjCvg",
+      "https://play-lh.googleusercontent.com/FuIGnuV_Pm_aovOTvNt0m8MTQ8i6N--WklNzszoOuPIGbRW0ZLcUD24SgxEaslCqJdYx92nU2VWesFNHbfh1",
+      "https://play-lh.googleusercontent.com/pmfBMWDj0JGfb4ulFWkyTOWdq4CUotHgmEDRj7DP8tavwgg-8hWHmHbyfUCJYkRU2F8cJ-S2UcCNNYN2zj68Qq0"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Cardiora: Blood Pressure' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
