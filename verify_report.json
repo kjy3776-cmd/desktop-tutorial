@@ -674,11 +674,16 @@
       "name": "Cardiora: Blood Pressure",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Stellarium - 별자리",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 120,
-    "skipped": 73,
+    "total": 121,
+    "skipped": 74,
     "has_issues": 47,
     "total_issues": 74,
     "fixed": 6
