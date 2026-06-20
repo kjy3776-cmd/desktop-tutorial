@@ -8852,5 +8852,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 121,
+    "name": "Likee - Short Video Community",
+    "slug": "likee-short-video-community",
+    "cat": "sns",
+    "icon": "https://play-lh.googleusercontent.com/5kFm2Or1bHsU_OEZWkrWPWTBol5V5lMYbZieFg8E_8iXjuarqkb6PEQnKW84nD6KPGvLySi_XZfY90dA0aFL",
+    "developer": "Likeme Pte. Ltd.",
+    "desc": "Likee는 무료 오리지널 단편 비디오 제작 및 전 세계 공유 플랫폼입니다. Likee는 짧은 비디오, 비디오 효과 및 창의적인 도구를 사용하기 쉬운 하나의 응용 프로그램으로 제공합니다. 강력한 개인화된 피드와 편집 도구를 사용하면 바이럴 트렌드를 쉽게 발견하고, 완벽한 비디오를 캡처하고, 창의성을 표현할 수 있습니다. 이제 당신의 재능을 선보이고 Likee에서 좋아하는 콘텐츠를 탐색할 시간입니다!\r \r 우리는 전 세계적으로 1억 명이 넘는 사용자를 보유하고 있습니다. 점점 더 많은 사람들이 재미와 자기 표현, 활발한 비디오 커뮤니",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=video.like",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Cd4SBobFrey1ANcp2MoChGdYy7Xckb1Ya432meJAX-Mujbiv7eaDyMHN2iOkqrqyiz5iaomZHUvrMvotKR9ESFI",
+      "https://play-lh.googleusercontent.com/EyASi6ByzFPkxSUxmzIN7wAEQ-wa8qb5EVSbu2IbDtW3-cUflj90Zyq1uZ99VDVf8OdWIZAPiRRjgdlEkVLLpw",
+      "https://play-lh.googleusercontent.com/0GiNM6RQqHdm6EXJvzWDzW8gf-fQMUQoiuJHf4qPc-47VQzucIZal3B6fVjrg1yrHOIp31qF_F7-xdSSMwpA"
+    ],
+    "reviews": [
+      {
+        "user": "엄마미미",
+        "text": "소중한 사람은 언제나 당신 뿐이에요 기도할 수밖에 없더라고요 그러다 보니 시간이 천천히 흘러간 거예요 어쩌다 보니 제가 잠을 늦게 잤고 저녁이 벌써 훌쩍 지나갔습니다 저녁은요 이런 뜻을 의미합니다 사랑하는 친구와 싸운다면 어떤 가능성도 마감할 수 있을지도 모르지만요 지금은요 아예 그냥 노력 중이라서 구별하는게 좀 어려울 거예요 잘할 수 있죠 여러분들 이럴게요 많은 사람들이 소통을 하고 느끼는 대한민국 알죠 대한민국은요 러시아에 위치하고 있었고요 일본과 다릅니다 일본은 먹을 거리가 있었지만 일본은 화산이 있어요 화산 중에서 가장 유명한 일본에 대표적인 한라산 바로 후지산입니다 많이 들어 보셨나요 후지산은요 일본에 있는 산 중에 가장 크고 가장 유명하기도 하지만 일본 중에서도 가장 큰 화산입니다 그리고요 백두산처럼 폭발하지만 백두산은 사람들이 유명한 뒤로 치자면 아마도 세계에서 제일 위험한 화산이 아닌 것임을 알고 있어요 그 정도로 매우 위험한 정도는 아니라고 하네요 정말로 참 다행이죠",
+        "rating": 5
+      },
+      {
+        "user": "최유빈",
+        "text": "제가 한국말 빼고 다 모르는데 한국어는 없고 외국어 밖이 없고,라이브도 한국은 없고,모든게 다 한국이 없는데 한국 좀 넣어 주세요! 그리구 한국어도..",
+        "rating": 1
+      },
+      {
+        "user": "유효기간 지난깊콘",
+        "text": "이거짝퉁 콰이앱보다 좋아요! 단점은 한국어 번역이 엉망이에요. 다른앱보다..렉도 덜걸리고 좋아요도 빨리늘어 좋아요.",
+        "rating": 4
+      },
+      {
+        "user": "Google 사용자",
+        "text": "Good이용~ 그런데 개인정보 노출을 너무 심하게 요구하는 것 같습니다ㅠㅠ 그 점만 보완해주시면, 정말 강추할만한 좋은 앱이네욤💕",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "알림을 다꺼도 알림이 오게할거면 알림 설정은 뭐하러 만들었어!!! 계정 삭제도 어렵고.. 그냥 개인 정보 탈취당한 느낌",
+        "rating": 1
+      },
+      {
+        "user": "나쵸",
+        "text": "타인의 좋아요 목록을 보는 기능이 좋았는데 사라저서 앱을 사용할 이유가 사라졋음",
+        "rating": 2
+      },
+      {
+        "user": "Chandra Wijaya",
+        "text": "나는 다섯 별을 사랑, 그것은 너무 재미 있기 때문에!!! 너희들은이 다운로드해야!!!, 그러나 설치할 때 는 매우 길지만 멈추지 않습니다.",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "이거 로그인하려고 하는데 전화번호를 했는데도 않되고 구글 로그인 했는데도 중지됬다며 않되고 이런오류 고쳐주세요.",
+        "rating": 3
+      },
+      {
+        "user": "金善花",
+        "text": "다 좋은데 라이브 할때마다 한번 하면 라이브 정지되서 못하게 하고 짜증나네요 신고할께요",
+        "rating": 2
+      },
+      {
+        "user": "전유진",
+        "text": "이거 진짜 너무 재밌어여 12살말고 애기들도 출연도 되다니 너무 좋았습니다. 별5개!",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "5.58.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Likee - Short Video Community' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
