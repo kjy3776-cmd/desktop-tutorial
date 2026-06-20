@@ -679,11 +679,16 @@
       "name": "Stellarium - 별자리",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "리니지M",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 121,
-    "skipped": 74,
+    "total": 122,
+    "skipped": 75,
     "has_issues": 47,
     "total_issues": 74,
     "fixed": 6
