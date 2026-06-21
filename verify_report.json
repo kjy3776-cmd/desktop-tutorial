@@ -690,13 +690,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Mob Control",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 123,
+    "total": 124,
     "skipped": 75,
-    "has_issues": 48,
-    "total_issues": 75,
+    "has_issues": 49,
+    "total_issues": 76,
     "fixed": 6
   }
 }
