@@ -41,6 +41,7 @@
     "Likee - Short Video Community",
     "LingoLooper: AI Language Game",
     "MITSUKOSHI ISETAN JAPAN",
+    "Manus AI",
     "Microsoft OneNote: Save Notes",
     "NH스마트뱅킹",
     "Oxford Dictionary & Thesaurus",
@@ -208,7 +209,7 @@
     "홈 트레이닝 - 기구가 필요 없습니다",
     "홈&쇼핑"
   ],
-  "last_run": "2026-06-20",
+  "last_run": "2026-06-21",
   "next_id": 0,
   "today_count": {
     "2026-05-26": 2,
@@ -236,6 +237,7 @@
     "2026-06-17": 5,
     "2026-06-18": 3,
     "2026-06-19": 2,
-    "2026-06-20": 4
+    "2026-06-20": 4,
+    "2026-06-21": 1
   }
 }

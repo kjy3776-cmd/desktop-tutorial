@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "results": [
     {
       "name": "카카오톡",
@@ -684,13 +684,19 @@
       "name": "리니지M",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Manus AI",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 122,
+    "total": 123,
     "skipped": 75,
-    "has_issues": 47,
-    "total_issues": 74,
+    "has_issues": 48,
+    "total_issues": 75,
     "fixed": 6
   }
 }
