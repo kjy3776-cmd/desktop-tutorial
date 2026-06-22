@@ -702,11 +702,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "폴라리스 오피스 - 한글, PDF, MS문서, GPT",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 125,
-    "skipped": 75,
+    "total": 126,
+    "skipped": 76,
     "has_issues": 50,
     "total_issues": 77,
     "fixed": 6
