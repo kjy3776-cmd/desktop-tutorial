@@ -707,11 +707,16 @@
       "name": "폴라리스 오피스 - 한글, PDF, MS문서, GPT",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "나이키",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 126,
-    "skipped": 76,
+    "total": 127,
+    "skipped": 77,
     "has_issues": 50,
     "total_issues": 77,
     "fixed": 6
