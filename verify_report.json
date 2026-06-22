@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-21",
+  "date": "2026-06-22",
   "results": [
     {
       "name": "카카오톡",
@@ -696,13 +696,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Todoist: 할일 목록 & 캘린더",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 124,
+    "total": 125,
     "skipped": 75,
-    "has_issues": 49,
-    "total_issues": 76,
+    "has_issues": 50,
+    "total_issues": 77,
     "fixed": 6
   }
 }
