@@ -9620,5 +9620,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 131,
+    "name": "전기차 보조금 - EV 인센티브",
+    "slug": "전기차-보조금-ev-인센티브",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/mnT-CWElhmPgXcLblrw9VZ9YXZ-NeKrQFvJ4y3a-2mf4W2L60asHHotKTIH0ptJkMyDhXxQ4sNe_lpjwkqqryg",
+    "developer": "DailyPrompt",
+    "desc": "전기차 보조금 조회 EV인센티브는 지역별 전기차 보조금, 구매보조금 지급현황, 잔여대수, 국비, 지방비를 한곳에서 확인할 수 있는 비공식 안내 앱입니다.\r \r 환경부 무공해차 통합누리집의 전기차 구매보조금 공개 자료를 모바일에서 보기 쉽게 정리해 제공합니다.\r \r 차량 구매 전 필요한 국비, 지방비, 총보조금 정보를 지역/차종/제조사/모델/트림 기준으로 확인할 수 있습니다. 승용 전기차 보조금, 전기화물차 보조금, 전기승합차 보조금과 지자체별 전기차 구매보조금 지급현황, 잔여대수, 접수 현황, 공고 링크를 함께 제공합니다.\r \r 주",
+    "iosUrl": "https://apps.apple.com/kr/app/id6761789191",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.jasonkim.evincentive",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/wwIFdDvX_IUQ9AMMEvw-JG8Qa6zpGOLTW6soSReYXqTpOak4PSsIveVJfypoTLW84oxXoy-dR4H0syWYXAXXeXg",
+      "https://play-lh.googleusercontent.com/0msnV2SmmecDNjxUr-wyTxo5jqf1ruL2ny2qLCecd49KyVYbTmlFvqZcMrcuxgySYNMRhw0SUIrLiTEcEAqJ99U",
+      "https://play-lh.googleusercontent.com/w3hCeGjnBBLwTO1-cpsYL9oFMyvi1eay0UOFrWz3OvxD1j9vvdZOBii5KLyuBX9GS6AbaC3ieZvQlS-F4ttH7w"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '전기차 보조금 - EV 인센티브' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
