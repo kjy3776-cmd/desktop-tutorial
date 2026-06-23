@@ -722,11 +722,16 @@
       "name": "전기차 보조금 - EV 인센티브",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "번역 갈매기 - AI 동시통역・음성・비디오 번역 앱",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 129,
-    "skipped": 79,
+    "total": 130,
+    "skipped": 80,
     "has_issues": 50,
     "total_issues": 77,
     "fixed": 6
