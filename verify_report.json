@@ -712,11 +712,16 @@
       "name": "나이키",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Hash #",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 127,
-    "skipped": 77,
+    "total": 128,
+    "skipped": 78,
     "has_issues": 50,
     "total_issues": 77,
     "fixed": 6

@@ -9584,5 +9584,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 130,
+    "name": "Hash #",
+    "slug": "hash",
+    "cat": "sns",
+    "icon": "https://play-lh.googleusercontent.com/g6cqem5306O8Th3_4nsqNvH-A3EPOGg6Uzv-Bud64hZhhMtsYzo1O31FVwbDlKKOx9NvjyfzEB3GHenhlkhF0Q",
+    "developer": "Engineered Essentials",
+    "desc": "HashWatch는 Braiins OS 마이너, Bittaxe/NerdQaxe++ 솔로 마이너, Canaan 마이너를 모니터링하고 최적화하는 가장 빠르고 최고의 방법입니다. (Antminer S21+, S21+ Hyd, S21 Hyd, S21 Pro, S21 XP, S19 시리즈, Canaan Avalon Q, Mini Nano3 및 Nano3s와 같은 Bitmain 기기 포함!) 더 이상 IP 기반 바로가기로 홈 화면을 가득 채울 필요가 없습니다. HashWatch는 전체 마이닝 작업을 한눈에 볼 수 있도록 해줍니다. 모든 장치를",
+    "iosUrl": "https://apps.apple.com/kr/app/id6743992853",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.hashwatcher.android",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/eFqMUga7yxJxX-owg7HFfM3UIRNgKotWOw-StLW09Ej4k5ycpgtQdYVjbN3S9OTY7Jlg9ovck1wC2YxAKE6w",
+      "https://play-lh.googleusercontent.com/bLXQoC9l07gGuTFrFPKzwH_hmTNR_yOW3nKoTVPpKLlARh7Ulie3lbj_nyaA5EelhKZtm-0fwFsdCBUaeaDGgOg",
+      "https://play-lh.googleusercontent.com/5RXjRRFbAboWONasRofL7GJpk0WQVARJM72yAMKkxcGHxFlBbuxRMVQtxqjPgH0h_30QSMIocu9TSO3KKd88"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.0.21",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Hash #' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
