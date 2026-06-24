@@ -9830,5 +9830,62 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 134,
+    "name": "Trendyol - Online Alışveriş",
+    "slug": "trendyol-online-alışveriş",
+    "cat": "shopping",
+    "icon": "https://play-lh.googleusercontent.com/FLDth7XDA8dpt1wncSn4Y1E_BX7kU3oDtD4ZxWWZFd8x8fSQFqx9rRDFplGiQB6Kkj-l44ajcTkYgduhm7rdBHQ",
+    "developer": "Trendyol",
+    "desc": "<b>트렌디올 앱: 필요한 모든 것!</b>\r \r 집에서 간편하게 쇼핑하세요! 트렌디올 앱으로 더욱 편리한 쇼핑 경험을 누려보세요. 트렌디올 앱을 다운로드하면 필요한 모든 것을 한 곳에서 찾을 수 있습니다. 신상품, 매일 바뀌는 특가 상품, 어디에서도 찾아볼 수 없는 특별 할인 혜택까지, 트렌디올 모바일 앱 하나로 언제 어디서든 만나보세요! 위생용품부터 컴퓨터, 반려동물 용품, 의류, 가구, 스포츠 용품까지, 집에서 편안하게 필요한 모든 것을 쇼핑하세요.\r \r <b>수백 가지 카테고리!</b> <b>신발, 슬리퍼, 액세서리 및 가방",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=trendyol.com",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/PuuJz4n7_tG8Wy47qW3QRMRBmuRPwhVZIN6P11cD0-T5hiknJFxqOB5YvKm9beZYDlpyd7ZTFmywiNP2dCgo",
+      "https://play-lh.googleusercontent.com/PHh_XO781rhi1441PPl-up07jFyG1RijW2b3FL417QHPg29sDKpEgwzUF3oesuyrO_1nlD-ZBnWedAIlLQnsWw",
+      "https://play-lh.googleusercontent.com/jabQ3PcDnloFDREMeb8YnjjgzMIlDH2ti7-J18UaQI6-RpBDeHlqODdozWCFYyn-3DSJQF_FHI5foR-k_0zCpA"
+    ],
+    "reviews": [
+      {
+        "user": "Ekin Başak SS",
+        "text": "👍🏻👍🏻👍🏻👍🏻👍🏻",
+        "rating": 5
+      },
+      {
+        "user": "Vildan KS",
+        "text": "Hızlı kargolama,uygun fiyatlandırma üstelik de güvenilir daha ne olsun ki şuana kadar herhangi bir sorun yaşamadım.Ancak şöyle bir sakıncası var inanılmaz bağımlılık yapıyor aldıkca alasınız geliyor ama dikkat😂",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "Hizli,guvenli, ozenli alisveris",
+        "rating": 5
+      },
+      {
+        "user": "Dreams of Korea",
+        "text": "Harika",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Trendyol - Online Alışveriş' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

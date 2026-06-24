@@ -733,13 +733,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Trendyol - Online Alışveriş",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 131,
+    "total": 132,
     "skipped": 80,
-    "has_issues": 51,
-    "total_issues": 78,
+    "has_issues": 52,
+    "total_issues": 79,
     "fixed": 6
   }
 }
