@@ -11,6 +11,7 @@
     "AllTrails: Hike, Bike & Run",
     "Among Us!",
     "BMW Driver's Guide",
+    "Bluecoins 재정 및 예산",
     "Booking.com 여행 특가",
     "Brain Puzzle 2: Logic Twist",
     "CamScanner - 문서 스캔 & PDF 변환",
@@ -230,7 +231,7 @@
     "홈 트레이닝 - 기구가 필요 없습니다",
     "홈&쇼핑"
   ],
-  "last_run": "2026-06-23",
+  "last_run": "2026-06-24",
   "next_id": 0,
   "today_count": {
     "2026-05-26": 2,
@@ -261,6 +262,7 @@
     "2026-06-20": 4,
     "2026-06-21": 2,
     "2026-06-22": 3,
-    "2026-06-23": 3
+    "2026-06-23": 3,
+    "2026-06-24": 1
   }
 }

@@ -9743,5 +9743,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 133,
+    "name": "Bluecoins 재정 및 예산",
+    "slug": "bluecoins-재정-및-예산",
+    "cat": "finance",
+    "icon": "https://play-lh.googleusercontent.com/VtTLn-4YSl8gAH16YUueVVS-n7UJSW5Dp-EdIxSYzz7OoecThN_KSu6RXqspBvP0Tt82B8IWxF0IlAW0XcvX5g",
+    "developer": "Mabuhay Software",
+    "desc": "<b>Bluecoins</b>는 믿을 수 없을만큼 간단한 금융 앱으로 훌륭한 비용 추적기, 예산 및 자금 관리 도구이기도합니다. 여기에는 돈, 지출, 수입 및 예산을 효과적으로 관리 할 수있는 가장 완벽한보고 및 분석 도구 세트가 있습니다. 개인 재정, 가족 예산 관리 또는 소규모 사업에 사용하십시오. 월별 pdf 보고서를 작성하거나 파트너와 예산을 관리하거나 스프레드 시트로 데이터를 내보내십시오! 너무 쉽고 쉽고 빠르게 자신의 재정 및 예산 전문가가 될 수있는 것에 놀라게 될 것입니다. 지금 당신의 돈을 통제하십시오!\r \r 마음의",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.rammigsoftware.bluecoins",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/KDfR3ZXCQzO9c4ijo_JNYHoKr1zCmE3HUQpubpvIY-pWOHxlDoAVmjJzbKnsDetUZiQnyE2d1Z611wVO4BUAig",
+      "https://play-lh.googleusercontent.com/drnj2GUCT09cox2B02NTPYzKdwn21leeYbyewAOxBHWapQy7M1J7LJvbCPM5yWjwiC20yPrwCf_DZpgh2tFJ-w",
+      "https://play-lh.googleusercontent.com/dg6GCYcMNtVlXqZCvqQH5gDQKARiKhgkzPHXxRzHVd_Y82QXykw7rwa3IBe-3eC0Ib57VqFOSDwWZq5cuSbvAg"
+    ],
+    "reviews": [
+      {
+        "user": "박영록",
+        "text": "오래 쓰던 가계부 어플이 더 이상 업데이트 안 하면서 사용을 못 하게 되었는데 찾다가 찾다가 이 어플을 사용해보고 아주 만족하며 잘 쓰고 있습니다. 그런데 한 가지. 작은 불편한 점이 있습니다. 다른 통화로 이전에 입력했던 거래 내역을 들어가서 확인하고 다시 체크 버튼을 누르면 현재 다른 통화로 지정이 되면서 잔액이 일치하지 않게 되는 상황이 발생합니다. 원래 통화를 잘 기억할 수 있도록 하면 좋을 것 같습니다.",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "항목별 필터 기능도 있고 트랜스액션기능도 편리하게 잘돼 있어서 정말 유용하게 잘 쓰고 있습니다. 허접한것들과는 완전 다름. 단 적용항목이 많으신 분들은 유료전환 해야 할거예요",
+        "rating": 5
+      },
+      {
+        "user": "JJU",
+        "text": "유료업뎃해서 너무 잘쓰고 있어요! 정말 다 좋은데.. 예산요약에서 1년 이상 조회하면 이상하게 뜨네요.. 요 부분만 개선 되었음 좋겠어요",
+        "rating": 5
+      },
+      {
+        "user": "skarblitz cocoon",
+        "text": "지속적으로 이용하는 중인데 참 유용한 어플이다. 복식부기 원리를 이용할수 있으며 자산 부채 등 대차대조표 및 현금흐름에 대한 정보를 제공하는 것이 이 어플의 강점이며 다른 어플과의 차이점이다. 시각적인 차트나 그래프도 매우 잘되어 있다",
+        "rating": 5
+      },
+      {
+        "user": "MG Lee",
+        "text": "직관적이고 편해요 pc에서도 볼수 있고 인쇄할 수 있으면 좋을것 같아요",
+        "rating": 4
+      },
+      {
+        "user": "Joshua Chang",
+        "text": "3주 정도 썼는데 사용하기 편하고 balance표시와 통계기능이 있어 직관적이네요.",
+        "rating": 4
+      },
+      {
+        "user": "Osaki Massage Chairs Sacramento",
+        "text": "좋은 앱이라 프리미엄 으로 업그레이드 할려고 하는데 오류가 나네요. 해결해 주세요. 감사합니다.",
+        "rating": 4
+      },
+      {
+        "user": "Google 사용자",
+        "text": "한국어 번역이 너무 이상합니다",
+        "rating": 4
+      },
+      {
+        "user": "정영주",
+        "text": "하루 만에 포기할꺼라 생각했는데 계속 하게 됨",
+        "rating": 5
+      },
+      {
+        "user": "정창수",
+        "text": "2주 정도 사용하는데 좋네요",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "12.9.5-18451",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Bluecoins 재정 및 예산' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "results": [
     {
       "name": "카카오톡",
@@ -727,13 +727,19 @@
       "name": "번역 갈매기 - AI 동시통역・음성・비디오 번역 앱",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Bluecoins 재정 및 예산",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 130,
+    "total": 131,
     "skipped": 80,
-    "has_issues": 50,
-    "total_issues": 77,
+    "has_issues": 51,
+    "total_issues": 78,
     "fixed": 6
   }
 }
