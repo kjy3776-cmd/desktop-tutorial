@@ -745,13 +745,20 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "FITTR: Diet & Fitness App",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 133,
+    "total": 134,
     "skipped": 80,
-    "has_issues": 53,
-    "total_issues": 80,
-    "fixed": 6
+    "has_issues": 54,
+    "total_issues": 82,
+    "fixed": 7
   }
 }

@@ -9974,5 +9974,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 136,
+    "name": "FITTR: Diet & Fitness App",
+    "slug": "fittr-diet-fitness-app",
+    "cat": "health",
+    "icon": "https://play-lh.googleusercontent.com/PRFSOKGjrreuiTUZ1ZS-WHfrHspkytJ12kjIAAPPBXWp-vLgP5ZzvJHRw4N79k9v9PEcmZ6Y_mQ_mUEAup8vBHo",
+    "developer": "FITTR - Fitness & Personal Training",
+    "desc": "🔥 FITTR는 전신 운동, 개인 트레이닝, 그리고 실질적인 결과를 가져다주는 체계적인 식단 계획을 제공하는 강력한 홈 트레이닝 및 피트니스 앱입니다. 집이나 헬스장에서 운동하고, 체지방을 감량하고, 운동 진행 상황을 추적하고, 필요할 때 통합된 건강 검진으로 건강 관리 여정을 지원받으세요.\r \r 여러 개의 피트니스 앱, 운동 추적기, 영양 관리 도구를 번갈아 사용하는 대신, FITTR는 운동, 식단 계획, 건강 관리를 하나의 체계적인 시스템으로 통합합니다.\r \r <b> 🏋️ 전신 운동 및 개인 트레이닝 </b>\r 더 이상 운동 루",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.squats.fittr",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Hg9wI0zjvKIzqrWqeeDSwVzqBURETTfVRxeLXbBUbFnfD0VrEMrRQKOmtvJdTxLqT5g3u9GlXnmkMfXut16Asg",
+      "https://play-lh.googleusercontent.com/jDYiZo3BUGlnsZFQWoxMbAX6WgFi4X1c_JUTyjFyUQaWuytWPE2WHnjPSi0s7B4jxJ3mG4S9zG2ls3Xuz4rXeQ",
+      "https://play-lh.googleusercontent.com/nx_x6idQSGJaHoKXcxYewFNnA4UfYhA-UoHDrGsrjPWkQgIBUBWy6A6GBfDVxkHeKX9pCDnwMBnKF7D-wxU1iQ"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "9.3.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'FITTR: Diet & Fitness App' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
