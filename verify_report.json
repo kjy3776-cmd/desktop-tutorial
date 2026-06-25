@@ -739,13 +739,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Kahoot! 플레이 & 퀴즈 만들기",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 132,
+    "total": 133,
     "skipped": 80,
-    "has_issues": 52,
-    "total_issues": 79,
+    "has_issues": 53,
+    "total_issues": 80,
     "fixed": 6
   }
 }
