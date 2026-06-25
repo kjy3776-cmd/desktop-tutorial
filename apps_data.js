@@ -10010,5 +10010,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 137,
+    "name": "Cambridge English Dictionary",
+    "slug": "cambridge-english-dictionary",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/h9B40vpUiX_UAfYiEBTUEoXdjFTf0hvqoCKN5fGrO5f32-ReDneWY5jqGdfp0IP6cGMfHh3kkH-CNCf57I75",
+    "developer": "Cambridge University Press & Assessment",
+    "desc": "무료 미리보기\r \r 구매하기 전에 시도하십시오! 전체 단어 목록을 보고, 50개의 사전 항목을 미리 보고, 앱의 기능을 테스트하십시오.\r ____________\r 140,000개의 단어, 구, 의미 및 예가 포함된 Cambridge Advanced Learner's Dictionary, Fourth Edition(CALD)은 전 세계 수백만 명의 영어 학습자에게 신뢰를 받고 있습니다.\r \r 모든 사전 항목에는 관련 단어, 구 및 각 의미에 대한 동의어를 보여주는 동의어 사전 섹션이 있어 영어 지식을 확장하는 데 도움이 됩니다.\r \r",
+    "iosUrl": "https://apps.apple.com/kr/app/id728359831",
+    "androidUrl": "https://play.google.com/store/apps/details?id=org.cambridge.dictionary.advanced.learners.fourth",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/bBqegb1IJ3Qcyopn8E8QZ8CFH8TDbCd_Ui7tyLBDPmOniRtv6T98jnghB4MoxSyrmpENLhgDmOdi15JC1_wMbkg",
+      "https://play-lh.googleusercontent.com/KzlYDiPHpbDLU6fe7aP5jOSJvf5RZW_fQTLXaSgD3IpDXX4FF3aEgQBypWUb7Qr9z7yPny_sppUNcmX6acSZKvQ",
+      "https://play-lh.googleusercontent.com/6sDcoaHgPHZfSxlgO73YyQ2m8bsZDK0acIVHkWergvqv9E_jxvVhTsp-s9wYaGsAaR7-xoEKaXgoAp7gJ4HS"
+    ],
+    "reviews": [
+      {
+        "user": "함박미소",
+        "text": "동작 그만 !! 첫 판부터 돈 얘기냐?",
+        "rating": 3
+      },
+      {
+        "user": "_의리파_시선",
+        "text": "It's good.",
+        "rating": 5
+      },
+      {
+        "user": "S HD",
+        "text": "Very good app.",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "Hello Sirs/Nadams I had purchased this App in 2015 through Mobisystems; the purchase record is still in my playstore purchaselist. But after I got my phone stolen, bought a new one, and tried to reinstall the same App, i found out that it was somehow gone. Thus, I had no choice but to use my iphone to purchase the same old App. Now, I was greatly glad to see this app available on playstore; But it says I still have to pay yet again. Would you please help me out on this issue? Thank you.",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "does this app not updateded regualry ?",
+        "rating": 4
+      },
+      {
+        "user": "Google 사용자",
+        "text": "use website . Trash this app",
+        "rating": 1
+      },
+      {
+        "user": "Google 사용자",
+        "text": "I bought this dictionary long time ago. mine is old version now. and it keeps asking me to update this app. but it looks like I have to buy this app again to get a new version of it. I just don't get it why I have to pay for again...",
+        "rating": 1
+      },
+      {
+        "user": "pha ra (rapha)",
+        "text": "such a good experience. Really annoying that searching the meaning of one word requires '19,000' Damn.",
+        "rating": 2
+      },
+      {
+        "user": "ji eun ko",
+        "text": "They blocked word searching unless you buy the app. Shouldn't classfied as in app purchase.",
+        "rating": 1
+      },
+      {
+        "user": "dr stone",
+        "text": "Kkk무룐지알앗네",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "5.6.52",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Cambridge English Dictionary' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
