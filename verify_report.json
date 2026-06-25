@@ -757,11 +757,16 @@
       "name": "Cambridge English Dictionary",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "몸무게 달력 - 아침 저녁 몸무게 기록 & 캘린더 표시",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 135,
-    "skipped": 81,
+    "total": 136,
+    "skipped": 82,
     "has_issues": 54,
     "total_issues": 82,
     "fixed": 7
