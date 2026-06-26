@@ -773,13 +773,19 @@
       "name": "Saily - 간편하고 안전한 여행용 eSIM 앱",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "아스팔트 8: 에어본 - 인기 리얼카 레이싱 게임",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 138,
+    "total": 139,
     "skipped": 83,
-    "has_issues": 55,
-    "total_issues": 83,
+    "has_issues": 56,
+    "total_issues": 84,
     "fixed": 7
   }
 }
