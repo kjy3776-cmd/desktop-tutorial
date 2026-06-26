@@ -10184,5 +10184,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 139,
+    "name": "Wise - Global Money",
+    "slug": "wise-global-money",
+    "cat": "finance",
+    "icon": "https://play-lh.googleusercontent.com/kB33cohi8SVexROzpc3YB9o7fG0prnoG_jkANftvjyMKTZILBA1s1vYfvrEIWLiFDtouQLuyBYqk4VQPrPclGQ",
+    "developer": "Wise Payments Ltd.",
+    "desc": "1,600만 명 이상의 고객이 Wise를 통해 해외로 송금, 수취, 지출 및 자산 증식을 경험하고 있습니다. 160개국 40개 통화로 빠르고 간편하게 송금할 수 있습니다. 이용 가능한 상품은 거주 지역에 따라 다릅니다. wise.com을 방문하거나 앱을 다운로드하여 이용 가능한 상품을 확인해 보세요.\r \r — 국제 송금 —\r • 70개국 이상으로 빠르게 송금하세요\r • 모든 송금에 대해 Google과 같은 중간 시장 환율을 적용하세요\r • 평균적으로 송금 건의 64%가 20초 이내에, 95%가 24시간 이내에 도착합니다\r • 2단계",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.transferwise.android",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/X8lug5mpjKX5sEx-L9gmsTqTXWtaKy1CSKGxeDEZZlv60JHKI1rtip6avCyyImtpWjlQ-AulSjgFOLNFp-QP_dY",
+      "https://play-lh.googleusercontent.com/F98gr1XLw_LQdU5kjGQyXz-N8ZKvo5WSXepCFl6_mTou-mjLvhThyvNlzxFnbeOFJ79tT6SZyvfbKyRUajAR",
+      "https://play-lh.googleusercontent.com/cHektIo83P5SyPfiXLl9netJNULlquwyRWpGqxD-P3Znln2oGKAarvlW592dUoGtXedytJcVpFvfZ5D8xiFT"
+    ],
+    "reviews": [
+      {
+        "user": "치와와",
+        "text": "Adding paused 뜨면서 돈을 입금했는데도 계좌 충전 안됨 안되는 이유 들어가봤더니 verity하야한다네? 그래서 아래 뜨는 verify 버튼 누르니까 로딩 뜨더니 자꾸 원래 화면으로 돌아옴. 원래 돈 충전되기로 알려준 시간에서 몇시간이 지났는데 아직 똑같이 뜨며 안됨.",
+        "rating": 1
+      },
+      {
+        "user": "Sunjune Lee",
+        "text": "계좌 여는데 며칠이 걸리긴 하지만 전반적으로 사용하기 쉽고 꽤 저렴하다. 외국에서 일해서 달러계좌로 월급을 받고 있는데 25년까지 12월까지 잘 들어오더니 26년 1월 중 급여가 안 들어와 내 계좌정보를 확인하니 갑자기 계좌은행 주소가 바뀌어 있다.. 임의로 계좌지점을 바꾼 거 같은데 이메일이나 알람으로 알려준 건 하나도 없었고 1월 급여를 2월 3일인 지금까지 못 받고 있다..",
+        "rating": 1
+      },
+      {
+        "user": "Jinwoo Seol",
+        "text": "단 한번도 실물카드 사용한적 없고 모바일 구글페이 등록해서 썼는데. 저는 폴란드 거주중이고 갑자기 우크라이나 업체 온라인 결제 되었다는 알림과 함께 돈이 빠져나가나요? 보안에 심각한 문제가 있네요",
+        "rating": 1
+      },
+      {
+        "user": "ユンずいしゅん",
+        "text": "재류카드 인식이 한 달째 안되는데 이정도면 수동확인이라도 해주세요 이게 뭡니까 진짜...",
+        "rating": 1
+      },
+      {
+        "user": "이지섭",
+        "text": "송금할때 제일 깔끔하고 간결합니다. 다만 한국어 지원이 안되는게 제일 아쉽습니다.",
+        "rating": 5
+      },
+      {
+        "user": "GJ Park",
+        "text": "정말 저렴하게 유럽에서 한국계좌로 송금했어요 . 카드인출대비 금액이 크다면 절약이 꽤 되네요",
+        "rating": 5
+      },
+      {
+        "user": "이상철",
+        "text": "매우 쉽고 빠르게 송금할수있어서 너무 편해요",
+        "rating": 5
+      },
+      {
+        "user": "정 Jeong희정 Hui jeong",
+        "text": "외국인 친구에게 돈 받을 때 가장 쉬운 옵션이에요!",
+        "rating": 5
+      },
+      {
+        "user": "Siwoo Kim",
+        "text": "송금 방식 많음. 방식에 따라 다르지만 수수료도 별로 안떼어감",
+        "rating": 5
+      },
+      {
+        "user": "요포이",
+        "text": "첫 송금 실수로 내계좌인줄 알고 본인계좌 확인용 엉뚱한 계좌로 입금했는데, 고객센터에 메일 쓰고 전화하고 난리도 아니였지만 바로 처리해주고 친절한 응대가 인상적이었습니다. 바로 송금까지 해줘서 여러번 번거로울 뻔 한 실수가 한번에 해결됐네요. 그리고 무엇보다 실시간 환율이 거의 떼이는거 없이 바로 송금됨니다. 한국어가 없어서 저 같이 오해하고 처음 송금할때 실수를 많이 할것 같은 단점이 있습니다. 확인 계좌와 실제로 부여받는 계좌는 달라요. 꼭 확인하세요. Wise팀도 본인 계좌번호가 첫 화면에 보이게 개선했으면 좋겠네요.",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "9.29.1",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Wise - Global Money' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

@@ -762,13 +762,19 @@
       "name": "몸무게 달력 - 아침 저녁 몸무게 기록 & 캘린더 표시",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Wise - Global Money",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 136,
+    "total": 137,
     "skipped": 82,
-    "has_issues": 54,
-    "total_issues": 82,
+    "has_issues": 55,
+    "total_issues": 83,
     "fixed": 7
   }
 }
