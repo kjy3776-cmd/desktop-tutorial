@@ -10271,5 +10271,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 140,
+    "name": "Saily - 간편하고 안전한 여행용 eSIM 앱",
+    "slug": "saily-간편하고-안전한-여행용-esim-앱",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/bd2-mAEW8Ud-TiHCEhOo1A-hpWQzeQI2VDhmslSdakF1yVisGstC-59QGpLJJ59T3cxVAYN-Fatpf5Vtm2wDiQ",
+    "developer": "Nord Security",
+    "desc": "원활한 eSIM 데이터 서비스를 위한 포털, <b>Saily eSIM 앱</b>으로 연결된 세계를 탐색하세요. 이젠 물리적 SIM 카드와 작별할 때. 어디를 가든 디지털의 편리함과 함께하세요. Saily eSIM 앱을 사용하면 몇 번의 터치만으로 인터넷 데이터를 이용할 수 있고, 비싼 로밍 요금을 피할 수 있으며, 온라인에 연결된 상태로 전 세계를 여행할 수 있습니다.\r \r 📱<b>eSIM이란?</b> 📱\r \r eSIM(e심)은 스마트폰에 내장되어 있는 디지털 SIM이지만 실제 유심 카드와 동일한 방식으로 작동합니다. <i>차이가 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6475045151",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.saily.android",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/VNXBe9aiEKReurQgDNKLcKNu_RFaL1kcVBp2sBJ4opMgsDDcPRyHQTbPm3G-Msnxp2CN4KHpnLpGJfnNuq5A",
+      "https://play-lh.googleusercontent.com/GjGUKnCcKpqKOySbnVZQZVSRS8CuzmwGoQZiPzp8iLcbMNTmTS47wYUvLpG1fps_DWmjqtZN-8CdrGRGKfqhJg",
+      "https://play-lh.googleusercontent.com/f38odU6yswhwU7xWpV4HMK0-f4-Yuax6HHkFbbNEOSlvy5pNOUyJZaXXK_p5J4nTEaHnduLzL9PJ_knzjOMN9Q"
+    ],
+    "reviews": [
+      {
+        "user": "오승용",
+        "text": "폴란드에서 사용해봤습니다 간단하게 말하면 너무 안터집니다 와이파이 사용후 와이파이존 넘어가면 자동 데이터로 바뀌어야하는데 데이터는 연결되고 인터넷은 안됩니다 핸드폰을 컷다켜야 다시 연결되는 경우가 많아요 데이터 안터지는 구역 에서 잘터지는 구간으로 넘어가도 마찬가지입니다 e sim을 껏다 켜거나 핸드폰을 껏다 켜야 합니다 정말 최악이예요",
+        "rating": 1
+      },
+      {
+        "user": "김영근 (HmmHuk)",
+        "text": "정말 비추천합니다 다낭도심 한복판에서도 그랩조차 접속이 잘 되지 않네요 다시는 쓰지 않겠습니다",
+        "rating": 1
+      },
+      {
+        "user": "Blue Bada",
+        "text": "물리적인 SIM보다 가격은 좀 높아도 보안이 좋고 편리성은 압권이네요. 60일 eSim 사용중입니다",
+        "rating": 5
+      },
+      {
+        "user": "단비사랑",
+        "text": "이번 푸꾸옥 여행때 세일리 이심해서 갔는데 잘터지지도 않고 너무 짜증났어요. 다시는 세일리 사용 안하고 싶어요.",
+        "rating": 1
+      },
+      {
+        "user": "이동주",
+        "text": "작년 10월 미국 오스틴에서 2주간 사용할때에도 조금 느리긴했지만 쓸만은했는데 이번 한달간 사용을 하는데 인터넷이 거의 터지지않아 와이파이 사용만하면서 한달을 버텼네요ㅡㅡ 값이 비싸면 속도가 좋거나 최소한 끊기진 않아야하는데 너무 실망스럽고 돈만 날린기분이에요",
+        "rating": 1
+      },
+      {
+        "user": "Heekwon Harold Kang",
+        "text": "새로운 esim 업로드하라고 해서 했는데 연결이 계속 끊김. 환불도 어렵고 다음부터는 다른 서비스로 갈아 타야 될것 같습니다. 현재 브리즈번에서 사용중. 전에는 Global1 으로 연결되었었고 느리기는해도 연결이 안정적이었으나, 새로 연결한 esim은 optus/daily 인데 계속 끊김, 특히 중요한 순간에.",
+        "rating": 1
+      },
+      {
+        "user": "HJ",
+        "text": "올리브쌤 광고보고 다운로드해서 사용하는데 매우 만족",
+        "rating": 5
+      },
+      {
+        "user": "정선통나무집 (정선통나무펜션)",
+        "text": "예전엔 와이파이도시락을 이용하다가 Saily 구매 설치해 사용해 보니 신세계네요. 너무 간단하고 좋아요.",
+        "rating": 5
+      },
+      {
+        "user": "mikky silver",
+        "text": "유튜브 두억시니 프로모션에서 알게 되었구요 로컬지역을 변경한다는 건 좋은 기능인것 같아요. 해외접속으로 문제가 생기는 네이버 같은 이슈에 대해 이제 고민할 필요가 없는건 너무 좋네요.",
+        "rating": 5
+      },
+      {
+        "user": "이상규",
+        "text": "다신이 앱안써요 유튜버들 광고나 쳐할돈으로 끊기는거나 해결하세요 참다참다 리뷰쓰는건 처음입니다 진짜 면전에대다 쌍욕하고 싶은거 참고 씁니다. 연결 똑같은 문제로 계속 끊기고 진심 한국인이면 이거 안쓰는거 추천 그리고 유튜버들 좀 검증좀 하고 광고 받으세요 개나소나 받지마시고",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "3.42.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Saily - 간편하고 안전한 여행용 eSIM 앱' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
