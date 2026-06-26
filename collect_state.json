@@ -47,6 +47,7 @@
     "Lifestyle FIT",
     "Likee - Short Video Community",
     "LingoLooper: AI Language Game",
+    "MEEFF 미프 - 전 세계 외국인 친구 사귀기",
     "MITSUKOSHI ISETAN JAPAN",
     "Manus AI",
     "MiRi - 광역버스 좌석예약 서비스",
@@ -246,7 +247,7 @@
     "홈 트레이닝 - 기구가 필요 없습니다",
     "홈&쇼핑"
   ],
-  "last_run": "2026-06-25",
+  "last_run": "2026-06-26",
   "next_id": 0,
   "today_count": {
     "2026-05-26": 2,
@@ -279,6 +280,7 @@
     "2026-06-22": 3,
     "2026-06-23": 3,
     "2026-06-24": 2,
-    "2026-06-25": 4
+    "2026-06-25": 4,
+    "2026-06-26": 0
   }
 }
