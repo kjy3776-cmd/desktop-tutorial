@@ -779,11 +779,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "스위치 - 국민 통화 녹음 앱",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 139,
-    "skipped": 83,
+    "total": 140,
+    "skipped": 84,
     "has_issues": 56,
     "total_issues": 84,
     "fixed": 7
