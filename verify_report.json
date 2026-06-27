@@ -805,11 +805,16 @@
       "name": "Widgetsmith",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "FeelFlow-스트레스&HRV&수면",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 144,
-    "skipped": 87,
+    "total": 145,
+    "skipped": 88,
     "has_issues": 57,
     "total_issues": 85,
     "fixed": 7
