@@ -790,11 +790,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "모던하우스_새로움이 시작되는 하우스 모던하우스",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 141,
-    "skipped": 84,
+    "total": 142,
+    "skipped": 85,
     "has_issues": 57,
     "total_issues": 85,
     "fixed": 7
