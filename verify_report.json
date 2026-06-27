@@ -784,13 +784,19 @@
       "name": "스위치 - 국민 통화 녹음 앱",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Brilliant: Learn Math & Coding",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 140,
+    "total": 141,
     "skipped": 84,
-    "has_issues": 56,
-    "total_issues": 84,
+    "has_issues": 57,
+    "total_issues": 85,
     "fixed": 7
   }
 }

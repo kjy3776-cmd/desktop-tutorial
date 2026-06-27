@@ -10532,5 +10532,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 143,
+    "name": "Brilliant: Learn Math & Coding",
+    "slug": "brilliant-learn-math-coding",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/qAcKXgdsb6BHXFA0tWsmSzbRyFzmScdscuDvUsYtn_eFIWFmuPCTkK1X-ok-LqO2B_OQqK5xcKCjIBv_9fm2Lw",
+    "developer": "Brilliant.org",
+    "desc": "Brilliant는 수학 및 코딩 학습을 위한 초지능형 튜터입니다. MIT와 하버드 출신의 전문가들로 구성된 저희 팀은 세계 최고 수준의 맞춤형 학습 시스템을 개발했습니다. 초등학교 5학년부터 대학생, 그리고 그 이상까지 모든 학습자를 위해, 여러분의 학습 과정을 분석하고, 화면에 직접 그림을 그려주며, 적절한 질문을 던지고, 진정한 깨달음을 얻을 수 있도록 안내하는 튜터가 함께 문제를 해결해 나갑니다.\r \r 더 이상 공식을 암기할 필요가 없습니다. Brilliant는 실질적인 이해를 바탕으로 탁월한 성과를 낼 수 있도록 설계되었습",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=org.brilliant.android",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/2wMNPuyGIYayokx9iJTTlA7SRPExS6tEkwdUkYNxvILqgE0opvzlgyIvtOSeoATjZqCX_DUh1fbmtepYpSgf7EQ",
+      "https://play-lh.googleusercontent.com/zwKoykXJw2iwrCY09VoCmAL3KlMFpShLl2k7IkEKLOc3-IR6JaBSVTyYtbIAz0JM_91F4VO0IRGIi5JH0NgIg2k",
+      "https://play-lh.googleusercontent.com/PKL8GTIDlHMbc6zijNjKlI8ECleeUrqhtyXWU62mFpd3_ltF9sfeHaRixpBRT1W2OQiJk9oOzZ4a8fuyLSAr5A"
+    ],
+    "reviews": [
+      {
+        "user": "냐앙TV",
+        "text": "리그 기능이 있어 경쟁심리로 더 많이 하게 되고, 대학 과정까지 있어 다양한 분야를 학습할 수 있습니다. 또 인터렉티브 그래픽으로 이해도 쉽게 되고, 학교처럼 딱딱한 개념만 가르치는 것이 아닌 원리부터 이해하고, 심화 문제들도 있어 실력 향상에 도움이 되고, 더 빨리 배울 수 있습니다.. 또 여러 창의적인 분야들도 있습니다. 그러나 한국어 번역이 되어있지 않고, 파파고를 사용해도 전문 용어나 문자, 사진에 있는 글은 잘못 번역되어 영어 실력이 딸린다면... 그리고 한국 교과과정이랑 똑같지는 않네요.",
+        "rating": 5
+      },
+      {
+        "user": "최창호",
+        "text": "빠르게 답변주셔서 감사합니다.. 혹시 예전에 사라진 미분방정식 관련 강의를 archived courses에 살려주실수 있으시나요? 가입하기도 전에 사라진거같은데 꼭 보고싶습니다 앞으로 advanced강의가 많이 나왔으면 합니다 시간이 걸리더라도 계속 고민하면서 공부하는게 좋더군요",
+        "rating": 5
+      },
+      {
+        "user": "x0ωΩ",
+        "text": "알게된진 4년 정도 된거갗은데도 아직도 번역기능이 없는게 아쉽다.. 웹으로 하면 구글번역기를 쓸수있긴한데 전문용어가 너무 많아서 구글번역기능도 개판이라 문제를 알아먹을수가 없을수준이라 눈물을 머금고 포기했는데.. 그래서 번역기능이 없는건가..",
+        "rating": 5
+      },
+      {
+        "user": "김미인성",
+        "text": "코딩과 타 여러 교육을 받을수 있어 좋은데 아직 영어를 다 못배워 그런지 못알아 먹는게 많네요, 혹시 한글 패치본 같은걸 만들 의향이 있나요? 교육은 확실해 5점 드리겠습니다. (미수정 26/5/16일)",
+        "rating": 5
+      },
+      {
+        "user": "박운상",
+        "text": "오늘 1일차 유저입니다.이 앱을 재밌게 했는데 갑자기 프리미엄으로 막으니 너무 아쉬웠습니다.혹시 무료로 풀어주는건 안될까요?",
+        "rating": 2
+      },
+      {
+        "user": "박지우",
+        "text": "배우는 시간이 너무 짧긴합니다. 하지만 배우기 쉽고 재밌습니다. 한국어로도 설명해주면 너무 좋겠네요.",
+        "rating": 4
+      },
+      {
+        "user": "신송현",
+        "text": "재밌게 즐 길 수 있었어 좋습니다😀 그리고 혹시 한국어도 나오면 좋을거같습ㄴ디ㅏ",
+        "rating": 5
+      },
+      {
+        "user": "PIB",
+        "text": "말이필요없음 진짜 좋았음 레이튼교수와 이상한마을의 스토리없애고 난이도 단계화시킨 버전같았음 대신 영어못하면 손도못댐 수준은 고등학교수능영어 2~3등급정도면 무난히 해석가능할듯 아직 로직부분인데도 엄청재밌다...",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "학생 신분이어서 전공 교재를 사서 공부하기는 시간이 없는데 더 고급의 수과학 지식을 얻고싶다면 최고의 공부 수단입니다. 가벼운 마음으로 대수학, 선형대수학 등을 배울 수 있습니다. 다만 한국어 따위는 지원되지 않으니 좀... 각오해야 하겠죠?",
+        "rating": 5
+      },
+      {
+        "user": "im im",
+        "text": "오랜만에 머리굴리니까 뇌가 부드러워지는 느낌. 그렇지만 너무 비싸서 가격 인하가 있었으면 합니다. 더 많은 이용자들이 유입될듯요",
+        "rating": 4
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "10.7.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Brilliant: Learn Math & Coding' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
