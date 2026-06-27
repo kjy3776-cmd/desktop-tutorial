@@ -800,11 +800,16 @@
       "name": "Google 캘린더: 일정을 정리하세요",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Widgetsmith",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 143,
-    "skipped": 86,
+    "total": 144,
+    "skipped": 87,
     "has_issues": 57,
     "total_issues": 85,
     "fixed": 7

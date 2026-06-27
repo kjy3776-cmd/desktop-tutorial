@@ -10793,5 +10793,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": "web"
+  },
+  {
+    "id": 146,
+    "name": "Widgetsmith",
+    "slug": "widgetsmith",
+    "cat": "productivity",
+    "icon": "https://play-lh.googleusercontent.com/DjEnBl-JJadSqeTqgZP4B9cFHtPt3KXGKzDeiQpU4kALp0dL-to-05jcIXhpFKURMJ_K0cCQllWXGjx-j8ssTA",
+    "developer": "androidslide",
+    "desc": "세계 최대의 워치페이스 디자인 커뮤니티인 WatchMaker의 팀에서 위젯피아로 홈 화면을 독특하게 만들 준비를 하세요!\r \r Android 스마트폰의 예전 모습이 지겹고 새로운 것을 하고 싶다면 이 iOS 16 런처 앱을 사용해 보세요.\r \r iOS 16용 모든 위젯을 사용하여 Android 스마트폰에서 iOS 16의 새롭고 미학적으로 새로워진 모습을 사용해 보십시오.\r \r 수천 개의 위젯\r \r 바로 사용할 수 있는 75,000개 이상의 미리 만들어진 위젯이 있습니다!\r \r 나만의 위젯 만들기\r \r widgetopia를 사용하면 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id1523682319",
+    "androidUrl": "https://play.google.com/store/apps/details?id=slide.widgetFrenzy",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/1aXwYjMiag6H_Ahq-nkHdV2BfVzRFnPV3k7gBQV4thiqo21eYCKzT_yn68RlZz5tGFJDEv-_ihhE8HzJeGsU5A",
+      "https://play-lh.googleusercontent.com/AupK5brWCw5Mx27oTcAkAJbXgFqYVnCUNCXk6ul5bcrC4JPApIDBKC9cqcDTbQHknuwTVLIg37BRYXGyBqKDww",
+      "https://play-lh.googleusercontent.com/fQf1SJ8PCl2GAVQ23kF51DyLPl6CRmEn4XiJ_MdyBnvkLgAgzvYoyeXqruuOtExMp1I9Bw9Y_bKoD9QLNcVFeA"
+    ],
+    "reviews": [
+      {
+        "user": "유진_",
+        "text": "ㄱㄴ 안좋고 돈내야하고 광고 드럽게많이나옴 한마디로 깔지마",
+        "rating": 1
+      },
+      {
+        "user": "산사나이",
+        "text": "공짜인것처럼설치유도하고사용하려면6900원유료...잘먹고잘살아라.",
+        "rating": 1
+      },
+      {
+        "user": "Anny",
+        "text": "이 앱을 사용한 적은 시간만으로도 이 앱이 마음에 든다고 말할 수 있습니다!",
+        "rating": 5
+      },
+      {
+        "user": "함지예",
+        "text": "진짜 너무좋은앱같아요. 완정 강추!",
+        "rating": 1
+      },
+      {
+        "user": "애착토끼",
+        "text": "안해 시잘 이딴거에 돈을 왜써",
+        "rating": 1
+      },
+      {
+        "user": "효림알렵뷰",
+        "text": "해 보니 사야하긴 한데..좋네엽",
+        "rating": 5
+      },
+      {
+        "user": "김만두",
+        "text": "정말 좋네요",
+        "rating": 5
+      },
+      {
+        "user": "김서윤",
+        "text": "깔아보세요 좋아요!",
+        "rating": 4
+      },
+      {
+        "user": "서민예",
+        "text": "서 민 예",
+        "rating": 5
+      },
+      {
+        "user": "nazanin",
+        "text": "عالی",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2.7.5",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Widgetsmith' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
