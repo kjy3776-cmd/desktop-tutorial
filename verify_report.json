@@ -820,11 +820,16 @@
       "name": "PDFix: Edit, Sign, Convert PDF",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "오토마우스 - 오토클릭 클리커 - 자동터치",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 147,
-    "skipped": 90,
+    "total": 148,
+    "skipped": 91,
     "has_issues": 57,
     "total_issues": 85,
     "fixed": 7
