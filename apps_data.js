@@ -11054,5 +11054,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 149,
+    "name": "PDFix: Edit, Sign, Convert PDF",
+    "slug": "pdfix-edit-sign-convert-pdf",
+    "cat": "productivity",
+    "icon": "https://play-lh.googleusercontent.com/6bQw0G7s8x_GhRX4uGQqRWaHV3hVNph-KwST7-D6dcRbb5xnMYpx370IeN4jIMF4ZmlwNIxDwIMZg2JLD2At",
+    "developer": "Artevus Technologies",
+    "desc": "PDFix는 무료 PDF 편집기, 문서 서명 도구, 이미지-PDF 변환기입니다. 구독료, 광고, 숨겨진 비용 없이 PDF 파일을 편집, 서명, 병합, 분할 및 변환할 수 있습니다.\r \r PDFix는 완벽한 PDF 편집기, 전자 서명 앱, 서명 생성기, PDF 변환기, 이미지 변환기, 문서 서명 도구의 모든 기능을 하나의 무료 다운로드로 제공합니다.\r \r PDF 문서 편집\r PDFix는 완벽한 PDF 텍스트 편집기입니다. 텍스트 추가, 기존 콘텐츠 편집, 주석 달기, 중요 부분 강조 표시, PDF 양식 작성 등을 앱에서 바로 할 수 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6768568142",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.artevus.pdfix",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/bTPwnE2Xo_S0QQShPizz_db7ipoEjTphbXd2AqweOcG36rWaodnM9sfs4HJpo7ayFGfE6ckDLkAUy3CSyfnI",
+      "https://play-lh.googleusercontent.com/zmqd7xgWInJo7J5FA-XM9A95YmgZDlf7YctR_46fSQUknnL15lij0D7ydaDAKKIWUmvsX6fyjz0zc6noSk0ECw",
+      "https://play-lh.googleusercontent.com/5fVK9UAPi0yHZ20bmkgxk4u--682ADNPU_1XR9ibTpFxSdgMmPV7ux8NdhxqgfjilmhiHtHkssIRelmnnV1LgmA"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'PDFix: Edit, Sign, Convert PDF' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

@@ -815,11 +815,16 @@
       "name": "짐워크 - 운동기록 운동일지 헬스 운동루틴",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "PDFix: Edit, Sign, Convert PDF",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 146,
-    "skipped": 89,
+    "total": 147,
+    "skipped": 90,
     "has_issues": 57,
     "total_issues": 85,
     "fixed": 7
