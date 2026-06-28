@@ -11177,5 +11177,47 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 151,
+    "name": "TCG Card Scanner for Pokemon",
+    "slug": "tcg-card-scanner-for-pokemon",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/fOp6GCZMJVo8PogfMCrIPTesrmNs6G4aMOuBjjyHyqSYJiinKN9zYrRqA4ZHmwF31IJSbBpAXPSpHDOGrL7k-w",
+    "developer": "NebulaTech App Creations",
+    "desc": "비공식 TCG 카드 스캐너 컬렉터로 포켓몬 카드의 진정한 가치를 발견하세요\r \r 빠르고 사용하기 쉬운 스캐너 앱을 사용하여 포켓몬 트레이딩 카드 게임(TCG) 컬렉션의 정확한 카드 가치와 상세한 정보를 확인하세요. 이 앱은 수집가와 트레이더를 위해 설계된 비공식 앱으로, The Pokémon Company와 제휴 또는 보증하지 않습니다.\r \r 열정적인 수집가든, 경쟁력 있는 트레이더든, 아니면 이제 막 포켓몬 여정을 시작하든, TCG 카드 스캐너 컬렉터는 컬렉션을 관리하고 더욱 현명한 결정을 내릴 수 있는 최고의 도구입니다.\r \r ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6711355393",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.tcgscanner.pokemon",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/5pWcLbNp7mJRza_U3sP4D0ZjcE6jY5JggD6OHVuJoi0xRfz8r0rGF0aSpsZ3mRA7cv4tNfF2ncFh4RD_cZKrEw0",
+      "https://play-lh.googleusercontent.com/Ln23bo8O2CWQ5wsYo75YZwu5XS0yv_bHo2ak0u94_paTQTMoqiT0fO52BfK_XKcCi4YSwygvolAD8FLpXwzpwkI",
+      "https://play-lh.googleusercontent.com/byIfTPwzcWljyNXAlyM7TKQT5vUSumqCAP9cBVNyZd-7YjMt0jDsZ2i7-yHsZKf7JkUyRupJ90BXWUNSDIhK0g"
+    ],
+    "reviews": [
+      {
+        "user": "Minhyuk Choi",
+        "text": "컬렉션의 카드 가격이 전부 똑같고 변동사항이 표시가 안됨. 심지어 내 프로필 조차 변경이 안됨. 그나마 가격이 저렴",
+        "rating": 3
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "10.8",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'TCG Card Scanner for Pokemon' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
