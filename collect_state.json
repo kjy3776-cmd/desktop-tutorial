@@ -21,6 +21,7 @@
     "Castle Busters",
     "Charichari - Bike Share",
     "Claude by Anthropic",
+    "Coursera: 경력 성장",
     "Daraz Online Shopping App",
     "DoDay: To-Do List & Planner",
     "ESTA Mobile",
@@ -273,7 +274,7 @@
     "홈 트레이닝 - 기구가 필요 없습니다",
     "홈&쇼핑"
   ],
-  "last_run": "2026-06-28",
+  "last_run": "2026-06-29",
   "next_id": 0,
   "today_count": {
     "2026-05-26": 2,
@@ -309,6 +310,7 @@
     "2026-06-25": 4,
     "2026-06-26": 4,
     "2026-06-27": 5,
-    "2026-06-28": 4
+    "2026-06-28": 4,
+    "2026-06-29": 1
   }
 }

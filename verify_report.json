@@ -830,13 +830,19 @@
       "name": "TCG Card Scanner for Pokemon",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Coursera: 경력 성장",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 149,
+    "total": 150,
     "skipped": 92,
-    "has_issues": 57,
-    "total_issues": 85,
+    "has_issues": 58,
+    "total_issues": 86,
     "fixed": 7
   }
 }

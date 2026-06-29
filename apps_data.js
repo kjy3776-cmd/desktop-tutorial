@@ -11219,5 +11219,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 152,
+    "name": "Coursera: 경력 성장",
+    "slug": "coursera-경력-성장",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/LbjoYTPK5ZlNO3GDMZsFoGoRXHLoA2iTAUvJF7ePRZzbRPu7En-Go3wWXPXEdCL6grpkPHHavvzalozZrbJi",
+    "developer": "Coursera, Inc.",
+    "desc": "8,000개 이상의 강좌, 실습 프로젝트, 수료증 프로그램 및 학위를 통해 경력을 시작하고 전환하거나 발전시키세요. Coursera는 세계적인 수준의 기업 및 대학과 협력하고 있기 때문에 전문가와 함께 배우고 직무와 가장 관련이 있고 수요가 많은 기술을 개발할 수 있습니다.\r \r COURSERA와 함께라면 다음을 진행할 수 있습니다.\r • 실습 프로젝트를 통해 직무 관련 기술과 업계 표준 도구 학습하기\r • 광범위한 산업 맞춤 강좌 전반에서 경력을 위한 지식 축적하기\r • 전문 자격증을 통해 수요가 많은 역할에 대해 직무 준비하기\r",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=org.coursera.android",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/2gx41Tf73R5oQEq4aNtXZRGItGZIkusGw5nOcp-_rbXcVnYdTlPbCWUKLTAzy7d7twttColuMsFT2FngfsJ-0Q",
+      "https://play-lh.googleusercontent.com/efnTYpG0u7obT0MUXcXQTO6lWdj4v8pfbK7xKsWjDTP4YVjYZ3Ik6GfYTF3aDVueJRbODX_QN3bDAcu6sP6bxA",
+      "https://play-lh.googleusercontent.com/3Qn4cnbCBxPIBsmU1cEczoVs4XARAkJ5kMa1Z7IgyuAuXygdqt1oxdwTFg9E_kpFtu8l8TPoMbG5ZZHJH8E-"
+    ],
+    "reviews": [
+      {
+        "user": "J U",
+        "text": "퀴즈 풀거나 과제 제출할 때 코드가 제대로 뜨지 않음 (문제마다 전부 비어 있음) PC에서만 풀이 및 제출 가능하다는 게 상당히 불편한 와중에 이걸 문의할 수 있는 버튼이 단계마다 제대로 배치되어 있지 않고 메뉴 내비게이션 바를 뒤져도 찾지 못함",
+        "rating": 1
+      },
+      {
+        "user": "최은설",
+        "text": "교양 쌓으면서 영어공부하기 좋아요 유익한 컨텐츠가 많습니다 앱도 잘 작동하고 에러나는 건 pc로 들어가면 다 잘 돼요 ~",
+        "rating": 5
+      },
+      {
+        "user": "Ju one Kim (MDMKER)",
+        "text": "[필요도없고 광고만 있는 쓰래기앱] 광고많음[극혐], 이미있음[필요없음], 개인정보 유출[가입 하지 마셈], ai...[고객센터 방치] 허위광고[신고좀 하셈]",
+        "rating": 1
+      },
+      {
+        "user": "Nako Moha",
+        "text": "최악의 교육 서비스. 사용하지도 않은 강좌 구독 취소 제대로 안 보이게 해놓고, 결제 후 환불도 안 해주는, 내가 경험한 모든 서비스 중 가장 최악의 프로그램임. 절대적으로 비추천함",
+        "rating": 1
+      },
+      {
+        "user": "오늘도죽창을",
+        "text": "비싼데다가 환불 찾기도 어렵게 해놓은 최악의 앱",
+        "rating": 1
+      },
+      {
+        "user": "Yohan Mok",
+        "text": "잘못 만든 앱입니다. 22 울트라 쓰는데 화면 작다고 화면 표시 안할거면 모바일 어플을 왜만든건지 모르겠습니다. 앱 그따구로 만들고 크롬에서 어플로 리다이렉션 하는것도 화나고 진짜 1점도 아깝지 않나 하는 생각이 듭니다.",
+        "rating": 1
+      },
+      {
+        "user": "박현정",
+        "text": "자막 선택이 안됨. 아래 뜨는 스크립트는 한페이지 이상으로 넘어가게 되는 순간 화면과 스크립트를 동시에 볼 수 없게된다 ㅠㅠ 모바일로 학습은 불가하다...",
+        "rating": 1
+      },
+      {
+        "user": "Kaizin Park",
+        "text": "모바일 앱과 태블릿 앱을 따로 내주었으면 좋겠습니다. 핸드폰에서야 쥬피터노트북을 못 여는건 알겠는데 화면이 큰 태블릿에서 공부할 때도 쥬피터노트북을 열지 못 해서 과제를 진행하지 못 합니다.",
+        "rating": 5
+      },
+      {
+        "user": "누누씨",
+        "text": "아이패드로 잘 작동이 안 되는데 저만 그런가요?ㅠㅠ 그리고 핸드폰, 아이패드 진도율이 달라요!",
+        "rating": 1
+      },
+      {
+        "user": "송현정",
+        "text": "한글 자막을 볼수 있었는데, 오늘 갑자기 한글 자막을 볼 수 없어요. 자막 언어 선택할 때도 한글을 선택할 수 없어요. 한글 자막을 다시 볼 수 있게 해주세요.",
+        "rating": 3
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "6.5.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Coursera: 경력 성장' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
