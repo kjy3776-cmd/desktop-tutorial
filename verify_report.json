@@ -731,8 +731,7 @@
     {
       "name": "Bluecoins 재정 및 예산",
       "issues": [
-        "iOS URL 불량: URL 없음",
-        "아이콘 이미지 로드 실패"
+        "iOS URL 불량: URL 없음"
       ]
     },
     {
@@ -848,7 +847,7 @@
     "total": 151,
     "skipped": 93,
     "has_issues": 58,
-    "total_issues": 87,
+    "total_issues": 86,
     "fixed": 7
   }
 }
