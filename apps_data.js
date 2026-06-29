@@ -11306,5 +11306,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 153,
+    "name": "Code Busters: Word Puzzle Game",
+    "slug": "code-busters-word-puzzle-game",
+    "cat": "game",
+    "icon": "https://play-lh.googleusercontent.com/y4ugm-bwBq6DROa8gTBjPBY7UE-ocLtAz_se-Eqd8g0y68_Ks_GXglPmhwCyDq2dlbc4waps12IRRZB-uAaVSQ",
+    "developer": "Smartronic",
+    "desc": "코드 버스터즈: 단어 퍼즐 게임에 오신 것을 환영합니다!\r 코드 버스터즈: 단어 퍼즐 게임으로 두뇌를 자극해 보세요. 논리, 추리, 단어 찾기 능력이 결합된 흥미진진한 퍼즐 어드벤처입니다. 숨겨진 메시지를 해독하고, 숫자와 글자를 연결하고, 의미 있는 문구를 찾아내며 수백 가지의 매력적인 도전을 해결해 보세요.\r 숨겨진 메시지 찾기\r 모든 퍼즐은 해결을 기다리는 독특한 도전입니다. 논리를 사용하고, 패턴을 인식하고, 단서를 따라 비밀 메시지를 밝히고, 빠진 단어를 완성하세요. 게임을 진행할수록 퍼즐은 더욱 복잡해지며, 신중한 사고와",
+    "iosUrl": "https://apps.apple.com/kr/app/id6499306754",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.crypto.code.master",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/s1ZzI7sUBipH8g2kGjJvCsE5uPuVdyV19gr2Fx7a13EtOR8yZ1GVXiOHcWe1d2-m5xZ08xsPxvwCfwNuX9Mq",
+      "https://play-lh.googleusercontent.com/OdO78L4SgFYz4KfxNrJF0Qe-wXWndYO0DhmbyXOk7x17iVl6YuVs81mI-fmZQnV5RnjZezgHcIUBKk5Jo7sfCw",
+      "https://play-lh.googleusercontent.com/4OxOz5QPAc9vKJLorCQluUvtlQ7nSbCGbWX9i974c3B66fjS9zsomszFGVF2SYGqWlKGlh_0Lz4ixD92gjM7"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.1.33",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Code Busters: Word Puzzle Game' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
