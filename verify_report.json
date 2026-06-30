@@ -858,11 +858,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "마이크로소프트 팀즈",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 154,
-    "skipped": 94,
+    "total": 155,
+    "skipped": 95,
     "has_issues": 60,
     "total_issues": 88,
     "fixed": 7
