@@ -11429,5 +11429,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 155,
+    "name": "Nubank: conta, cartão e mais",
+    "slug": "nubank-conta-cartão-e-mais",
+    "cat": "finance",
+    "icon": "https://play-lh.googleusercontent.com/FP6PILGwB6hrdvwg_mE8H1MKi2AcRDbHJcdg7WMfjiHbs4-ZZhYSMtgibkpeakstu1UeNHL4TGCo1l0mV2qkQa4",
+    "developer": "Nu",
+    "desc": "Nubank는 브라질에서 가장 권장되는 금융 기관으로, 8,500만 명 이상의 고객이 자신의 전체 금융 생활을 휴대폰에서 직접 모니터링하고 해결하는 것을 좋아합니다.\r \r 또한 Nu는 라틴 아메리카 전역에서 가장 큰 금융 서비스 기술 회사입니다. 이것이 바로 우리가 믿는 모든 것, 즉 투명하고 단순하며 쉽고 관료주의가 없는 경험, 귀하의 금융 생활이 어떠해야 하는지를 반영하기 위해 우리 앱이 만들어진 이유입니다.\r \r 별표, 장난 또는 설명할 수 없는 수수료 없이 여기에서 모든 것을 통제할 수 있는 사람은 바로 당신입니다.\r \r N",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.nu.production",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/ijbrC50HfyF3UT_agi6G1MyWRGrV9J8kfBUl2dj12pnDugp3UB1GuT6Dio7mB7REM6t3plIgNLjbehURNQ9j",
+      "https://play-lh.googleusercontent.com/Z-SOXfKFQdLtwxY1Te8reKoup99bxuXfErpD9lGBpM6kZKwssaLLX8SCvOAK0YbMBFHVHeS8x4zSu3pw_lzs",
+      "https://play-lh.googleusercontent.com/nxRAEuS_RrsTKsBLUR8tqBAvNDU1kwI3zCOLZE3PQB7AG3csvCMYtJeFWuQE5iVkNNOJhbJhxegAX1hR9TCx"
+    ],
+    "reviews": [
+      {
+        "user": "이영희",
+        "text": "ㅊㅌ 붕ㅍ ㅋ",
+        "rating": 2
+      },
+      {
+        "user": "Estefany Nascimento",
+        "text": "Muito bom",
+        "rating": 5
+      },
+      {
+        "user": "Lenny Jun",
+        "text": "O aplicativo em si trava demais. Demora receber dinheiro em depósito pelo boleto. Atendimento via chat depois das 17h tem que esperar muito. Cobra juros altos no crédito. Não recomendo.",
+        "rating": 1
+      },
+      {
+        "user": "Afam",
+        "text": "MUITO FÁCIL, PRÁTICO, TUDO DE BOM!",
+        "rating": 5
+      },
+      {
+        "user": "유니콘",
+        "text": "Good",
+        "rating": 5
+      },
+      {
+        "user": "Camila Seo",
+        "text": "muito bom.",
+        "rating": 5
+      },
+      {
+        "user": "김바오로",
+        "text": "Muito pratica de uso ~ Ajudou muito vida a dia dia ~",
+        "rating": 5
+      },
+      {
+        "user": "Namil Park",
+        "text": "Simples e direta... muito bom",
+        "rating": 5
+      },
+      {
+        "user": "Edu Lee",
+        "text": "👍👍👍",
+        "rating": 5
+      },
+      {
+        "user": "ji hee",
+        "text": "굿",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Nubank: conta, cartão e mais' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

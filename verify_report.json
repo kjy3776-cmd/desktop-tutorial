@@ -846,13 +846,19 @@
       "name": "빅크 - 더쇼 투표와 최애 라이브까지",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Nubank: conta, cartão e mais",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 152,
+    "total": 153,
     "skipped": 94,
-    "has_issues": 58,
-    "total_issues": 86,
+    "has_issues": 59,
+    "total_issues": 87,
     "fixed": 7
   }
 }
