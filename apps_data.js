@@ -5554,7 +5554,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "4.84.0 (6236)",
+      "ver": "4.85.0 (6345)",
       "os": "-",
       "size": "-"
     },
@@ -11510,6 +11510,93 @@ const APPS = [
     },
     "installSteps": [
       "앱스토어/플레이스토어에서 'Nubank: conta, cartão e mais' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
+  },
+  {
+    "id": 156,
+    "name": "Yahoo Finance",
+    "slug": "yahoo-finance",
+    "cat": "finance",
+    "icon": "https://play-lh.googleusercontent.com/QnsmipyjsPiwZu-3pUzsi2MVSS5hRY84ofS7IUhAJaezhetph7rWUho6sW9Zso_gGtxN94_YxdxI1O7kHIVI",
+    "developer": "Yahoo",
+    "desc": "Your #1 finance destination to track the markets and the economy.\r \r Follow the stocks you care about most and get personalized news and alerts. Access real-time stock information and investment updates to stay on top of the market.\r \r Favorite features:\r • Track the performance of your personal por",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.finance",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/qHBDx_9RSqn-cnp8tfgBFMRqjDcALvKz1DcNJJzP3e3zUbpgbOkUOb__bgieT_lZ2Rua388jr7dUhx22vcFq1A",
+      "https://play-lh.googleusercontent.com/ITMSZvF6rFoXn_ws0SfILjj5F-iI12jtrQWeeY4dN9tnTNgGLnwfFPPgG5wqUWx6dpDngNy9lWs42IBA4zcQW1o",
+      "https://play-lh.googleusercontent.com/0aKTTRUlXITnMse1uUbZe5FXtXB4qC2JtSe62t7CBD8PjnvGfkc5h5ny8G1R7j1H6fgabPV5EmclYJZEZypU"
+    ],
+    "reviews": [
+      {
+        "user": "이경상",
+        "text": "정말 잘 쓰고 있고 이만한 어플 없습니다. 하지만 이번에보니 얼마전 업데이트부터 주식을 BUY하는 것만 기록가능하지 SELL 하는건 버튼이 없어요. 무조건 ADD만 됩니다. 수량에 -를 붙일 수도 없어요. 아래 다른분이 같은 내용으로 올렸는데 문제 없다고만 답변하는거 같네요. 수정 필요합니다.",
+        "rating": 4
+      },
+      {
+        "user": "쵸코아빠",
+        "text": "good design 03.24.2021 이번에 추가된 기능 너무 좋습니다 (포트폴리오에서 한 종목이 여러 계좌에 있을 때 전체 평균매입가격과 성과를 보여주는) 그런데 평균매입가격 계산은 오류가 좀 있는 듯 하네요 Amazon을 1675불에 5/1710불에 10/2990불에 5/2997.5불에 2개.. 총 22개를 4개의 계좌에 나누어 놓았는데 계산해 보면 평균매입가격은 2110불이어야 하는데 23xx불로 나옵니다 확인 부탁드려요~",
+        "rating": 5
+      },
+      {
+        "user": "최민호",
+        "text": "주식 관련 많은 정보를 제공하는 것은 장점입니다. 개선되기를 바라는 점은 주식 리스트에 오르고 내린 금액과 %가 함께 표기되었으면 합니다. 지금은 숫자를 클릭하면 반전되는데 한눈에 보이지 않아 가독성이 떨어집니다.",
+        "rating": 4
+      },
+      {
+        "user": "남상원",
+        "text": "지금까지 아주 유용하게 사용했는데, 얼마전부터 모든 종목, 지수들이 하나도 안 뜨고 선택해서 들어가야만 확인할 수 있네요. 왜이런건가요. ==> 라는 질문에 업데이트 하라고 매우 빠르게 대응해줬습니다. 야후의 고객관리가 놀랍습니다.",
+        "rating": 5
+      },
+      {
+        "user": "SW J",
+        "text": "잘 쓰고 있는데, 위젯이 자주 멈춰요. 위젯을 여러개 세팅할 수 있는 게 장점이라 사용 중이지만, 멈출때마다 위젯을 삭제하고 다시 세팅 해야 해서, 그 점이 좀 불편하네요.",
+        "rating": 4
+      },
+      {
+        "user": "송원호",
+        "text": "개인적으로 제일 유용하고 직관적인 앱이라고 생각합니다. 너무 잘 쓰고 있어요.",
+        "rating": 5
+      },
+      {
+        "user": "김영덕",
+        "text": "안녕하세여^^ 한글로 설정을 하고싶은데 방법을 몰라서 글을 올려봅니다",
+        "rating": 4
+      },
+      {
+        "user": "JUNG EUN HO",
+        "text": "실시간 시세를 깔끔하게 제공해줘서 항상 감사하게 사용하고 있습니다. 다만 어닝 발표 일정이 당일로부터 2주 뒤까지 안내됐었는데 업데이트 후 과거를 포함하며 그 주 발표치가 뜨더군요.. 그래서 새로운 기능을 제안하고자 합니다. 기업 어닝 발표목록을 달력으로 만들어서 한달 뒤(혹은 그 이후)까지 볼 수 있는 기능을 만들어주실 수 있나요? 업데이트 전 Earning reports 기능을 너무 편하게 잘 썼던 터라 아쉬워서 글을 남깁니다.",
+        "rating": 5
+      },
+      {
+        "user": "Sungwoo Chung",
+        "text": "너무 잘쓰고 있는데 보유주식을 매도후 앱에서 제거하려해도, 매수 시 추가기능만 있어요. 예전에는 차감할수도 있었는데요.. 확인 부탁드립니다",
+        "rating": 5
+      },
+      {
+        "user": "2 1",
+        "text": "실시간 주가도 보여주고, 만족스럽게 잘쓰고 있음. 전일꺼보다가 당일 장시작되면 그래프 업뎃이 안되서 메모리 날리고 다시켜야 하는거만 고쳐지면 금상첨화일거 같다.",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "26.12.1",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Yahoo Finance' 검색",
       "설치 버튼을 눌러 다운로드",
       "앱 실행 후 안내에 따라 이용 시작"
     ],

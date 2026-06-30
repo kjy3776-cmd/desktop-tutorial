@@ -852,13 +852,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Yahoo Finance",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 153,
+    "total": 154,
     "skipped": 94,
-    "has_issues": 59,
-    "total_issues": 87,
+    "has_issues": 60,
+    "total_issues": 88,
     "fixed": 7
   }
 }
