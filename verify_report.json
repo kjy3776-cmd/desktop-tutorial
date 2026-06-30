@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "results": [
     {
       "name": "카카오톡",
@@ -841,11 +841,16 @@
       "name": "Code Busters: Word Puzzle Game",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "빅크 - 더쇼 투표와 최애 라이브까지",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 151,
-    "skipped": 93,
+    "total": 152,
+    "skipped": 94,
     "has_issues": 58,
     "total_issues": 86,
     "fixed": 7

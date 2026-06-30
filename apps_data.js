@@ -11342,5 +11342,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 154,
+    "name": "빅크 - 더쇼 투표와 최애 라이브까지",
+    "slug": "빅크-더쇼-투표와-최애-라이브까지",
+    "cat": "entertainment",
+    "icon": "https://play-lh.googleusercontent.com/GSOfW33mF4aWA7GuZI46_Lkei5Xrf1a2LRo9L5CTpmUjuW8TX9FxNSlrjEP5SvGOX1wm37VTd_J8FL0p6537",
+    "developer": "(주)빅크",
+    "desc": "빅크(BIGC) : 최애 아티스트와의 특별한 만남\r \r 공간과 언어의 장벽을 넘어, 전 세계 K-POP & K-Culture 팬들과 아티스트가 가장 가깝게 연결됩니다.\r \r ‘더쇼(THE SHOW)’, ‘더케이팝(THE K-POP)’ 공식 방송 투표부터 라이브 스트리밍, 한정판 굿즈 쇼핑까지! \r \r 새로워진 빅크에서 언제 어디서나 최애 아티스트와 함께 특별한 순간을 경험하세요.\r \r **[빅크의 주요 혜택]**\r \r ▶ VOTE : '더쇼(THE SHOW)' & '더케이팝(THE K-POP)’ 공식 투표\r \r - 매주 열리는 음악",
+    "iosUrl": "https://apps.apple.com/kr/app/id1575835045",
+    "androidUrl": "https://play.google.com/store/apps/details?id=im.bigc.lively",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/SoE2VEFP5IpR4hk0_2MVMMDmFnW1lIhHwE0bxo9fhjRWqkOOdTJxRxF4DW9ad6q7ygsApvFqEFIcmoAvhOrZ2A",
+      "https://play-lh.googleusercontent.com/8HfYJGFuwsa2w9Xv4JcnnoERq_DR4CmMozw2OR8RgtKmCbTc3Wi8vo9QUNfON4RXbxHAofgJF2BJ57iWM2vkbg",
+      "https://play-lh.googleusercontent.com/t0QmgbD7c7qDbls9LpUA5Q-1nQ9OXOa6oKzhxujMHt0-6QkJ0sA9x1Npk9xORvzUbcJ6sg4ODF-FMDNLIShz"
+    ],
+    "reviews": [
+      {
+        "user": "선예서",
+        "text": "그냥 일을 안해요.. 에휴.. 문의넣어도 보지를 않네요. 티켓 다른 날짜로 자리잡고싶어서 새로 하려고 했거든요? 전날 저녁에 문의넣었는데 다음날 저녁 8시 티켓팅 1시간 전까지도 무통장입금 취소해달라는거 채팅을 안봐요. 1인2매 제한때문에 다 취소하고 새로 하려는건데.. 그럼 예매는 어쩌라는거죠? 고객센터 전화도 했는데 문의량 많다고 채팅으로 하랍니다. 짜증나서 지웁니다.",
+        "rating": 1
+      },
+      {
+        "user": "신짱구",
+        "text": "아니 광고를 다 봤는데 왜 카운트가 안되죠? 못해도 10개 넘는 광고를 봤는데 카운트가 안되서 짜증이 나네요 광고가 안나와서 또는 다 안봐서 그런거면 이해는 하겠지만 다 봤는데도 이러내요?",
+        "rating": 1
+      },
+      {
+        "user": "베이",
+        "text": "아니 광고 오류 이리 많은 어플은 또 처음; 투표하자고요 광고 본다니까 왜 제공을 안 한다는거임?",
+        "rating": 1
+      },
+      {
+        "user": "김민성",
+        "text": "광고 봤는데 광고시청횟수도 젬도 안 올라감",
+        "rating": 3
+      },
+      {
+        "user": "ohmygodblessyou",
+        "text": "다른 비슷비슷한 앱들이랑은 확실히 차별적인 것 같습니다. 디자인도 예쁘고, 기능도 정말 다양하네요. 덕질하기 딱 좋은 것 같아요 ㅎㅎㅎ 앞으로 많은 크리에이터와 콘텐츠 기대하겠습니다~!",
+        "rating": 5
+      },
+      {
+        "user": "Huibae Kim",
+        "text": "광고 입출력도 똑바로 안되는 주제에 기껏 입력되도 꼴랑 3개 주면서 투표할 땐 400개가 한 표 이게 맙아요? 양심돌아가심??",
+        "rating": 1
+      },
+      {
+        "user": "sj Yun",
+        "text": "최악의 앱. 무조건 유료투표 하게 만드는 이런 앱은 사라져야함",
+        "rating": 1
+      },
+      {
+        "user": "김정민",
+        "text": "좋아하는 가수 콘서트 못가서 라이브 보려고 다운받았는데 화질도 좋고 딜레이도 없고 좋았습니다. 다른 가수들 페이지 보니깐 다시보기 도 있는거 같은데 빨리 업로드 됐으면 좋겠습니다.",
+        "rating": 5
+      },
+      {
+        "user": "정현진",
+        "text": "저희 언니를 통해서 이슬아 작가님의 작품을 처음 접하게 되었는데 이런 식으로도 소통을할수있다는게 신기하네요ㅎㅎ 빅크를 통해서 몰랐던 다른 크리에이터 분들도 알게되었어요. 관심있는 컨텐츠가 올라오면 종종 이용할게요:)",
+        "rating": 5
+      },
+      {
+        "user": "이승렬",
+        "text": "팬미팅을 핸드폰으로 하는데 심지어 가수가 저희 온라인으로 보고 있는 것도 아시나봐요! 막 온라인 참여자 여러분하시면서 인사하는 거보고 진짜 색달랐어요. 글로벌 자막도 정확도가 엄청 높더라구요",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.0.120",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '빅크 - 더쇼 투표와 최애 라이브까지' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
