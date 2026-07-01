@@ -20,6 +20,7 @@
     "Cambridge English Dictionary",
     "Cardiora: Blood Pressure",
     "Castle Busters",
+    "Chaos Drink Sort: Water Puzzle",
     "Charichari - Bike Share",
     "Claude by Anthropic",
     "Code Busters: Word Puzzle Game",
@@ -286,7 +287,7 @@
     "홈 트레이닝 - 기구가 필요 없습니다",
     "홈&쇼핑"
   ],
-  "last_run": "2026-06-30",
+  "last_run": "2026-07-01",
   "next_id": 0,
   "today_count": {
     "2026-05-26": 2,
@@ -324,6 +325,7 @@
     "2026-06-27": 5,
     "2026-06-28": 4,
     "2026-06-29": 2,
-    "2026-06-30": 4
+    "2026-06-30": 4,
+    "2026-07-01": 1
   }
 }

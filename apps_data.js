@@ -11690,5 +11690,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": "web"
+  },
+  {
+    "id": 158,
+    "name": "Chaos Drink Sort: Water Puzzle",
+    "slug": "chaos-drink-sort-water-puzzle",
+    "cat": "game",
+    "icon": "https://play-lh.googleusercontent.com/Bbd0rDGdWuCrM_nne-J20KxPwBi286653jcVYccd7ygVpnJMX0P4nOmeywiY1yiVfxS37T2tXtKRqfGhCBPJ5w",
+    "developer": "IEC Holding L.L.C-FZ",
+    "desc": "축구 시즌 최고의 순간, 상쾌한 색깔 분류 퍼즐 모험을 즐길 준비가 되셨나요? - 카오스 드링크 소트: 워터 퍼즐을 플레이해 보세요!\r \r 카오스 드링크 소트: 워터 컬러 퍼즐에 오신 것을 환영합니다. 클래식 분류 퍼즐에 신선한 재미를 더했습니다. 다채로운 음료를 따르고, 기발한 과제를 해결하며, 병이 상자로 변하는 모습을 지켜보세요. 혼돈을 질서로 바꿔보세요. 시작은 간단하지만, 마스터하면 놀라운 재미를 느낄 수 있습니다.\r \r 다채로운 음료, 시원한 음료 따르기, 그리고 기발한 과제가 어우러진 퍼즐 게임의 세계에 빠져보세요. 여",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.chaos.drink.sort",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/-bFXkOVGFBG4QkmWgIoOTRqKRMn4dJjN78YtQJTE60vqKA_q0HC8pRmwIhWKU2o08L5vTa2SpEK7_01oVe7FwQ",
+      "https://play-lh.googleusercontent.com/BnrU63z3UbXo9adaztNnla44MZna4-72Y1T1vVqptqKOG9WKEIUxeeqhp7jPyfBT163OBQAOTVvnQg_Ih2bn",
+      "https://play-lh.googleusercontent.com/rM8UULShImbgjBuYiiyAl5wbfy_8LCc6JexmfUtyBy2B7iagf7AnKdpqo4SEeODlVBqLJe5oOPYnSNg1C2f1ESI"
+    ],
+    "reviews": [
+      {
+        "user": "Jed Yoo (잿더미)",
+        "text": "불합리한 게임임. 하드난이도마다 죄다 색 가려놓고 빈병을 하나도 안주는데 논리 실력이 아니라 운에 기대야함. 결국 광고봐서 빈병 해금해야 깰 수 있게 해놓음. 색을 다 가려놓은만큼 못풀게 꼬아놓은 다크패턴도 의심됨. 광고 좀 있는건 이해하겠는데 불합리해서 그만둠",
+        "rating": 1
+      },
+      {
+        "user": "기지 티비(기지)",
+        "text": "이거 광고보기로 add tube가 안되네요,광고만 실컷보게해놓고 add tube가 안되요",
+        "rating": 1
+      },
+      {
+        "user": "김노래10월",
+        "text": "도중에 광고 없어서 좋와요!",
+        "rating": 5
+      },
+      {
+        "user": "Eunyoung Lee",
+        "text": "20레벨 지나니까 광고가 계속나와서 바로삭제",
+        "rating": 1
+      },
+      {
+        "user": "김하나",
+        "text": "광고제거 구매 했는데 광고제거가 안됩니다",
+        "rating": 1
+      },
+      {
+        "user": "박주환",
+        "text": "광고보라는게 너무많네요",
+        "rating": 1
+      },
+      {
+        "user": "엔젤마빈임당",
+        "text": "재밋어요 광고가 많아요",
+        "rating": 5
+      },
+      {
+        "user": "김지현",
+        "text": "광고 오지게 많음",
+        "rating": 1
+      },
+      {
+        "user": "강지인",
+        "text": "광고가 많아요",
+        "rating": 4
+      },
+      {
+        "user": "이태한",
+        "text": "광고 현질유도",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "3.11.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Chaos Drink Sort: Water Puzzle' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

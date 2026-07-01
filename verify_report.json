@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "results": [
     {
       "name": "카카오톡",
@@ -863,13 +863,19 @@
       "name": "마이크로소프트 팀즈",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Chaos Drink Sort: Water Puzzle",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 155,
+    "total": 156,
     "skipped": 95,
-    "has_issues": 60,
-    "total_issues": 88,
+    "has_issues": 61,
+    "total_issues": 89,
     "fixed": 7
   }
 }
