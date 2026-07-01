@@ -12125,5 +12125,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 163,
+    "name": "CampusLearn - AI Companion",
+    "slug": "campuslearn-ai-companion",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/ebm3lqGdB3P07u5tggedQOq-8E6yAeO00e5z2gZbZ1zuSjOB2Ebqaz3bmU4XmyOmDmNsItHfbQopn3HPgd6j4g",
+    "developer": "Sizzle AI",
+    "desc": "무엇이든 위한 맞춤형 학습 – 학습 전문가가 설계하고 AI가 지원합니다.\r 기말고사를 준비하든, 숙제에 막혔든, 아니면 그냥 재미로 새로운 주제를 탐구하든, CampusLearn은 더 빠르고 효과적으로 학습하고 더 오래 기억할 수 있도록 도와줍니다. 학습하고 싶은 내용을 입력하거나 메모, 문서, 동영상을 업로드하면 CampusLearn이 나만을 위한 맞춤형 단계별 연습 문제를 만들어 줍니다.\r \r 레벨이 올라갈수록 난이도가 높아져, 단순히 추측하는 것이 아니라 진정한 이해를 쌓을 수 있도록 도와줍니다.\r \r CampusLearn의 ",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=ai.szl.mobileapp",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/UhGysuOeqSzdSHZQGUznyYPdZq_swyj9jJqSnT_IQJQxyw_hL1-SGNh-OwFpXwG45a9ZYOwoNCnsPC2vkb5u",
+      "https://play-lh.googleusercontent.com/wudH4b1NFvbuf1YcYbcE0LjTmJibXWVwzeFPz5Hmhsmrh5TOmpwJyDpEhxSE5G-QFIK0OXfmkMyK0ETDjerO",
+      "https://play-lh.googleusercontent.com/TXwIWEL6PnMrzmyUkZHEoVMlxST8gmO1G8CAVG8-Pcfo4Qsa_V4cdwQEh899D1D5s7sAAnaqDkIH-UFFYE6ADw"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.0.76",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'CampusLearn - AI Companion' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
