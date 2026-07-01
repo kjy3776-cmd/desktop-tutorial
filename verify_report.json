@@ -884,11 +884,16 @@
       "name": "해피 파킹 - 스마트 방문 차량 예약 앱",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "랭플릭스 - 영어공부, 영어회화, 영단어, 단어장",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 159,
-    "skipped": 98,
+    "total": 160,
+    "skipped": 99,
     "has_issues": 61,
     "total_issues": 89,
     "fixed": 7
