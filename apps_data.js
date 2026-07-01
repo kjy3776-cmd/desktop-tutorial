@@ -11864,5 +11864,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 160,
+    "name": "TrackFollows - 인스타 언팔 확인",
+    "slug": "trackfollows-인스타-언팔-확인",
+    "cat": "sns",
+    "icon": "https://play-lh.googleusercontent.com/k0ANGx0UcLnZLc8weG0kbwgKBvd9BrOzB3ZcFFxuQarHSc6l7rV94XCqPymk61OwTFru359thhzZ_Y1NEoKtEQ",
+    "developer": "Hyeonjoong Kim",
+    "desc": "📱 TrackFollows: 인스타그램 언팔 확인 앱\r \r 🔐 로그인 없이, 100% 무료로 안전하게 확인하세요!\r  \r ---\r 🧩 주요 기능\r • 언팔로워 확인 – 나만 팔로우 중인 계정\r • 맞팔 분석 – 서로 팔로우 중인 계정 정리\r • 팬 목록 – 나를 팔로우하지만, 내가 팔로우하지 않는 계정\r • 팔로우 시작일 추적 – 관계 시작 시점 확인 \r \r  ---\r \r 🛡 안전한 분석\r • 로그인 / 계정 정보 불필요\r • 모든 분석은 기기 내에서 처리\r • 서버 저장 없음, 철저한 개인정보 보호\r \r \r ⚠ 참고\r • 이 앱은",
+    "iosUrl": "https://apps.apple.com/kr/app/id6747464895",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.hyjoong.trackfollows",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/v4vBo2run3qgdG9K0GdEFnsesSljc71_qpyjebJjBU1sRDOB6IBlOEpgzVuRHtvQVLMfQuhg4zFp1AjV3rtvqA",
+      "https://play-lh.googleusercontent.com/rPvgkmO32k6zqHTnHvsL6HqiOLakGULvhwI22kptffPKwC8TYWq3dD3nbcNB_cj-md2r-8dGfLGjcnK-nTqN",
+      "https://play-lh.googleusercontent.com/RBL40DdVUutRGchGNFA9E3i2sApAdmRKrS2spDtm-GJnq6KdU2EQxTn1JSzIcyGbRUiKOEJhUq78R6hfia46IEk"
+    ],
+    "reviews": [
+      {
+        "user": "은석원",
+        "text": "인스타그램 언팔 확인 앱 쓰면서 항상 찜찜했던 게 바로 '로그인'이었거든요. 비번 입력하고 나면 나중에 꼭 해킹 시도 알림 떠서 스트레스받았는데, 이 앱은 아예 로그인을 안 해도 돼서 너무 혁신적이에요. 인스타 설정에서 내 정보(JSON) 다운로드받아서 업로드만 하면 바로 분석해 주니까 개인정보 유출 걱정이 0입니다. 맞팔 안 한 사람 리스트랑 언제 언팔했는지 날짜까지 깔끔하게 파이차트로 보여줘서 한눈에 들어와요. 안전하게 내 팔로워 관리하고 싶은 분들께 강력 추천합니다!",
+        "rating": 5
+      },
+      {
+        "user": "정하영",
+        "text": "확인할 점이 있어서 이용해봤는데 엑셀로 따로 추출해서 수식넣고 비교하고 할 필요없이 zip파일 넣기만 하면 1초만에 결과 나오게 개발해주셔서 편합니다 ! 아이디 비번 입력할 일도 없습니다. 개발해주신 덕분에 잘 사용했습니다.",
+        "rating": 5
+      },
+      {
+        "user": "김신후",
+        "text": "매번 인스타 팔로워수 줄때마다 누가 끊었는지 쉽게 알기도 어렵고 다른것들은 로그인해야 추적가능하대서 살짝 꺼려졌는데 로그인없이도 가능하다니 딱 제가 찾던거에요",
+        "rating": 5
+      },
+      {
+        "user": "gamsgo",
+        "text": "인스타 언팔 바로 추적이 가능하다니 너무 편합니다. 누가 끊었는지 추적할 필요 없이 쉽게 확인할 수 있어 실용적이에요 추천합니다!",
+        "rating": 5
+      },
+      {
+        "user": "구공탄알라뷰",
+        "text": "처음엔 너무 잘되고 좋았는데 어느 순간부터 팅기더니 이젠 아예 계속 팅기네요...zip파일 넣으면 바로 팅겨요 이거 어떻게 해야하는거죠? 껏다켜도 팅기고..도와주세요ㅠㅠ",
+        "rating": 3
+      },
+      {
+        "user": "정수아",
+        "text": "파일선택이 안됨 파일 누르면 계속 열리기만하고 선택이안됨",
+        "rating": 1
+      },
+      {
+        "user": "eric park",
+        "text": "팔로워 정리에 큰 도움이 되었어요ㅡ 인스타 오래 사용하다보니 불필요한 팔로워, 팔로잉 수만 늘어나고, 한번 정리도 할 겸 설치했습니다. 주기적으로 관리해보려고요~",
+        "rating": 5
+      },
+      {
+        "user": "구름",
+        "text": "편하게 팔로우 관리할수 있는 앱이내요! 첨엔 어려울줄 알았는데 순서대로 하니까 금방 되요!! 언제 팔로우하고 언팔했는지 알수 있어서 인스타 관리가 쉬워졌어요!!",
+        "rating": 5
+      },
+      {
+        "user": "JunHyung",
+        "text": "평소 인스타 사용하면서 이런 기능 있으면 좋겠다고 생각할때가 있었는데 실제로 찾아보니까 있네요! 가끔 확인해보기 위해 써보는데 사용하기 간편하게 잘 되어있어서 좋은 것 같아요!",
+        "rating": 5
+      },
+      {
+        "user": "HN S",
+        "text": "인스타에서 누가 나를 언팔로우했는지 궁금할 때가 많았어요. 일일이 확인하기는 너무 번거롭고 시간도 많이 걸렸거든요. 그러다가 이 앱을 사용해봤는데 정말 좋아요.",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.2.1",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'TrackFollows - 인스타 언팔 확인' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

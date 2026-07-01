@@ -874,11 +874,16 @@
       "name": "앙톡 - 앙큼하고 톡톡 튀는 친구와 채팅하자",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "TrackFollows - 인스타 언팔 확인",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 157,
-    "skipped": 96,
+    "total": 158,
+    "skipped": 97,
     "has_issues": 61,
     "total_issues": 89,
     "fixed": 7
