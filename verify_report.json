@@ -879,11 +879,16 @@
       "name": "TrackFollows - 인스타 언팔 확인",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "해피 파킹 - 스마트 방문 차량 예약 앱",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 158,
-    "skipped": 97,
+    "total": 159,
+    "skipped": 98,
     "has_issues": 61,
     "total_issues": 89,
     "fixed": 7
