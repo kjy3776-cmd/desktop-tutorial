@@ -901,11 +901,16 @@
       "name": "사커 슈퍼스타 - 축구",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "GTOPlaybook",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 162,
-    "skipped": 100,
+    "total": 163,
+    "skipped": 101,
     "has_issues": 62,
     "total_issues": 91,
     "fixed": 8

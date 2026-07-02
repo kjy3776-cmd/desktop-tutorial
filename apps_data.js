@@ -12248,5 +12248,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 165,
+    "name": "GTOPlaybook",
+    "slug": "gtoplaybook",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/6jTjxxFOEfgeDQLdE8PfzFhV3iRkNLqMO3YnicRcA4LJYrhbbQuQPNHOxynGBHY1xMm0heBIivRZo7Q5XhZ6Gw",
+    "developer": "KJiny",
+    "desc": "GTOPlaybook은 텍사스 홀덤 학습을 위한 GTO 차트 및 승률 계산기 앱입니다.\r 실전 플레이보다 학습과 분석에 집중할 수 있도록, 자주 사용하는 상황별 차트 확인과 핸드 승률 계산 기능을 제공합니다.\r \r 주요 기능\r \r GTO 차트 제공\r 포지션과 상황에 따라 프리플랍 기준 전략 차트를 확인할 수 있습니다. 어떤 핸드로 오픈, 콜, 3벳, 폴드해야 하는지 직관적으로 파악할 수 있습니다.\r \r 핸드 승률 계산기\r 내 핸드와 보드 상황을 기준으로 승률을 빠르게 확인할 수 있습니다. 다양한 상황을 비교하면서 의사결정에 필요한 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6761044736",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.jiny.gtoplaybook",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/IeB8qj-z2P_Tt9sqzWEWFm-U3LBxiiz9jwYL0csKKAO2mReFuVfhKrUwufMPmx7IxbfrE4UH_lRcTRjy9Dw16A",
+      "https://play-lh.googleusercontent.com/88qGrL1YhBDkcAMUoJ8L1kj7u_c4nMH1RTa4IWoyfVkiObjv7BvyuVg-whgY_buDvPcYh8OPPLJLKqsHKa90Xg",
+      "https://play-lh.googleusercontent.com/eYUQUyEmD2J4wg6wkSZqZ4dJbBRZgVoKK8Ay41jKG1gC8X0La58plr9byr8cXbCrr-6q6iu7YaZct7y1uvnP"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'GTOPlaybook' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
