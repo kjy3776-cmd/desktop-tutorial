@@ -402,6 +402,7 @@
     {
       "name": "Lifestyle FIT",
       "issues": [
+        "구글플레이 URL 불량: 접속 실패: ReadTimeout",
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
@@ -409,6 +410,7 @@
     {
       "name": "Snapchat",
       "issues": [
+        "구글플레이 URL 불량: 접속 실패: ReadTimeout",
         "iOS URL 불량: URL 없음"
       ]
     },
@@ -425,6 +427,7 @@
     {
       "name": "mObywatel",
       "issues": [
+        "구글플레이 URL 불량: 접속 실패: ReadTimeout",
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
@@ -486,6 +489,7 @@
     {
       "name": "Forest: 공부 집중 & 생산성 타이머",
       "issues": [
+        "구글플레이 URL 불량: 접속 실패: ReadTimeout",
         "iOS URL 불량: URL 없음"
       ]
     },
@@ -497,12 +501,14 @@
     {
       "name": "Pooking - 당구대",
       "issues": [
+        "구글플레이 URL 불량: 접속 실패: ReadTimeout",
         "iOS URL 불량: URL 없음"
       ]
     },
     {
       "name": "X",
       "issues": [
+        "구글플레이 URL 불량: 접속 실패: ReadTimeout",
         "iOS URL 불량: URL 없음"
       ]
     },
@@ -601,6 +607,7 @@
     {
       "name": "Freetour.com - travel app",
       "issues": [
+        "구글플레이 URL 불량: 접속 실패: ReadTimeout",
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
@@ -660,6 +667,7 @@
     {
       "name": "DoDay: To-Do List & Planner",
       "issues": [
+        "구글플레이 URL 불량: 접속 실패: ReadTimeout",
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
@@ -917,7 +925,7 @@
     "total": 164,
     "skipped": 102,
     "has_issues": 62,
-    "total_issues": 91,
-    "fixed": 8
+    "total_issues": 99,
+    "fixed": 12
   }
 }

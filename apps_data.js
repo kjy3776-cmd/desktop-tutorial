@@ -5341,7 +5341,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "13.95.0.44",
+      "ver": "14.13.0.45",
       "os": "-",
       "size": "-"
     },
@@ -6426,7 +6426,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "5.18.1",
+      "ver": "5.19.5",
       "os": "-",
       "size": "-"
     },
@@ -6690,7 +6690,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "11.97.1-release.0",
+      "ver": "12.4.1-release.0",
       "os": "-",
       "size": "-"
     },
