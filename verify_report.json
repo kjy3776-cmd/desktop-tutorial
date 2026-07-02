@@ -906,11 +906,16 @@
       "name": "GTOPlaybook",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "데이터 필요없는 게임 - 와이파이 필요없는 게임",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 163,
-    "skipped": 101,
+    "total": 164,
+    "skipped": 102,
     "has_issues": 62,
     "total_issues": 91,
     "fixed": 8
