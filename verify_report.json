@@ -917,13 +917,20 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "핑퐁 Pingpong",
+      "issues": [
+        "설명글 너무 짧음 (20자)",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 165,
+    "total": 166,
     "skipped": 102,
-    "has_issues": 63,
-    "total_issues": 92,
-    "fixed": 8
+    "has_issues": 64,
+    "total_issues": 94,
+    "fixed": 9
   }
 }

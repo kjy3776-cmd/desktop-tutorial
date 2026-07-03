@@ -12458,5 +12458,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 168,
+    "name": "핑퐁 Pingpong",
+    "slug": "핑퐁-pingpong",
+    "cat": "sns",
+    "icon": "https://play-lh.googleusercontent.com/6iPMqfLjRDyEeZ64qpySOONy2zLHjgcfB9XqaHBCeUxTVxnfKHR6c9PDBQlTyjphO6vx07DV7QiYTvl970o4",
+    "developer": "Hitit",
+    "desc": "재미를 위한 간단한 탁구 게임입니다.",
+    "iosUrl": "https://apps.apple.com/kr/app/id6761013824",
+    "androidUrl": "https://play.google.com/store/apps/details?id=hitit.games.pingpong",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/mo7t6lXzFdRklKaiahynf2L2tjLL6ifsGQmXV5QN2z67BNaXiQCZoPDhUXNQbveOK65MeOxscyA4hmxRTfg4",
+      "https://play-lh.googleusercontent.com/uAwcYFWgqXPCNXJsk1N1IBGmJg72RDxf89jWTp95yC4w6r63O_ZCSCrnN3-Zi5vOW7m1U60Od2aLgmYy31SgBQ",
+      "https://play-lh.googleusercontent.com/Szj9hmsjp_NrMc2i3TmnQnTzQBWR08Eb29ZUbsZAQZt-3TAPcncWtXkE5wJkB9XfJ5xCNuzMFXIQRUOewpmcqg"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2.2",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '핑퐁 Pingpong' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
