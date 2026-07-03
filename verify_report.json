@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "results": [
     {
       "name": "카카오톡",
@@ -911,13 +911,19 @@
       "name": "데이터 필요없는 게임 - 와이파이 필요없는 게임",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "꿈의 정원 (Gardenscapes)",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 164,
+    "total": 165,
     "skipped": 102,
-    "has_issues": 62,
-    "total_issues": 91,
+    "has_issues": 63,
+    "total_issues": 92,
     "fixed": 8
   }
 }
