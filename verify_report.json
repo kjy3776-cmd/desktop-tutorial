@@ -924,11 +924,16 @@
         "설명글 너무 짧음 (20자)",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "와이스 - 피규어ㆍTCGㆍ포켓몬카드ㆍ레고ㆍ스포츠카드",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 166,
-    "skipped": 102,
+    "total": 167,
+    "skipped": 103,
     "has_issues": 64,
     "total_issues": 94,
     "fixed": 9
