@@ -945,11 +945,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "I'm Miri 미리 - AI 라이프 코치",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 170,
-    "skipped": 105,
+    "total": 171,
+    "skipped": 106,
     "has_issues": 65,
     "total_issues": 95,
     "fixed": 9

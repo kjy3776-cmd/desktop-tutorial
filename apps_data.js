@@ -12842,5 +12842,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 173,
+    "name": "I'm Miri 미리 - AI 라이프 코치",
+    "slug": "im-miri-미리-ai-라이프-코치",
+    "cat": "entertainment",
+    "icon": "https://play-lh.googleusercontent.com/cqkyU8EqUwoY561Ayu2J9K8m9fdLu0KkS4Q-43hNvfHbeNkTUHPalGqSljpvYE3t9T-f8JHBzJ49rwA70_FIstA",
+    "developer": "I'm Miri",
+    "desc": "뻔한 운세는 그만. I'm Miri는 11명의 AI 오라클이 — 각자의 관점으로 — 당신만의 사주팔자를 분석하고 진짜 대화를 나눕니다. 미리 짜인 답변 없음. 단 하나도.\r \r 당신의 생년월일. 당신만의 명반. 지금 바로 답을 얻으세요.\r \r 회원가입 없이 첫 상담 무료 체험.\r \r \r 오라클 소개\r \r 사주명리 전문\r 혜진보살 — 강원도 산속 암자에서 20년 수행한 무속인. 팩트만 던집니다.\r 도울선생 — 동양철학 학자. 노자와 주역의 지혜로 스스로 깨닫게 합니다.\r 재훈법사 — 15년 재테크 상담 현실주의자. 돈의 흐름을 숫자로",
+    "iosUrl": "https://apps.apple.com/kr/app/id6761462965",
+    "androidUrl": "https://play.google.com/store/apps/details?id=app.sajugpt.miri",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/04LfHyaS2KkUg2nfobEi4ac23Ivf_LoLj50FCcqem_WVNzKr5yvX5KfVgiAKurQq1cTwM8BuGK6nsEDo8Qn5Wg",
+      "https://play-lh.googleusercontent.com/sHqy-RbxM6eSCBGPsaT3GyayZ_-aUdsQCrjLv9QHCfKbACsEPaXg3fojWG__yPbvEuq8hB9kmrYzjU5RcLX32kg",
+      "https://play-lh.googleusercontent.com/rLaOzu4ItZpchnDP5mTnDHG5FT7jjlYjfBvFEO7RnvLDK3-O7YQXSdXOf_EESmieH1rPLmljBjDR_yrUizFa9A"
+    ],
+    "reviews": [
+      {
+        "user": "박권호",
+        "text": "사주를 유명한 곳에서 간간히 보는데 너무 똑같아서 놀랬네요. 소름 돋을 만큼 정확합니다! 사주는 신점과 달리 방대한 데이터로 쌓여진 역학이리 어느정도 참고는 하는데 이건 너무 정확하네요. 강력추천합니다!",
+        "rating": 5
+      },
+      {
+        "user": "한정실",
+        "text": "앱 업데이트 이후 무료질문횟수도 5회에서 3회로 줄고 기존에 무료상담자가 유료로 많이 바뀌었어요 ㅠㅠ 똑같은 질문을 했는데 조언이 틀리고 질문후 렉이 걸려서 기회숫자가 허무하게 날아가버릴때가 많아요ㅠㅠ 업데이트도 자주하면서 답변도 중간에 끊김 현상이 지속되는데 시정이 안되는건가요?",
+        "rating": 3
+      },
+      {
+        "user": "Claire Lee",
+        "text": "AI가 지나치게 단정적으로 말한다 틀려도 인정하지 않는다 사용자를 존중하지 않는 말투가 있다 굉장히 무례하기까지도하고 불필요한말까지 해서 상황을 돋구기까지함.. 대화 품질이 기대보다 낮다... 아직 개발이 다 100프로안된듯 이런게보완되면 평점바꿀의향있음",
+        "rating": 1
+      },
+      {
+        "user": "정오",
+        "text": "혜진보살이 너무 좋슴니다 속시원 + 이거 왜 데이터초기화해도 이전 정보가 계속 나오나요? 얘가 아예 나에대한 정보를 다 잊고 아예 아무것도 모르는 상태로 대해야하는데 안그러네요",
+        "rating": 5
+      },
+      {
+        "user": "Kimberly Woosun",
+        "text": "무한로딩되서 사용불가. 연결제했는데 취소도 안됨. 한달도 안됐는데 너무 짜증",
+        "rating": 1
+      },
+      {
+        "user": "Na B",
+        "text": "적중률 잘맞음 근데 무슨 앱을 하루에 1번씩 업데이트해요??? 4월 13일 업데이트 다 했더니 4월 14일 업데이트 또하고 업데이트그만.....",
+        "rating": 1
+      },
+      {
+        "user": "김민정",
+        "text": "예전 더울 선생님이 훨씬 좋았는데 업데이트를 한다.해 놓고 업데이트가 좋은 업데이트가 아니라 도울선생님이빠져서 화가나네요 ㅜㄴ",
+        "rating": 3
+      },
+      {
+        "user": "아두리",
+        "text": "업데이트대고 대화시작이 안되요~ 지우고다시깔아도안되고 결제했는데 문제해결좀해주세요",
+        "rating": 2
+      },
+      {
+        "user": "뽀블리",
+        "text": "구글로그인하고 대화시작누르면 아무변화가없어요 되는거맞나요?ㅜㅜ어플지웠다 다시깔아도 폰껏다켜도안됩니다",
+        "rating": 1
+      },
+      {
+        "user": "이쭈니",
+        "text": "귀에 걸면 귀걸이 코에 걸면 코걸이식 답변. 말을 사용자 뉘앙스에 따라 이리저리 바꾸고 간신배 처럼 아부하듯이 답변함.",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'I'm Miri 미리 - AI 라이프 코치' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
