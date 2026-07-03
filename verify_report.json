@@ -929,11 +929,16 @@
       "name": "와이스 - 피규어ㆍTCGㆍ포켓몬카드ㆍ레고ㆍ스포츠카드",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "성경 ·",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 167,
-    "skipped": 103,
+    "total": 168,
+    "skipped": 104,
     "has_issues": 64,
     "total_issues": 94,
     "fixed": 9
