@@ -12755,5 +12755,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 172,
+    "name": "코딩/프로그래밍 배우기: Mimo",
+    "slug": "코딩프로그래밍-배우기-mimo",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/L6b68qSB3yeqDkTd9cmBvImYgPmn4bHujX75G-3mdXgeXi6ZAzaUPkKD-bvj3_HNOVpaRRymixZQ0-22xLra",
+    "developer": "Mimo: Learn to Code",
+    "desc": "Python, JavaScript, HTML, CSS, SQL 을 배우고 AI 기반의 최신 개발 방식을 익혀서, AI 시대에 필요한 진짜 개발자가 되어봐. Mimo 는 기초부터 시작해 AI 로 실제 프로젝트를 만드는 과정까지 너를 단계별로 도와주는 코딩 학습 앱이야. 실력도 쌓고, 포트폴리오도 만들고, 개발자로 성장하는 길을 지금 바로 시작해!\r \r Mimo 가 필요한 사람\r \r Mimo 는 개발자가 되고 싶은 너를 위한 앱이야. 단순한 튜토리얼이나 AI 트릭이 아니라, 실제로 쓸 수 있는 코딩 스킬을 배울 수 있어. 첫 번째 코드",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.getmimo",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/oK94A86SE3_vkv5NUb-hQ8FHOzpwypfTvDs6KcIqwf2for3l5Jvffh5oU0Hya4J_74_s6Q-8lQp_pfCLnv2i",
+      "https://play-lh.googleusercontent.com/43H4qEAwu0P8bIBbWEH_DkjvGXN42fap4qY1pdg4FFBj1HKk3knqe-pgybzww2QnAYIjANRUOf_S0E8cyHfhxg",
+      "https://play-lh.googleusercontent.com/fbKpn3t8vcJdI2tPMwFPl0mwcSEh_yYucVdO6YmiWa_pNfA3otD7PTnlSDy838iEaAd7FxjJhBkMtGKr4KOAKw"
+    ],
+    "reviews": [
+      {
+        "user": "최한윤",
+        "text": "learn은 안그런데 practice는 언젠가부터 점수가 안오르기 시작 했습니다. 오른줄 알고 있다가 강등도 당했고요, 연속학습 기록도 깨질 뻔 했네요. 어떤 규칙에 따른 합당한 결과라 하더라도 그 이유를 공지한걸 본적도 없고 볼곳도 없고 물어볼 곳도 없고 고객센터도 없고 있어도 어디 숨겼는지 알 수가 없네요",
+        "rating": 1
+      },
+      {
+        "user": "황원하",
+        "text": "비전공자가 기초부터 배우기에 최고인듯해요! 주입식으로 알려주는게 아니고 계속 선택하고 입력하는 식으로 넘어가니까 너무 재밌네요~~ 그리고 한글패치없이 설명이 다 영어로 나오는데 솔직히 이정도 영어도 해석 못하면 한국어로 코딩 배워도 이해 못할듯..ㅋㅋ 이만한 어플없어요 진짜~",
+        "rating": 5
+      },
+      {
+        "user": "JeongBeen Park",
+        "text": "다른 앱들과 비교분석해본 결과 얘가 가장 낫네요. (Python 기준) 개념을 간단히 알려준 뒤 해결하도록 하는 방식입니다. 다른 앱들은 프로그래밍 언어를 잘 다루는 분이 구성한다면, 이건 교육을 잘하는 분이 구성한다는 느낌이 드네요. 한국어 지원은 안돼지만 간단한 영어이고, 이해하기 쉽습니다. 다만 사용자가 스스로 해결하는 것은 많지 않고(이지선다(양자택일)나 간단한 주관식 입니다. 이러이러하게 되도록 코드를 통째로 써보라거나 하면 좋겠네요), 리더보드와 코인 등 조잡한 것들 때문에 불편하고 무거워진다는 점은 아쉽습니다.",
+        "rating": 5
+      },
+      {
+        "user": "이서아",
+        "text": "코딩에 대해 1도 모르는 생초보인 나도 쉽게 알아들을 수 있게 만들어놔서 지금 HTML 베이직부터 중급단계까지 벌써 5일만에 끝냈다. 근데 책으로 하는거랑 어플로 하는 걸 비교했을 때, 이 어플은 진짜 맛보기 형식으로 초보자용으로써 만든 느낌이랄까. 책의 목차부분에 나오는 내용들을 비교했을 때 빠진 부분들이 많았다. 그래도 난 돈내고라도 이어플을 하려고 한다. 책보다 쉬운건 진짜 인정. It's a good app for me to learn easily. Thanks to the developers. ^^! *grey -> gray , fix the spelling please.",
+        "rating": 5
+      },
+      {
+        "user": "ᄋᄋ",
+        "text": "제가 너무 사랑하고 좋아하는 앱입니다. 지루하기만 했던 코딩을 쉽고 재밌게 배울수 있습니다. 한국어 번역이 안된다는 분들께 소신발언 하나 하겠습니다, 여러분 코딩을 하려면 영어를 배워야 합니다. 예? 한국어 패치 기다리지 마시고 영어 공부좀 하십쇼 . 다시한번 개발자님께 감사인사를 드립니다.",
+        "rating": 5
+      },
+      {
+        "user": "푸름",
+        "text": "영어로 배우니까 오히려 더 쉽다고 느껴지는 게 많네요. 프로그래밍 자체가 영어권에서 왔고 국내 용어는 그걸 번역한 것이다 보니 원문으로 읽는 게 더 쉽고 재밌는 것 같습니다. 좋은 앱 만들어주셔서 감사합니다. 유료 결제로 잘 사용하고있습니다.",
+        "rating": 5
+      },
+      {
+        "user": "모롱",
+        "text": "엄청 좋아요! 좋은데.. 영어를 잘하는 분은 쉬워요.. 근데 영어를 좀 안하는? 분??께선 힘들것 같아요..ㅎㅎ 그리고.. 현질유도가 꽤 있어요.. 하지만! 그렇게 마 혀니을 해야 이 앱을 사용할 수 있다,, 까진 아닙니다..!! 확실히 코딩 쪽으로나아가고 싶으신 분들껜 추천드리는 앱입니다!",
+        "rating": 4
+      },
+      {
+        "user": "권효진",
+        "text": "코딩이 복잡하고 어렵다고 느끼는 진입장벽을 무너뜨린 앱. 지루하고 재미없을 것맘 깉던 코딩을 게임처럼 재밌게 즐기며 배울 수 있었다. 왠만하면 리뷰를 적지 않는데 오랜만에 이렇게 글을 남긴다. 영어를 잘하면 훨씬 더 잘 활용할 수 있고, 영어가 좀 부족해도 영어와 코딩을 동시에 공부할 수 있을 것 같다.",
+        "rating": 5
+      },
+      {
+        "user": "_탐정[u]님",
+        "text": "영어만 알면 코딩을 정말 쉽고 재밌게 배울 수 있는 최고의 방법. 정말 책도 읽고 인강도 들어봤지만 독학으로 기초 떼는데는 이게 최곱니다. 내부에 간단한 코드들을 같이 짜볼 수 있는 예제도 많아 좋아요! 영어 번역기 돌려가면서 쓰기엔 괜찮아 보이는 난이도에요 It's so easy and fun for the basics! I used books, youtube, and all sorts of things and this one is the best. Thanks for making this app!",
+        "rating": 5
+      },
+      {
+        "user": "쟵송",
+        "text": "사실 제대로 되있는 코딩 입문 앱이 없다보니 한국어 번역이 안되있어도 직접 번역하며 했는데 정말 도움되고 어떻게 코드를 짜는지 알 수 있었습니다... 무료체험이 끝나고 자동으로 결제가 되는데 1년 결제를 하려던건 아니였습니다... 환불 해 주실수 있나요?? It was automatically paid, and I accidentally paid away the money. Please refund...",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "9.18",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '코딩/프로그래밍 배우기: Mimo' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

@@ -939,13 +939,19 @@
       "name": "Massimo Dutti: 아웃핏 스토어",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "코딩/프로그래밍 배우기: Mimo",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 169,
+    "total": 170,
     "skipped": 105,
-    "has_issues": 64,
-    "total_issues": 94,
+    "has_issues": 65,
+    "total_issues": 95,
     "fixed": 9
   }
 }
