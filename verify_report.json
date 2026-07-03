@@ -934,11 +934,16 @@
       "name": "성경 ·",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Massimo Dutti: 아웃핏 스토어",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 168,
-    "skipped": 104,
+    "total": 169,
+    "skipped": 105,
     "has_issues": 64,
     "total_issues": 94,
     "fixed": 9
