@@ -961,13 +961,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Perplexity (퍼플렉시티) 무엇이든 물어보세요",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 173,
+    "total": 174,
     "skipped": 107,
-    "has_issues": 66,
-    "total_issues": 96,
+    "has_issues": 67,
+    "total_issues": 97,
     "fixed": 9
   }
 }
