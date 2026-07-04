@@ -13190,5 +13190,77 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 177,
+    "name": "우파루 가이드",
+    "slug": "우파루-가이드",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/pxT3x-9htfvHq4r8DEeEteePv-ME0b8ngb0PTZeXU1eHdOxn7aZ8EaFqz3V32ZZmL_fFffLYdG6XNwdOG67lfg",
+    "developer": "Jeanie Cho",
+    "desc": "우파루 가이드와 함께 우파루 오딧세이를 즐겨보세요!\r \r - 우파루 검색, 속성 별 필터, 조합법\r - 보유 우파루 기록 및 수집도 확인\r - 가상크로스 기능\r - 우파루 간 상성 확인\r - 경험치 계산기\r \r 위와 같이 여러 기능을 제공하고 있으며, 꾸준한 업데이트로 만나뵐 예정이니 많이 이용해주세요 ~\r ----\r 개발자 연락처 :\r 조예진 신수로 767\r B동 2607호\r 수지구, 용인시, 경기도 16827\r South Korea   ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6474457167",
+    "androidUrl": "https://play.google.com/store/apps/details?id=dev.jeanie.wooparoo",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/g2rEhOZd0_WZCU6wZjbFUQVfTBWH8Frn98cr1eW4iJ-dXyv1wYljEYPk81DRJI9uig94XCENDi5Y_jfvRNV_mrM",
+      "https://play-lh.googleusercontent.com/79GbkPUvteD_MBlNyXYGr5JHf6pRzvxUd3PsMGTXfd9zYxkim6_lFYJafL9RuJ4sRnZbZUxPd-yCF4-05jWuQ0k",
+      "https://play-lh.googleusercontent.com/lP9ThfmMISzDw2fwLWcSqiPVZSn0QSTFkXCyW6zZmQaZLbaTaWipEhEwAYukGHPZUZjag6mIQna7B3JYLD11iA"
+    ],
+    "reviews": [
+      {
+        "user": "루나믹",
+        "text": "안녕하세요. 우파루 정리표 시트 참고는 괜찮으나 소환석 사진은 가져가서 사용하지 말아주세요ㅠㅠ 제가 직접 하나하나 편집한 사진입니다...🥲 직접 편집한 사진으로 사용 부탁드립니다!",
+        "rating": 3
+      },
+      {
+        "user": "박서진",
+        "text": "너무 편하고 깔끔해서 좋아용! 근데 티더 소환석 모양이 잘못들어간것 같아요..!",
+        "rating": 5
+      },
+      {
+        "user": "심정윤",
+        "text": "다운로드할 가치도 없는 앱이네요 이벤트 끝난 우파루도 없는 앱을 왜 운영하세요",
+        "rating": 1
+      },
+      {
+        "user": "천효정",
+        "text": "이번 우파루 오딧세이에 매직 속성이 추가 되었는데, 매직 우파루 조합법 추가 부탁드립니다!",
+        "rating": 5
+      },
+      {
+        "user": "2 6",
+        "text": "최신 업데이트 없나요? 없으면 없다고 알려주세요",
+        "rating": 3
+      },
+      {
+        "user": "이성준",
+        "text": "요즘 업데이트 안해주나요? 기다리고 있어요",
+        "rating": 5
+      },
+      {
+        "user": "Tomo",
+        "text": "굿",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.5.6",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '우파루 가이드' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

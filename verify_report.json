@@ -967,11 +967,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "우파루 가이드",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 174,
-    "skipped": 107,
+    "total": 175,
+    "skipped": 108,
     "has_issues": 67,
     "total_issues": 97,
     "fixed": 9
