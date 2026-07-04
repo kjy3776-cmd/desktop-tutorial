@@ -13016,5 +13016,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 175,
+    "name": "Chase Mobile",
+    "slug": "chase-mobile",
+    "cat": "finance",
+    "icon": "https://play-lh.googleusercontent.com/bSFyXPG1BXKpq8uxZQBezTtiLFQjAAOJEgBovw9UQ8LxWbbK9n16oz7wvSkU2mLJvDcxodsQrKKYeT1qkYkJ",
+    "developer": "JPMorgan Chase",
+    "desc": "Chase Mobile® 앱으로 안전하게 뱅킹하세요. Zelle®로 송금 및 수표를 입금하고, 신용 점수를 확인하고, 예산을 관리하고, 수입과 지출을 추적하세요. J.P. Morgan Wealth Management를 통해 Wealth Plan으로 계획, 투자, 장기 목표 설정 및 추적을 하세요.\r \r 계좌 관리\r • 계좌 활동 내역 검토: 당좌예금, 저축예금, 신용카드, 주택, 자동차 및 사업 계좌\r • 수표 입금\r \r 결제: 편리한 결제 방법\r • Zelle®을 이용한 송금 및 수취\r • Chase 신용카드 및 기타 청구서 결제",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.chase.sig.android",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/WxeF-aHHB5oq7Eq3Z3OgQXiIDKtDwQt7XBA_AzXdeByyzcMl6iteNsPu76JocVba_rAQCzoPpK9Q1Eg_FycXdZ4",
+      "https://play-lh.googleusercontent.com/au9YfK2YTbw0RWuFVMRFb-jryGOaSm9u8tMPEBTQk7WhFv9Peho0JPqCmHB7yBwZh7LsSXNsU4LsQk2ygyBW2XE",
+      "https://play-lh.googleusercontent.com/Vggi2x0rT7S7fuzwOLkdOOmyH2fSZqg3hEqMPBf0i_PuoqoouQBoy7qM1og9H1MfiG9XH4XiFs0_pDM2W6oaf_0"
+    ],
+    "reviews": [
+      {
+        "user": "Julie Chung",
+        "text": "아주 잘 쓰고 있습니다. 코로나 전에는 check 입금할때 잘 안되서 블편했었는데 코로나이후에는 은행에 가는 사람보다는 모바일로 입금하는 사람들이 늘어서 개선한거 같네요. 그래서 요즘은 은행에 잘 안가고 모바일로 입금 잘하고 있습니다. 감사합니다. ^^",
+        "rating": 5
+      },
+      {
+        "user": "한혜진",
+        "text": "사용중에 재 로그인을 자주해야 합니다. 로그인 한번 하기 어려움",
+        "rating": 3
+      },
+      {
+        "user": "김현미",
+        "text": "로그인 하기 너무 어려윰 대기시간 너무 길어요 !!ㅠㅠ",
+        "rating": 1
+      },
+      {
+        "user": "Google 사용자",
+        "text": "Simple and easy. Thank you. 너무 간단명료한 앱. 감사해요~!",
+        "rating": 5
+      },
+      {
+        "user": "YJ Byun",
+        "text": "앱이 너무 자주 중지되어 켜지지 않는다..ㅠㅠ",
+        "rating": 1
+      },
+      {
+        "user": "Hyungsun Jung",
+        "text": "미국에 와서 처음으로 개설한 은행.너무 좋아요.근데 체이스은행에 근무하는 한국사람들은 불친절해요.특히154가에 근무하는 한국분들.사람봐가면서 일처리함.다른외국분들은 친절해요.",
+        "rating": 5
+      },
+      {
+        "user": "jinhee chung",
+        "text": "빠르고 간단해서 잘쓰고 있어요.",
+        "rating": 5
+      },
+      {
+        "user": "Seung T Oh",
+        "text": "사용하기에 좋음. 수고하세요 ^^",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "너무 편하고, 쉬운기능에 감사하다",
+        "rating": 5
+      },
+      {
+        "user": "연수",
+        "text": "한국어로 된건 없는게 답답하다 진짜.. 뭐가뭔지 모르겠고",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "4.762",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Chase Mobile' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

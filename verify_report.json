@@ -955,13 +955,19 @@
       "name": "피하새 - 음주단속 SNS, 내 주변 드라이브스루 매장",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Chase Mobile",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 172,
+    "total": 173,
     "skipped": 107,
-    "has_issues": 65,
-    "total_issues": 95,
+    "has_issues": 66,
+    "total_issues": 96,
     "fixed": 9
   }
 }
