@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "results": [
     {
       "name": "카카오톡",
@@ -950,11 +950,16 @@
       "name": "I'm Miri 미리 - AI 라이프 코치",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "피하새 - 음주단속 SNS, 내 주변 드라이브스루 매장",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 171,
-    "skipped": 106,
+    "total": 172,
+    "skipped": 107,
     "has_issues": 65,
     "total_issues": 95,
     "fixed": 9

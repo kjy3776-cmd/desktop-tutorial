@@ -12929,5 +12929,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 174,
+    "name": "피하새 - 음주단속 SNS, 내 주변 드라이브스루 매장",
+    "slug": "피하새-음주단속-sns-내-주변-드라이브스루-매장",
+    "cat": "sns",
+    "icon": "https://play-lh.googleusercontent.com/_jqDPitpC9_iDj-o4lPfgPe9yMAATHHSP7MrPQVeHkPZt3UJ0LeQEBJTlihmyKk6yo9jJt6stoT_h91IaC5t",
+    "developer": "피하새",
+    "desc": "1. 피하새는 사용자들이 직접 음주단속 및 교통 단속 지점을 공유하여 준법 운전을 하도록 유도하는 사용자 정보공유 서비스입니다.\r \r 피하새에서는 어떠한 단속 정보도 직접 제공하지 않으며 사용자들이 직접 등록하여 서로 공유 합니다.\r \r GPS가 활성화되어 있으면 반경 1Km 내에 단속 지점이 등록될 시 최대 1분 안에 푸시 알람을 발송합니다.\r \r 단속 지점은 정오에 초기화되어 매일매일 새로운 지점을 확인 할 수 있습니다.\r \r 2. 언택트 시대 운전자를 위한 편의 서비스\r \r (전국 드라이브스루 매장 길찾기 기능추가 - 내주변 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id1540197105",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.crackdown.driving",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/mYsiXReIAGKyeqj8pWZY9RsRDJjcz4x1owuF_dWTa-crMlC34aHxtXGnUUDJr4kz-1NzUFDUVgoeYPI9NFlevZ8",
+      "https://play-lh.googleusercontent.com/9zL1zGFi9DDOOKNqQGJ6e4RPpyEYPMGy1Cn-yo3_Cq411YnfaXmZIBcr51FDk8kYJg3TSzsUOLiseWXqvfkMxg",
+      "https://play-lh.googleusercontent.com/xgzqaTm4b7qR8iuR7edce5MvvAuKmZ7TnI5ORqI4sWF2MnxSI5dsX6GdW1_p6xB9kHsKiOF2wn06-FR4ywZOeac"
+    ],
+    "reviews": [
+      {
+        "user": "cassiella kim",
+        "text": "이건 그냥 드라이브스루 제공용인듯 애초에 사용자가 등록해야 알수있는 정보라는게 어이없음. 과거단속지점 빨간점으로 나온다는데 내가 본 지역은 등록도 안됨ㅋ 쓰잘데기 없는 마사지 홍보나 오지게 하고 1킬로이내 단속알림이든 실시간 단속 위치 제공이든 받아본적이 없음",
+        "rating": 1
+      },
+      {
+        "user": "Google 사용자",
+        "text": "쓰레기임.ㅋ 빨간점이 뭔지 설명도 없고 단속지점을 알려주는거 같은데 건물에도 표시되고 뭐가 그리도 많은지... 그리고 단속지점은 낮12시에 갱신된다라면 뭐 말 다한거죠. 정확하지도 않은데 24시간마다 갱신이라면",
+        "rating": 1
+      },
+      {
+        "user": "Google 사용자",
+        "text": "지도와 함께 지점등록밖에 없네요. 지점등록도 현 위치밖에 안되고, 등록 실패했다는 메시지창만 뜨고... 기존에 신호위반, 교차로, 안전띠등 메뉴얼이 없어져서 아쉽네요...",
+        "rating": 3
+      },
+      {
+        "user": "missionno9",
+        "text": "현재 위치만 등록된다는게 좀 그러네요~예를 들자면,조금 가까운 불과 약1분 가까이 현위치를 봤는데(지나가기도 함)... 미리 그지점(손가락으로 누르고 있을때)이 안된다는게 좀~ 바로 지워버렸네요~",
+        "rating": 1
+      },
+      {
+        "user": "라미",
+        "text": "정확한 정보도 아닌거 같고 사용 설명도 어렵고..별루네요 등록지점 잘못 눌렀는데 수정도 안됨 그냥 어플 삭제해요",
+        "rating": 1
+      },
+      {
+        "user": "Google 사용자",
+        "text": "위치하나 제대로 못잡는 앱이 도움이 되나요..? 지금 내앞에서 단속하는데 단속은 뜨지도 않고.. 내위치는 엄한 수유리에있네.. ㅋㅋ 반년전에 가본 수유리는 왜..? 난 테헤란로에 있는데..? ㅋㅋ 이건뭐 도움은 커녕 방해만 안되면 다행이네.. ㅋㅋ",
+        "rating": 1
+      },
+      {
+        "user": "안다온결",
+        "text": "음주단속하는곳에서 음주검사한후 정말 정확한지 확인할려고 1초후 바로 피하새 켜봄. 내개 단속당한 지점에서 음주하고잇다는거 안떳음 ㅋㅋㅋ구라임 이거 안맞음 ㅋ",
+        "rating": 1
+      },
+      {
+        "user": "Holic Mint",
+        "text": "덕분에 술마시고 운전 마음껏 할 수 있어서 좋았습니다! 앞으로 이런 어플 많이 만들어주새요 음주운전 해도 걱정이 없네요",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "멀쩡하던거 업댓한 뒤에 지점등록 밖에 안되고 삭제가 안되니 단속지점 숫자만 늘어나지..삭제가 답",
+        "rating": 1
+      },
+      {
+        "user": "남해촌넘76",
+        "text": "앱을 만들려면 잘 만들어야지 과거 단속 지점이 부산역 기차 선로 위로 나오네요 요즘은 기차 승무원들도 음주운전 단속 하는가 보네요 업데이트는 안하시나요 댓글 안 달려고해도 안달수가 없네요",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2.30",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '피하새 - 음주단속 SNS, 내 주변 드라이브스루 매장' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
