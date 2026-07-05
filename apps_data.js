@@ -13436,5 +13436,47 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 180,
+    "name": "Delta - Game Emulator",
+    "slug": "delta-game-emulator",
+    "cat": "entertainment",
+    "icon": "https://play-lh.googleusercontent.com/kNK2Jjdjg0rXaP6V9H_xABa0ylcBMQkULQwdwVJnxs2ek70KCK0mvpIsN0dRrP2n_qCxt_uAdiSLkazmpgY9SQ",
+    "developer": "HD game",
+    "desc": "에뮬레이터를 통해 Delta 게임의 황금 시대로 돌아가 보세요. 스마트폰을 복고풍 휴대용 콘솔로 바꿔 사랑받는 Game Boy 클래식의 보물창고를 잠금 해제하세요. 좋아하는 게임을 다시 방문하고 재현하면서 소중한 추억을 되살리면서 원활한 경험을 즐겨보세요.",
+    "iosUrl": "https://apps.apple.com/kr/app/id1048524688",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.hd.gba.psa.emulator",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/qMssbVA22Pczyp3RkGKxXtaGODWwMSvzc0fTFZUnOputQ0Yuhu4CF0nHxtBeC9DWswZuo-p3ZMaBur0LOdoFD8k",
+      "https://play-lh.googleusercontent.com/V_RMMmPcBZVxeHPsRN0qCwv3_7QoOesKvL4LDqfPzR1c27XrHuQgFHROmbITfVbyUg6gbX71tXrhvwSVA-pu",
+      "https://play-lh.googleusercontent.com/XpxeKC37lbgkd7Ntz9usoNzSxDXNJPwmlRTE48tDlXVs20_xWBF398by093Mjos9FpyrpbFUHiV7D9fErjyMSg"
+    ],
+    "reviews": [
+      {
+        "user": "강승구",
+        "text": "광고보는앱",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "0.230",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Delta - Game Emulator' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
