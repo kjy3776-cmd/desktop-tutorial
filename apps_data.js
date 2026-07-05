@@ -13262,5 +13262,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 178,
+    "name": "러닝라이프 - 러닝대회, 러닝크루, 대회평가, 러닝",
+    "slug": "러닝라이프-러닝대회-러닝크루-대회평가-러닝",
+    "cat": "health",
+    "icon": "https://play-lh.googleusercontent.com/kgDNqTXQQhi0fZihCJ67q0d_T_6NhcZkngDCJxqEhedeN2Qfaz0kLbArmLYrk6PbwR-1j2fwVu8l-8zCwt41",
+    "developer": "(주) 우리방식대로",
+    "desc": "1. 지금 인기있는 마라톤 대회를 한눈에\r 여기저기 흩어져 있는 전국 마라톤 대회 정보를 일일이 찾아다니지 마세요. 현재 가장 주목받는 인기 대회부터 지역별, 코스별 일정을 한곳에 모아 리스트와 캘린더로 정리해 드립니다. 나에게 딱 맞는 대회를 쉽고 빠르게 탐색하세요.\r \r 2. 대회 접수 알림부터 D-day 관리까지\r 기다리던 대회의 접수 시작일을 놓치지 않도록 미리 알려드립니다. 관심 있는 대회를 저장해두면 접수 마감 전 리마인드 알림을 받을 수 있으며, 접수 완료 후에는 홈 화면에서 자동으로 계산되는 D-day를 통해 실전까지",
+    "iosUrl": "https://apps.apple.com/kr/app/id6503121199",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.runninglife.hybridapps",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/SJge9kD-n2YAT_yRuIlH6MBTRzQZzONtUmYVzunDfwb7lrLQf221wHud7IupExCa_JyCtMUDx0OVuKEWxt59Vg",
+      "https://play-lh.googleusercontent.com/mDXuBLwhxoas0W8QJaQELS7lMG5Os83lchO7SLVERGYYbxmZACaVvQyV_TF22I1zGo5rxHGvZMwjplVXijGrHw",
+      "https://play-lh.googleusercontent.com/hnwvMZsXdWOttqqmKrk2J_tKHTt8UbpgxLce0fmHdoIbJor8-YnW_IbSqzAmeE_FEe7XDC6lMm9j5d0Dsyh_0Yc"
+    ],
+    "reviews": [
+      {
+        "user": "ig d",
+        "text": "너무 좋은데 네비게이션 바 설정에 따라 이용이 어려운 부분이 있어서 개선 요청드립니다. 네비게이션 바(하단바)를 쓸어서 이용하는 스와이프 방식이 아닌 버튼형을 이용하는 경우, 어플 하단의 홈, 대회일정, 트래커, 마이런 부분을 클릭할 수가 없어서 사용이 불가능합니다ㅠㅠ 다른건 다 너무 조항요!!",
+        "rating": 4
+      },
+      {
+        "user": "Soon GUNNY",
+        "text": "어플 너무 좋습니다. 앞으로 계속 사용해 보고 싶어요. 잠껀 1시간 만져 봤을때 문제가 몇개 보이는데 수정 될까요? 1. 사진 업로드가 안됨, 권한 허용 하고 클릭 해고 업로드가 안됨(사용기종 갤럭시 S23+) 2. 몇몇 대회 검색이 안됨. 트레일 러닝이라 그런지 5월에 열리는 TNF100 대회 검색이 안됨 그렇다면 직접 등록할수 있는 기능이 있음 좋겠음. 3. 러닝화 등록 기능이 없음",
+        "rating": 4
+      },
+      {
+        "user": "황재욱",
+        "text": "대회 정보 및 러닝 운동 기록 등으로 앱을 매우 잘 사용하고 있습니다 앞으로 유용하게 더 많이 사용하고 싶은데 아직 앱이 아쉬운 부분이 있어 부탁드립니다 삼성 헬스 앱의 운동 데이터를 나이 러닝 마일리지에서 동기회가 제대로 되지 않네요 수정이 되었으면 좋겠습니다 감사합니다^^",
+        "rating": 5
+      },
+      {
+        "user": "JS Music",
+        "text": "러닝 정보를 날짜별로 볼 수 있어서, 너무 좋아요. 한번에 정리된 어플이 필요했는데 잘 됐네요. 다만, 인증절차가 필요한 이유와 인증절차를 여러번 시도해서 겨우 인증되서 불편했습니다. 그리고, 취소된 러닝, 장소 변경 러닝, 출발 시간 잘못 기입한 러닝들이 있는데, 아직까지는 반영이 잘 안되고 있어서 이 부분을 주기적으로 업데이트 해주면 좋을거 같습니다. 앱 관리 잘 해주면 좋을거 같습니다~",
+        "rating": 3
+      },
+      {
+        "user": "주누",
+        "text": "어플 자체는 좋은데 안드로이드폰에서 뒤로가기버튼을 누르면 전 페이지로 가는게 아니라 아예 어플이 나가지네요. 이점이 좀 불편해요. 그리고 대회 요청 여러번 시도했는데 계속 안됩니다 ㅠㅠ",
+        "rating": 3
+      },
+      {
+        "user": "손은표",
+        "text": "처음에 이름을 적을때 이름을 적고 완료를 누르면 네트워크 오류라고 뜹니다 네트워크는 아무리 봐도 완벽했어요 그래서 와이파이를 끄고 데이터로 해봤지만 그래도 네트워크 오류라고 떠요 ㅠㅠ 참고로 데이터도 충분했습니다 앱을 나갔다가 들어와도 해결이 되지 않습니다 10글자 제한이 있었는데 4글자로 했구요 😢 해결할 방법이 있을까요??",
+        "rating": 5
+      },
+      {
+        "user": "KHAKC",
+        "text": "테스트용인가요? 기록증사진도 등록 안되고, 연동도 안되고, 리뷰에 온통 안된다는 리뷰만 있네요. 삭제합니다.",
+        "rating": 1
+      },
+      {
+        "user": "박형우",
+        "text": "아래 메뉴버튼과 스마트폰네이게이션바와 겹쳐져서 사용이 어럽네요",
+        "rating": 3
+      },
+      {
+        "user": "Shane Kim",
+        "text": "좋은앱 만들어주셔감삽니다. 하지만 스크롤이 안되 모서리 사이드로 겨우겨우 스크롤되는경우가 있는데 좀 검증후 개선 부탁드립니다",
+        "rating": 1
+      },
+      {
+        "user": "유병욱",
+        "text": "z플립5 하단 홈/뒤로가기 버튼이 앱하단부분을 가려서 사용할수가 없습니다",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "4.6.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '러닝라이프 - 러닝대회, 러닝크루, 대회평가, 러닝' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

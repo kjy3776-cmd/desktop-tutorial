@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "results": [
     {
       "name": "카카오톡",
@@ -972,11 +972,16 @@
       "name": "우파루 가이드",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "러닝라이프 - 러닝대회, 러닝크루, 대회평가, 러닝",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 175,
-    "skipped": 108,
+    "total": 176,
+    "skipped": 109,
     "has_issues": 67,
     "total_issues": 97,
     "fixed": 9
