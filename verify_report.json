@@ -977,11 +977,16 @@
       "name": "러닝라이프 - 러닝대회, 러닝크루, 대회평가, 러닝",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "스마트피싱보호-보이스피싱 의심번호 수신 시 발신자 번호",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 176,
-    "skipped": 109,
+    "total": 177,
+    "skipped": 110,
     "has_issues": 67,
     "total_issues": 97,
     "fixed": 9
