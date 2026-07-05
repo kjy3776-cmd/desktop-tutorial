@@ -997,11 +997,16 @@
       "name": "GammaAI - 프레젠테이션 제작 도구",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "해커스토익 - TOEIC",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 180,
-    "skipped": 113,
+    "total": 181,
+    "skipped": 114,
     "has_issues": 67,
     "total_issues": 97,
     "fixed": 9
