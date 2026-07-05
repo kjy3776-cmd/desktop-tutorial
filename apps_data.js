@@ -13478,5 +13478,47 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 181,
+    "name": "Pokefolio - TCG Card Scanner",
+    "slug": "pokefolio-tcg-card-scanner",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/uYvcBdOe4J64wo71idbQKrVu21N5PTbREDG0zxNXNcEWzArxTFciBOXeGRObZjOJ64YM_KCwsclj1CTWW98Yow",
+    "developer": "Shiny Cardboard LLC",
+    "desc": "100만 명이 넘는 포켓몬 카드 및 TCG 수집가들이 Shiny를 통해 트레이딩 카드를 식별하고 컬렉션을 관리하고 있습니다. 카드를 스캔하여 TCGPlayer와 eBay의 거래 내역을 기반으로 실시간으로 시장 가치를 확인하세요. Shiny는 전 세계 카드 수집가들을 위한 가장 빠르고 정확한 카드 스캐너 앱으로, 여러분의 카드 컬렉션을 디지털 포트폴리오로 만들어 줍니다.\r \r • 정확한 카드 스캐너 - 업계 최고 수준의 빠른 트레이딩 카드 인식 기술과 무제한 스캔 기능을 활용하세요.\r \r • 카드 가치 확인 - 수백만 장의 트레이딩 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6746367159",
+    "androidUrl": "https://play.google.com/store/apps/details?id=io.getshiny.shiny",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/0KfgqbREmgaXeV_zD_v7awTZv9sHWtRij32mhF544V2DlUu4m9NQqJZBFosgUqCtw3O3m-9YVNhjdjtFHceo",
+      "https://play-lh.googleusercontent.com/RbJy0oLDCvHuPQWQKM46v5vC6c0b6DQcglywlV3MkX7JbBOR00T9Imwgz2HyZx6Rdx4jeL6wd3PypAyUBz-Dfw",
+      "https://play-lh.googleusercontent.com/XDbKaMAxhCAvfXk2dve4B1MrjSus9Z9mSkU9DneADDigW5WPXleRrsN05Iy4BppMYP8g2Ev_JHmxNYjboSCunco"
+    ],
+    "reviews": [
+      {
+        "user": "Jin Kim",
+        "text": "It's one of my favourite tcg collector apps. Just one request. Please be able to leave a memo on each card in the collection",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.19.8",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Pokefolio - TCG Card Scanner' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

@@ -987,11 +987,16 @@
       "name": "Delta - Game Emulator",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Pokefolio - TCG Card Scanner",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 178,
-    "skipped": 111,
+    "total": 179,
+    "skipped": 112,
     "has_issues": 67,
     "total_issues": 97,
     "fixed": 9
