@@ -992,11 +992,16 @@
       "name": "Pokefolio - TCG Card Scanner",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "GammaAI - 프레젠테이션 제작 도구",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 179,
-    "skipped": 112,
+    "total": 180,
+    "skipped": 113,
     "has_issues": 67,
     "total_issues": 97,
     "fixed": 9

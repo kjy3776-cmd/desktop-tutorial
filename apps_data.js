@@ -13520,5 +13520,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 182,
+    "name": "GammaAI - 프레젠테이션 제작 도구",
+    "slug": "gammaai-프레젠테이션-제작-도구",
+    "cat": "productivity",
+    "icon": "https://play-lh.googleusercontent.com/dDR5oNCdzzRpUprsC_WdWD_ysllI2OMgx81CUfYbMg54KdIN4BWOPODPu1FsN46WRuEwRertDSRH-c7oB9-C",
+    "developer": "Cangxiong Tech",
+    "desc": "Gamma AI(Gamma PPT Maker) – 단 몇 분 만에 슬라이드 제작\r 아이디어를 세련된 프레젠테이션으로 빠르고 간편하게 구현하세요.\r \r Gamma AI의 주요 기능:\r - 어떤 주제든 단 몇 분 만에 완벽한 프레젠테이션 생성\r - AI 기반 슬라이드 디자인 (비즈니스, 미니멀, 미래지향적, 예술적 등 다양한 최신 스타일 제공)\r - 모든 사용자 수준에 맞춘 깔끔하고 직관적인 인터페이스\r \r 추천 대상:\r 학생, 전문가, 마케터, 교육자, 고품질 프레젠테이션이 필요하지만 슬라이드 디자인에 많은 시간을 들이고 싶지 않은 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6755874764",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.cangxiong.ai.gamma",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/YIcDjFV1yjKLjRj9UyePLwChxV966eI0p4jIeV-RODRbd2qhkeArdtydnIrPNUJttaPRDPDMoMbmbCJOpy1l",
+      "https://play-lh.googleusercontent.com/rmMT3zF7c4hImMtjYC4cnEiClGMJwB4Zm4CVr4ZoWfVr0LWf_bgQ1MGSj-awsFkJRyIePnFQhuuW9W86VWqPJUo",
+      "https://play-lh.googleusercontent.com/hxj_jG9uul_zAALKiJc3sxY9zg71WHRJGuG8bxiBBGNCXy0mQcTPZF6qEkJKsopDOHYKwOYp-mCJOknsR_HnuQ"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.0.3",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'GammaAI - 프레젠테이션 제작 도구' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
