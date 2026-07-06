@@ -13730,5 +13730,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 185,
+    "name": "Buz TV - Watch Your Media",
+    "slug": "buz-tv-watch-your-media",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/iSJq-TKvIso1pCgVs4yw14DzntphOkLcKOXj2lHaR4nkJz2Em9hvRkONWt1Qt-H0gUwQOTRbrnAZehmiTLH5xpM",
+    "developer": "Olivier Genin LTD.",
+    "desc": "스포츠는 순간순간이 중요합니다. NBA 버저비터, NFL 연장전 터치다운, 축구 90분 골, 진정한 팬만이 맞힐 수 있는 퀴즈 문제까지. 이 모든 순간을 한데 모았습니다.\r \r 모든 경기 하이라이트를 완전 무료로 시청하세요. 짧은 광고만 시청하면 바로 영상이 공개됩니다. 지갑을 텅 비게 하는 구독료도, 최고의 순간을 가리는 유료 콘텐츠도 없습니다. 순수한 스포츠의 모든 것을 지금 바로 경험하세요.\r \r 실시간 스코어는 앱에서 즉시 확인할 수 있습니다. 좋아하는 팀의 득점 소식을 바로 알 수 있고, 경기가 시작되면 바로 준비할 수 있",
+    "iosUrl": "https://apps.apple.com/kr/app/id6761815482",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.buztv.vivoscore",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/_sesZFO8WZWF8hkpB9QYp00RrJbdyT1IwJOgT7xmJtCQ29egY5XPyc-l07LBsaWPbpUjZTPwVlHs6grpKX_W",
+      "https://play-lh.googleusercontent.com/NqYkkiiVxF1M1dj7Zw2vBHUHp0QGcPUoXIX6OQepFDU-ftv7ShTRup8p9kZk9adsC_X6b5bXqdRN4cGlKd4dLg",
+      "https://play-lh.googleusercontent.com/XrrBuOta3s5euWienacHDJwEjphpBcVhgsrkacCqqbFU_Q1PDATwm3EsJNht3hfs77KMqrCI2D-FHnT1OEAo"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Buz TV - Watch Your Media' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
