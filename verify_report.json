@@ -1002,11 +1002,16 @@
       "name": "해커스토익 - TOEIC",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Suica",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 181,
-    "skipped": 114,
+    "total": 182,
+    "skipped": 115,
     "has_issues": 67,
     "total_issues": 97,
     "fixed": 9

@@ -13643,5 +13643,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 184,
+    "name": "Suica",
+    "slug": "suica",
+    "cat": "finance",
+    "icon": "https://play-lh.googleusercontent.com/74tUW18CIU8K-7vNT_RO9rr7cNP8_Fh_rk7ThC-MYwdjrHOFTR7YN3YWEXPwndPqZNeeYy9-D-45-1E_pFq7",
+    "developer": "yanzm",
+    "desc": "Suica와 PASMO 등의 교통계 IC 카드 리더 탐 기록보기 어플입니다.\r Edy, nanaco도 읽을 수 있습니다.\r \r 다음 페이지에 Q & A를 정리했습니다.\r http://www.yanzm.net/suica_reader.html\r \r * CSV 내보내기 기능의 구매에 문제가있는 분은 개별적으로 대응하므로, anzai.y.aa @ gmail.com로 연락 주시기 바랍니다. 잘 부탁합니다.\r \r * PiTaPa는 포스트 페이이므로 충전하여 사용하는 경우 이외는 0 원​​으로 표시됩니다.\r * 교통계 IC 카드는 NFC 태그는",
+    "iosUrl": "https://apps.apple.com/kr/app/id1156875272",
+    "androidUrl": "https://play.google.com/store/apps/details?id=yanzm.products.suicareader",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/bMRlEBSo7xcHWpWvp634kOEmRRqGAQdleJzSK6a_oS45VJJP1dE7QMqWJTfKQT6M5aIcsS1EUvRV4XfDASs0vQ",
+      "https://play-lh.googleusercontent.com/_ZRgOGpedoCZDzzqqAvdoReDJd83knBVvzBg-oFYapc-r4aMkmUG7JA3SrJKZEc-dQHpQ41MVr0J1s5ZPXNS",
+      "https://play-lh.googleusercontent.com/8b7c9fw2Axr7DNHM5770uNUYlwiYnrFnLNepc1dj1iov7RvMs44_p-i13fLguT7X_NCbMyjCuPrmJC0YuMLwCI0"
+    ],
+    "reviews": [
+      {
+        "user": "서희",
+        "text": "스이카 잔액을 알 수 있어서 편리했습니다. 사용도 간단해요",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "스이카를 사용할 때 간편하고 나의 이용내역을 바로 볼 수 있어서 좋습니다.",
+        "rating": 5
+      },
+      {
+        "user": "cava",
+        "text": "스이카 카드 쓰면 꼭 쓰세요",
+        "rating": 5
+      },
+      {
+        "user": "GEUN HEE LEE",
+        "text": "스이카",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "とてもいいアプリで数年前から愛用してます。ただ、言語を韓国語に設定すると、履歴の1月〜12月が全て「00월(00月)」に表示される不具合が発生してます。お忙しいとは思いますが、どうかご確認お願いします。",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "Nice app.",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "日本旅行の中にとても便利でした！最高でした。",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "잔액나오는건 만족 한글화 미적용은 불만족",
+        "rating": 3
+      },
+      {
+        "user": "Google 사용자",
+        "text": "일본와서 뒤늦게 찾은게 아쉽지만 무지 편리해요. 구간별로 금액이 나와서 보기 쉽고요. 생각없이 돈쓰고 다녔다가 헉~ 해지네요.",
+        "rating": 4
+      },
+      {
+        "user": "Google 사용자",
+        "text": "진짜 좋은데 okica도 됐으면 좋겠네요. nimoca랑 hayakaken은 잘 읽혀요!",
+        "rating": 4
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "18.5",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Suica' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
