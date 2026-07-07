@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "results": [
     {
       "name": "카카오톡",
@@ -1012,11 +1012,16 @@
       "name": "Buz TV - Watch Your Media",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "스윙 - 택시, 자전거, 킥보드",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 183,
-    "skipped": 116,
+    "total": 184,
+    "skipped": 117,
     "has_issues": 67,
     "total_issues": 97,
     "fixed": 9
