@@ -1017,11 +1017,16 @@
       "name": "스윙 - 택시, 자전거, 킥보드",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "TerraCam: GPS Satellite",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 184,
-    "skipped": 117,
+    "total": 185,
+    "skipped": 118,
     "has_issues": 67,
     "total_issues": 97,
     "fixed": 9

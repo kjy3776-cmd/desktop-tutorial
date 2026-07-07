@@ -13853,5 +13853,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 187,
+    "name": "TerraCam: GPS Satellite",
+    "slug": "terracam-gps-satellite",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/4OG0TZd3fSNcp3MqbgTS694kh-URj0ZHwgm84z4JiYjytJ-WmOuoI6WvTVP97JCcnuWT0IBdWV3qmZ2xrvIq8A",
+    "developer": "YakinGlobal",
+    "desc": "<b>GPS - 위성 실시간 지구</b> - 3D 지구, 실시간 카메라, GPS 내비게이션, 교통 정보 및 실시간 위치\r 휴대폰에서 세계 지도를 탐색하세요. 고화질 실시간 위성 보기, 정확한 GPS 내비게이션, 강력한 지도를 통해 유명한 장소를 발견하고 여행 계획을 쉽게 세울 수 있습니다.\r \r 주요 기능\r 🛰️ 실시간 위성 보기: 상세한 위성 보기로 고화질 실시간 3D 지구 지도를 탐색하세요.\r \r 📍 정확한 GPS 내비게이션: 저희의 신뢰할 수 있는 GPS 내비게이션 시스템은 정확한 턴바이턴 길안내를 제공하여 어떤 목적지든 찾을",
+    "iosUrl": "https://apps.apple.com/kr/app/id6751967392",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.live.gpsnavigation.satellitelive.earthmapworld",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/C8dCB3_sTev_AtTAY3BAKIEG8pcPgLmAGZoCTZKSsXn-U821hH9Zg4Itdz9xL4FNBX3RPe2X7nAn1L9nFJDo",
+      "https://play-lh.googleusercontent.com/eqgU4-1WznamTPrQcWvPjMIXID2jdMHsFBt9J-jWVJwNdBgpZoZCe2_VeZuPOkNWdCMLueTpySf_OFALhYUHmA",
+      "https://play-lh.googleusercontent.com/ZJtj_mZAqvDq52p2WAOBgKmLjD400LDL18neb_pegPdu8siK6ncj6Lq-Ay7fuIs4g_6J_UZrOAYERyLuAcCnCQ"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'TerraCam: GPS Satellite' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
