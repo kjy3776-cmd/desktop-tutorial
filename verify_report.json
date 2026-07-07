@@ -1022,11 +1022,16 @@
       "name": "TerraCam: GPS Satellite",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Reports Unfollowers-인스타그램",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 185,
-    "skipped": 118,
+    "total": 186,
+    "skipped": 119,
     "has_issues": 67,
     "total_issues": 97,
     "fixed": 9

@@ -13889,5 +13889,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 188,
+    "name": "Reports Unfollowers-인스타그램",
+    "slug": "reports-unfollowers-인스타그램",
+    "cat": "sns",
+    "icon": "https://play-lh.googleusercontent.com/xFZbtBsvk9sViiXWUkxvaxtL6wuqMJ2W-uQhdJZctTR-2nbdN_G8unihL6uaogrbHBR1LIk2NnncQ1Ys68rW",
+    "developer": "Sır",
+    "desc": "주요 기능\r \r ✔️ 나를 팔로우하지 않는 사용자 찾기\r ✔️ 자세한 스캔 결과 보기\r ✔️ 간편한 사용자 검색 및 필터링\r ✔️ 중요한 계정 화이트리스트 추가\r ✔️ 빠르게 언팔로우 선택 및 추가\r ✔️ 간단하고 빠르며 사용자 친화적인 디자인\r \r 사용 방법\r \r Instagram 계정으로 안전하게 로그인\r \r 팔로잉 목록 스캔\r \r 나를 팔로우하지 않는 사용자 확인\r \r 한 번의 탭으로 언팔로우 또는 화이트리스트 추가\r \r 이 앱을 선택해야 하는 이유\r \r • 깔끔한 다크 모드 디자인\r • 사용하기 쉬운 인터페이스\r • 빠른 스",
+    "iosUrl": "https://apps.apple.com/kr/app/id1499924074",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.sirreports.unfollowers",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/n28WhX5Jox9RkPt-HGU953WOshXU8YSqpM_apCCW9R7EBujUS1XNYXuq15pyQsygtkH0ARaUAnn0CV5DByl08Q",
+      "https://play-lh.googleusercontent.com/p-yVY1yu09m4LhK7GePpuf2OqtFJpnUnjMu5v9c7AeB5fq2sg002eRgMW8SAQU5y2HYqKdWt2cl-Snb8is-2",
+      "https://play-lh.googleusercontent.com/eAtMEymwb-09g94bLV9UKul3gSE-cYWABlXMW_h__o35F6xGYQKItXTRZ3Xi4O26STUGioCfGwpHOE0lyRka"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Reports Unfollowers-인스타그램' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
