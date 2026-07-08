@@ -14187,5 +14187,67 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 193,
+    "name": "Meesho: Online Shopping App",
+    "slug": "meesho-online-shopping-app",
+    "cat": "shopping",
+    "icon": "https://play-lh.googleusercontent.com/lQrsRJ7PT25f2J8n14Zp4j0695_2NIpIUEQpG6bEuljhk7oJ8q_GeA5iYgWm1DiDq0WFPBWP4iaJcXi4XPwoWCk",
+    "developer": "Meesho",
+    "desc": "패션, 가정 필수품, 뷰티 등 다양한 분야에서 고품질 제품을 만나보세요. 저렴한 가격으로. \r \r 인도 기업을 위해 Meesho는 손쉬운 주문 관리와 안전한 결제를 통해 전국적으로 수백만 명의 고객에게 다가갈 수 있는 플랫폼을 제공합니다.\r \r 1. 합리적인 가격의 고품질 제품\r 귀하의 예산에 맞는 가격으로 다양한 패션, 가정 및 주방, 어린이 및 유아용품, 미용 및 개인 관리 제품을 만나보세요.\r \r 2. 무료배송/무료배송\r Meesho는 최소 주문 금액 없이 모든 주문에 대해 무료 배송을 제공합니다. \r \r 3. 대금 상환(CO",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.meesho.supply",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/uzHOQWZ2Kg994DTBdVS9ZEq4E4-m55z_jNVY4rOiaMHRjHhZpIVo0o-UEz8a7sFY4jVtnts7YLyi5vijp1gv4fM",
+      "https://play-lh.googleusercontent.com/QIqiJGOpwGfMmqjxTBO6P350dsQUC7pimb8pg1tqTrhZWzuTaPQ8-U2_M3y07jbEELkSQxbSAUwTy-MrhkkCLA",
+      "https://play-lh.googleusercontent.com/xT5vq4DaAszosH0Y2kvp-dguZScIMUQuqLoLrH65OB7CXTxWf9CHECMSX-YMBlfmoR-oECLfoxm3rfx9i7HryQ"
+    ],
+    "reviews": [
+      {
+        "user": "Nihal",
+        "text": "아주 좋습니다 감사 해요",
+        "rating": 5
+      },
+      {
+        "user": "Saaniya Kanwar",
+        "text": "Good 👍🏻",
+        "rating": 4
+      },
+      {
+        "user": "Jeon Tae",
+        "text": "Like it ♥️",
+        "rating": 5
+      },
+      {
+        "user": "Pakalapati Manoj kumar",
+        "text": "Awesome",
+        "rating": 5
+      },
+      {
+        "user": "Jason Das",
+        "text": "very good",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "28.4",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Meesho: Online Shopping App' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

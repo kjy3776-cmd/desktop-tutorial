@@ -1049,13 +1049,19 @@
       "name": "팬딩 - 크리에이터와 팬이 가장 가까운 곳",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Meesho: Online Shopping App",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 190,
+    "total": 191,
     "skipped": 122,
-    "has_issues": 68,
-    "total_issues": 99,
+    "has_issues": 69,
+    "total_issues": 100,
     "fixed": 10
   }
 }
