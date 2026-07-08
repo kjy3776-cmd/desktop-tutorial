@@ -1044,11 +1044,16 @@
       "name": "Visit Japan Web: AI Guide",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "팬딩 - 크리에이터와 팬이 가장 가까운 곳",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 189,
-    "skipped": 121,
+    "total": 190,
+    "skipped": 122,
     "has_issues": 68,
     "total_issues": 99,
     "fixed": 10
