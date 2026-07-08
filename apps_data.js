@@ -13961,5 +13961,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 190,
+    "name": "포코 라이프",
+    "slug": "포코-라이프",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/cwSlbtr_IBN0EkJ293AqGagnrDnka-gSo1WW6fV5CQQLlXvm4DP3EhaxrYJVrvwm40H-oQh9rDgagZ9qK6ijxw",
+    "developer": "Quiet Studio",
+    "desc": "포코피아 라이프는 포켓몬 포코피아의 비공식 가이드 앱입니다.\r \r   ■ 포켓몬 도감\r   • 전체 포켓몬 목록 및 상세 정보\r   • 타입별 필터 및 검색\r   • 서식 환경, 출현 서식지 확인\r   • 수집 체크리스트로 도감 완성도 추적\r \r   ■ 서식지 정보\r   • 모든 서식지의 출현 포켓몬 확인\r   • 서식지 건설에 필요한 재료 목록\r   • 재료 이미지와 수량 한눈에 보기\r \r   ■ 아이템 사전\r   • 전체 아이템 목록 및 카테고리별 분류\r   • 제작 레시피 — 재료와 결과물 확인\r   • 요리 레시피\r   • ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6760477621",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.pokopialife.pokopia_life",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/NUzLe-A7oeg4xyORLicnsRLzQWTmMVeyMEmjA_neEXFuTSZGqHNhah6pBFCmsoYs82Aqjj3bGE_DvyzOn5KXjw",
+      "https://play-lh.googleusercontent.com/KGSYY7LQAlCWXVuATILut7xHVZiFC0IaJQQtiu3Yl-DwjDLylqzTzEO-a5HCa21dWHygEko8VMQc5F3nSXyg",
+      "https://play-lh.googleusercontent.com/buQinjqZaf_CLTEZEiMPgwSnAREPNmEnOJYjzlBtMG7_Ovbgye9JV_NDw_mDnVUHZpYfq2haJbKvHqoqNihqXw"
+    ],
+    "reviews": [
+      {
+        "user": "tamit son",
+        "text": "포켓몬 관리, 정리에 유용한 어플이네요. 포켓몬을 수집여부 체크 처럼 살고있는 마을로도 구분할 수 있으면 좋을 것 같아요.",
+        "rating": 5
+      },
+      {
+        "user": "이지연",
+        "text": "인게임 이름이랑 달라서 참고가 어려움... 이미지라도 잘 넣었나 했는데 그것도 아닌 거 같음",
+        "rating": 1
+      },
+      {
+        "user": "육아부지",
+        "text": "생각보다 많이 유용하고 편리하네요 pdj",
+        "rating": 5
+      },
+      {
+        "user": "박인성",
+        "text": "포켓몬 설명이 유익하네요~ 간단한 ui 조작 방식도 너무 좋습니다 ㅎㅎ",
+        "rating": 5
+      },
+      {
+        "user": "이창형",
+        "text": "어떤거 얻었는지 체크하기 편합니다",
+        "rating": 5
+      },
+      {
+        "user": "Gone",
+        "text": "유용하고 UI가 상당히 이뿌네요! bb",
+        "rating": 5
+      },
+      {
+        "user": "동현문",
+        "text": "포코피아 하는데 이런 백과사전같은게 있으면 좋겠다고 생각했는데 딱 나와서 너무 좋아욤!",
+        "rating": 5
+      },
+      {
+        "user": "hs p",
+        "text": "편하고 좋아요 개발자님 감사링구",
+        "rating": 5
+      },
+      {
+        "user": "박명길",
+        "text": "포코피아 엔딩 유전디 넘 좋아욜 체크하는거 빼곸ㅋ",
+        "rating": 5
+      },
+      {
+        "user": "조수민",
+        "text": "유익해요",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.1.5",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '포코 라이프' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
