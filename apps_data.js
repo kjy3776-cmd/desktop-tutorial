@@ -13925,5 +13925,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 189,
+    "name": "Byoh - Lifestyle",
+    "slug": "byoh-lifestyle",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/91DILLAx7JyWP6PYuMT-zGCV3E0F7cRLbpBeRhKmnkBIMjtFVeaSQKqRJx3NRN_gpmUDvDXGp_nzLy0a5ucdAA",
+    "developer": "eTradeMyanmar",
+    "desc": "[유니 코드]\r ဗျို့-Byoh Lifestyle (ByohLifestyle) ဆိုတာ က လူငယ် လူရွယ် တို့ အောင်မြင် တိုးတက်စေဖို့၊ ကျန်းမာ ထက်မြက် စေဖို့၊ ဖက်ရှင် ကျ လှပစေဖို့၊ တက်ကြွ ပျော်ရွှင်စေဖို့၊ ဗဟုသုတတွေ ကြွယ်ဝ စေဖို့၊ ခေတ်နဲ့အညီ ရင် ပေါင် တန်း နိုင်ဖို့၊ လူနေမှုဘဝ တွေ မြင့်တက် စေဖို့၊ နည်းပညာ ခေတ် ကြီးထဲမှာ သူများတွေ ရဲ့ နေ",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.etm.smyouth",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Trugvl8ZwuvvsGVqcQRkczi0yhkIv4r4BDCbJiWpIW-LNhtPm7galI868ehhKGiWPF7T_R0LnlBsgPah-gzuHPI",
+      "https://play-lh.googleusercontent.com/wun3RbT0F_WHFCnI5ezz99jgpJ3-Xre6NN4_ySiTxN3yWpmRFz0sW_d5i8ajNOMxI2MWcua0DkPG8Cju8ab2mG8",
+      "https://play-lh.googleusercontent.com/EredNFwLmi9kWksPxIXiRSCfMCCDiHNztwIk2sz3V1IScNsmt8yT_XIv9t7dgN3GemoLH_iIgufLm70IUIjL"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Byoh - Lifestyle' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
