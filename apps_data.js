@@ -14048,5 +14048,57 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 191,
+    "name": "Visit Japan Web: AI Guide",
+    "slug": "visit-japan-web-ai-guide",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/nQiVg4uLtIWZf4i1EMSf32WWdlaXDdiN_C5rxzPB37jvhI8V6h3CBJ7H2W03Nn9QxnGRwI-RvU2ViDrEuy9wEfI",
+    "developer": "MOH TEGUH WIDODO",
+    "desc": "일본으로 가기 일본으로 휴가를 계획하는 사람을 위한 최고의 리소스는 Web Info✈️입니다. 저희 앱을 사용하면 일본 최고의 명소, 레스토랑, 상점을 빠르고 간단하게 발견할 수 있을 뿐만 아니라 지역 전통과 문화에 대한 내부 지식도 얻을 수 있습니다. 귀하의 경험 수준에 관계없이 저희 앱은 귀하가 최고의 일본 휴가를 보낼 수 있도록 필요한 모든 정보를 제공합니다✈️.",
+    "iosUrl": "https://apps.apple.com/kr/app/id6471913222",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.japantravel.infodesti",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/PPs1hqmglVoPv4D8XmF4EmcqXovqeOw7Ui7aT_hs6gsNQ_a6KSEudO1e-VGH10S0b9UkjbuuSjd19LZP3IEY0y0",
+      "https://play-lh.googleusercontent.com/4i8Bd_7wEfTEKuRPqJolEwWWAV23Ew9tHJ-2VR7JSFIw951fLgmQVvP3nBWBAQjHpykxaxB1D2HViq3jWtlitw",
+      "https://play-lh.googleusercontent.com/9THh-CP25Srktmodtb2BvPi2-4177Ur3JowZpii4bcljugDuO-GKUSouTd585WOf5I_kbdDfi3nnUfHEVYL0LGc"
+    ],
+    "reviews": [
+      {
+        "user": "민민상호",
+        "text": "한국어가 않되요.ㅡㅡ",
+        "rating": 1
+      },
+      {
+        "user": "성시영 (감자는영원함)",
+        "text": "불편해오",
+        "rating": 1
+      },
+      {
+        "user": "이건영",
+        "text": "비짓재팬아님",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "9.8.7",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Visit Japan Web: AI Guide' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

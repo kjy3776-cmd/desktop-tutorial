@@ -1039,11 +1039,16 @@
       "name": "포코 라이프",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Visit Japan Web: AI Guide",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 188,
-    "skipped": 120,
+    "total": 189,
+    "skipped": 121,
     "has_issues": 68,
     "total_issues": 99,
     "fixed": 10
