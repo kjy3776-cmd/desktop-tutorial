@@ -1067,11 +1067,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Waitcle: 사주,점성술,타로 운세 프롬프트 생성기",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 193,
-    "skipped": 122,
+    "total": 194,
+    "skipped": 123,
     "has_issues": 71,
     "total_issues": 102,
     "fixed": 10
