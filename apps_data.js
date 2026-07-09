@@ -14336,5 +14336,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 195,
+    "name": "Elevate - Brain Training",
+    "slug": "elevate-brain-training",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/TwDRIekqMRBFSZef-olqyuq-u4HjhsGs99VjQDw_-fKaM_V-72zfPHV_z7dmUsxAOFOHnQJXsCLhs1jQjoFXeg",
+    "developer": "The Mind Company",
+    "desc": "*** 이 앱에서는 언어 기술을 영어로만 배울 수 있습니다. \r \r Elevate는 집중력, 말하기 기술, 처리 속도, 기억력, 수학 기술 등을 향상시키도록 설계된 두뇌 훈련 프로그램입니다. 시간에 따라 변화하여 결과를 최대화하는 맞춤형 훈련 프로그램이 각 사용자에게 제공됩니다. \r \r Elevate로 훈련할 수록 생산력, 수익력 및 자신감을 강화하는 것으로 증명된 중요 인지 기술을 개선하게 됩니다. 최소 매주 3번 훈련한 사용자는 소득과 자신감이 크게 증가했다고 보고했습니다. \r \r 특징 \r \r * 집중력, 기억력, 처리, 수학,",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.wonder",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/FnnBIPjYXLgpMcGx29y8tJFIkrLmtpcwDrifbpIzTj_lkRF7dJIZDqQwptH7VjhJfXdKqPkpsiojj2EGdBDiXC8",
+      "https://play-lh.googleusercontent.com/48tj1L_4LlVdDyC93Gz5fnxQeQ4S_D3GDfQVD7GsqP4F0SXke06YC26xiNKmyqd-QeeFcvvlcNEef_HvNY2cTg",
+      "https://play-lh.googleusercontent.com/8an2-sh4HuGV-LaLbzM6YU8dNeWF74_LXRUDRKIAk7lKYH5T1L14ngCXVVSFvXOkIowSv7xqRspp36XkTDQc0g"
+    ],
+    "reviews": [
+      {
+        "user": "양",
+        "text": "영어 단어에 대한 공부가 잘됩니다. 그리고 독해력이나 기억력같은 부분에도 도움이 되요. 문장을 주고 거기서 여기가 무슨 내용이냐 이런 내용은 문장의 어디에 있냐? 등등 단순 영어실력이 아니더라도 문장독해나 기억력에 도움이 되게 짜여있어서 영어공부하고 독해등 일반적인 지식쌓기 관련 능력 개발하는데 좋습니다. 다만 가격은 비쌉니다. 1년이 55000원 무제한 구독은 17만원입니다. 저개인적으로는 가격값 한다고 생각합니다. 무제한 구독 없어서 별로라고 하시는 분들이 있는데 무제한 구독은 무료 구독 1주나 1주 과금 구독한다음 구글플레이에서 구독 취소하시고 다시 앱 들어가시면 가지 말라고 구독 옵션 나오는데 디폴트로 선택되있는 1년 55000옆에 무제한 구독 170000원 짜리 있습니다. 보통 두뇌 퍼즐게임은 앱에는 없어도 사이트에 가면 무제한 구독 옵션이 있는데 이건 이렇게 해야만 무제한 구독옵션이 나오네요. 참고하세요.",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "아주 좋습니다. 단 정기결제 하고 집에있는 아이패드로 접속하려고 하는데, 기존에는 안드로이드 폰에서 구글계정으로 접속했는데 애플 앱스토어에서는 구글계정 로그인 자체는 없고 이메일 로그인이 있는데 구글 이메일로 로그인 자체가 안되네요. 해결 방법을 알려주시면 감사하겠습니다.",
+        "rating": 5
+      },
+      {
+        "user": "조은정",
+        "text": "다양한 방법으로 두뇌 훈련을 할수 있어서 좋아요.",
+        "rating": 5
+      },
+      {
+        "user": "박지원",
+        "text": "영어공부 겸 두뇌 활성화에 도움이 되는 것 같아요^^",
+        "rating": 5
+      },
+      {
+        "user": "ByungJoon Shin",
+        "text": "너무 비싸요. 평생 가입하기가 있으면 모를까.",
+        "rating": 4
+      },
+      {
+        "user": "Google 사용자",
+        "text": "영어가 많이 늘었다",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "짧은 시간 들여서 공부하기 좋네요",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "굿굿 영어공부에 좋아",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "재미있고 공부가 되는 거 같습니다!",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "회원탈퇴 버튼이 보이지 않음",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "5.246.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Elevate - Brain Training' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
