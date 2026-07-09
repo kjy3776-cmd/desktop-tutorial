@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "results": [
     {
       "name": "카카오톡",
@@ -1055,13 +1055,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Shopee 7.7 โปรเด็ด ลดคุ้ม",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 191,
+    "total": 192,
     "skipped": 122,
-    "has_issues": 69,
-    "total_issues": 100,
+    "has_issues": 70,
+    "total_issues": 101,
     "fixed": 10
   }
 }

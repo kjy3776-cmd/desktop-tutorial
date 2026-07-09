@@ -14249,5 +14249,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 194,
+    "name": "Shopee 7.7 โปรเด็ด ลดคุ้ม",
+    "slug": "shopee-77-โปรเดด-ลดคม",
+    "cat": "shopping",
+    "icon": "https://play-lh.googleusercontent.com/JbsgmuXGu3htCL6Tx7dSg3KYFtD7STWnWO5aQPBTG39_MsernJ3LGmGrhSQdS2C6bSR4zCXyHNdPOKumw1jt2A",
+    "developer": "Shopee TH",
+    "desc": "쇼피(Shopee)는 동남아시아와 대만에서 인기 있는 온라인 쇼핑 및 판매 플랫폼입니다.\r 쇼피는 다양한 상품을 제공하며, 사용이 간편하고, 표준화된 결제 및 물류 시스템을 통해 높은 보안성을 자랑합니다.\r \r 쇼피에서 언제 어디서든 온라인 쇼핑을 즐기고, 다양한 특별 서비스와 프로모션을 누려보세요.\r \r ● 쇼피는 이제 태국어, 영어, 미얀마어 3개 언어로 제공되어 더욱 편리하고 개인화된 쇼핑 경험을 제공합니다! 원하는 언어를 선택하여 더욱 쉽게 다양한 혜택을 누리고 앱을 이용하세요.\r \r ● 건강 및 미용, 가전제품, 전자제품,",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.shopee.th",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/dkUEAgQGkQCZwBJknORi9ocTXOG7TLhtpc56s29JDWyaLKgPa6QRzeoIkL9FP3Sz-Tq4jr2km34ZMsrILSEleg",
+      "https://play-lh.googleusercontent.com/Kbgfujwt0Ts3vzgl2QkHF110CNQymBwP-8ZYKcxg4iGgyk8xYn6EB1aFfJyC7OBQVyKhzNvLhnLiirRf1uCuCDs",
+      "https://play-lh.googleusercontent.com/wsqr9ycY30veWl3MkxK_Xbg47iMqjvuBGe1Twam3Cj8IJqXBlbWlkEtDlln3DAsGf0FPFbBDQvtWPo6gCmSZ"
+    ],
+    "reviews": [
+      {
+        "user": "Miky Jun (Miky Jun)",
+        "text": "제품구매 그리고 판매자에 링크 속에는 악성좀비 프로그램이 있다. 누군가가 내 이메일 로 로그인한다. 개인 정보가 변경 된다. 이메일 비트코인 로그인한다. 그래서 나는 두번 결제하였다. 하지만 spopee에서는 어떠한 조치도 없이 환불도 안해주고있다. 아직도 환불 이야기 중 이다. ผมสั่งซื้อจาก sppee และผู้ขาย sppee ส่งลิงก์การจัดส่งครับ มีคนลงชื่อเข้าใช้อีเมลทั้งหมดของฉันและการแก้ไขส่วนตัวทั้งหมดครับ โทรศัพท์ของฉันติดไวรัสที่เป็นอันตรายและเสียหายหลายอย่างครับ ผมไม่ได้รับเงินคืนสำหรับเงินที่ผมจ่ายให้ sppee ด้วยบัตรครับ ก็ทุกวันยังคงขอเงินคืนครับ และในความคิดของฉัน การซื้อในห้างสรรพสินค้าบน Shopee มีความเสี่ยงสูงนะครับ",
+        "rating": 1
+      },
+      {
+        "user": "문소연",
+        "text": "다 좋긴한데 물품을 좀 오래기다려야됨 이거랑 비슷한 플렛폼은 시키자마자 준비해서 2-3일 안에 배송도착인데 이건 2틀만에 물건 준비해주고 배송시킴 ดีหมดน่ะ แต่ต้องรอสินค้านานหน่อย ลาซาด้านี่สั่งปั่บจัดปั่บ ส่งภายใน2-3วัน แต่อันนี้ต้องรอเป็นอาทิตย์ถึงจะได้ แต่ราคาถูกกว่าลาซาด้า",
+        "rating": 4
+      },
+      {
+        "user": "사람섬",
+        "text": "나쁘지않음 결제 방법 바트만 가능하다는게 아쉽다 해외 마켓들처럼 여러가지 화폐로결제되면 좋겠다 외국인들에게도 크레딧구매가 가능하면 좋겠다",
+        "rating": 5
+      },
+      {
+        "user": "Sunita C",
+        "text": "예전엔, 반품도 쉽고 빨랐는데 요즘은 어렵게하고 반품 안해줌...เมื่อก่อนคืนสินค้าง่าย เเต่เดี๋ยวนี้คืนยากมาก",
+        "rating": 1
+      },
+      {
+        "user": "김상민",
+        "text": "좋은제품 착한가격,배송이 조금은 느리지만 만족합니다. 계속 이용 하고있어요.^^~~",
+        "rating": 5
+      },
+      {
+        "user": "하비",
+        "text": "살짝 어렵지만 한국 지마켓같음 현금으로 주는거 가능",
+        "rating": 5
+      },
+      {
+        "user": "Lumi",
+        "text": "카차 논타난 라이브 보려고 다운 받았어요. 쇼피 최고 카차 최고💚💚💚 Thank you for Kacha Nontanun's live",
+        "rating": 5
+      },
+      {
+        "user": "준치앙 국제커플JUNCNX Family",
+        "text": "코인이나 바우처 이용해서 정품파는 샵만 이용한다면 굿",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "물건 포장도 잘되어있고 배송도 빠르네요!",
+        "rating": 5
+      },
+      {
+        "user": "심재성",
+        "text": "쇼핑할때 아주 좋아요",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "3.77.25",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Shopee 7.7 โปรเด็ด ลดคุ้ม' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
