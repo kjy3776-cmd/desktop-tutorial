@@ -1072,11 +1072,16 @@
       "name": "Waitcle: 사주,점성술,타로 운세 프롬프트 생성기",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "현대캐피탈 공식 앱-신차할부구매, 다이렉트, 모바일대출",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 194,
-    "skipped": 123,
+    "total": 195,
+    "skipped": 124,
     "has_issues": 71,
     "total_issues": 102,
     "fixed": 10
