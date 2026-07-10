@@ -1082,13 +1082,19 @@
       "name": "요가너리 | AI 요가 시퀀스, 동작, 기록",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "수학문제",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 196,
+    "total": 197,
     "skipped": 125,
-    "has_issues": 71,
-    "total_issues": 102,
+    "has_issues": 72,
+    "total_issues": 103,
     "fixed": 10
   }
 }
