@@ -1093,11 +1093,16 @@
       "name": "Health Partner: Pulse & Sugar",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Quik: 릴스로 빠른 단어 암기, 영어·중국어·일본어",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 198,
-    "skipped": 126,
+    "total": 199,
+    "skipped": 127,
     "has_issues": 72,
     "total_issues": 103,
     "fixed": 10
