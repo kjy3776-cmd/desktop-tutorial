@@ -1088,11 +1088,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Health Partner: Pulse & Sugar",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 197,
-    "skipped": 125,
+    "total": 198,
+    "skipped": 126,
     "has_issues": 72,
     "total_issues": 103,
     "fixed": 10

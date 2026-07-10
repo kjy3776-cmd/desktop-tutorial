@@ -14726,5 +14726,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 200,
+    "name": "Health Partner: Pulse & Sugar",
+    "slug": "health-partner-pulse-sugar",
+    "cat": "health",
+    "icon": "https://play-lh.googleusercontent.com/SF6kckGmJqiqrHfZeRCX0wOKV9zamgMYHRZPnYSljGo2pRp3h0OiQFHNMf72Ch6TWXPChPiAowkjZO1RxDSJlk8",
+    "developer": "Hong Kong NexusTech Limited",
+    "desc": "건강 파트너: Pulse & Sugar는 건강을 모니터링하고 개선하는 동반자입니다.\r \r 1. 심박수, HRV, 혈당 및 혈압 모니터링:\r   에이. 심박수와 심박변이도(HRV)를 정확하게 측정합니다.\r   비. 혈당 및 혈압 데이터를 기록합니다.\r \r 2. 데이터 분석 및 권장 사항:\r   에이. 심박수, HRV, 혈당, 혈압 데이터에 대한 자세한 분석을 제공합니다.\r   비. 측정값을 기반으로 개인화된 건강 추천을 제공합니다.\r \r 3. 건강 정보:\r   건강 지식, 가벼운 운동, 건강한 요리법에 액세스하세요.\r \r 최신 정보를",
+    "iosUrl": "https://apps.apple.com/kr/app/id6736971742",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.health.partner.pulse.sugar.viloon",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/iVRb5inkz4oUUW-I1oeaiAVFIwJkmwvGs8DRHtWXbB3hz1PRnx4LDU0POPBS9elo6fX5BlXItz-Zwc6W7QsogA",
+      "https://play-lh.googleusercontent.com/889fwEf1DHS0J6q8YrqVrblhu6FK1ZYcxtGHI_f7cTHkdgY6fksv7PdjU6JIwNADjrXoT8Wuf69LCmCMBf2p7w",
+      "https://play-lh.googleusercontent.com/8hIFrqtsklj6KLNDFXN4lGnDQTQG2TzfBb55Gijz2lz5SO0w1llEPuHl7NpmJGZMINJpuWSKr2sB1aKVPPR7OPg"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Health Partner: Pulse & Sugar' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
