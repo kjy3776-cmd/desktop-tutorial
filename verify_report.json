@@ -1098,11 +1098,16 @@
       "name": "Quik: 릴스로 빠른 단어 암기, 영어·중국어·일본어",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "PlantAI: 식물 식별 및 진단",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 199,
-    "skipped": 127,
+    "total": 200,
+    "skipped": 128,
     "has_issues": 72,
     "total_issues": 103,
     "fixed": 10

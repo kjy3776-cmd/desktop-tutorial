@@ -14849,5 +14849,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 202,
+    "name": "PlantAI: 식물 식별 및 진단",
+    "slug": "plantai-식물-식별-및-진단",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/OLr9LcTYwXDAPBy4Zne_GUMrHu9jQY8uZp1LI5kRSkWLEUJDGPHjpeJmDcYFmeK1fk-erq_9F-iu8UksfIcYTA",
+    "developer": "PlantIn",
+    "desc": "PlantIn 식별기 앱을 사용하면 17,000종 이상의 식물을 쉽게 구별할 수 있습니다.\r 정원에 있는 각 식물에 대한 자세한 관리 지침을 확인하고, 식물에 물을 주고, 미스팅하고, 분갈이를 하며, 문제가 발생할 경우 전문 식물학자와 연결하여 문제를 해결할 수도 있습니다 🌱.\r \r 식물 커뮤니티에 가입해 각 종을 관리하는 방법을 배워보세요.\r \r 꽃, 허브, 나무를 건강하게 키우는 데 어려움을 겪고 있나요? 집 안 식물의 이름을 찾기가 어렵거나 식물이 잘 자라기 위해 무엇이 필요한지 파악하는 것이 어렵나요? 아니면 물을 주거나 미",
+    "iosUrl": "https://apps.apple.com/kr/app/id1664437810",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.myplantin.app",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/ZoKpD5x2dv2Lxxee7n_xuUOltBJq38Ru7OtcCh7Wyednbg25Tvh8yrFhum2NpMXpgen-PoNnj5m_A7gtMk0COg",
+      "https://play-lh.googleusercontent.com/1hR6yNqdVz5aTNpwlLcdzWLdea7MvoWJte0DpYv7ItTmcHenvHZ-S0blJ_X0U0-q8X8BIuPvH8gcJ-GZLWsBcA",
+      "https://play-lh.googleusercontent.com/ofjzBXYwqhjx_N9EdeGQsUbrbjOxl--svfBZssyDEne6jywOgVQ-D7-HaR137LPkrSdPPmn1zNk5xDTe7KErUw"
+    ],
+    "reviews": [
+      {
+        "user": "방서준",
+        "text": "제 식물이 꺽여서 진단하기했더니 건강하다고하네요",
+        "rating": 1
+      },
+      {
+        "user": "박재수",
+        "text": "영어뒤에 한글로 표기가없어 불편함",
+        "rating": 1
+      },
+      {
+        "user": "Matthew Ryou",
+        "text": "너무 많이 받는다 광고나하지",
+        "rating": 1
+      },
+      {
+        "user": "Jin Kim",
+        "text": "한국어 번역수준이 최악입니다",
+        "rating": 3
+      },
+      {
+        "user": "김민주",
+        "text": "아... 유료... 당황.. ㅠㅠ",
+        "rating": 1
+      },
+      {
+        "user": "Hyunkyung Oh",
+        "text": "알려주니깐 너무 좋아요",
+        "rating": 5
+      },
+      {
+        "user": "박세진",
+        "text": "식물 이름은 정확한데 한국어 번역 상태가 심각함 ('몬스테라'가 '스위스 치즈 공장'으로 변역됨)",
+        "rating": 2
+      },
+      {
+        "user": "정일권",
+        "text": "편리합니다",
+        "rating": 4
+      },
+      {
+        "user": "최형권",
+        "text": "좋아요",
+        "rating": 5
+      },
+      {
+        "user": "mira Shu",
+        "text": "굿",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2.66.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'PlantAI: 식물 식별 및 진단' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
