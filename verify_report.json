@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "results": [
     {
       "name": "카카오톡",
@@ -1077,11 +1077,16 @@
       "name": "현대캐피탈 공식 앱-신차할부구매, 다이렉트, 모바일대출",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "요가너리 | AI 요가 시퀀스, 동작, 기록",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 195,
-    "skipped": 124,
+    "total": 196,
+    "skipped": 125,
     "has_issues": 71,
     "total_issues": 102,
     "fixed": 10

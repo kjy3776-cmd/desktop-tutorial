@@ -14597,5 +14597,47 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 198,
+    "name": "요가너리 | AI 요가 시퀀스, 동작, 기록",
+    "slug": "요가너리-ai-요가-시퀀스-동작-기록",
+    "cat": "health",
+    "icon": "https://play-lh.googleusercontent.com/XnXePU3kh3rjJvcv8U-kNqhT021bSwIBUMPJQSVAtdqO1FH8NZsncKoDzOG0k29jJsVn6eQzhtLNcWyQTPUESA",
+    "developer": "SOYO LAB",
+    "desc": "YOGANARY - AI가 만드는 맞춤 요가 시퀀스. 2,000개 이상의 포즈 라이브러리와 큐잉 스크립트 자동 생성으로 요가 강사와 홈 요가 수련자 모두를 위한 스마트 요가 앱.\r \r AI 시퀀스 생성기 'YOAI'가 시간, 레벨, 스타일, 에너지 흐름에 맞춘 맞춤형 요가 시퀀스를 자동으로 생성합니다. 초보자부터 전문 요가 강사까지, 누구나 쉽게 완벽한 시퀀스를 만들 수 있습니다.\r \r ◆ 주요 기능\r \r 【AI 시퀀스 생성 - YOAI】\r • 수련 시간, 난이도, 스타일 선택만으로 완성되는 맞춤 시퀀스\r • 피크 포즈와 신체 부위",
+    "iosUrl": "https://apps.apple.com/kr/app/id6756177355",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.soyolab.yoganary",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/sSiOBvRTZ42rHofxwrc-jH2I0zNFqWVX0FFa3NZycZjmi2HHyHmrS7W6rTe4iJFlgeeU9mx4-a8FeaVqSr_I2Q",
+      "https://play-lh.googleusercontent.com/ZeAlIt0RDJD1TQc3E8TGlkglseuG5Z5SeEkiIcPodvUUrKDJ9Z1oHT7IIJ2MhCyrdqiGn8QnUGWP6neq1UGdJCE",
+      "https://play-lh.googleusercontent.com/VjrQ-uL0ybBHUQEEiwZKdqjwY4VbZF5WwQGxcFVuGRd5tiIxV_KCv0ur_hpsQwLyaWudAJ5MeV_NajJRnlGgAw"
+    ],
+    "reviews": [
+      {
+        "user": "ashely",
+        "text": "초보강사입니다. 활용 잘 하고 있습니다. 다만 큐잉 생성에서 다른 동작 설명이 반복되는 오류만 개선되면 좋겠습니다. 감사합니다.",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '요가너리 | AI 요가 시퀀스, 동작, 기록' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
