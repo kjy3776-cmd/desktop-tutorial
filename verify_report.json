@@ -1108,11 +1108,16 @@
       "name": "산타 - AI 토익/토플",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Parallel Space ‒ Dual Accounts",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 201,
-    "skipped": 129,
+    "total": 202,
+    "skipped": 130,
     "has_issues": 72,
     "total_issues": 103,
     "fixed": 10
