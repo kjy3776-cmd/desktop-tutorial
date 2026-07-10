@@ -1103,11 +1103,16 @@
       "name": "PlantAI: 식물 식별 및 진단",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "산타 - AI 토익/토플",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 200,
-    "skipped": 128,
+    "total": 201,
+    "skipped": 129,
     "has_issues": 72,
     "total_issues": 103,
     "fixed": 10
