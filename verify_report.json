@@ -1113,11 +1113,16 @@
       "name": "Parallel Space ‒ Dual Accounts",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "지니뮤직",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 202,
-    "skipped": 130,
+    "total": 203,
+    "skipped": 131,
     "has_issues": 72,
     "total_issues": 103,
     "fixed": 10
