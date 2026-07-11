@@ -32,6 +32,7 @@
     "Coursera: 경력 성장",
     "Daraz Online Shopping App",
     "Delta - Game Emulator",
+    "DiDi China: Ride Hailing",
     "DoDay: To-Do List & Planner",
     "EBSi 고교강의",
     "ESTA Mobile",
@@ -372,7 +373,7 @@
     "홈 트레이닝 - 기구가 필요 없습니다",
     "홈&쇼핑"
   ],
-  "last_run": "2026-07-10",
+  "last_run": "2026-07-11",
   "next_id": 0,
   "today_count": {
     "2026-05-26": 2,
@@ -420,6 +421,7 @@
     "2026-07-07": 3,
     "2026-07-08": 5,
     "2026-07-09": 4,
-    "2026-07-10": 7
+    "2026-07-10": 7,
+    "2026-07-11": 0
   }
 }
