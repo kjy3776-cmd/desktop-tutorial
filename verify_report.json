@@ -1118,13 +1118,19 @@
       "name": "지니뮤직",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Banggood - 온라인 쇼핑",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 203,
+    "total": 204,
     "skipped": 131,
-    "has_issues": 72,
-    "total_issues": 103,
+    "has_issues": 73,
+    "total_issues": 104,
     "fixed": 10
   }
 }
