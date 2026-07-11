@@ -15284,5 +15284,77 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 207,
+    "name": "Banco PicPay: Cartão, Pix e +",
+    "slug": "banco-picpay-cartão-pix-e",
+    "cat": "finance",
+    "icon": "https://play-lh.googleusercontent.com/l7hUS_lVviC9sEQo5nncAZDOUq6iJkGks2F2dWwQ2spKD4CRN1lSKHzB6wjD4qWFADnkRv-VvWYvqQP9d69es-E",
+    "developer": "PicPay",
+    "desc": "PicPay. 언제 어디서나 이용 가능한 은행.\r \r Pix 결제, 신용카드 사용, 투자, 저축, 대출 신청 등 PicPay 하나로 모든 금융 관리 기능을 이용할 수 있습니다.\r \r 💚 디지털 계좌: 완벽하고, 무료이며, 이자까지 지급!\r \r 무료 디지털 계좌를 개설하고 간편하게 자금을 관리하세요. Pix 결제, 송금 수령, 공과금 납부, 재정 관리, 모든 거래 내역 추적까지 한 곳에서 편리하게 이용하세요.\r \r 계좌 잔액은 최대 102%의 CDI 금리에 자동으로 이자를 지급하여 일반 예금보다 높은 수익을 올릴 수 있으며, 필요할 ",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.picpay",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/KgKCLcWM_CoO44RCApsARZ1FJRbKEVRsiSk3Z078MY_TPVRutae_nU0nMmjDeKzuiw1D7qPDcLakmYI95qExvA",
+      "https://play-lh.googleusercontent.com/m0MvnyJHUtQz_sNbFbEZO2D9HP_lW5in7z70DnAamqfm_AWrBNWKbCMEwXvUTV9eZYSD4Qic_ltwxz6GVLqzfA",
+      "https://play-lh.googleusercontent.com/OrVMZixgZD00vMGRcA39JHQDr2iq6ksg0n799uZK1OKRlRz9fET1hWyLXyCiUwYQ45b9QaXCOMP2ICK-iGzNdA"
+    ],
+    "reviews": [
+      {
+        "user": "Lazaro Jesus Friend (Tucano)",
+        "text": "앱을 열때 비밀번호없이 아무나 열수 있습니다",
+        "rating": 2
+      },
+      {
+        "user": "JAE HYEOK OH",
+        "text": "Perfeito cartão... e serviço...",
+        "rating": 5
+      },
+      {
+        "user": "Daniel kim",
+        "text": "Erro de conexão",
+        "rating": 2
+      },
+      {
+        "user": "DÄL NÄBÏ",
+        "text": "Eu me cadastrei mais quando eu entro fala que deu erro e etc... E eu tenho que cria outra conta e quando eu vou criar fala que eu já sou cadastrado e quando eu vou fazer o login fala que não foi criado e da erros",
+        "rating": 2
+      },
+      {
+        "user": "Claudio Brito",
+        "text": "A nova atualização não ficou boa, complicou muito o acesso aos pagamentos do Piccard crédito.",
+        "rating": 3
+      },
+      {
+        "user": "young ho chung",
+        "text": "facilidades total ☝️👍",
+        "rating": 5
+      },
+      {
+        "user": "Kevin Richard",
+        "text": "Muito útil, uso a todo momento",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "11.152.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Banco PicPay: Cartão, Pix e +' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

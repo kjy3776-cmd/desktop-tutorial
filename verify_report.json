@@ -1124,13 +1124,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Banco PicPay: Cartão, Pix e +",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 204,
+    "total": 205,
     "skipped": 131,
-    "has_issues": 73,
-    "total_issues": 104,
+    "has_issues": 74,
+    "total_issues": 105,
     "fixed": 10
   }
 }
