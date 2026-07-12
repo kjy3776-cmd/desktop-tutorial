@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "results": [
     {
       "name": "카카오톡",
@@ -1130,11 +1130,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "모노티 (Monoti) - 올인원 워크 & 라이프",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 205,
-    "skipped": 131,
+    "total": 206,
+    "skipped": 132,
     "has_issues": 74,
     "total_issues": 105,
     "fixed": 10

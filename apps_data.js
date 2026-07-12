@@ -15356,5 +15356,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 208,
+    "name": "모노티 (Monoti) - 올인원 워크 & 라이프",
+    "slug": "모노티-monoti-올인원-워크-라이프",
+    "cat": "productivity",
+    "icon": "https://play-lh.googleusercontent.com/fs6dVuhda1tGPYKdkQ3cudJhk19QkXXN1EI00OZs_Tv927RojILSWK4nTeQQPcruMXk8kNuWTF_YbV6ALq_EIGA",
+    "developer": "(주)노타이틀",
+    "desc": "당신 일상의 모든 순간을 Notice\r 업무 관리, 협업툴, 일정 공유 등 이제 공유 캘린더 모노티로 똑똑하게 관리하세요.\r \r 성심당과 함께하는 빵장고 서비스를 모노티와 함께 이용해보세요.\r \r [주요 기능]\r 1. 일정 관리\r - 개인, 업무, 그룹, 프로젝트 일정 및 디데이를 생성할 수 있습니다.\r - 일정에 사진을 추가할 수 있으며, 더보기 > 파일함에서 사진을 모아볼 수 있습니다.\r \r 2. 회사 관리\r - 회사를 만들고 다른 사람들을 초대할 수 있습니다.\r - 업무 일정을 만들어 공유하고, 업무 프로젝트를 생성할 수 있습",
+    "iosUrl": "https://apps.apple.com/kr/app/id6473604609",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.notitle.toktokCalendar",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/8HWfniXmK6gijZ_iAeH-l5T7PRZD6hZQnXdF1xBTTENkSPep_A2FOKh5s5sj-eqmDN0cv3Np06oEdoyrpjm6Og",
+      "https://play-lh.googleusercontent.com/6H9AK4dBwYTJ0R7GQ7XSnI6afZV0NIoFTrWmxbs2XVWyv5GujEsAFuzC6P-8EY6miRQQVIsr8B3ND7e5VbGD",
+      "https://play-lh.googleusercontent.com/K0kqR8huBFyVU3z9UrygXVoQEx__RUmi2lUT_sJvHzsaf3dAwjHPCgcV3YQX7RMMzpwzlYrXhbiy5u32Z37tpg"
+    ],
+    "reviews": [
+      {
+        "user": "쉱이",
+        "text": "피드백이 바로바로 되어 좋아요 그룹도 있어 구분이 가능하고, 디데이표시 기능도 있어 원래 2개의 어플을 사용했다면 현재 하나의 어플로만 사용하게 되어 편리합니다",
+        "rating": 5
+      },
+      {
+        "user": "Dvdcv",
+        "text": "이층창고기능은뭐에요? 캘린더는깔끔하고 푸쉬도잘오네요 회사직원한테. 할일을알려주기도쉬위요. 광고도없어서. 계속무료로사용하고싶네요.",
+        "rating": 5
+      },
+      {
+        "user": "YJ K",
+        "text": "예약, 중간 개폐 가능 좋아요.",
+        "rating": 5
+      },
+      {
+        "user": "Ch Lee",
+        "text": "모바일 버전으로는 너무 잘 사용하고 있는데 혹시PC버전은 있나요?? 그리고 알람이 잘 안오는데 어떻게 해야 하나요ㅜㅜ",
+        "rating": 5
+      },
+      {
+        "user": "뚱이",
+        "text": "잘못 가입해서 탈퇴하고 다시 가입하려는데 사업자 번호가 이미 가입됐거나 올바르지 않다고 인증이 안돼서 기업회원으로 가입이 안돼요 ㅠ",
+        "rating": 5
+      },
+      {
+        "user": "N a",
+        "text": "팀원간의 소속감을 느낄 수 있으며 서로 일정 공유가 가능해서 자주 접속하게됩니다. ui도 깔끔하구요",
+        "rating": 5
+      },
+      {
+        "user": "김진태",
+        "text": "스케줄에 메모 입력란만 한글 입력이 잘 안됩니다",
+        "rating": 4
+      },
+      {
+        "user": "pil star (전필성)",
+        "text": "너무 좋은데요? Ui가 너무 깔끔해요 그룹은 사용자가 아직 적어서 그런거겠죠??",
+        "rating": 5
+      },
+      {
+        "user": "양지웅",
+        "text": "업무에 엄청 유용한 어플입니당!",
+        "rating": 5
+      },
+      {
+        "user": "엉미",
+        "text": "그룹/기업간 일정공유 너무 유용해요",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "3.12.1",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '모노티 (Monoti) - 올인원 워크 & 라이프' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
