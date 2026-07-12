@@ -1162,13 +1162,19 @@
       "name": "클래시 오브 클랜",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "엘사 (ELSA Speak) 영어회화, 스피킹, 발음",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 211,
+    "total": 212,
     "skipped": 136,
-    "has_issues": 75,
-    "total_issues": 107,
+    "has_issues": 76,
+    "total_issues": 108,
     "fixed": 11
   }
 }
