@@ -1142,11 +1142,16 @@
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "AllT - All about TFT",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 207,
-    "skipped": 132,
+    "total": 208,
+    "skipped": 133,
     "has_issues": 75,
     "total_issues": 107,
     "fixed": 11

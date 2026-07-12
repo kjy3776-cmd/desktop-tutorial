@@ -15479,5 +15479,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 210,
+    "name": "AllT - All about TFT",
+    "slug": "allt-all-about-tft",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/DZbRHGU4gl098pBSjb3ShiYBb-ezgAAiyHhHFo8xQlvOjCwd1OSfIaPUsrGNzDBihIW24nCgI1aEI3MQAjxjAw",
+    "developer": "OP.GG",
+    "desc": "많고 많은 메타들 중에, 진짜들만 모았다!\r 최신 메타 트렌드를 통해 최고의 조합을 발견한다면 오늘은 나도 1등..?\r \r \r OP Tier 분류로 메타 정보를 확실하게!\r \r - 한 눈에 확인하는 TFT 메타! 글로벌 및 지역 정보를 반영하여 티어 리스트를 분류합니다.\r - 덱 구성, 챔피언, 아이템, 시너지, 증강체가 포함된 추천 메타를 확인해 보세요.\r - Update, New 뱃지 등 새로운 추천 메타에 대한 정보를 쉽게 파악하세요!\r \r \r 무슨 메타를 갈 지 모르겠는 당신! 오늘 이 메타는 어떠세요?\r \r - 하루 한 번",
+    "iosUrl": "https://apps.apple.com/kr/app/id6448737621",
+    "androidUrl": "https://play.google.com/store/apps/details?id=gg.op.tft",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/-N3F13wVZmwjuOzyxV1LGsLg7iW5Z-0SMWelB6uCj_1uZE04tYSe0zmGkRLPd2MjCOp866n3BlCQwtafzWT8OA",
+      "https://play-lh.googleusercontent.com/Vo4YtxE09U8dnojlely_XOSnbnYKEaNy5eW63zwPtZ6OW1gZE4H8_Ftoi_DapUE8jKezONJysHuoPbG4RR28J0M",
+      "https://play-lh.googleusercontent.com/-72mAyAGS5L5US-pRYOjMv2Pjb1ej-8ZFJfxgU65ycBh9BcnCqPha_xr3BWlqP7GWAtHA69fyLftRfcx02qF"
+    ],
+    "reviews": [
+      {
+        "user": "오은석",
+        "text": "아직 안나온건 많지만, 충분히 좋다고 봅니다. 보기도 깔끔하고. 직접 빌드를 만드는건 아직 열리지 않았지만 그거와 함께 지금 나와있는 빌드들을 따로 저장할 수 있는 기능도 있었으면 합니다.. 제가 덱을 두세개 정해두고 하는 성격인데, 게임하면서 따로따로 찾기가 좀 힘들어서...ㅎㅎ 뭐 나중에는 게임 중에 열 수 있는 기능도 넣어주실 테지만요..! 쨋든 지금까지는 너무 좋습니다!!",
+        "rating": 5
+      },
+      {
+        "user": "김태완",
+        "text": "Opgg를 사용 안하고 이걸 쓴다면 보통 pc사용이 불가해 모바일로 롤체를 하고있을텐데 덱 누를때마다 광고가 뜨니 플레이 도중에 사용하기엔 최악일 수 밖에 없음.. 차라리 위아래 빈공간에 광고 띄우거나 앱킬때 바로 꺼지는 광고 한번씩 띄우는게 좋을듯 지금 그냥 쓰레기앱 그자체임 로딩할거 뭣도없으면서 쓸대없이 오프닝 긴것도 덤 6개월넘게 덱빌더 추가 안하는거보면 버린앱 같긴한데 진짜 너무한거같음",
+        "rating": 1
+      },
+      {
+        "user": "하윤호",
+        "text": "실행하자마자 바로 어떤 덱이 현재 메타덱인지 볼 수 있도록 되어있고 자신의 계정도 연결해놓으면 바로 전적과 통계를 볼수있습니다 덱추천에 증강체도 같이있는데 증강체 추천 개수가 적은것은 조금 아쉬운거 같습니다",
+        "rating": 5
+      },
+      {
+        "user": "고1",
+        "text": "인터페이스가 깔끔하고 챔피언 아이템, 배치 추천도 좋고 중간중간마다 나오는 문제(난이도 쉬움)들도 신선하고 좋음 op.gg에서 인기글 보고 바로 리뷰 박았는데 니들도 빨리 깔아라",
+        "rating": 5
+      },
+      {
+        "user": "go gofrog",
+        "text": "메타트렌드 볼 수 있는것도 좋은데, 각 유닛별 통계도 볼 수 있으면 좋겠네여 그리고 국가별로 필터 걸어서 볼 수 있는것같은데 국가별 게임 이용자 수도 볼 수 있음 좋겠어여",
+        "rating": 5
+      },
+      {
+        "user": "mccoke",
+        "text": "새로 생겼길래 써봤는데 디자인 깔끔해서 한눈에 보기는 편함. 근데 폰으로 겜하면서 왔다갔다 보려니 불편한데 아예 게임화면 위에 노출되게는 못하나? 아직 기능 더 오픈한다고 하니 기대해봄",
+        "rating": 5
+      },
+      {
+        "user": "김태양",
+        "text": "예전에 즐겁게하다가 다시 시작했는데 어떤 빌드로 가야되는지 고민이 많았습니다. 이 어플을 접하고 빌드정하기도 편해졌고 초보자들에게도 많은 도움이 될거 같습니다.",
+        "rating": 5
+      },
+      {
+        "user": "바둑이비글",
+        "text": "사용하는데 어려움도 없고 메타 알아보기도 편해서 게임 하기 엄청 편해졌음ㅋㅋㅋㅋ 직관적으로 알아보기 편한 것도 한몫 하는듯",
+        "rating": 5
+      },
+      {
+        "user": "임석현",
+        "text": "이앱으로 동특따라가고 1등했습니다 나쁘지않고 잘 정리되있어서 보기도 편한듯 앞으로 많은 업데이트를 거치며 많은 기능들로 다가오기를 바랍니다!",
+        "rating": 5
+      },
+      {
+        "user": "ᄋᄋ",
+        "text": "아 그래 이거지ㅋㅋㅋ 왜 이제서야 만들었어요?? 주변에 정보 얻을만한곳이 없어서 혼자 답답했는데 원하는 정보 한눈에 파악하기 아주 좋습니다! 인터페이스도 깔끔하고 편해요!!",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.1.7",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'AllT - All about TFT' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
