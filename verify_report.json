@@ -1147,11 +1147,16 @@
       "name": "AllT - All about TFT",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "어떠케어 - 내 몸이 궁금할 때",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 208,
-    "skipped": 133,
+    "total": 209,
+    "skipped": 134,
     "has_issues": 75,
     "total_issues": 107,
     "fixed": 11
