@@ -1152,11 +1152,16 @@
       "name": "어떠케어 - 내 몸이 궁금할 때",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "유니브 AI – PDF 요약, 퀴즈, AI 튜터",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 209,
-    "skipped": 134,
+    "total": 210,
+    "skipped": 135,
     "has_issues": 75,
     "total_issues": 107,
     "fixed": 11
