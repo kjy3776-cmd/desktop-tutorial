@@ -15443,5 +15443,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 209,
+    "name": "Upstox Stocks IPO Mutual Funds",
+    "slug": "upstox-stocks-ipo-mutual-funds",
+    "cat": "finance",
+    "icon": "https://play-lh.googleusercontent.com/MrawO4hBn_dsf62-9xtIqD8p-We5DmUfKQwZ_fMmVRRvL2sEDaO05wAmly9V5d2nAxos3ZtX47jijV_DaXRfnQ",
+    "developer": "Upstox - Stock Market Trading & Demat Account App",
+    "desc": "<font color=\"#59288A\">Upstox</font>에 오신 것을 환영합니다! 저희는 장기적인 자산 축적을 위해 주식, 뮤추얼 펀드, IPO, 채권, 정기 예금, 단기 국채, 채권, 금에 투자하실 수 있도록 도와드립니다. 모바일 및 데스크톱 플랫폼을 통해 주식, 옵션, 선물, 통화, 상품을 거래하세요. 130만 명 이상의 인도 국민이 저희를 신뢰하고 있으며, 고(故) 라탄 타타 전 대통령의 후원을 받고 있습니다.\r \r <b>1. <font color=\"#59288A\">Upstox Pro</font>: 트레이더를 위한 최적",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=in.upstox.app",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/K9Kec_uNGZM0G0pPtYuBLqYsx0HJIbxYWCbVRrljEE4X9nYliNIwtjyfFb__B5_EYMrqkbXqJD-BzqcoNUMU_A",
+      "https://play-lh.googleusercontent.com/VjnPH_l1fjCVr6-9_b6viwqZJNlfsxB0GGtRf2x9_O3bILyZShoaJj5V81st62pRAjcrxo4fv4Tq7Q7jMXoCdA",
+      "https://play-lh.googleusercontent.com/v-oX5UZKuRd_CLmF6Jr8AubDUig3yXBYPrRBdWyUvams4Q5lufsNa3AezTjju4Cv2MqYCdacplOGYvU0-uLB"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "3.27.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Upstox Stocks IPO Mutual Funds' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

@@ -1135,13 +1135,20 @@
       "name": "모노티 (Monoti) - 올인원 워크 & 라이프",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Upstox Stocks IPO Mutual Funds",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 206,
+    "total": 207,
     "skipped": 132,
-    "has_issues": 74,
-    "total_issues": 105,
-    "fixed": 10
+    "has_issues": 75,
+    "total_issues": 107,
+    "fixed": 11
   }
 }
