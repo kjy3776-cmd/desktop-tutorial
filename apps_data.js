@@ -15961,5 +15961,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 216,
+    "name": "Clone App - Multiple Accounts",
+    "slug": "clone-app-multiple-accounts",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/DZCEc2OL0xbAeQs1FPzhpwVon-XVjWsWtXLN1oEtgOSDWY8q8nLFGnCYkLkttEwb2Va-SXWIsp8FoSLg7b8N",
+    "developer": "SZPY Tech",
+    "desc": "Clone App (XClone App으로도 불림) 은 앱 복제/프라이버시 보호를 위한 비밀 금고 기능을 제공하는 애플리케이션입니다. Android 가상화 기술을 활용하여 소셜 및 게임 앱(WhatsApp 복제, Facebook 복제, Instagram 복제, Messenger 복제, 듀얼 WhatsApp, 더블 앱, 두 번째 WhatsApp 등)을 복제하는 병렬/듀얼 공간을 생성합니다. 단일 기기에서 멀티 계정을 관리하면서 앱/게임을 숨겨 개인정보를 보호합니다.\r \r 주요 기능\r \r ★ 병렬/듀얼 공간 앱 복제 및 멀티 계정 관리",
+    "iosUrl": "https://apps.apple.com/kr/app/id6569255136",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.pengyou.cloneapp",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/mpyGYZ45C4PcqkPMLuHbAADa7OcEiUJQtnB6Y3PNbyjb_zvyuf8EXjMouJUZ0zRyGdhbpKRQ9XuBY3YqiwDu-Tw",
+      "https://play-lh.googleusercontent.com/6jvKZ9rxxPxgHpXqSA8T9pXUWtssbu86RAs_N-Lw0xMXJE_S-J5RBLMWzWIlowXM_HhnAEjdnrYOAfhc8PWeTQ",
+      "https://play-lh.googleusercontent.com/sMacwPDYuvvmbc1utUMOq3bdU6_kRRQO6sD3ivoWCLeJV_Bf-e7wTp9RDTBKJdgK_aZUW3fTLFQtdfiJllYt"
+    ],
+    "reviews": [
+      {
+        "user": "Master “이룸수학JT” Make",
+        "text": "처음엔 광고 몇개 보면 3일 무료 이용이라 좋았는데 지금은 안됩니다. 그래서 결제하려고 봤더니 다른 클론 어플보다 2배는 비싸네요. 유료결제 사용하실분들은 참고하세요.",
+        "rating": 3
+      },
+      {
+        "user": "최제윤",
+        "text": "아니 앱을복사했는데 안켜지면 해결법도안되면 어쩌라고 너희때문에 내 운뽀록터진계정 날아갔어!",
+        "rating": 1
+      },
+      {
+        "user": "라곰",
+        "text": "복제된 어플을 최신버전으로 업데이트하려면 지우고 다시 복제해야 하나요?",
+        "rating": 5
+      },
+      {
+        "user": "Mvp MnA",
+        "text": "광고 1초 남기고 그대로 멈춘다 깔지말아라",
+        "rating": 1
+      },
+      {
+        "user": "Thanos Lee",
+        "text": "알림안오는버그좀 고쳐주세요 1년치결제했는데 이문제가 제일 큽니다",
+        "rating": 4
+      },
+      {
+        "user": "오지은",
+        "text": "앱 안켜지잖아 쓸모없는앱",
+        "rating": 1
+      },
+      {
+        "user": "Podo Cheong",
+        "text": "앱 하나는 광고없이 무료로 복제 가능하고 요금제도 다른앱들에 비해서는 굉장히 쌉니다. 버그없이 가볍게 잘 돌아갑니다. 추천드림.",
+        "rating": 5
+      },
+      {
+        "user": "임윤",
+        "text": "free vip 광고 포인트 모으다가 자꾸 0포인트로 바뀌고 광고도 처음부터 보는 오류가 반복되는데 좀 고쳐주세요",
+        "rating": 1
+      },
+      {
+        "user": "Ki Yoon Ryu",
+        "text": "빌트인 브라우저 선택 하는 것 좀 없애주면 좋겠는데. 매번 선택 해야 하는거 개짜증남",
+        "rating": 2
+      },
+      {
+        "user": "BADA 0",
+        "text": "왜 알림이 안올까요 화이트아웃서바이벌 클론앱으로 하고 있는데 알림이 안와요 다른 복제앱으론 알림 잘 왔는데 이 앱만 알림이 한번도 안오네요 알림설정 다 봤고 잘 켜져있는데 그냥 안와요",
+        "rating": 3
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "4.1.7",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Clone App - Multiple Accounts' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

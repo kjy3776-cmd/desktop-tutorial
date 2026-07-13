@@ -1173,11 +1173,16 @@
       "name": "엘스(Else): 영어회화, 단어, 리스닝, 섀도잉",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Clone App - Multiple Accounts",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 213,
-    "skipped": 137,
+    "total": 214,
+    "skipped": 138,
     "has_issues": 76,
     "total_issues": 108,
     "fixed": 11
