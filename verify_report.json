@@ -1178,13 +1178,19 @@
       "name": "Clone App - Multiple Accounts",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "만보기",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 214,
+    "total": 215,
     "skipped": 138,
-    "has_issues": 76,
-    "total_issues": 108,
+    "has_issues": 77,
+    "total_issues": 109,
     "fixed": 11
   }
 }
