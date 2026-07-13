@@ -15914,5 +15914,52 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 215,
+    "name": "엘스(Else): 영어회화, 단어, 리스닝, 섀도잉",
+    "slug": "엘스else-영어회화-단어-리스닝-섀도잉",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/lfBTaUtrGBEIE5EVz7VD1z61i8CzEw1AD4ZPW1Ab6WzlBMHQbvP0OfSzr4aBHbeGP7yVeJVOjy0_ANJ3B_EVNg",
+    "developer": "Else, Inc.",
+    "desc": "게임처럼 재미있지만 실력은 늘지 않는 영어 앱에 지치셨나요?\r 실리콘밸리에서 시작하고, 현지 이민자들이 인정한 \r 진짜 영어 학습 앱, 엘스(Else)를 만나보세요.\r \r 1. 매일 도착하는 영어 학습지: 내 관심사 기반으로 추천해주는 영어 콘텐츠\r 2. 진짜 선생님 처럼 자연스러운 대화: 과거 나의 대화 경험을 기억하는 AI튜터\r 3. 도움이 되는 구체적인 피드백: 패러프래이징 -교정 - 연습까지 똑똑하게 한 사이클\r 4. 틀리지 않을 때까지 끝장내는 복습: 입에서 자동으로 튀어나올 때까지 연습시키는 복습 프로그램\r 5. 꾸준히 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6745596023",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.elseinc.app",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/vPIjywuHEbBTHb4EtgWEHBLg2uZcbBTVrjJc9oqzwKlc6jEJ9lyK2n4x0cdlWxKx0hqPzC0RHQcSNJNVSrUPgw",
+      "https://play-lh.googleusercontent.com/aAM5fuJEegRoOjo4H0MLIj7XCJDiK2nVEc6L8h-hztT9x3ub8SGB9GvSfp3tsOljIlDEELMfcDAjlkikbXnAWA",
+      "https://play-lh.googleusercontent.com/_gt1QQwiVurJB7E3VtiqVcg0f-F_gZA5ULJzJU8_CskDuFY4zXeWtuMrtrFkYk6QRXvS76wZDGJHSChiQjC9MQ"
+    ],
+    "reviews": [
+      {
+        "user": "eoyfedtiwogc",
+        "text": "학습 방법이랑 UI는 깔끔해서 좋은데, 다른 앱이랑 비교하면 가격대가 너무 비싸요. 무료 체험도 없어서 구독하기 망설여지네요.",
+        "rating": 3
+      },
+      {
+        "user": "Rupina Kim",
+        "text": "로그인 단계에서 넘어가지 않습니다",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.12.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '엘스(Else): 영어회화, 단어, 리스닝, 섀도잉' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

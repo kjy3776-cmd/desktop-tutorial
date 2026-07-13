@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-12",
+  "date": "2026-07-13",
   "results": [
     {
       "name": "카카오톡",
@@ -1168,11 +1168,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "엘스(Else): 영어회화, 단어, 리스닝, 섀도잉",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 212,
-    "skipped": 136,
+    "total": 213,
+    "skipped": 137,
     "has_issues": 76,
     "total_issues": 108,
     "fixed": 11
