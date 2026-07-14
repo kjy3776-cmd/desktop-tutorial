@@ -1189,13 +1189,20 @@
       "name": "ILOA.GG - 일로아",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "LIFESTYLE TRANSFORMATIONS",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 216,
+    "total": 217,
     "skipped": 139,
-    "has_issues": 77,
-    "total_issues": 109,
-    "fixed": 11
+    "has_issues": 78,
+    "total_issues": 111,
+    "fixed": 12
   }
 }

@@ -16192,5 +16192,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 219,
+    "name": "LIFESTYLE TRANSFORMATIONS",
+    "slug": "lifestyle-transformations",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/hxsq9eNy9pEnngsMb0AGqVYkbD_TbEjU0IfAErx60E4LfPmHn4Q3y5JPP1yRoOu4egeuf3OhNV-ivaaVmb5fORM",
+    "developer": "Trainerize CBA-STUDIO 2",
+    "desc": "LPT 코칭 앱을 사용하면 피트니스 및 건강 목표를 달성하는 데 도움이 되도록 특별히 고안된 훈련 프로그램에 액세스할 수 있습니다! 코치의 도움을 받아 운동, 영양, 생활 습관, 측정 및 결과를 추적할 수 있습니다.\r \r 특징:\r \r - 트레이닝 계획에 액세스하고 운동을 추적하세요.\r - 운동 및 운동 동영상을 따라해보세요.\r - 식사를 추적하고 더 나은 음식을 선택하세요\r - 매일 습관을 파악하세요.\r - 건강 및 피트니스 목표를 설정하고 목표 달성 진행 상황을 추적하세요.\r - 새로운 개인 최고 기록을 달성하고 습관을 유지하기 ",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.trainerize.lptacademy",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/8ce0z2zhO6h5DlYa5uQijVnEH8y8bSpU81NT5ymyBycMmVneMqjwAv82ci72dN4SH2QR9S-uDsuMfoTUxJ4dlQ",
+      "https://play-lh.googleusercontent.com/TCqLO9t9IIzH56l7CN6cmh7OEZgWNwJbRR9aTgi_ONewLVH2_KVEkm7k5SlJKBGEHJlkgJykopsMY8rHwFOZ",
+      "https://play-lh.googleusercontent.com/7kyPwQdC5EH1TL_lGEZqk3cgVHCPovWwTi7gXVDzuVZvvW0UPoYhhBRdT_oKsnNb-kRe6seKPGpkxjpTA4G38JY"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'LIFESTYLE TRANSFORMATIONS' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
