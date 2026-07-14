@@ -16135,5 +16135,62 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 218,
+    "name": "ILOA.GG - 일로아",
+    "slug": "iloagg-일로아",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/ETKYMYtrOB99iyVLQ4lT4Cbx_7eqmBHhVX7mLpGTWfORr0KobKjozTd0pQB4zuMcsmy7WbMOUCO2ejJhBNsZQDM",
+    "developer": "WeMotion",
+    "desc": "로스트아크 종합 정보 앱 - 로스트아크의 모든 정보를 한 눈에!\r 캐릭터 정보부터 모험섬까지, 로스트아크 플레이어를 위한 필수 앱\r \r • 검색과 즐겨찾기로 공대원 정보를 한눈에!\r 원하는 캐릭터를 빠르게 검색하고 즐겨찾기로 저장하세요.\r 공대원들의 레벨, 아이템 레벨, 특성을 쉽게 확인할 수 있습니다.\r 실시간으로 업데이트되는 정확한 캐릭터 정보를 제공합니다.\r \r • 랭킹 정보 탭에서 레벨과 전투력을 한눈에!\r 서버 별 최고 랭커들의 정보를 실시간으로 확인하세요.\r 레벨, 아이템 레벨, 전투력 순위를 한번에 볼 수 있습니다.\r ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6746703399",
+    "androidUrl": "https://play.google.com/store/apps/details?id=gg.iloa.mobile",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/elFm8N84O0ojrmDRtj02zXktcjDRE44oUp0asa5gHyJ3jZPKMSUug_K2_GoxX2hDdzKzkH0RlVbrXzwg81wI",
+      "https://play-lh.googleusercontent.com/GWrr9Dp6LUHvJZfGfI1Rpvjs8I3askwrEazXXMBq7S5HdnTFPi0Ia0WJynFBL-t6NK47mYjSRicITG4g4Ajl2Sw",
+      "https://play-lh.googleusercontent.com/ZpHZUcN0Mh6vGPND1Dby4tov2yInEkfZaABlBGxXJY-XH6F214huni1IoXSGbM-RDiEDMTmN4PoCBoDXCvJ1"
+    ],
+    "reviews": [
+      {
+        "user": "김동은",
+        "text": "아니 개빡치게 굉고를 몇번을 누름ㅋㅋㄱ무슨 쓰기전에 광고 때문에 삭제 하겠네ㅡㅡ",
+        "rating": 2
+      },
+      {
+        "user": "이기용",
+        "text": "통계안보여서 앱깔았더니 앱은 통계메뉴 자체를 빼버리고 광고만나옴",
+        "rating": 1
+      },
+      {
+        "user": "Google 사용자",
+        "text": "즐겨찾기가 한캐릭터밖에 안되고 모험섬 일정이 안뜨네요~",
+        "rating": 5
+      },
+      {
+        "user": "리하덴",
+        "text": "로그인도 안되고 대표캐릭 설정 버튼이 안 먹힘",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'ILOA.GG - 일로아' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
