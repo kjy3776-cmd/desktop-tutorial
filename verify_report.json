@@ -1196,13 +1196,19 @@
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "Trust: Crypto & Bitcoin Wallet",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 217,
+    "total": 218,
     "skipped": 139,
-    "has_issues": 78,
-    "total_issues": 111,
+    "has_issues": 79,
+    "total_issues": 112,
     "fixed": 12
   }
 }
