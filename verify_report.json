@@ -1207,13 +1207,19 @@
       "name": "스타 세일러",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Bloomberg: Finance Market News",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 219,
+    "total": 220,
     "skipped": 140,
-    "has_issues": 79,
-    "total_issues": 112,
+    "has_issues": 80,
+    "total_issues": 113,
     "fixed": 12
   }
 }

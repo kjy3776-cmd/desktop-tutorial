@@ -16402,5 +16402,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 222,
+    "name": "Bloomberg: Finance Market News",
+    "slug": "bloomberg-finance-market-news",
+    "cat": "finance",
+    "icon": "https://play-lh.googleusercontent.com/L3a-Th_oSHUy8Ykh29R4qNa3w-RhX1HoiSagOZACgmp0u6ArCn8mAgALI1wbNQzNjGJH4FhbGQbeB1CaYhA6",
+    "developer": "Bloomberg LP CM",
+    "desc": "세계 금융, 비즈니스, 주식 시장 및 투자에 대한 최신 뉴스를 확인하세요. 수상 경력에 빛나는 블룸버그 저널리즘을 통해 내일을 만들어가는 경제 및 금융 뉴스를 지금 바로 이해하세요.\r \r 세상을 바꾸기 전에. 블룸버그.\r 앱을 맞춤 설정하여 주식 시장과 투자 포트폴리오를 모니터링하세요. 미국 경제, 유가, 다우존스, 나스닥 등 주요 이슈에 대한 최신 정보를 받아보세요.\r \r 블룸버그는 현대 비즈니스 리더와 금융 전문가에게 필수적인 비즈니스 뉴스를 제공합니다. 주식 포트폴리오 관리부터 최신 세계 뉴스까지, 블룸버그는 언제 어디서든 필",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.bloomberg.android.plus",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Aih1hTgLb4G3-c9bBIUsZ9icXWHQSWVPPgprM3PBwNiVb_ylEgEJUp5zeUxZlC5eiae4tP6HN9SV2XDDOTvnYvo",
+      "https://play-lh.googleusercontent.com/EIE59Va5Mv3VHbh0vwWnF77ioORPL9zjDN8BeUflK7s5MBeak-TCNq4Js01x2s97IERky6C0gcgaNT9-TcBtQ6U",
+      "https://play-lh.googleusercontent.com/C7IO0jX-dKlPANc9lMS0aKUo8nLbezwlYiiJ5A8foUN_7ZDBIx0tCs2e-sWHBwjwe5yL6-OI9I9ojZt5B9THRQ"
+    ],
+    "reviews": [
+      {
+        "user": "홍상훈",
+        "text": "구독해서 보는중인데 진지하게 할거 아니면 구독 허지마세요. 너무어렵네요.",
+        "rating": 5
+      },
+      {
+        "user": "Doodly",
+        "text": "왜 웹사이트에서도 지원하는 번역을 앱에서는 사용할 수 없는지 이해할 수가 없습니다.",
+        "rating": 2
+      },
+      {
+        "user": "Google 사용자",
+        "text": "블룸버그 내용을 이렇게 볼수 있다니 너무 좋네요.전 갤노트를 사용하는데 스마트 셀렉트기능을 이용해서 선태한부분 복사누르면 pagoda어플깐게 자동으로 뜨면서 영어-한국으로 번역하니까 번역도 너무좋고 보기좋네요.",
+        "rating": 4
+      },
+      {
+        "user": "Life Yolo",
+        "text": "조심하세요. 잘못 1년 유료결제 되면 환불 자체를 안 해줘요. 구글에서 아예 환불을 안 해 줘요. 당일 바로 취소 및 환불요청해도요.",
+        "rating": 1
+      },
+      {
+        "user": "Google 사용자",
+        "text": "다양한 기사가 있어요. 하지만 약간 느린감이 있고 가끔 끈김과 튕김이 있습니다.",
+        "rating": 4
+      },
+      {
+        "user": "류혜선",
+        "text": "watchlist 탭 선택시 오류나면서 앱이 종료됩니다.빠른 해결 부탁드립니다!!",
+        "rating": 3
+      },
+      {
+        "user": "Google 사용자",
+        "text": "라디오 방송이 사용중 꾾길 때가 있지만 영어 라디오 방송을 잘 듣고있습니다",
+        "rating": 4
+      },
+      {
+        "user": "이일형",
+        "text": "블룸버그의 최신 뉴스를 접할 수 있는 앱이 있어서 좋습니다.",
+        "rating": 5
+      },
+      {
+        "user": "K H",
+        "text": "구독료를 받으면서 광고까지 달아놓았다",
+        "rating": 4
+      },
+      {
+        "user": "YongBae Kim",
+        "text": "한글 지원 꼭 부탁드립니다.",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Bloomberg: Finance Market News' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
