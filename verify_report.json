@@ -1202,11 +1202,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "스타 세일러",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 218,
-    "skipped": 139,
+    "total": 219,
+    "skipped": 140,
     "has_issues": 79,
     "total_issues": 112,
     "fixed": 12
