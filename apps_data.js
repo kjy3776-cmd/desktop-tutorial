@@ -16489,5 +16489,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 223,
+    "name": "사탕소개팅: 주말 홍대의 훈남훈녀를 만나보세요",
+    "slug": "사탕소개팅-주말-홍대의-훈남훈녀를-만나보세요",
+    "cat": "sns",
+    "icon": "https://play-lh.googleusercontent.com/zMdzJPvWTzWnlJUZ8P-XkOPKpE0eozpttqFkoosZiu1wjZCfhVpgJjuYGPWZiL5lBij9XCYCGcuXpDtJt7WrGxs",
+    "developer": "캔디포인트",
+    "desc": "인스타에서 인터뷰한 훈남훈녀들을 실제로 만나보세요.\r ----\r 개발자 연락처 :\r 캔디포인트 대한민국 13487 경기도 성남시\r 분당구 대왕판교로645번길 12, 7,9층 174호(삼평동,경기창조경제혁신센터) 2113000704 제 2021-수원영통-1206 호 수원시 영통구청장",
+    "iosUrl": "https://apps.apple.com/kr/app/id1455954160",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.candypoint.arcandy",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/qd4siMdLx2BLQoLGhDp6dnQXIzj5cRHy2MmSEmduzYvGBdlK3UKX66dlvT12VLAALpdQkWZMG9GtD4KMRq_B",
+      "https://play-lh.googleusercontent.com/sjaT4r2ZjxGWx4rOadZbVvgYXyHKDUtHs6Nv5Y-WkqCISUEMjzbz88AAQW4Xemj1FnaQVdrf1PQrDy5JJMd5lA",
+      "https://play-lh.googleusercontent.com/CbKmo6WArymqly8OjLdKo4mrxob7fgjc6OHZhpsyylgxS_V5xys3k3-rKHqPsZhDptY1gqH0RJ8xGEZ-12sx"
+    ],
+    "reviews": [
+      {
+        "user": "Google 사용자",
+        "text": "일단, 대학생들끼리 만날 수 있다는 점이 좋은것 같아요. 친구에게 소개팅 부탁하기 어려울 때 여기서 좋은 사람 만날 수 있을것 같아요. 개선해야 될 점이라고 생각하는 건 굳이 대학교 로고를 찍어서 들어가는 점이에요. 로고가 있으면 찍지만 없으면 인터넷에서 찾아서 찍어야 되는데 과정이 귀찮아요. 차라리 타이핑으로 입력하는 방식도 추가해 주시면 좋을것 같아요.",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "얼마전에 학교에서 캔디포인트를 봤는데 너무 괜찮아서 앱 다운까지 받았습니다 ㅋㅋㅋ 진심 기존 소개팅앱들과는 차원이 달라서 계속 사용할 수 있을 거 같아요 ㅋㅋㅋ 이런 앱 만들어주셔서 그저 감사할 따름입니다!! 전체적인 기능과 디자인도 크게 신경쓰신게 다 보이네요!! 아 그리고 학교에서 뽑은 별명사탕으로 지금 연락 잘 하고 있는 중입니다 ㅋㅋㅋ 감사합니다~ 번창하세요!! ^^",
+        "rating": 5
+      },
+      {
+        "user": "zhenyu",
+        "text": "예전에는 안그랬는데 과금유도가 너무 심한 것 같아요. 상대방이 뽑았고 메세지가 먼저와도 저도 서비스권을 구매 해야하는등 과금을 안하면 이용을 전혀 할 수 없어졌네요. 서비스권이나 뽑기권 가격도 저렴한것도 아니구요",
+        "rating": 1
+      },
+      {
+        "user": "Google 사용자",
+        "text": "다른 학교 학생들과도 인맥을 쌓을 수 있다는게 좋은거 같아요!! 앱 아이디어도 너무 좋고 증강현실을 이용하는것도 참신해요! 사탕을 뽑아서 미팅 상대를 정한다는 것도 아이디어가 너무 좋아요!",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "각 학교마다 사탕뽑을 때 마다 설레고 기대하게 만드는 것 같습니다! 좋은 아이디어 인 것 같구 좋은 인연이 될 수 있는 기회가 주어진 것 같아서 좋은 어플인 것 같습니다! 캔디포인트 화이팅~!😊",
+        "rating": 5
+      },
+      {
+        "user": "하루",
+        "text": "본인인증이 안되는데 무슨 문제가 있는걸까요?다른분으로부터 메시지는 계속 오는데 어플 사용이 불가능하네요.. 메일 문의도 확인을 안해주셔서 리뷰에 남깁니다.",
+        "rating": 1
+      },
+      {
+        "user": "Dong Park",
+        "text": "너무 신기하고 재밌어요 ! 전부 실제 학생 회원들로 채워져있는게, 신기했어요. 대박! ㅋㅋㅋ.대표님이 직접 발로 뛰면서 이 사람들 다 가입을 시켰다는게 대단한거 같아요 ! 특히 다 같은 또래여서 대화에 공감대형성도 빠르고, 너무 좋았어요 !! ㅋㅋㅋ - 차에 치인 박보검 -",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "취지는 좋은거같아요. 아직 인지도가 낮아서 참여인원이나 컨텐츠가 부족한거 빼면 발전가능성 다분한거같네요. 화이팅",
+        "rating": 5
+      },
+      {
+        "user": "sh joung (페니키즈)",
+        "text": "가입절차 다 입력하고 계정인증 대기중이라고 해서 3개월동안 기다리다가 대표님 DM으로 문의 드렸는데 답장도없으시고 홍대 현장가니까 나이제한있다고 하더라고요 ㅎㅎ 그동안 과정 설명드리니깐 사과도 없으시고, 이상형 얘기도 안했는데 아무여성분 계정 뿌리시고 들어가보니까 탈퇴계정인가 비공개계정인가... 주시고 사탕 몇개 주시면서 먹고 떨어져라는 식으로 서비스 하시는데... 사업을 하실거면 좀 성심성의껏 하셨으면 합니다.",
+        "rating": 1
+      },
+      {
+        "user": "CG Lee",
+        "text": "대학생활때 우연치 않게 접했던 \"사랑사세요 사랑팝니다\" 앱으로 출시까지 될줄이야. 너무 신기하고 기존 다른 어플이랑 다르게 과금유도나 그런것도 없고 진짜 현실 소개팅하는 기분이랄까.나만 하기는 아쉽닷",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.00252",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '사탕소개팅: 주말 홍대의 훈남훈녀를 만나보세요' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

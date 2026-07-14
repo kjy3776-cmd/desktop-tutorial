@@ -1213,11 +1213,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "사탕소개팅: 주말 홍대의 훈남훈녀를 만나보세요",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 220,
-    "skipped": 140,
+    "total": 221,
+    "skipped": 141,
     "has_issues": 80,
     "total_issues": 113,
     "fixed": 12
