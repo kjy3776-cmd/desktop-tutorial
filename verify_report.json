@@ -1249,11 +1249,16 @@
       "name": "고양이 번역기 – 고양이언어",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "하이파이브(hifive)",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 227,
-    "skipped": 146,
+    "total": 228,
+    "skipped": 147,
     "has_issues": 81,
     "total_issues": 114,
     "fixed": 12
