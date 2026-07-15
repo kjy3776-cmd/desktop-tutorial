@@ -16786,5 +16786,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 227,
+    "name": "Muslim Pro: 꾸란 예배 안내",
+    "slug": "muslim-pro-꾸란-예배-안내",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/mD2Ynl51BEdwEezsHFLvv2iGQmUFN0e5_SCHT-FgCK_cmg9QU-cYkPhteRBqlgwqlZrQmtC8iu4sN_1Y3tpMWw",
+    "developer": "Bitsmedia",
+    "desc": "최고의 쿠란, 기도, 이슬람 자료\r \r 모든 이슬람 관련 필요 사항을 충족하는 가장 포괄적인 디지털 자료인 Muslim Pro로 매일의 신앙을 강화하세요. 검증된 기도 시간, 완전한 쿠란, 정확한 아잔 알림(아탄 또는 아단이라고도 함), 정확한 키블라 방향 등 이슬람 신앙을 더욱 깊이 있게 하는 다양한 자료를 이용하세요. 전 세계 수백만 명의 무슬림과 함께 이슬람을 통해 알라와의 연결을 강화하세요.\r \r 이슬람 예배를 더욱 풍성하게 하는 주요 기능:\r \r 검증된 기도 시간 및 아잔: 신뢰할 수 있는 출처에서 검증된 정확한 위치 기반",
+    "iosUrl": "https://apps.apple.com/kr/app/id388389451",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/eWIjoXtQITPPuOXGJp-H5aSrWILN55Dg8GssiALxlmT9uVi4FwGNCLwsvJrW2OImFhQqLFVHt93TiWjHzcUx7Q",
+      "https://play-lh.googleusercontent.com/C4dwt5bKUSm8MqFdlrAaOLRHBbGJOhYf451a2Uoq4ze85GBis0vtGkB7BIrbUcKRD73-NhalW9b3j4wbR_Wk",
+      "https://play-lh.googleusercontent.com/Knwcj5i6hgSYSGPXFxufUo9t3hVVVZM_DE0EvlnwexVSNukLvtyNfc11sfivUBSeTsXlW5k_xJgM69c-FhnGSJg"
+    ],
+    "reviews": [
+      {
+        "user": "양재훈",
+        "text": "무슬림들이 사용하기 가장 좋은 어플리케이션입니다. 아흘룻 순나 왈 자마아(하나피, 샤피이, 말리키, 한발리)라면 이 어플 적극적으로 추천드릴게요. 마샤 알라",
+        "rating": 5
+      },
+      {
+        "user": "유상",
+        "text": "너무 광고 많아져서 삭제",
+        "rating": 2
+      },
+      {
+        "user": "푸른별호랑이",
+        "text": "이슬람을 알아가는데 큰 도움이 되고 있어요.",
+        "rating": 5
+      },
+      {
+        "user": "KAMOLA ASKAROVA",
+        "text": "thank you so much)) 너무 감사해요~~^^ 항상 행복하세요 ~~^^",
+        "rating": 5
+      },
+      {
+        "user": "Akmal Onestar",
+        "text": "👍🏻",
+        "rating": 5
+      },
+      {
+        "user": "Niama Hmied",
+        "text": "Magnifique comme application",
+        "rating": 5
+      },
+      {
+        "user": "UMAR IBN AL-XATTAB",
+        "text": "🥰",
+        "rating": 5
+      },
+      {
+        "user": "김지빈",
+        "text": "Pre-reminder before pray time will be better useful when it alarm once separate from pray time. Pre-reminder is poping up just push. And Muslim Pro need more translator to tell korean from this app.",
+        "rating": 5
+      },
+      {
+        "user": "Yousuf Bin Muhammad",
+        "text": "jazakalla, muslim pro",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "Thank you for Allah!!!",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Muslim Pro: 꾸란 예배 안내' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

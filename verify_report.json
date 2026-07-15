@@ -1233,11 +1233,16 @@
       "name": "모비 - 통신사가 만든 eSIM 로밍",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Muslim Pro: 꾸란 예배 안내",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 224,
-    "skipped": 144,
+    "total": 225,
+    "skipped": 145,
     "has_issues": 80,
     "total_issues": 113,
     "fixed": 12
