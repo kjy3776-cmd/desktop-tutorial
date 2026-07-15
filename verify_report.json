@@ -1244,11 +1244,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "고양이 번역기 – 고양이언어",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 226,
-    "skipped": 145,
+    "total": 227,
+    "skipped": 146,
     "has_issues": 81,
     "total_issues": 114,
     "fixed": 12
