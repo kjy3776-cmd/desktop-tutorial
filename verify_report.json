@@ -1238,13 +1238,19 @@
       "name": "Muslim Pro: 꾸란 예배 안내",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Minecraft Education",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 225,
+    "total": 226,
     "skipped": 145,
-    "has_issues": 80,
-    "total_issues": 113,
+    "has_issues": 81,
+    "total_issues": 114,
     "fixed": 12
   }
 }
