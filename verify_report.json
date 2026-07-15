@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "results": [
     {
       "name": "카카오톡",
@@ -1223,11 +1223,16 @@
       "name": "탕후루의 달인 - 두쫀쿠, 급식, 배달 먹방 ASMR",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Tomodachi Miis Ideas",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 222,
-    "skipped": 142,
+    "total": 223,
+    "skipped": 143,
     "has_issues": 80,
     "total_issues": 113,
     "fixed": 12

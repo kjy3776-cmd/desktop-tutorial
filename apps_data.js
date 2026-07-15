@@ -16663,5 +16663,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 225,
+    "name": "Tomodachi Miis Ideas",
+    "slug": "tomodachi-miis-ideas",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/b2gOrw5GCxZIQ8yUkfGU9l-Ev5Rb6QJCg1OgRcNva_kq5kzcF3G3yGE1QR-o8FDn0vnLwIZrxr84J_X7pupm-Jo",
+    "developer": "VNDER",
+    "desc": "닌텐도 스위치용 토모다치 라이프 커뮤니티 플랫폼, 토모다치 플라자에 오신 것을 환영합니다!\r \r 전 세계 플레이어들이 만든 수천 개의 개성 넘치는 Mii 캐릭터를 만들고, 공유하고, 찾아보세요. 좋아하는 애니메이션 캐릭터, 유명인, 가족, 혹은 완전히 새로운 나만의 캐릭터까지, 어떤 Mii를 섬으로 데려오고 싶든 토모다치 플라자에서 완벽한 Mii를 찾을 수 있습니다.\r \r 주요 기능\r \r • Mii 둘러보기: 인기순, 최신순, 또는 무작위로 정렬된 다양한 Mii 캐릭터들을 탐색해 보세요.\r • 나만의 Mii 공유: 직접 만든 Mii",
+    "iosUrl": "https://apps.apple.com/kr/app/id6762808124",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.tomodachiplaza.app",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/qSB_u5oUTZtH7gvkWVJQ4OgEd2w7Xs4MEanbFDRwZ4_zpkBKln7Hwv0T3dlIRUIgqsjCymFIBNnKqB6fKSpW",
+      "https://play-lh.googleusercontent.com/vCOltTnxNa0F-4_UNZ1qMfXpsonCngJFBsxTiaTvPPEZO-Wlq-SXIS-nDMfJoitJ0XaKXm_M1tbeVoniiZCd",
+      "https://play-lh.googleusercontent.com/qTI3hl0csfWcb59PtexmN6QO2acDZIYI1VdWqpw3skKT-QJT5U3oULp8Ksarw6H06zX42VUTU0dTchK6r_ttag"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Tomodachi Miis Ideas' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
