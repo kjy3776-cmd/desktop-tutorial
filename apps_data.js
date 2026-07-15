@@ -16699,5 +16699,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 226,
+    "name": "모비 - 통신사가 만든 eSIM 로밍",
+    "slug": "모비-통신사가-만든-esim-로밍",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/de5SQoRL4YKh6rDE8tOq1EnWkPSrqJ5GxcS5P8YbZpAbZ4PuP6Gui3sgBSI3dsc6yGzlQqCfT-yPmXv1VSwHHG8",
+    "developer": "케이티엠모바일",
+    "desc": "통신사가 제공하는 안전한 해외 로밍 eSIM(이심), mobi!\r \r 해외 여행 데이터 준비, \r 이제 공항 로밍 센터에서 줄 서지 말고 mobi에서 1분 만에 완성하세요!\r  \r mobi는 해외 여행용 eSIM 전문 서비스입니다.\r 일본·대만·베트남·중국·홍콩·태국·미국 등 전 세계 어디서나 별도의 로밍 신청 없이 \r 데이터를 즉시 사용할 수 있어요. \r 이제 무거운 포켓 와이파이나 번거로운 유심 교체 대신 eSIM으로 가볍게 여행을 떠나보세요.\r \r 특히 중국·홍콩·대만은 여권 실명인증 없이 바로 이용 가능하여 더욱 편리합니다.",
+    "iosUrl": "https://apps.apple.com/kr/app/id6756096473",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.kt.mobi",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/pIimZ74q_3oWPxVrVMhSQtTe6y3Iv20nwIJCif9WSqvRU01EvRAZfS-t2aE_Mvmyh68R5wKV73hMWBvGvM2p2Q",
+      "https://play-lh.googleusercontent.com/KpuHYcTqxhyScyaPn2QIrqP_I2DUJehgZhrsIYJMAVciJS3GRqywSlQKmzBMF8Sl-t6sIgFlEPU-fWOV9fIW",
+      "https://play-lh.googleusercontent.com/KdejbsB0k3inQvRm3bzQAGxrWrLNqLKMBRSMwG0YuAs6mvc_ZMYwT8FQICo7VXfe1DQr_keTv5DGOAE46kpz"
+    ],
+    "reviews": [
+      {
+        "user": "유기용",
+        "text": "호주 10일 무제한 이심 이용했는데 한국에서 사전개통테스트 후 현지 즉시 이용했는데 진짜 편하네요. 작년까지 도시락이심썼는데 비교도안되게 편리합니다. 시드니에만 있었는데도 확실히 한국만큼 5G 속도가 나오진 않지만 뭐 이건 현지 통신사 이슈라... 그래도 유튜브 보는데도 전혀 문제없었구요. 암튼 사전개통되고 현지 즉시사용되는거 이거 물건이네요!!!",
+        "rating": 5
+      },
+      {
+        "user": "misun kim",
+        "text": "항상 로밍만 이용하다가 미국 여행 때 처음으로 mobi eSIM을 사용했는데 매우 만족했습니다. 설치가 간편했고 QR 등록 후 바로 개통되어 공항 도착하자마자 데이터 사용이 가능했습니다. 미국에서 지도, 우버, 카카오톡, 인터넷 검색까지 끊김 없이 안정적으로 잘 작동했습니다. 속도도 빠르고 연결이 안정적이어서 여행 내내 불편함이 없었습니다. 다음 미국 방문 때도 다시 이용할 생각입니다.",
+        "rating": 5
+      },
+      {
+        "user": "Hoony",
+        "text": "사용 방법이 간단하고 편합니다 하지만 일본 오사카에 왔는데 데이터가 사용하지 못할 정도로 너무 느려서 불편하네요 무제한 사용하고 있습니다 그것 빼고는 괜찮습니다",
+        "rating": 3
+      },
+      {
+        "user": "Eun Ju ahn",
+        "text": "전체적으로 앱은 깔끔한 느낌이예요.. 회원가입이 별도로 없는 것도 괜찮았고.. 개통체크 라는 기능도 있더라구요. 해외 나가는 친구들한테 한번 써보라고 권할 의사있음.",
+        "rating": 5
+      },
+      {
+        "user": "최락준",
+        "text": "네이버 스마트 스토어에서 구입한 이심을 모비앱에서도 바로 확인이 가능해서 신기했습니다 UI도 군더더기 없이 직관적이고 사용하기 편리하네요",
+        "rating": 5
+      },
+      {
+        "user": "냠냠",
+        "text": "일본여행을 가게되서 이심이 필요했는데 정말 간편하게 가입해서 일본에서 편하게 사용했어요! 맘껏으로 구매했는데 살짝 느리지만 엄청 불편하진 않았어요!",
+        "rating": 5
+      },
+      {
+        "user": "윤냐",
+        "text": "3월 오사카갓을때 잘터졋는데 5월에 데이터 엄청 안터짐 ...",
+        "rating": 1
+      },
+      {
+        "user": "B Song",
+        "text": "무제한도 싸지만 다양한 용량의 30일 요금제 너무 좋아요. 지난주 실제로 낸 요금의 10% 수준이라 개꿀일 듯.",
+        "rating": 5
+      },
+      {
+        "user": "유혁환",
+        "text": "설치도 간편하고 상담원도 신속하고 정확하게 제가 질문한 사항들의 답변을 주었습니다. 강추합니다!",
+        "rating": 5
+      },
+      {
+        "user": "Bg Yoo",
+        "text": "KT M 통신사 이용해서 로밍 알아 보다 알게되었는데 모든 통신사에서도 이용 가능하네요 회원가입 없이 휴대폰 번호로만 인증후 원하는 상품 구입할수 있어 좋네요",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.1.41",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '모비 - 통신사가 만든 eSIM 로밍' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

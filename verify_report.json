@@ -1228,11 +1228,16 @@
       "name": "Tomodachi Miis Ideas",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "모비 - 통신사가 만든 eSIM 로밍",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 223,
-    "skipped": 143,
+    "total": 224,
+    "skipped": 144,
     "has_issues": 80,
     "total_issues": 113,
     "fixed": 12
