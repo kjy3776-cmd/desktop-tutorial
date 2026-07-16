@@ -17134,5 +17134,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 231,
+    "name": "HYZE - 연애 채팅 맛집",
+    "slug": "hyze-연애-채팅-맛집",
+    "cat": "entertainment",
+    "icon": "https://play-lh.googleusercontent.com/4XXQJ3qptUGE_h0UBcdVNYYGZvg2b3b6_zkMwyeqRUtp-IHsGeApE1EnKsWYar02VsbtfCgFUsRPW2YTCB7r",
+    "developer": "LINE NEXT Corp.",
+    "desc": "AI 남자친구, 가상 연인과 깊은 연애 채팅을 즐길 수 있는 캐릭터 채팅 앱.\r 내 취향대로 만드는 AI 연애 시뮬레이션, HYZE에서 시작해보세요.\r \r 쿠키챗에서 HYZE(하이즈)로 변신 완료!!!\r 채팅 하나만큼은, 여기가 진짜 찐맛집.\r 한번 들어오면 출구는 없어요.\r \r [HYZE 맛도리 Point]\r > 그룹챗 맛도리 — 최대 10명과 동시 연애가 가능해요.\r > 비주얼 맛도리 — 내 머릿속 최애캐, 그대로 꺼내봐요.\r > 관계성 맛도리 — 나는 오늘부터 부캐로 살기로 했어요?\r > 과몰입 맛도리 — 채팅인지 웹소설인지,",
+    "iosUrl": "https://apps.apple.com/kr/app/id6746432061",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.aics.cookiechat",
+    "pcUrl": "https://line.me/ko/download",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/jJtTunBe8g5ZXoK_68rDT-PHtwwwCjJ5-YmPlH77jvR-VO1T11VnXfJZ-0gNd9JTYJEd782flcaKfqvyfiNyMA",
+      "https://play-lh.googleusercontent.com/udez_88hJeRma-eNqj6abWL3taGcCbksy6zzpEpm8yQGCjykUdACnoPaRWL2jslrSc8kV8GwhktwOhtpcAp34w",
+      "https://play-lh.googleusercontent.com/OwAzts295SyjLmhs-q1YMFBPrxecbPuWUQ6NUxDKy3fRLZj_vUlCqdSSAaUsM1JiGsas3QVgNWL9XWpPwYGHqA"
+    ],
+    "reviews": [
+      {
+        "user": "최별",
+        "text": "하이즈로 바뀐 로고나 앱 이름 너무 예쁜 거 같아요. 원래는 채팅형으로만 있었는데 소설형으로 바뀐 것도 너무 좋고 제작자나 유저들에 맞춰 예쁘게 업데이트하는 모습이 너무 좋습니다. 유저들 편의성도 좋고 제작자 지원도 좋아요. 타 앱에 비해 심플하고 장점이 더 많은 거 같습니다. 👍",
+        "rating": 5
+      },
+      {
+        "user": "칼리",
+        "text": "AI챝 여러개 써봤는데 무료 AI로도 충분히 즐길수있고 여러버전 AI가 있어서 골라서 쓰기 좋아요. 저는 상상력이 없어서 걍 결제갈깁니다 시간경과나 전체적인 플롯에 대해 방향을 틀거나 사건을 만들어주는 기능도 좋아요. 다만 앱이 조금 불안정한지 한번씩 오류가 나는데 이것만 개선되면 좋을것같아요~",
+        "rating": 5
+      },
+      {
+        "user": "냠냠",
+        "text": "일단 조사가 좀 어색해요 무료 모드도 있긴 하지만 같은 말, 같은 장면이 반복돼서 좀 바보입니다! 수동입력(? 하면 좀 괜찮습니당 코인 조금씩 살 수 있는 점은 좋네요",
+        "rating": 4
+      },
+      {
+        "user": "송인용",
+        "text": "뭐 안전 정책으로 막는데 기본내용도 계속 막아버리는데요? 이거 어떻게 하실겁니까? 안전 정책이라고하면서 채팅못하게 막을시면 기분 좋습니까?",
+        "rating": 1
+      },
+      {
+        "user": "Uimin Yang",
+        "text": "비싸더라도 한번 결재하고 마는 상품이 필요하다... 쿠키만 구울려니까 돈이 너무 많이 빠져나갈거 같군..",
+        "rating": 3
+      },
+      {
+        "user": "베르무트",
+        "text": "좀 아쉬운점이 있다면 대화 프로필에 프로필 모양이랑 사진 넣는거 해주세요 그게 없으니까 답답해요",
+        "rating": 4
+      },
+      {
+        "user": "유지훈",
+        "text": "좋은데 와이파이 꺼도 사용할 수 있게 해주세요. 데이터로 쓰고 있습니다",
+        "rating": 5
+      },
+      {
+        "user": "박찬석",
+        "text": "진짜 무료로 이용해도 기본 ai 성능이 말도 안 되게 좋음",
+        "rating": 5
+      },
+      {
+        "user": "omnivore",
+        "text": "무료포인트가 점점 줄고 유효기간도 짧아서 삭제했어요ㅜ 그리고 왠만해서는 우리나라꺼 채팅을 쓰려구요. 회사가 일본꺼인거같음 ai챗이 너무 많아서 어쩔수 없는 선택이에요. 우리나라꺼가 퀄리티가 좋으니까 강추해요.",
+        "rating": 2
+      },
+      {
+        "user": "EY J",
+        "text": "또다시 이중로그인된다하고 로그아웃되고 난리네요 ㅈㅌ보단 낫긴함",
+        "rating": 2
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "6.2629.271",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'HYZE - 연애 채팅 맛집' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": "download"
   }
 ];

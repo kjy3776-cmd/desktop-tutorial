@@ -72,6 +72,7 @@
     "GrowMe: Micro Learning Daily",
     "G마켓",
     "H1 Lifestyle",
+    "HYZE - 연애 채팅 맛집",
     "HappyMood - All Games Library",
     "Hash #",
     "Health Partner: Pulse & Sugar",
@@ -427,7 +428,7 @@
     "홈 트레이닝 - 기구가 필요 없습니다",
     "홈&쇼핑"
   ],
-  "last_run": "2026-07-15",
+  "last_run": "2026-07-16",
   "next_id": 0,
   "today_count": {
     "2026-05-26": 2,
@@ -480,6 +481,7 @@
     "2026-07-12": 7,
     "2026-07-13": 3,
     "2026-07-14": 7,
-    "2026-07-15": 6
+    "2026-07-15": 6,
+    "2026-07-16": 1
   }
 }
