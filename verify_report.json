@@ -1271,11 +1271,16 @@
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "봄 캘린더 - 생리, 피임, 임신 준비",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 231,
-    "skipped": 149,
+    "total": 232,
+    "skipped": 150,
     "has_issues": 82,
     "total_issues": 116,
     "fixed": 13
