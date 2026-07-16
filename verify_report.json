@@ -1259,11 +1259,16 @@
       "name": "HYZE - 연애 채팅 맛집",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Marriott Bonvoy",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 229,
-    "skipped": 148,
+    "total": 230,
+    "skipped": 149,
     "has_issues": 81,
     "total_issues": 114,
     "fixed": 12

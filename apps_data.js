@@ -17221,5 +17221,47 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": "download"
+  },
+  {
+    "id": 232,
+    "name": "Marriott Bonvoy",
+    "slug": "marriott-bonvoy",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/-KHsrbwweAknVgALxFq_fg0PJQOIt8M4aR_HXH9i39xS2272MHbF7JKuPIoD9ICHHqh_cTbTi3_j_pbBNCx9USQ",
+    "developer": "Marriott Ownership Resorts, Inc.",
+    "desc": "Marriott Vacation Club® 앱을 사용하면 리조트 정보는 물론 소유권까지도 빠르고 쉽고 편리하게 액세스할 수 있습니다. 따라서 오랜 기간 소유주이든 일회성 손님이든 관계없이 재미있는 계획을 세우고 최고의 휴가 생활을 보낼 수 있습니다.\r \r 목적지 및 리조트 탐색\r • 구내 레스토랑 및 기타 인근 식당을 검토합니다.\r • 머무는 동안 사용할 수 있는 어메니티를 확인하십시오.\r • 리조트 지도를 봅니다.\r • 다음 휴가를 위한 새로운 아이디어를 찾으십시오.\r \r 소유권 검토\r • 휴가 클럽 포인트 및 주 잔액을 확인합니",
+    "iosUrl": "https://apps.apple.com/kr/app/id455004730",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.vistana.app.marriott",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/OZSzC0GSphZrh_KUvv1fWATX5nqgi33iDvloXhMZv_ToyixcAncOOQMBgTXYQedPj2CDXyDlgs2QxF4aBt6qGfc",
+      "https://play-lh.googleusercontent.com/sipO6-NqlgzlxzYGVRsp1jSSbh1J7c9ht8af0yDiiqTJzdurhJlwZn6CsYNZ3aovUanZ8Q4LFgne5aO9u4lw0w",
+      "https://play-lh.googleusercontent.com/9CO7FRK9xYni8TyETHcKvdWEhT2fRpXRah4-yW1IkavvHgLjxHJTNolwzvuwjzE6wpnI-aVyaA1IDXZFBSTNww"
+    ],
+    "reviews": [
+      {
+        "user": "김희정",
+        "text": "갤럭시 휴대폰 최적화가 안되었나봐요. 계속 오류가 나고, 입력칸이 아래 버튼 바에 가려서 채팅을 쓸 수 없어요. 개선이 필요합니다",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "4.2.4",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Marriott Bonvoy' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
