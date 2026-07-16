@@ -17263,5 +17263,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 233,
+    "name": "Meu INSS – Central de Serviços",
+    "slug": "meu-inss-central-de-serviços",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/tq_hUxhiULOQ3Quw8GClVw8og3ZNtzVG8977E3UXtEsPNir1s2J37TKvOw7fhi1S6KIvax3FEPi89uF5eUJc",
+    "developer": "Serviços e Informações do Brasil",
+    "desc": "My INSS 앱을 사용하면 다음을 수행할 수 있습니다.\r \r - 혜택이나 서비스를 요청하고 요청 진행 상황을 추적합니다.\r - 퇴직 신청\r - 은퇴할 시간이 얼마나 남았는지 계산합니다.\r - 소득세, 수당 지급, CNIS(National Register of Social Information)에 대한 기부금, 급여 공제 가능한 대출과 같은 명세서를 가져옵니다.\r - INSS 혜택 수령 선언 요청\r - 의료 전문 지식을 예약합니다.\r - 등록 데이터 업데이트\r - 다른 서비스를 요청합니다.\r \r 앱을 통해서도 가장 가까운 INSS ",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Oq0FMXa_BEoMfF4DSNH3YItNx0au7hHNEvzUNqFfVeSiqJwRyEnV492aGW6MBflG6O2kXU0JGqV7xkdmfDcybw",
+      "https://play-lh.googleusercontent.com/r9yQGHe9M3d7y2M7iiN6p_ORApvXwsPENbFb_bAJrGKXMYT4oSpPtQyrVPQ1QeX6bABhZ7Lz7eFWelCHYptg8ng",
+      "https://play-lh.googleusercontent.com/ui1GkSVcE5X0hjwkli9yX_OKYUN06DdB0XoorB9-5Hz_Ci3NtTK6mRZkPdt7ugfpcVrfak_5eoHz8Fqi8p9V"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "5.40.00",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Meu INSS – Central de Serviços' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

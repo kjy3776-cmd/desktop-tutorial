@@ -1264,13 +1264,20 @@
       "name": "Marriott Bonvoy",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Meu INSS – Central de Serviços",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 230,
+    "total": 231,
     "skipped": 149,
-    "has_issues": 81,
-    "total_issues": 114,
-    "fixed": 12
+    "has_issues": 82,
+    "total_issues": 116,
+    "fixed": 13
   }
 }
