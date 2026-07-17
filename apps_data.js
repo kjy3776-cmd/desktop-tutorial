@@ -17596,5 +17596,82 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 238,
+    "name": "유아용 아기 게임: 배우고 놀기, 숫자, 수학, 퍼즐",
+    "slug": "유아용-아기-게임-배우고-놀기-숫자-수학-퍼즐",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/o1sK2IxDibPnVfApVx6XlsMdv1Di-xLCU902O6ahnkKsIphDKlRFrKLnm3p2nioDgcgZIUyWT7Xsh6ItHca4xw",
+    "developer": "RV AppStudios",
+    "desc": "숫자, 개수 세기, 색깔, 모양, 조화, 운동 기능, 기억력 등을 가르치는 데 도움이 되는 재미있는 유아 교육용 게임입니다! 이 어린이용 무료 게임 모음을 통해 쉽고 재미있게 배울 수 있습니다.\r \r 유아, 어린이집 또는 유치원에 다니는 자녀에게 숫자 인식, 논리, 모양 식별, 개수 세기 또는 영어 알파벳을 가르치고 싶으신가요? 이 어린이용 무료 게임 모음은 학습을 시작하기에 안성맞춤입니다. 유아용 아기 게임은(는) 유치원 활동, 유아 교육용 게임, 어린이용 두뇌 게임 등으로 가득 차 있습니다!\r \r 특징:\r • 25가지 학습 활동",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.rvappstudios.baby.toddler.kids.games.learning.activity",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/gcD32z5QulExOYRlfAuWOn3orotmvyYHin4R73XOX9fKOL2Gke23klZbjgQQDTqjjs4JWdU2DYIiSkOcI0SEgA",
+      "https://play-lh.googleusercontent.com/Kc_97xYRv9uVjFp0gnVPOE3WEMex12IB8y6eJ-jslBED6u7gEc8AaaoPhQDJ_zkRmpQNuai49PNIjhX2Tsx89A",
+      "https://play-lh.googleusercontent.com/3GrIfGlnbALAgIwDclBFHZ7XSVdPlQyeNx5grFuChX4D4Tc5_1LzbiVtzmv5IVJtKEa7zzAi75fx6GJJ8N5godk"
+    ],
+    "reviews": [
+      {
+        "user": "정지연",
+        "text": "일단 광고가 없어요!!!! 그리고 진짜 집중도 상승하고 재미있어해요!! 광고때문에 잘못 눌러서 결제가 가능할수있는데 그런것도없고 아이가 너무 좋아해요 옆에서 보는 엄마도 즐기네요ㅎ 정말 최고예요~~♡ (5세~8세까지 추천합니다)",
+        "rating": 5
+      },
+      {
+        "user": "이민희",
+        "text": "아니 왜 스탬프 한판 2개 남았는데 3번째인데 멈춰요. 계속멈춰요 ㅠㅠ 왜이래요 ㅡㅡ",
+        "rating": 1
+      },
+      {
+        "user": "Google 사용자",
+        "text": "애들이 쉽게 놀이로 공부할수있어 좋네요❤️",
+        "rating": 5
+      },
+      {
+        "user": "백은정",
+        "text": "3살 아기가 사용하기 좋아요",
+        "rating": 4
+      },
+      {
+        "user": "김재훈",
+        "text": "너무좋아요",
+        "rating": 5
+      },
+      {
+        "user": "misun Yang",
+        "text": "쉽게 할수 있어요",
+        "rating": 5
+      },
+      {
+        "user": "이법권",
+        "text": "안녕 나에게도움이됏다",
+        "rating": 5
+      },
+      {
+        "user": "이으으",
+        "text": "gooood",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '유아용 아기 게임: 배우고 놀기, 숫자, 수학, 퍼즐' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

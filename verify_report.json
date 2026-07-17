@@ -1292,13 +1292,19 @@
       "name": "블라인드",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "유아용 아기 게임: 배우고 놀기, 숫자, 수학, 퍼즐",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 235,
+    "total": 236,
     "skipped": 152,
-    "has_issues": 83,
-    "total_issues": 117,
+    "has_issues": 84,
+    "total_issues": 118,
     "fixed": 13
   }
 }
