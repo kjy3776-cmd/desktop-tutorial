@@ -1298,11 +1298,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Face Seer -시간 여행기",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 236,
-    "skipped": 152,
+    "total": 237,
+    "skipped": 153,
     "has_issues": 84,
     "total_issues": 118,
     "fixed": 13
