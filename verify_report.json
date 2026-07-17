@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "results": [
     {
       "name": "카카오톡",
@@ -1276,11 +1276,16 @@
       "name": "봄 캘린더 - 생리, 피임, 임신 준비",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Magisterium AI",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 232,
-    "skipped": 150,
+    "total": 233,
+    "skipped": 151,
     "has_issues": 82,
     "total_issues": 116,
     "fixed": 13

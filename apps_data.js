@@ -17386,5 +17386,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 235,
+    "name": "Magisterium AI",
+    "slug": "magisterium-ai",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/Im0nwgFaEwKFfJNI9bgDsurRONPYBAxp_z0ZjHjhwhiPB0AgSduvwongw0-LttmchlpZ5wwLpK66WdSW3_wh",
+    "developer": "Rosebud Interactive",
+    "desc": "석사 학위 과정은 유수의 대학 교수진과 현직 전문가들이 강의하는 심도 있는 인문학 강좌를 제공하는 교육 플랫폼입니다.\r \r 단순히 브이로그 시청을 넘어 진지한 교육 과정에 몰입하고자 하는 분들을 위한 과정입니다.\r \r 분야\r \r 다양한 인문학 분야의 강의:\r — 미술 및 미술사\r — 심리학 및 인지과학\r — 철학 및 윤리학\r — 역사 및 문화 연구\r — 문학 및 언어학\r — 음악 및 음악학\r — 종교 및 영적 수행\r \r 학습 형식\r \r — 그림이 포함된 오디오 강의 – 집, 차 안, 산책 중, 이동 중에도 듣고 볼 수 있습니다.\r ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6739097522",
+    "androidUrl": "https://play.google.com/store/apps/details?id=ru.magisteria.app",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/SGfoJtyqYV8vF0TcH7KvFYykqV-Z4a59gNfV-pLI0mGc3_CPRQtHddrrFhJA9K5JvTdHQtX5ty8Q-dTqHWLhL1w",
+      "https://play-lh.googleusercontent.com/gm4voPaTPEjFu-S_b20UbGFUBrjriCf3rW_4Co_CHVFRvqFttjojpy0oz1k3OVEViVdPfTCMgBc7INfZZQ64Hg",
+      "https://play-lh.googleusercontent.com/qKueyP25trzp6E5mRzeVoOUBMi9Hsbf0iStnaLp3NJc8CP4Ih4OxvpskhLIm9AuxsDlzX_qfnlbBjRpFzE1JgM0"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Magisterium AI' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
