@@ -1281,13 +1281,19 @@
       "name": "Magisterium AI",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Fabulous: 동기부여, 느긋하게 쉬고, 명상하며.",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 233,
+    "total": 234,
     "skipped": 151,
-    "has_issues": 82,
-    "total_issues": 116,
+    "has_issues": 83,
+    "total_issues": 117,
     "fixed": 13
   }
 }
