@@ -1287,11 +1287,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "블라인드",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 234,
-    "skipped": 151,
+    "total": 235,
+    "skipped": 152,
     "has_issues": 83,
     "total_issues": 117,
     "fixed": 13
