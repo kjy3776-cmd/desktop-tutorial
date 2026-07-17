@@ -1303,13 +1303,19 @@
       "name": "Face Seer -시간 여행기",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Coinbase Wallet - 암호화폐 지킴이",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 237,
+    "total": 238,
     "skipped": 153,
-    "has_issues": 84,
-    "total_issues": 118,
+    "has_issues": 85,
+    "total_issues": 119,
     "fixed": 13
   }
 }

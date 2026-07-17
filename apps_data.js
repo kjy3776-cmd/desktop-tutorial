@@ -17760,5 +17760,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 240,
+    "name": "Coinbase Wallet - 암호화폐 지킴이",
+    "slug": "coinbase-wallet-암호화폐-지킴이",
+    "cat": "finance",
+    "icon": "https://play-lh.googleusercontent.com/MWSDMnKdU15a7oqW_YXKaMLFcPRu3U37Msq9ULftm-kpSQsdk17AWOf0V5h6vQ36OkVfQMPS_ZqIlQ2YX9qNEX4",
+    "developer": "Coinbase Wallet",
+    "desc": "Coinbase 지갑은 암호화폐의 미래를 여는 열쇠입니다. Coinbase 지갑은 암호화폐, NFT, DeFi 활동 및 디지털 자산을 제어할 수 있는 안전한 웹3 지갑이자 브라우저입니다.\r \r 지원되는 자산\r 비트코인(BTC), 이더리움(ETH), 솔라나(SOL), 아발란체(AVAX), 폴리곤(MATIC), BNB 체인(BNB), 옵티미즘(OP) 및 모든 이더리움 호환 체인.\r \r Coinbase 지갑은 NFT를 보고 수집하고, 암호화폐 스테이킹이나 탈중앙화 금융(DeFi)을 통해 이더리움과 같은 암호화폐에서 수익을 얻고, 수천 개",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=org.toshi",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/9aShiFJqSDGtKBaa7NMBggo9LfWBEkUrabqZb87mQdUPtKCL-EbMeBNeftLPzDpEm06XdCJfK2S8K6UVs6WZu94",
+      "https://play-lh.googleusercontent.com/aroxo6COxDNjHPCbaePvv0d7jXTKyJyUH9oIumPsgEhCMnjpNUOAa0oX9DequIAt_rUpyYY73OsZI-1DAxRlHw",
+      "https://play-lh.googleusercontent.com/6HibmgqyFBvxQbwkHnjgc3QgfHP_GGB4DyFD9kLsAX1HqkNWvC22IPWz1N76Z8Mmfd0PvBSo1pQ8nH5CWLyr"
+    ],
+    "reviews": [
+      {
+        "user": "Park Nam JUN",
+        "text": "와.. 리뷰도 삭제해 버리네. ㅋㅋㅋㅋ 해외 사기꾼들이 주로 이용하는 지갑입니다. 다들 조심하세요. 이 지갑에 해외 사기꾼들이 알려주는 접속 URL 연결하는 순간 자동문 됩니다. 금액 저당 잡히거나 다 빠져 나갑니다. 그정도로 사기꾼들이 다루기 쉽다는거죠.보안? 웃기고 있네. 다들 조심하세요. 특히, meta-up.win 이 사이트 유도하는 외국인 절대 믿지마세요. 1,000% 사기입니다.",
+        "rating": 1
+      },
+      {
+        "user": "신복수",
+        "text": "어떤 외국인이 SNS로 접근 해서 가입 권유 후 처음 100만원, 두번째200만원 넣었고 계속 해서 억단위 넣으라고 안넣었더니 연락 안함. 넣었음 완전 망할 뻔.... 그리고 암호회폐를 팔려고 하는데 3000달러 한화로 약 400만원이 넘는 돈을 보증금으로 주라 하는데 이게 맞나요?보증금은 다시 환불 해준다 하고요ㆍ",
+        "rating": 4
+      },
+      {
+        "user": "jun",
+        "text": "데스크탑에서 메타마스크로 이용할때는 문제가 안됬는데 폰으로 이용할때 누군가 제 코인 빼가는걸 알게됬어요 처음엔 지갑 자체가 해킹 당한줄 알았는데.. 이 앱을 사용하는게 문제엿어요 상당히 큰손해를...",
+        "rating": 1
+      },
+      {
+        "user": "김세영",
+        "text": "완전사기집단입니다.나도 페북에서 소개받아했는데 이벤트당첨됐다하여 돈입금을 강요하고 입금후 몇일후 찿을려고했는데 수수료명목으로 엄첨난%의돈을요구하고 입금하고난뒤 몇일있다 사이트는없어지고 돈을보낸주소도한군데가아니고 몇수십군데나되어 사이버수사대에신고해도 경찰서에서는 외국주소라 찾지를 못한다고 연락이왔네요.한국돈으로 9000이상 날려서 한동안 열받아 잠도안오고 술로 하루하루보냈네요.절대로 가입하지마세요.사기집단이고 패가망신의 지름길입니다",
+        "rating": 1
+      },
+      {
+        "user": "MK P",
+        "text": "이 앱은 사기이니 설치를 하지 마시길 바랍니다. 지금 나는 5만달러 정도가 지갑에 있는데 지갑이 열리지도 않고 돈도 찾지를 못하고 있어요. 소액으로라도 돈을 인출할수 있게 해준다더니 전부 거짓말, 사기를 당했어요. 지금은 지갑을 열수도 없어요.",
+        "rating": 1
+      },
+      {
+        "user": "Geumseok Youm",
+        "text": "기기를 바꿨더니 정보가 싹 사라지고는 이전정보를 찾을수 없다고만 나오고 로그인은 되는데 coin 은 다 사라지고 help 라고는 전혀 도움과 작용도 안되는걸 무한반복하게만 하고 내 돈 내놔라 .",
+        "rating": 1
+      },
+      {
+        "user": "Hyun Shick Yun",
+        "text": "사기입니다. This is cheating app . 만약 이앱을 설치한다면 당신의 모든 코인을 잃게 될것입니다. If you establish this app , you will lost all of coin 그리고 모든수수료가 굉장히 비싸요. 코인베이스에서 월렛누르면 여기로 연결되던데.. 이게 뭐하는 앱인지 모르겠음",
+        "rating": 1
+      },
+      {
+        "user": "문현3",
+        "text": "이 앱은 사기 앱입니다. 투자한 돈을 인출하려면 여러가지 서류와 보증금 약 400만원을 먼저 넣으라고 하고, 결국 찾지 못합니다. Sncowete라는 앱도 똑같이 운영합니다. 같은 회사인지는 모르겠지만, 코인베이스는 일단 사기 앱입니다.",
+        "rating": 1
+      },
+      {
+        "user": "cr kim",
+        "text": "이거 절대 깔지마세요. 정상적으로 설치 후 입금까지 했는데 먹통되서 돈 날리게 생겼네요ㅠㅠ 고객센터 문의해도 자동 답변만 옵니다. 어쩌란 거냐 진짜",
+        "rating": 1
+      },
+      {
+        "user": "김승기",
+        "text": "이벤트인가 하는데 잘못 클릭해서 안됩니다 원상복귀 안된고 영원히 압류 된다고 합니다 도와 주세요 이런앱은 절대 쓰면 안됩니다",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "30.3.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Coinbase Wallet - 암호화폐 지킴이' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
