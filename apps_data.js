@@ -18001,5 +18001,77 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 243,
+    "name": "지켜라쿤 : 전략 타워 디펜스",
+    "slug": "지켜라쿤-전략-타워-디펜스",
+    "cat": "game",
+    "icon": "https://play-lh.googleusercontent.com/m0TTv9CmmPw-Etu52xekigIGa2PIhPa-M8o-bqnYrMwDy7ZQ6J-DDrlp5HA2r5VBLi5WjWuQFnbUsl4SAB2eLA",
+    "developer": "Teamsparta Inc.",
+    "desc": "🦝 최후의 라쿤이 나타났다!\r \r 세상이 무너지는 순간, 단 하나의 수호자가 남았다.\r 바로 너, 매드 디펜스의 마지막 라쿤.\r \r 혼자서 수백의 적을 막아야 한다.\r 멈추면 끝이다.\r \r ──────────────────────────\r 🏰 게임 특징\r ──────────────────────────\r \r ⚔️ 짜릿한 디펜스 액션\r   끊임없이 밀려오는 적의 파도를 전략적으로 막아라.\r   한 순간의 방심이 모든 걸 무너뜨린다.\r \r 🦝 개성 넘치는 라쿤 히어로\r   귀엽지만 강하다. 웃기지만 진지하다.\r   매드 디펜스의 주인공",
+    "iosUrl": "https://apps.apple.com/kr/app/id6780420599",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.TeamSparta.MadDefense",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Su2ihz_R-yFP2rj6m1v96g73odh6pT_u75r18mvmqu32ZiVq16BYaQ-F_wLmM9dqM1oA0IHgSTUw-HP4EWJg6w",
+      "https://play-lh.googleusercontent.com/FOfX8z0i2Ir36ituWTDbRn7XxhQwr5BJiPImU_72J0TrUhlYyIXGRMcmfIGPCdOgV6UigDzqWxNUCs0h0KaQqQ",
+      "https://play-lh.googleusercontent.com/HXbEDtUopL_hKDb0N0osmA00hG8qpAysZ-Iczw8bympOT7WJH-d1U5pVnIKmCKG70li2H5Zm-bJyQw3G4RmBgbE"
+    ],
+    "reviews": [
+      {
+        "user": "유훈희",
+        "text": "이런 종류 게임중에 가장 다양한 경험을 할 수 있는 수작이에요",
+        "rating": 5
+      },
+      {
+        "user": "사꾸",
+        "text": "재미는 있는데 업데이트했더니 판마다 광고나와요~",
+        "rating": 2
+      },
+      {
+        "user": "김승범",
+        "text": "왜 정밀상자 오픈 했는데 이벤트 토큰 안줌?",
+        "rating": 1
+      },
+      {
+        "user": "Dong Rak Byeon",
+        "text": "나가 버그제보 했었는데 일주일넘도록 안고치길래 버그써서 투력 많이올렸지롱,,,",
+        "rating": 1
+      },
+      {
+        "user": "동여리",
+        "text": "재미있어요 한번 해보세요",
+        "rating": 5
+      },
+      {
+        "user": "이대진",
+        "text": "짬짬히 하기 좋네요",
+        "rating": 5
+      },
+      {
+        "user": "은시니",
+        "text": "잼나요 ㅎ",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "0.0.37",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '지켜라쿤 : 전략 타워 디펜스' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
