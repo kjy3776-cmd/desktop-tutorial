@@ -17934,5 +17934,72 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": "download"
+  },
+  {
+    "id": 242,
+    "name": "내마리마찌 : 연애 재판, 커플 화해",
+    "slug": "내마리마찌-연애-재판-커플-화해",
+    "cat": "sns",
+    "icon": "https://play-lh.googleusercontent.com/c2y4NdDFh75Y4UZ2v0RlpEM-lgU_Q02ZNYeSTBfBkq2-cWx-wBYBVMOgWKC7dY_Ge_3qOumt98hzwj_I3aTU6g",
+    "developer": "codyssey",
+    "desc": "\"내가 뭘 잘못했는데?\" vs \"너는 그게 문제야!\"\r \r 사랑하는 연인과의 사소한 말싸움, 늘 똑같은 도돌이표에 지치셨나요? \r \r 친구들에게 매번 하소연하기도 민망하고, 누구 편을 들어야 할지 난감한 연애 갈등이 있다면 이제 '내마리마찌'의 AI 판사에게 맡겨보세요.\r \r '내마리마찌'는 객관적인 사실과 심리 분석을 바탕으로 커플의 갈등을 중재하는 연애 AI 재판 앱입니다. \r \r 누구의 서운함이 더 컸는지 명쾌하게 짚어주는 것은 물론, 서로의 마음을 달래줄 맞춤형 화해 방법까지 제시합니다.\r ----\r 개발자 연락처 :\r 김혁",
+    "iosUrl": "https://apps.apple.com/kr/app/id6770150969",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.landwhale.lovetrial",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/kIWDvHmhJMG77KEX1Rm7zP0C3Gq0TE0Ua9DQYeaQ8006ZUZmbhJwbaUgbOzR2JnrJIpAjNJJ_Ox6o0W9lsiqS7c",
+      "https://play-lh.googleusercontent.com/Em4_ius8iPqEnReqPeEo33-9mxOjB4srZ0nC-xf63QrVRSFZl7ntx7KxuZ4iGPCKh9w0xwPMBTWn2ULcfKE6y_c",
+      "https://play-lh.googleusercontent.com/DsocR9HOartuBLPFRnBtSLlaVW-NnaPFJOx-0yoJMqjzkJXbdEDAbjVzoQweSFIALltc3GOxQz8b2GJHyaXu"
+    ],
+    "reviews": [
+      {
+        "user": "서주연",
+        "text": "스레드에서 앱 이름 정할 때부터 지켜봤는데 드디어 안드로이드도 나와서 바로 설치했습니다😆 커플은 아니지만 다른 분들 사연 읽는 재미가 있고, 나라면 어떻게 했을지 생각해보게 되네요. 생각보다 시간 가는 줄 모르고 보게 됩니다. 아직 리뷰가 없는 것 같아서 남겨봐요! 더 많은 분들이 알게 됐으면 좋겠습니다😊",
+        "rating": 5
+      },
+      {
+        "user": "H쑤이",
+        "text": "전체적인 색감도 넘 귀엽고 예뻐요! ai에게 잘잘못 따지려 싸울때 뿐만 아니라 공개재판이 있어서 사람들과 소통도 할 수 있어서 좋아요👍👍 연애싸움 재판 앱이라는거 자체가 너무 귀엽고 재밌어서 잘 사용할 것 같아요 ㅋㅋㅋ 아직 사이가 좋아서 재판 못맡겨봤는데 빨리 싸우고싶네요(?)",
+        "rating": 5
+      },
+      {
+        "user": "설우_Snowblock",
+        "text": "상당히 재밌어요! 건의사항이 있는데, 배심원 투표의 경우 누르고 각 몇표씩 받았는지 확인할 수 있는 시스템이면 더욱 좋을 것 같네요! 미리 표수를 보면, 객관적인 판단이 흐려질 때도 있더라구요",
+        "rating": 5
+      },
+      {
+        "user": "진",
+        "text": "정말 좋아요. 다 좋은데 하나 건의하고싶은 건 누구 잘못인지 배심원들이 투표하는 걸 투표 후 누가 어디에 (성별과 나이대) 했는지 알 수 있게 했으면 좋겠어요. 연애 사건이란 게 한 성별은 이해하기 힘든 일로 다투는 경우도 많으니.. 예를 들면 남친의 게임 관련 문제라던가 여친의 생리 관련 문제라던가 이런 건 서로가 잘 몰라 객관적인 투표가 되기 힘드니 투표자의 성별이나 나이대라도 보게 되었으면 판단이 더 쉬울 것 같아요!",
+        "rating": 5
+      },
+      {
+        "user": "김보통",
+        "text": "이런썰 찾아보는거 좋아하는데 공개재판 넘 재밌어요",
+        "rating": 5
+      },
+      {
+        "user": "절제",
+        "text": "우와아앙 첫 리뷰다!!",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '내마리마찌 : 연애 재판, 커플 화해' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

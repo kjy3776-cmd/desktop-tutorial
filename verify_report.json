@@ -1314,11 +1314,16 @@
       "name": "SAVE : 투자의 모든 소식, 이제 한 곳에서",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "내마리마찌 : 연애 재판, 커플 화해",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 239,
-    "skipped": 154,
+    "total": 240,
+    "skipped": 155,
     "has_issues": 85,
     "total_issues": 119,
     "fixed": 13
