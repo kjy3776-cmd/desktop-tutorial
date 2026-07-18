@@ -1324,11 +1324,16 @@
       "name": "지켜라쿤 : 전략 타워 디펜스",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "털실 마스터 - 마법의 정렬 버스주차퍼즐게임",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 241,
-    "skipped": 156,
+    "total": 242,
+    "skipped": 157,
     "has_issues": 85,
     "total_issues": 119,
     "fixed": 13
