@@ -1329,13 +1329,19 @@
       "name": "털실 마스터 - 마법의 정렬 버스주차퍼즐게임",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Lingokids: 영어 게임",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 242,
+    "total": 243,
     "skipped": 157,
-    "has_issues": 85,
-    "total_issues": 119,
+    "has_issues": 86,
+    "total_issues": 120,
     "fixed": 13
   }
 }
