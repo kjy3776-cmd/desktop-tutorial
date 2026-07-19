@@ -1352,11 +1352,16 @@
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "DramaBox - 영화와 숏폼 드라마",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 246,
-    "skipped": 159,
+    "total": 247,
+    "skipped": 160,
     "has_issues": 87,
     "total_issues": 122,
     "fixed": 14
