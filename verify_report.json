@@ -1367,13 +1367,20 @@
       "name": "GOSCA(고스카)",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Teachmint AI Online Teaching",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 249,
+    "total": 250,
     "skipped": 162,
-    "has_issues": 87,
-    "total_issues": 122,
-    "fixed": 14
+    "has_issues": 88,
+    "total_issues": 124,
+    "fixed": 15
   }
 }

@@ -18667,5 +18667,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 252,
+    "name": "Teachmint AI Online Teaching",
+    "slug": "teachmint-ai-online-teaching",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/873YmPuuBC9HqwzADUmEQCx_L2gC8RARxMForlB6A5513HuCMxJVw5NDjdT5z3D6lBTEWaWXoBYGUsk6UtEj",
+    "developer": "AI companion for learning and teaching",
+    "desc": "교사와 학생을 위한 올인원 AI 학습 및 교육 앱\r \r Teachmint는 교사, 튜터, 학원 강사를 위해 설계된 최고 평점의 온라인 교육 앱으로, 하나의 플랫폼에서 실시간 수업 진행, 학생 관리, 교육 역량 강화까지 모든 것을 지원합니다.\r \r 매끄러운 실시간 화상 수업, 다양한 상호작용 도구, 완벽한 수업 관리 기능을 통해 온라인 강의를 운영해 보세요. 수업 일정을 관리하고, 학생들과 실시간으로 소통하며, 강의 노트를 즉시 공유하고, 모든 것을 한 곳에서 체계적으로 관리할 수 있습니다.\r \r Teachmint에 내장된 AI 기반",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.teachmint.teachmint",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/jToynNKZ0vpKR2soZPyPyRghWqv1tZFPqahgUUsDpJ151ozLJvPRQe7bJuphk8lIt-haaEp-s3zPNwT4M5L4Kw",
+      "https://play-lh.googleusercontent.com/h43irHAwV6Dp1FmJ2xNbtQUcYliXz0KOLAudRrLOmDoQ_GmRp3BtNpszXC4L-t08I_ymVE8Bizz-cBF_nwMeGw",
+      "https://play-lh.googleusercontent.com/z1QdHha9z8if6NWAnAOk6acxoBp4rGcl8lHTa62TWf1LVB5vEfHbTxeBLJciSbpeH11UjrBeiXNfinYkRiYcVg"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "9.32.17",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Teachmint AI Online Teaching' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
