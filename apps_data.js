@@ -18247,5 +18247,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 246,
+    "name": "TCG Hub - TCG 카드 시세, 그레이딩",
+    "slug": "tcg-hub-tcg-카드-시세-그레이딩",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/xGUjgNkNxCJAjPr634Ftlr5uKW10gRXRmeasX8GWc8jkSrgsD0GjdzVVHbE-9FiWNLYqBNiGtO6WcsMlhs_-",
+    "developer": "brogeun",
+    "desc": "TCG Hub는 포켓몬 카드, 원피스 카드 컬렉터를 위한 시세·정보 통합 앱입니다.\r \r 포켓몬 카드 시세, 원피스 카드 가격이 궁금할 때, PSA 그레이딩 등급을 알고 싶을 때,\r 오리파·응모 정보를 한 곳에서 보고 싶을 때 TCG Hub 하나면 충분합니다.\r \r ■ 실시간 카드 시세\r - 포켓몬 카드 시세 · 원피스 카드 시세 실시간 추적\r - SNKRDUNK 데이터 기반 PSA10 / PSA9 / A급 등급별 가격\r - 박스 시세 차트 매일 자동 갱신\r \r ■ AI 그레이딩\r - 카드 사진 한 장으로 센터링 분석, PSA 기준",
+    "iosUrl": "https://apps.apple.com/kr/app/id6773382755",
+    "androidUrl": "https://play.google.com/store/apps/details?id=kr.tcghub.app",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/5LrrrdL6Cr2plD-a4H_ab0-NArFSfRZuHKy-3yAYA1jRPaASx3lGeEqqFc36iaC9eRgPdGDOMT94aAmB6Awb",
+      "https://play-lh.googleusercontent.com/v5Ng8J4CKg5rZpisXvIWpxDHt0AiDSRzDnXPpJKx683sNyYPxQFqYZClcXcLcfWLSAVetGHF8k_EE3RjrvLG3A",
+      "https://play-lh.googleusercontent.com/UfGhfKYOGC2IlVah_C0u_RTVYdALIrlpSBRhL43Jaeb-0tXBo_CHBMEVdNXupmY6Yggxm2MyC4-NFRpd_4imGq8"
+    ],
+    "reviews": [
+      {
+        "user": "지호",
+        "text": "매번 원화와 시세비교를 하기 어려웠는데, 원하는 카드와 박스를 검색하여 시세구분하는게 상당히 용이합니다! 수집하던 카드들 이나 등급카드들을 종류별로 깔끔한 UI로 포트폴리오하여 일단위로 시세의 등락을 구분 할 수 있어서 주식하는것 같고 재밌네요 ㅎㅎㅎ 박스별 수록카드 및 최신 카드쇼 정보나 이벤트 등을 알 수 있어서 카드수집하시는 분들한테는 필수 앱 인 것 같습니다!",
+        "rating": 5
+      },
+      {
+        "user": "파파야",
+        "text": "일단 카드 뭐나오는지랑 카드 시세 보기가 편합니다 또핰 오리파처럼 자극적인게 없어서 좋은것같아요 그리고 피드백으로는 카드 뭐나오는지에서 좋은카드 순으로 뜨면 좋겠습니다 좋은 카드를 보면 내려야 하는데 모바일에서는 로딩이 조금 걸리더라구요",
+        "rating": 5
+      },
+      {
+        "user": "준건아빠",
+        "text": "PC로 할땐 즐겨찿기 되어 있어서 편했는데 밖에서는 알아볼땐 MVC카페들어가서 문의하는등 많이 번거러웠는데 이렇게 간편하게 사용가능한 앱이 생겨서 정말 좋은것 같아요",
+        "rating": 5
+      },
+      {
+        "user": "이민재",
+        "text": "카페에서 게시물 보고 다운받았습니다. 한판도 업데이트된다면 입문자로써 더더욱 좋을 것 같습니다. 한판도 곧 업데이트 해주신다는 댓글도 본 것 같습니다 기대됩니다! 잘 사용할게요!!",
+        "rating": 5
+      },
+      {
+        "user": "밍매너리즘",
+        "text": "좋은 어플 내 카드 추가 기능도 좋고 대략적인 시세체크 카드리스트 체크 가능합니다. 카드리스트도 타tcg도 점점 더 확장하면 좋겠음",
+        "rating": 5
+      },
+      {
+        "user": "재원",
+        "text": "박스별로 무슨 카드들 들어있는지 검색해도 힛카드들만 나오고 찾는데 오래걸렸는데 박스별로 수록된 카드들이 뭐가있는지 쉽게 볼수있어서 좋네요!",
+        "rating": 5
+      },
+      {
+        "user": "FOCE",
+        "text": "일판은 물론 한판, 미판, 중판까지 등록이 되면 좋겠어요 시세나 카드 정보등 기능은 잘 쓰고 있습니다!",
+        "rating": 5
+      },
+      {
+        "user": "변효진",
+        "text": "이거 가입이 너무 편하고 내 카드를 추가해 놓을 수 있어서 나만의 갤러리로 쓰기 개좋음 시세 확인 한번에 되니까 갓어플임",
+        "rating": 5
+      },
+      {
+        "user": "최제섭",
+        "text": "스니덩 기준으로 raw, psa9, 10 가격을 각각 볼 수 있어서 좋아요. 차트로 가격 등락도 보이다 보니 내가 이걸 언제 살까? 결정하는 데 도움이 돼요.",
+        "rating": 5
+      },
+      {
+        "user": "김명주",
+        "text": "기존에 카드 가격이 궁금해서 지피티랑 재미나이썻었는데 이제 tcg hub 이용하면 될 것 같아요 궁금한 카드팩 검색하면 바로 검색나오고 본인이 소유한 카드 시세도 검색하면 나와서 강추입니다",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'TCG Hub - TCG 카드 시세, 그레이딩' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

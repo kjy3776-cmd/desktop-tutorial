@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "results": [
     {
       "name": "카카오톡",
@@ -1335,11 +1335,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "TCG Hub - TCG 카드 시세, 그레이딩",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 243,
-    "skipped": 157,
+    "total": 244,
+    "skipped": 158,
     "has_issues": 86,
     "total_issues": 120,
     "fixed": 13
