@@ -1345,13 +1345,20 @@
       "name": "케어링크 - 요양병원,재활병원,요양시설,재활시설 찾기",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Travelxp:Flights,Hotels,Shows",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 245,
+    "total": 246,
     "skipped": 159,
-    "has_issues": 86,
-    "total_issues": 120,
-    "fixed": 13
+    "has_issues": 87,
+    "total_issues": 122,
+    "fixed": 14
   }
 }

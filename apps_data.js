@@ -18421,5 +18421,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 248,
+    "name": "Travelxp:Flights,Hotels,Shows",
+    "slug": "travelxpflightshotelsshows",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/KWcvndFOmLnW5GJaFMIR8pHOAKsQ0iQtqpVf5fBgUaNXzq0FJEJbEeGNLr22IMiCZu9YDhK1SXRdPQ_RoRO2Yco",
+    "developer": "Travelxp",
+    "desc": "Travelxp를 통해 전 세계를 탐험하는 수백만 명의 여행자와 함께하세요. Travelxp는 4K HDR 화질의 항공편, 호텔, 휴가 및 여행 쇼를 제공하는 인도의 올인원 앱입니다.\r 독점 특가, 검증된 숙박, 엄선된 패키지로 다음 여행을 예약하고 65개국 이상의 수상 경력에 빛나는 여행 스토리에서 영감을 얻으세요.\r \r 가족 여행, 커플 여행, 또는 다음 솔로 여행을 계획 중이든 Travelxp는 예약과 영감을 하나로 모읍니다.\r \r 🏆 수상 경력에 빛나는 글로벌 여행 스토리텔링\r \r Travelxp는 뛰어난 시각적 스토리텔링과",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.travelxp",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/I0lY3nMC_lbSdaW-gtwbTubqLacVnxGMt4jVwghs2YxZ0c0OIyV3Uzw7ANr6uDaI3y7nWW_J-UnIMTmcB08HiQ",
+      "https://play-lh.googleusercontent.com/sDTZsoUB8YzRr5dKBo-now44730YFFDtTpR4HW2xg3m8WIXa6ttUH-QKEQRHufCgdP1rhfXQwbkKWJLzOzNjaQ",
+      "https://play-lh.googleusercontent.com/PidNrrS1vIi64ImmWZyl-WR7qeuxyTNaY71Bl-NPMXwZbFVCwufbATgu_y_TkLWN4x7jq4sNIFieT9Ag6-vAlQ"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "4.3.7",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Travelxp:Flights,Hotels,Shows' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
