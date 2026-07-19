@@ -1357,11 +1357,16 @@
       "name": "DramaBox - 영화와 숏폼 드라마",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "蓝快加速器-VPN网络全球加速器",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 247,
-    "skipped": 160,
+    "total": 248,
+    "skipped": 161,
     "has_issues": 87,
     "total_issues": 122,
     "fixed": 14

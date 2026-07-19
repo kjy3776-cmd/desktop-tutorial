@@ -18544,5 +18544,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 250,
+    "name": "蓝快加速器-VPN网络全球加速器",
+    "slug": "蓝快加速器-vpn网络全球加速器",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/oghzaBg0DzNT_w3TGYQCGBqR65FpgUCuSxB0cpHXaSLkBSDiapoMVn98sLesgUMQuCEEB-CMr21-p-CwNIwezg",
+    "developer": "Cross-border VPN",
+    "desc": "크로스보더 VPN | 안전하고 안정적인 무료 네트워크 가속 및 개인정보 보호 솔루션\r \r 크로스보더 VPN은 전문적인 네트워크 가속 도구, 개인정보 보호 도구, 그리고 안전한 연결 서비스를 제공합니다. 고속 암호화 채널을 통해 더욱 안정적이고 안전한 네트워크 환경을 제공하며, 다양한 플랫폼과 언어를 지원하여 공용 Wi-Fi, 원격 근무, 출장 등 다양한 용도에 적합합니다.\r \r 1. 핵심 기능\r \r 【고도의 개인정보 보호 및 데이터 보안】\r \r 은행 수준의 AES-256 데이터 암호화 사용\r \r 실제 IP 주소를 숨겨 온라인 익명성",
+    "iosUrl": "https://apps.apple.com/kr/app/id6503027355",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.free.aurora.vpn",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/hn7kKRWZ5Q5uQ8M_2gexpaFPV5QjjsZC_y2Kx0sfnwadA4lNkNgK4ZhI0yhDK-gtArNFL0MfbPbTvdkDIGoiHw",
+      "https://play-lh.googleusercontent.com/N3Vg3xpBQpyYYpQ6SOZ42t90r5mivScmaQXgucmFcMFtVFftf8B7aJaAG_VwZahqbIxD1mL8cbGSNLxuMyN4",
+      "https://play-lh.googleusercontent.com/5J_zpZ72SVgFuz_Wdl1NzmgvZJ7qJJbAIOAjOpvu8OysH6WJIroc7tBU3t-8XzkH4s9rLdLNX3qzDPFq5w5OtnA"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '蓝快加速器-VPN网络全球加速器' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
