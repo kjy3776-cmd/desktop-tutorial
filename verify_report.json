@@ -1340,11 +1340,16 @@
       "name": "TCG Hub - TCG 카드 시세, 그레이딩",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "케어링크 - 요양병원,재활병원,요양시설,재활시설 찾기",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 244,
-    "skipped": 158,
+    "total": 245,
+    "skipped": 159,
     "has_issues": 86,
     "total_issues": 120,
     "fixed": 13
