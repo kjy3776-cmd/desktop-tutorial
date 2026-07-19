@@ -1362,11 +1362,16 @@
       "name": "蓝快加速器-VPN网络全球加速器",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "GOSCA(고스카)",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 248,
-    "skipped": 161,
+    "total": 249,
+    "skipped": 162,
     "has_issues": 87,
     "total_issues": 122,
     "fixed": 14

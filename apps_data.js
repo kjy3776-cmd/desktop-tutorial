@@ -18580,5 +18580,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 251,
+    "name": "GOSCA(고스카)",
+    "slug": "gosca고스카",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/VUK3mvxVYlGHOUkRKvIilavL1amwjhKHIm8rbfwu2HrCgi9NVJQSAgpB8JdupERm_mfPm1s5TE_e3py_dBju",
+    "developer": "고스카",
+    "desc": "■ 집에서도 좌석, 스터디룸 예약을 자유롭게!\r 공부하기 전 미리 내가 앉을 자리를 예약하자!\r \r ■ 어플 뿐만 아니라 웹 환경도 제공!\r PC, 모바일웹 환경에서도 언제든지 예약 가능합니다.\r 네이버에서 “고스카”를 검색하세요!\r www.gosca.co.kr\r \r ■ 개발 및 입점문의:\r 주식회사 위커스(We Connect Space)\r www.connectingd.com",
+    "iosUrl": "https://apps.apple.com/kr/app/id1505155896",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.user.gosca",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/o4Zj2lJwWwUwVcQhB5vaqz4pJUVYLohXrmDSm8543Pdw0_sNNVy7uyqGTPIXQInIBN_LrjqMBER7nYWDf3LYiBI",
+      "https://play-lh.googleusercontent.com/3KH_8twETpJ9fmcxlK7V1LnSlZaHdE-jQywtPT39lTaDbKz_FFHlGMtEsrbddXkfNdvwm3UBfKMmkpx_00a8MkI",
+      "https://play-lh.googleusercontent.com/NWCGbhaL_pOGvbHfCGGcQrchEQdwgecKY8P0JCrL9tqwF9qu6C4M2dDvPDM44WpA6uLD17eE6659Gi4KPgpRag"
+    ],
+    "reviews": [
+      {
+        "user": "Get IT Beauty GIB",
+        "text": "결제 취소시 마일리지로만 환불되는게 상당히 불편합니다. 고스카 어플 통합 마일리지가 아닌 해당지점만 사용할 수 있는 마일리지이더라구요. 관리자에게 문의해야되는데...해당지점 계시판이나 문자 가능한 연락처라도 있으면 좋을 것 같구요. 스터디룸 예약을 여러날짜를 일괄로 할 수 있으면 좋을 것 같습니다. 예를 들어 한달 내내 빌릴경우 30번 선택해야되서 번거롭습니다. (김과외, 숨고 등 과외 어플과 연동되면 더 좋구요.) 여러 스카를 검색할 때 지점검색이나 변경이 잘 안될 때가 있습니다. 고스카로 스터디룸을 방문없이 예약할 수 있어서 좋습니다.",
+        "rating": 3
+      },
+      {
+        "user": "sil Re",
+        "text": "앱을 어떤 빡통이 만들었는지 화면 상단이 터치 안되는 날이 며칠 있었는데 이 앱으로 스터디카페 예약하다가 참 어이가 없을 지경이네요 ㅋㅋ 가장 첫 화면을 좌석 자리표가 아니라 당연히 메인 화면 나오고 좌석 선택 나오게끔 만들어놔야지 아무리 재부팅하고 다시 들어가도 설정된 지점에 좌석표로 바로 들어가게 만들어놓은게 참 ㅋㅋㅋ",
+        "rating": 1
+      },
+      {
+        "user": "이닛",
+        "text": "충전권 이용 후 남깁니다. 충전권 구매시 유효기간에 대한 알림 및 설명이 전혀 없었고 유일하게 유효기간이 지점정보-요금제 에만 적혀있는데 구매자가 그걸 일일히 확인해서 구매하는게 맞다고 생각합니까? 적어도 구매시 알림 또는 유효기간 만료전 알림이 있어야한다고 생각합니다. 구매창에는 남은시간은 향후 계속 사용 가능합니다 라고 적혀있으면 당연히 유효기간이 무제한이라고 생각하죠.",
+        "rating": 2
+      },
+      {
+        "user": "반재희",
+        "text": "잘 쓰고 있는 앱인데요 조금 이쉬운 점이 퇴실 버튼을 앱으로 눌렀을때 가끔 퇴실이 안되는지 몇시간 뒤에 자동 퇴실이 되어있어 시간 몇시간씩 버린적도 있어서 그게 좀 아쉽고 데이터를 쓸때 가끔 처음 시작 부분이 막 글씨가 빽빽이 적혀있는? 뭔가 그런게 떠서 가다가 자리잡으려고 앱 켰을때 불편하다는점? 그거 말고는 자리이동도 편하고 너무 좋아요!",
+        "rating": 4
+      },
+      {
+        "user": "김두현",
+        "text": "제 최애 스터디카페입니다. 1달권도 매우 저렴(9만9천원)하고 분위기 전환이 가능한 좌석이동이 매우 마음에 듭니다. 앱도 직관적이라 사용이 매우 편리합니다. 건의 사항이 있습니다. 다른사람이지만 뒷자리번호와 비밀번호가 같은경우 일일권 퇴실이 잘 처리되는지 알기 어렵습니다.",
+        "rating": 5
+      },
+      {
+        "user": "서현진",
+        "text": "시간제로 끊었을 때 시간이 끝나면 기록이 사라지는게 아쉬워요. 하루 한 공부시간 한달간 공부시간 전체 공부시간 등 기록이 남으면 좋겠습니다. 구루미캠스터디 어플에서 공부기록과 목표달성률이 나와서 동기부여용으로 사용하고 있는데, 이 어플에서도 이 기능이 된다면 이 어플만 써도 충분할 것 같아요",
+        "rating": 4
+      },
+      {
+        "user": "크림파스타",
+        "text": "업데이트하고 어플이 더 구려짐 오류가 심해서 첫 화면부터가 잘 들어가지지 않음 들어가면 내가 사용중인 독서실이 나오는것이 아닌 지점선택부터 먼저 나옴. 첫 화면 설정창도 없음 그냥 불편하기만 함. 기간권 다 쓰고 독서실 옮기고 나면 어플 쓸일은 없을듯. 이대로면 그냥 더 안 썻으면 좋겠음",
+        "rating": 1
+      },
+      {
+        "user": "고근우",
+        "text": "이전에는 키오스크랑 ui,ux적으로 유사해서 처음 사용하는데 문제가 없었지만 바뀐이후로 너무 불편해지고 글씨도 짤려서 보이는 등 문제가 있는듯. 좌석을 눌러도 좌석정보도 안보여짐.",
+        "rating": 1
+      },
+      {
+        "user": "그래히스",
+        "text": "전체적으로는 사용하기 편리합니다. 그런데 어플에서 나가기가 경우에 따라 잘 안 됩니다. 휴대폰 전체를 꺼야할 때가 있습니다. 개선 부탁드립니다.",
+        "rating": 3
+      },
+      {
+        "user": "정하윤",
+        "text": "첫번째 화면에서 안 넘어가고 무한로딩만 걸려요. 사용 불가능한 앱",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'GOSCA(고스카)' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
