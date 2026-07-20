@@ -1374,11 +1374,16 @@
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "딸깍 - 키캡 ASMR",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 250,
-    "skipped": 162,
+    "total": 251,
+    "skipped": 163,
     "has_issues": 88,
     "total_issues": 124,
     "fixed": 15

@@ -18703,5 +18703,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 253,
+    "name": "딸깍 - 키캡 ASMR",
+    "slug": "딸깍-키캡-asmr",
+    "cat": "game",
+    "icon": "https://play-lh.googleusercontent.com/H_79h69F_gehWnSh2LkvbXEgz9sWczt66wHKy8eThQ5d4_n7XLk1V9xmYnsfxze1seXGMg5mh-AuLSMBivgTq20",
+    "developer": "gajami",
+    "desc": "한 손으로 즐기는 키캡 클리커. 청축, 적축, 갈축 ASMR 사운드와 함께 키캡을 모아봐요.\r \r 딸깍, 딸깍, 딸깍.\r 키보드를 좋아하는 사람을 위한 가장 작은 키캡 컬렉션 게임.\r \r \r 클릭 한 번에 키캡이 떨어져요\r \r 손가락으로 키캡을 톡 누르면 가끔, 아주 가끔 작은 키캡 하나가 떨어져요.\r 일반 등급부터 레어, 영웅, 전설까지. 희귀한 키캡이 떨어지는 순간 화면이 반짝이고 풀스크린 폭죽이 터집니다.\r \r \r 진짜 같은 ASMR 사운드\r \r 청축, 적축, 갈축 세 가지 스위치 사운드를 자유롭게 전환할 수 있어요.\r 헤드폰",
+    "iosUrl": "https://apps.apple.com/kr/app/id6771397917",
+    "androidUrl": "https://play.google.com/store/apps/details?id=app.gajami.keycap",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/LTdoXtJSlCubAGAkGwcMrWyiq1xjYa-a78-xfzvM7jDIpXdiC6Ecz--DavKhdfMBy83AuuCkNoKH9bM1JV_D",
+      "https://play-lh.googleusercontent.com/D_GZfGMzAzR9T-_qbToRMtZYzaqiVPkH29bHHtDQ-lelcKx_ICEVrOpYUGOWJP_bYj3pHu91XCZTqBEW9iXGiw",
+      "https://play-lh.googleusercontent.com/C6cdLgjwvR8GeHDLb57dp69pJS9HveTiAFhyPsLhjRmjSanpK3b1u8Fg5pYt7BJEDItgp4_Wq0sdTdp-3sBykA"
+    ],
+    "reviews": [
+      {
+        "user": "김겁이",
+        "text": "광고도 적고, 소리도 괜찮고, 미니게임 즐길것도 있어서 좋았는데 업데이트 할때마다 키캡 순서 뒤죽박죽 섞이는게 너무 불편하네요. 직접 정리할수도 없고 이제는 알아서 순서 정렬되는데 예쁘지도 않고... 솔직히 업데이트 후에, 꾸미기 탭에서 종류 바로 확인 되는거랑, 딸깍 탭에서 한번에 축 소리 바꾸는거 사라진 것도 불편한데 사소한 편의성이 자꾸 변경되는것 같아서 속상합니다.",
+        "rating": 3
+      },
+      {
+        "user": "양현아",
+        "text": "다른건 다 좋은데 제가 친구 캐릭터 이름이랑 제 캐릭터 이름을 써서 정성스럽게 좋은거 있어도 그것만 썼는데 튜토리얼 같은게 그거 두 개 클릭하라해서 했는데 경험치로 돼가지고 그리고 제가 극F여서 그러자마자 눈물이 나오네요 지금도 나오고요 쓰면서도 눈물이 너무 나와서 더 이상 못 쓰겠네요.",
+        "rating": 3
+      },
+      {
+        "user": "전지형",
+        "text": "장점: 1.광고가 생각보다 별로없음. 2. 모으는 소박한 재미. 3. 귀여움. 단점: 1. 키캡 하나당 글자를 하나밖에 못쓰는게 아쉬움. 2. 손아픔. 3.다이아 모으기 퀘스트가 너무 적음. 4.타임어택이 너무 어려움. 오토없인 원하는 보상 못받을거 같음. 조금 분발했으면 좋겠음. 그래서 별 4개.",
+        "rating": 4
+      },
+      {
+        "user": "홍제나",
+        "text": "솔직히 처음에 할땐 재밌어 보여서 설치했는데 점점 하다보니까 키캡에 이모지나 글씨를 한번하면 안지워지는게 조금 그랬음.. 근데 업뎃 이후로 잘 지워지고 더 게임이 재밌어져서 좋고 스트레스 풀리고 수집하는게 재밌음!🐥💕",
+        "rating": 5
+      },
+      {
+        "user": "C2 C2",
+        "text": "광고제거를 하면 광고보상 다이아는 없어지고, 이어하기는 또 광고를 봐야됨 ㅋㅋㅋㅋ 그리고 고작 클리커 게임이 발열이 왜케 심한건지도 모르겠음 그리드라도 있는건가 의심됨 정도",
+        "rating": 1
+      },
+      {
+        "user": "Jhon Kramer",
+        "text": "추천을별로안드리려요 딸깍거니는소리는좋은데 소리가 다똑같아서 누르는재미도없고 손가락아파죽겠어요!!! 하얀색 초록색 검은색....그런거 얻을라면 1000나눌러야돼요ㅜ 힘들어ㅜ",
+        "rating": 3
+      },
+      {
+        "user": "파티마자밀",
+        "text": "아니 미니게임하는데 계속 나가지고 개임도 버그에 먹통까지 일어났어요 심지어 나가지기까지 했어요@!@#^@*!!!!!!!!!",
+        "rating": 1
+      },
+      {
+        "user": "박금녀",
+        "text": "아니 작작해라 업데이트했는데 1일후 또하라고? 업데이트 왤케하는데 은근빡치네",
+        "rating": 1
+      },
+      {
+        "user": "최재국",
+        "text": "광고제거를 샀는데 광고제거가안되요...ㅡㅡ 광고제거를 왜파시는거죠? 광고보고다이야받기도 광고봐야되고 재도전도 광고봐야되면 도대체 광고제거는 어디다가 쓰는건가요? 4400원 기부하는방식인가요?",
+        "rating": 1
+      },
+      {
+        "user": "빈",
+        "text": "돈먹는 게임이고 결제 2번했는데 1 다이아도 안들어오고 2시간동안 뭐하는 짓거리죠",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.27.3",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '딸깍 - 키캡 ASMR' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
