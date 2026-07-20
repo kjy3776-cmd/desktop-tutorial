@@ -18790,5 +18790,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 254,
+    "name": "FARFETCH | 글로벌 럭셔리 쇼핑 플랫폼",
+    "slug": "farfetch-글로벌-럭셔리-쇼핑-플랫폼",
+    "cat": "shopping",
+    "icon": "https://play-lh.googleusercontent.com/cHsEyB0zIHQ1uK3pc0jB4h8-Ofte9ir_jGdFe-ouWvEZpwuHMe7pcgZvOSFU7T1tJFtrn5IWwk_eP39DZp9M",
+    "developer": "Farfetch UK Limited",
+    "desc": "Farfetch it — 럭셔리 쇼핑의 무한한 공간\r \r 전 세계 3,500개 이상의 브랜드와 편집숍, 백화점이 하나로 연결되는 곳, 파페치에서 세상의 모든 의류와 슈즈, 액세서리부터 홈 인테리어와 라이프스타일 아이템까지 모두 만나보세요.\r \r 파페치 앱으로 더 간편해진 럭셔리 쇼핑을 경험하실 수 있어요.\r \r 가상 피팅 경험\r 구하기 힘든 워치부터 디자이너 브랜드 백과 럭셔리 스니커즈까지, 나에게 잘 어울리는 스타일을 파페치 iOS 앱에서 가상 피팅으로 확인해 보세요.\r \r 글로벌 네트워크 탐험하기\r • 내가 좋아하는 브랜드와 전",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.farfetch.farfetchshop",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/uwM_DmImLfDWmjivty6eshSN1olzQq6GphmdlVQmgP17IsL7cCyc-K3pFexu6pWsXj_Xzsi8AqTT82eSWX3r",
+      "https://play-lh.googleusercontent.com/8ekEiiLx9DSQDN2nEkzsVHIn_b1r6YbbN4cpqvT8TT6e5hmHuN2I5tXzIR5u45b1qwMkHEb9kam3XZTK80jfZyM",
+      "https://play-lh.googleusercontent.com/37kgnJgzkTVeDYm24SvbZsry8GdGVB-b2OIzRONQP1S72eKOxwd-KP2HGzUZOA7ePe0BVly82hL8nZPt69yMrw"
+    ],
+    "reviews": [
+      {
+        "user": "RR Aghepe",
+        "text": "일단, 검색어(브랜드명)는 기본적으로 영어. 필터가 부족해서 마음에 안드는 제품도 질리게 보는게 불편함. 그 과정에서 다른 제품 구매를 고려하는게 아니라 스크롤 내리다 지쳐서 다른 앱으로 갈아탐.",
+        "rating": 3
+      },
+      {
+        "user": "Google 사용자",
+        "text": "끌로에 페이데이백을 구입하려 하는데, 계속 오류라고 나오네요. 다른 제품은 시도해보니 구매 절차로 넘어가던데 말이죠. 품절이면 품절이라고 표시를 해주시던가... 이게 지금 업데이트 때문에 그런것같은데 어떻게 해결할 수 없을까요.",
+        "rating": 1
+      },
+      {
+        "user": "hv9",
+        "text": "너무 어이가 없네요. 531,000원짜리 가방 주문했는데 갑자기 취소 돼서 환불처리중이라고 메일오길래 다시 제품 페이지 들어가보니 900,000원이 되어있음... 심지어 다른사이트들에선 50만원대에 팔고있는거 보니 가격 잘못올라온 것도 아닌 것 같은데.. 90만원에 올리면 제가 다시 주문할줄 안건지?? 모죠??",
+        "rating": 1
+      },
+      {
+        "user": "God Jang",
+        "text": "갤럭시폴드로 펼쳐서 보면 상품이미지가 확대되어 나와 제품의 전체적인 느낌을 한눈에파악허기 어렵습니다. 때문에 앱보단 버그에서 자유로운 웹을 이용하고있습니다 확인하시고 고쳐주셨으면 좋겠습니다",
+        "rating": 3
+      },
+      {
+        "user": "김성배",
+        "text": "장바구니에 담긴 여러가지 상품을 개별 결제할수 있으면 좋겠습니다. 선별해서 담은 제품을 디비우고 결제할라면 많이 불편해요.",
+        "rating": 5
+      },
+      {
+        "user": "JUNG MI LEE",
+        "text": "알수없는 오류라고 계속떠서 제거하고 다시설치해도 전혀 말을듣지 않아요.ㅜㅜ...이전에는 잘사용했었는데 갑자기 안되서 답답합니다.",
+        "rating": 3
+      },
+      {
+        "user": "Jooah Lee",
+        "text": "파페치에서 카드 해킹이나 당하고.. 며칠동안 몇백 긁혔는데 돌아오는 건 미안하다는 사과대신 부서에 전달하겠다는 말뿐인 뻔뻔함.",
+        "rating": 1
+      },
+      {
+        "user": "올인",
+        "text": "아 반품 1달반 이게 말입니까 오더접수만 했는데 운송장 번호 떨어졌다고 교환 환불이 안된다고 합니다 제품기다리다 겨울오겠네요 ㅋㅋㅋ",
+        "rating": 1
+      },
+      {
+        "user": "Google 사용자",
+        "text": "가격도 좋고 정보도 좋은데 서버가 한번씩 오류가...",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "로그인 버튼도 안눌러지고, 구매하기 버튼도 안눌러져요.",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "5.104.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'FARFETCH | 글로벌 럭셔리 쇼핑 플랫폼' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

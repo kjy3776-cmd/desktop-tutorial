@@ -1379,13 +1379,19 @@
       "name": "딸깍 - 키캡 ASMR",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "FARFETCH | 글로벌 럭셔리 쇼핑 플랫폼",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 251,
+    "total": 252,
     "skipped": 163,
-    "has_issues": 88,
-    "total_issues": 124,
+    "has_issues": 89,
+    "total_issues": 125,
     "fixed": 15
   }
 }
