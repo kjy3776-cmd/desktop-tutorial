@@ -19051,5 +19051,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": "web"
+  },
+  {
+    "id": 257,
+    "name": "Orbit Lifestyle",
+    "slug": "orbit-lifestyle",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/943IT9p9H0SuyJ6Ac-_YUAJf98HJpUfekOEcFIul4WycU-dH-U7mdhGfbiKPWWpuFsQL3VReNfmFzCimJ_F8",
+    "developer": "Orbit Hospitality and Facility Management",
+    "desc": "Orbit은 최고의 라이프스타일 경험을 선사하는 올인원 라이프스타일 동반자입니다. 해변 이용권부터 이벤트 티켓, 호텔 예약, 로열티 리워드, 특별 멤버십까지, 필요한 모든 것을 탭 한 번으로 이용할 수 있습니다.\r \r 주말 여행을 계획하든, 라이브 이벤트에 참석하든, 로열티 리워드를 적립하든, Orbit은 편리함과 특별함을 손안에서 경험하게 해드립니다.",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.orbit.user",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/JzBY_M98tNELTqpmIqB-9owjPdlvsPNa5op95bRTVWVWR71gZrTHDw0GVmCa3VnL_Le23jT8DQn0WuaUoFEvmYg",
+      "https://play-lh.googleusercontent.com/WYXU3Pmi2iBnaBQcUM7bIMY2SrfzXaof5GfGIiw394njGracXfHCx1PAgBa8ntMpS5hkXLyaO-YCH1O5UyrSZA",
+      "https://play-lh.googleusercontent.com/8ta1EqV9_IFgDXEBGYVxpU0E8grMglDq1WeV-GE-h_Oclb9a8kgd_VXblUpI5uM84qy7o50Ywlu5CQadRYG-VA"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Orbit Lifestyle' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

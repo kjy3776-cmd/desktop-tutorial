@@ -1395,13 +1395,20 @@
       "name": "삼성카드",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Orbit Lifestyle",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 254,
+    "total": 255,
     "skipped": 165,
-    "has_issues": 89,
-    "total_issues": 125,
-    "fixed": 15
+    "has_issues": 90,
+    "total_issues": 127,
+    "fixed": 16
   }
 }
