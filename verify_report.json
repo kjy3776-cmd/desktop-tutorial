@@ -1402,13 +1402,19 @@
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "Sweatcoin 걸음 수 추적기",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 255,
+    "total": 256,
     "skipped": 165,
-    "has_issues": 90,
-    "total_issues": 127,
+    "has_issues": 91,
+    "total_issues": 128,
     "fixed": 16
   }
 }
