@@ -1413,11 +1413,16 @@
       "name": "작명어플 이름다움 - 이름 작명,개명,이름풀이,이름짓기",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "만보기 어플 – 만보 걷기 앱 및 걸음수 측정기",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 257,
-    "skipped": 166,
+    "total": 258,
+    "skipped": 167,
     "has_issues": 91,
     "total_issues": 128,
     "fixed": 16
