@@ -1385,11 +1385,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "위버스 - 아티스트와 더 가까이",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 252,
-    "skipped": 163,
+    "total": 253,
+    "skipped": 164,
     "has_issues": 89,
     "total_issues": 125,
     "fixed": 15
