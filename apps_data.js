@@ -19564,5 +19564,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": "web"
+  },
+  {
+    "id": 264,
+    "name": "Saturdays Lifestyle",
+    "slug": "saturdays-lifestyle",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/ZorfURwKsxPglTpitafJ7pEgw5oABMAWP4DoRtIgPctvyWU9nO6uNn_rS2MIzroAYvLkwy_kwgOJ9ivqMoJKQw",
+    "developer": "Saturdays Lifestyle",
+    "desc": "라이프스타일. 시그니처 룩. 디자이너 아이웨어. 첨단 기술. 최고의 만족을 경험하세요.\r \r 편안한 잠옷 차림에 이불 속에서 손가락 하나만 까딱하며 안경 쇼핑을 할 수 있을까요?\r \r SATURDAYS 앱은 바로 그런 쇼핑 경험을 선사합니다. 안경과 선글라스를 가장 간편하게 쇼핑할 수 있는 방법이죠. 안경은 도수 렌즈 무료 포함 1,295,000루피아부터 시작하며, 선글라스는 독일 Zeiss사의 편광 렌즈를 사용합니다. 앱에서 주문하시면 30일 만족 보장 및 1년 품질 보증 혜택을 누리실 수 있습니다.\r \r 편리한 쇼핑\r 24시간 ",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.saturdays",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/d4M89zEn83wrreiMCHCRjl48dZRSNpxFg9qKUmblwyjgsx8eQ-PCOYzcWeGGL4-xsZQRaAfS8DPDOk7eOznNTA",
+      "https://play-lh.googleusercontent.com/CMhODMWoE-Hd5ns4qk_-Ll8c5JLqHxc-CRtK-g9DJKQs-j6CVlN2CcAz7eF8fIuz8FGezvjp-CH-3krFpNVO",
+      "https://play-lh.googleusercontent.com/BWlS-klWdxbYel3H-zBnEklfpJMffZ7vZOt5lJ-fonZgR4wbLMP8JQpOhMwQcAXG-vsImM_8XLlzEwdiFwhl"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "3.0.9",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Saturdays Lifestyle' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
