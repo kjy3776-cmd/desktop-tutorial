@@ -1445,11 +1445,16 @@
       "name": "Bible Hub",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "퍼스트클래스: 100% 프라이빗 매칭 소개팅",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 263,
-    "skipped": 171,
+    "total": 264,
+    "skipped": 172,
     "has_issues": 92,
     "total_issues": 130,
     "fixed": 17
