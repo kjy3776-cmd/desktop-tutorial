@@ -19600,5 +19600,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 265,
+    "name": "Bible Hub",
+    "slug": "bible-hub",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/CYsw3jSGgtDptmmWt4qwAKtWJxgZO7o4ZbwtpYGpAC3DWsyBFnXeZYnnTrKZ4jV3CpVnitq-F2uTawMqbD0v",
+    "developer": "Braza Logos",
+    "desc": "포스는 여러분이 항상 원해왔던 성경 앱입니다. 학자들을 위한 깊이 있는 내용과 누구나 쉽게 사용할 수 있는 간편한 사용법을 모두 갖추고 있습니다!\r \r 성경의 모든 구절에는 수세기에 걸친 역사, 원어, 그리고 성경 전체를 관통하는 연결 고리가 담겨 있습니다. 포스는 이 모든 것을 드러내기 위해 만들어졌습니다.\r \r 히브리어, 그리스어, 아람어 원문을 본문에서 직접 확인하세요. 번호가 매겨진 참조를 탭하면 단어의 어원, 교파별 관점, 역사적 배경, 그리고 수세기에 걸친 학자들의 인용문을 찾아볼 수 있습니다.\r \r 포르투갈어로 제공되는",
+    "iosUrl": "https://apps.apple.com/kr/app/id1090228108",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.phos.bible.hub",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/FbxcIZ6bYE5zcWClex3-2JJkzq_9WfUKDzFZDfe_Vad_Sws3UurLx0mTFjKrayjRoc1M5zFd33lzCVLmu2XMJtA",
+      "https://play-lh.googleusercontent.com/SpNJDBzT2MYxWSZEzKXPy078HRMYPqCjyGzP6xiJyL-KnV0mjI0EmDPWSybpyeFUXGPpt9mXN2KVgEJf3Bbxcg",
+      "https://play-lh.googleusercontent.com/kDH47IvrFIj_Qi3FwM_Ook0dzBrtXgU_qvuScrvKz-J7zApvwhel-349MGRIJ7LoPdvkeHSpxLuh4CnU0xxU"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Bible Hub' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
