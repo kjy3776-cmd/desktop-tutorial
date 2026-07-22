@@ -12482,7 +12482,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "2.2",
+      "ver": "2.3",
       "os": "-",
       "size": "-"
     },
