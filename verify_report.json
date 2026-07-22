@@ -1423,11 +1423,16 @@
       "name": "몸무게 기록 - 체중 기록",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "iDrama - 숏드라마 허브",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 259,
-    "skipped": 168,
+    "total": 260,
+    "skipped": 169,
     "has_issues": 91,
     "total_issues": 128,
     "fixed": 16

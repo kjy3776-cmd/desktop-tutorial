@@ -19435,5 +19435,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 262,
+    "name": "iDrama - 숏드라마 허브",
+    "slug": "idrama-숏드라마-허브",
+    "cat": "entertainment",
+    "icon": "https://play-lh.googleusercontent.com/LqomedTWm7CiClv74byaU23dlAk4DXEkOXe2S7wQJ7p6KByj91k0-SrySgL4UMBR00MC-9HpirQvqPqfjAd4zA",
+    "developer": "GOODDRAMA",
+    "desc": "쇼트 클립 시대를 맞이하며 수많은 숏폼 드라마 애플리케이션 중 어떤 것을 선택할 지 고민이라고요? 저희 iDrama를 요해해 보십시오. 여러분들이 놓치면 안 되는 숏폼 드라마가 되기 위해 노력하겠습니다.\r \r 저희는 오리지널 숏폼 드라마 및 자막 드라마를 엄격히 채택함과 동시에 새로운 에피소드를 끊임 없이 제공해 드림으로써 여러분들의 1분1초가 헛 되지 않게 해드리겠습니다. \r \r 달콤한 러브 스토리와 가슴 아픈 비극 스토리, 운명을 거스르는 이야기와 다시 태어나 인생을 바꾸는 이야기, 사극과 현대극 등으로 다양하며 다채로운 이야기",
+    "iosUrl": "https://apps.apple.com/kr/app/id6741501595",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.gooddrama.idrama",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/aeBRpaFu_xaHsgpSoBsgPKDQPjPLhao9iNCL_ues0bZqMcRUa5a7-f_YoqEgLCPqc-wd5oyI4y6ZQ8ZkDuldhA",
+      "https://play-lh.googleusercontent.com/YUnrP7WpgZwe1bND3NczwKbziBTW7eEwA3CeF9QJB4METa0AHJrhLXrYGyZcv8dVn5ODNlbk9sTJDA4XNzPVDQ",
+      "https://play-lh.googleusercontent.com/Ir5wEqmwgNgHd-uZ0_2MFDhik8r26wC7QxNXaKbrdiAxiNZ3crDl9zg3Uewjr8Oap1nkM0zn8X7L_D1bMNzkSN0"
+    ],
+    "reviews": [
+      {
+        "user": "ᄋᄃᄋ",
+        "text": "유튜브 광고로 유입되서 깔았는데 막상 광고에 나온 드라마는 없네요? 광고로 없는 작품까지 만들어가면서 이용자 수 유입하니깐 좋으세요? 아니 제목 검색할땐 제목 풀네임으로 다 있는데 검색만 하면 왜 안뜨나요?? 어그로에요? 대체 어디서 보는질 모르겠는데 에초에 드라마가 없는데 검색할때 제목은 왜 뜨냐고요",
+        "rating": 1
+      },
+      {
+        "user": "김채원",
+        "text": "저도 추가결제 되었네요..결제일도 아닌데 5월31일에 추가결제되고 환불도 안되고있고 구글에는 기록도없고 답답합니다..14.99달러 맞냐고 물어봐놓고 기다리라고 확인중이라고 그래놓고 아직도 깜깜무소식..보는도중 자막도 안나오고 여러편 건너뛰기는 기본이고 이건 뭐 날로 먹는거죠..빨리 환불해주세요",
+        "rating": 1
+      },
+      {
+        "user": "D. tiwoo",
+        "text": "추가결제되서 구글들어와보니 결제내역도 안뜨고 구글쪽서도 해결하려면 시간걸린다고하고 해당어플에 문의하니 72시간이나 기다리라고 하고 이건 아니지않나요...취소해주세요.... +) 3/30 결제시도하시는데 왜 또 결제시도하시는거죠?? 두번째 결제해가신 14.99달러 환불해주세요",
+        "rating": 1
+      },
+      {
+        "user": "박서영",
+        "text": "이 앱 보는건 좋아요 근데 vip 결제는 하지 마세요 일주일 졀제인지 모르고 \"이앱 구독어떻게 취소하지\"만 일주일동안 찾다가 못찾았는데 이미 오늘 새벽에 혼자 결제되어나갔어요 학생이라서 돈도 많이 없는데 24000원이 더 나가서 학업스트레스도 힘든데 이앱때문에 스트레스를 너무 많이 받아요 환불요청을 해도 72시간을 기다리라고만하고 이건 그냥 환불안해주겠다말 아닌가요? 제돈 돌려주세요 다시 결제되고 아무것도 안봤습니다 돌려만주세요",
+        "rating": 1
+      },
+      {
+        "user": "김진우",
+        "text": "나만 안되는 건가? 네트워크 오류 뜨는데 어찌된건지...홈화면 부터 다 그렇게 뜨는데.. 어찌해야 하나요? 재설치 데이터삭제 네트워크초기화 핸드폰 다시시작 그럼에도 안됩니다",
+        "rating": 1
+      },
+      {
+        "user": "박다혜",
+        "text": "결제 취소 하.. 환불 안된다는 똑같은 내용에 피드백만 오네요 주결제 남은 상황에 연결제 까지 되서 취소는 해주는데 환불은 안된다는게 무슨말인지 피드백을 이해하고 답장 하시는건지 확인 부탁드립니다",
+        "rating": 1
+      },
+      {
+        "user": "포니(SomiDA)",
+        "text": "내용은 괜찮은데 레이턴시 문제인지 네트워크 문제인지 지연시간이 생각보다 타엡에 비해 상당히 김니다 화질자동상태 540p인데도 다운되어 플레이되는 끈김현상 생겨요 빨리보기할때 그리고 집wifi 2,5g 사용합니다",
+        "rating": 2
+      },
+      {
+        "user": "곽현주",
+        "text": "오늘 결제된거 24,000원 취소해 주세요! 일주일만 보고 취소하려고 했는데 어플에 해지하는 메뉴도 없고.. 이제 안볼꺼니까 취소하고 멤버십도 해지해 주세요. 이메일로도 취소요청 보냈습니다.",
+        "rating": 1
+      },
+      {
+        "user": "유주영",
+        "text": "잘보고 있는데 왜 결말까지 안올라와져 있는게 많나요? 그리고 연재중인 드라마들 다른 횟차는 언제쯤 올려주시는지 답답해서 리뷰 적습니다",
+        "rating": 5
+      },
+      {
+        "user": "김천명",
+        "text": "결제 취소해달랬는데 왜 2번이나 더 추가결제되죠??? 당장환불 해주시고 추가결제 더이상 안되게 조치취해주세요!!!",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.32.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'iDrama - 숏드라마 허브' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
