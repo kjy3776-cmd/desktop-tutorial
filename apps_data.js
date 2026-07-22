@@ -19522,5 +19522,47 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 263,
+    "name": "Instagram 앱, Instants",
+    "slug": "instagram-앱-instants",
+    "cat": "sns",
+    "icon": "https://play-lh.googleusercontent.com/jY3m_SwenXTDzXJFno6H3LYVEUSXGOuDoHQcpuonuq3_kEMsc6nGCo3ytPN1oULjwqpmLMXKUmppOuRDa1DqmA",
+    "developer": "Instagram",
+    "desc": "Instagram의 새로운 앱, Instants를 소개합니다. 하이라이트뿐 아니라 일상의 순간을 공유하세요.\r \r - 진짜 일상, 진짜 빠르게\r 카메라로 즉시 이동해 탭 한 번으로 공유하세요. 편집도, 고민도 필요 없습니다.\r \r - 지금, 이 순간\r 인스턴트는 한번 사라지면 다시 볼 수 없습니다.\r \r - 어느 앱이든 이용 가능\r Instants와 Instagram 어디에서나 인스턴트를 공유하고 확인하세요.\r \r Meta 개인정보처리방침: https://www.facebook.com/privacy/policy/\r Meta 커뮤니티",
+    "iosUrl": "https://apps.apple.com/kr/app/id6756442328",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.instagram.moonshot",
+    "pcUrl": "https://www.instagram.com/",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/i5bvqbPSCQFRslf6SDu0wRkNm-3VSHjO9jG7BWs91LyJ5YT9G1_tNKn-NPpjER6ohSYlGVql-IxPU6kmuNmd1K4",
+      "https://play-lh.googleusercontent.com/h4Oa_c3HhAoGmnpyLY2xrYan1BNKgP6cDnGsS2I7JIPJkDZ5gG11nlEnX0mJFm1eJ_7NVJM8vhKqmLzXfazIxg",
+      "https://play-lh.googleusercontent.com/yuxbcWe2iMQpffzy2pZdUu82-KyDFWoAxPHBnY9XMu6QuUJtrsComTinddVP6ugXORxX4kRDVdBHyVPieN_BKg"
+    ],
+    "reviews": [
+      {
+        "user": "장현우",
+        "text": "이 앱 나온줄도 몰랐네 ㅋㅋㅋㅋ",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "437.0.0.0.19",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Instagram 앱, Instants' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": "web"
   }
 ];
