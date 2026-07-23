@@ -1460,13 +1460,19 @@
       "name": "FlickReels: 숏폼드라마,도라마코리아 & 시리즈",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "ShareChat Trends Videos & Live",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 266,
+    "total": 267,
     "skipped": 174,
-    "has_issues": 92,
-    "total_issues": 130,
+    "has_issues": 93,
+    "total_issues": 131,
     "fixed": 17
   }
 }

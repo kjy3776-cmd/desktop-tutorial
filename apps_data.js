@@ -19897,5 +19897,57 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 269,
+    "name": "ShareChat Trends Videos & Live",
+    "slug": "sharechat-trends-videos-live",
+    "cat": "sns",
+    "icon": "https://play-lh.googleusercontent.com/AzoHc3OQEig_O379TsoBtvN81MD1pOxKMzrHlMMBtT1oFgfWYH99r5nwZLxdLDVoCT4BuqE1M2V92J9kzcYk3A",
+    "developer": "ShareChat",
+    "desc": "📢 ShareChat – 인도 최고의 게시물 공유 및 WhatsApp 상태 앱! 🇮🇳\r \r ShareChat은 WhatsApp 상태, 인기 동영상, 재미있는 농담, 바이러스성 밈, 샤야리스, 볼리우드 클립, 경건한 노래, 사랑에 관한 인용문 등을 모두 선호하는 인도어로 제공하는 원스톱 목적지입니다! 수백만 명의 사용자가 있는 ShareChat을 사용하면 힌디어, 타밀어, 텔루구어, 마라티어, 벵골어, 구자라트어, 칸나다어, 펀자브어, 말라얄람어, 오디아, 아삼어, 보즈푸리어 등을 포함한 15개 이상의 지역 언어로 흥미롭고 매력적인 ",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=in.mohalla.sharechat",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/DGtvw48LIjuTHFUHCrJg-rPQXuR_SpFYM5mHwZXOj1Hj45GvnqfHSfGeQfjmW-cM_ZTi_rJUohaPoVfQItKGQPI",
+      "https://play-lh.googleusercontent.com/kdydP0s2tin8tOUR_netdvNqotvvj90CutMtedzZckICb9Yka91cLekEVg1bxh34ujBqrih3T4776t-9pn_FRA",
+      "https://play-lh.googleusercontent.com/bdqlIWWE9MaDwMmgMzEFKBvG0Sgkln029ZhJYaahXHduq8OjcfOsSbsqw1UMrJvXo9mBesgL_09kq3ujL_fMVL8"
+    ],
+    "reviews": [
+      {
+        "user": "성찬희",
+        "text": "머지 ?",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "wonderful.",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "nice app",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2026.27.8",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'ShareChat Trends Videos & Live' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
