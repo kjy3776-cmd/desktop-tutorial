@@ -47,6 +47,7 @@
     "Delta - Game Emulator",
     "DiDi China: Ride Hailing",
     "DoDay: To-Do List & Planner",
+    "Downhill Race League",
     "DramaBox - 영화와 숏폼 드라마",
     "EA SPORTS FC Online M",
     "EBSi 고교강의",
@@ -502,7 +503,7 @@
     "홈 트레이닝 - 기구가 필요 없습니다",
     "홈&쇼핑"
   ],
-  "last_run": "2026-07-22",
+  "last_run": "2026-07-23",
   "next_id": 0,
   "today_count": {
     "2026-05-26": 2,
@@ -562,6 +563,7 @@
     "2026-07-19": 7,
     "2026-07-20": 2,
     "2026-07-21": 6,
-    "2026-07-22": 6
+    "2026-07-22": 6,
+    "2026-07-23": 0
   }
 }
