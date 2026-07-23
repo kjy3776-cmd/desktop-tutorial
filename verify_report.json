@@ -1472,13 +1472,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "iQIYI - 아시아 드라마, 애니메이션, 예능",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 268,
+    "total": 269,
     "skipped": 174,
-    "has_issues": 94,
-    "total_issues": 132,
+    "has_issues": 95,
+    "total_issues": 133,
     "fixed": 17
   }
 }
