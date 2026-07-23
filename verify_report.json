@@ -1478,11 +1478,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Taska: 할 일 목록 & 플래너",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 269,
-    "skipped": 174,
+    "total": 270,
+    "skipped": 175,
     "has_issues": 95,
     "total_issues": 133,
     "fixed": 17
