@@ -1466,13 +1466,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Instagram",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 267,
+    "total": 268,
     "skipped": 174,
-    "has_issues": 93,
-    "total_issues": 131,
+    "has_issues": 94,
+    "total_issues": 132,
     "fixed": 17
   }
 }
