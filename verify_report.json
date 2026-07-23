@@ -1455,11 +1455,16 @@
       "name": "머니워크 - 돈 버는 만보기, 앱테크, 건강, 돈버는앱",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "FlickReels: 숏폼드라마,도라마코리아 & 시리즈",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 265,
-    "skipped": 173,
+    "total": 266,
+    "skipped": 174,
     "has_issues": 92,
     "total_issues": 130,
     "fixed": 17
