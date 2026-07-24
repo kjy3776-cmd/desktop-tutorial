@@ -20507,5 +20507,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 277,
+    "name": "Drama Go - 단편 드라마",
+    "slug": "drama-go-단편-드라마",
+    "cat": "entertainment",
+    "icon": "https://play-lh.googleusercontent.com/B268yongiqbVCUXQBuuY3EgRW6z-Cz6C6RWOIfa2pGbX5OEusLpmAqOaGq0jpT3WJ_JZ6c9isObQs3M7HGGoZTc",
+    "developer": "CodeJoy",
+    "desc": "✨ Drama Go에 오신 것을 환영합니다. 당신만의 짧은 드라마 동반자, 드라마 여정이 여기서 시작됩니다 ✨\r \r 버스를 기다리며 크게 웃고, 점심시간에 놀라고, 밤에는 달콤함에 잠 못 드는 시간까지 - Drama Go는 당신의 모든 순간을 놀라움과 감동으로 가득 채웁니다! 달콤한 로맨스, 미스터리, 복수극을 좋아하든, 당신의 마음을 울리는 완벽한 드라마가 여기 있습니다!\r \r 🏆 2026 핫 릴리즈 미리보기 🏆\r  【A Twist of Fate: A Love Rekindled】\r  【After Soul-Swapping, My B",
+    "iosUrl": "https://apps.apple.com/kr/app/id6742006251",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.codejoy.drama.go.aos",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/f6kATjeSjQadzBdpbfhi0SG7N7QADQ_HlZuXzCAxlRTA0Q5jQX2w6GA0chr8_zaXBR-6bn6fWN1m0hzsu0v_rA",
+      "https://play-lh.googleusercontent.com/t0uTzCmK20jAfi1h2rBcwZouUlI3PRi5oB79_Bbi3te65LAGxbcxDTs4VYO2jyqqWtr7t7GCde_v-ih7Jl0avg",
+      "https://play-lh.googleusercontent.com/AjqVQpRRNMMehqbUHbTawo5cpzLiKsrPm7_uMp_Xlf0miuEnpa1_Ot924QvTRiTzz_l6_KpAQmGId4kCAZ-Xnw"
+    ],
+    "reviews": [
+      {
+        "user": "mg “바다가좋아” kang",
+        "text": "일단 자막이 너무너무 안맞고 어떤작품은 중간에 소리도 안들려요 제일 중요한건 작품이 아주아주 적어서 5일이면 더이상 볼께 없을정도입니다 물론 취향에 따라 다르겠지만 작품이 적어요 3점도 솔직히 과한거죠",
+        "rating": 3
+      },
+      {
+        "user": "박형석 (사사)",
+        "text": "주당 시청 단가는 낮으나.번역오류, 검색 않됨 검삭은 하나도 않되고 추천작만 나옴. 번역이 저대로 않되어 혼동 되는 경우가 많음. 번역좀 저대로 하고 유료화 하시기를..",
+        "rating": 2
+      },
+      {
+        "user": "koyan kim",
+        "text": "평점이 괜찮길래 깔았는데 시작하자마자 광고만 7개정도 봄. 첫 화면 나오는거 같길래 볼만한거 찾아보려고 했는데 또 광고만 나옴. 그래서 지움. 하나도 못보고 광고만 10개 넘게 봄.",
+        "rating": 1
+      },
+      {
+        "user": "문달",
+        "text": "전부 다 무료라고 해도 이건 너무 심한거 아님? 무슨 앱 한번 나갔다 오면 광고뜨고 뭐만하면 광고 뜨고 다른거 보고있어도 광고뜨고 광고로 돈벌려고 아주 그냥 아휴.. 무료라고 해도 이러면 짜증만나지 안보고 만다",
+        "rating": 1
+      },
+      {
+        "user": "마범식",
+        "text": "광고도 적정하게 운영이 잘 이루어지고 있습니다",
+        "rating": 5
+      },
+      {
+        "user": "공",
+        "text": "광고보고 왔는데 막상 작품 없음. 작품은 1개도 못 봤는데 광고 3개 봄. 이게 드라마 앱인지 광고 앱인지 헷갈릴 정도.",
+        "rating": 1
+      },
+      {
+        "user": "황로사",
+        "text": "번역이 안돼있네요. 연속으로 자막이 없는게 많네요.",
+        "rating": 1
+      },
+      {
+        "user": "白虎英雄",
+        "text": "광고가 계속 나오네요. 그것도 여러번..",
+        "rating": 2
+      },
+      {
+        "user": "정욱",
+        "text": "적당껏 광고 띄워라 이건뭐 화면 2번 넘길때마다 광고나오니 짜증 이빠이네",
+        "rating": 1
+      },
+      {
+        "user": "junghyo park",
+        "text": "광고 겁네 많고 결제해야함 더빙도 없음",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.3.46",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Drama Go - 단편 드라마' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

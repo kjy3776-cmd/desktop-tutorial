@@ -1507,11 +1507,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Drama Go - 단편 드라마",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 274,
-    "skipped": 176,
+    "total": 275,
+    "skipped": 177,
     "has_issues": 98,
     "total_issues": 137,
     "fixed": 18
