@@ -20420,5 +20420,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 276,
+    "name": "Lose It! - 칼로리 카운터",
+    "slug": "lose-it-칼로리-카운터",
+    "cat": "health",
+    "icon": "https://play-lh.googleusercontent.com/FSvMmSFbhs8vmtBzWt-px-dm_zthNTtOmPGQQ6bnCfPbTvnf1ostr0qFmDnx7NL8XL7cBrb4N659vIrBGJ4yPYk",
+    "developer": "FitNow, Inc.",
+    "desc": "Lose It!은 체중 목표을 달성하는 데 도움이 되는 칼로리 계산 앱입니다.  체중을 줄이고 싶으면 이 앱을 다운로드하고, 목표를 설정하고, 음식과 운동을 추적하기만 하세요.\r \r 2008년에 출범한 이후 당사는 The Wall Street Journal, The Today Show, Men’s Health, Women’s Health, CNET, Buzzfeed, CNN, Shape, Good Morning America 등에서 소개되었습니다.\r \r • 회원들의 체중 감량 합계 8억 파운드(3억 6천만 kg) 이상 (지금도 증가",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.fitnow.loseit",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/bQNlHKA7CjiGvvy-mgMsEJGhJgvVasgfJ98ZWVbLZdAph0g38zxTueHpI1eF8pPT7xHpo6uyH3p-_itxB5z6bQ",
+      "https://play-lh.googleusercontent.com/Fr8sU-Q4UgZwMVKjIM__zjYqWmYngnq8VQ-ydTAOVM1thy32oudma1pNKpTF71ZFyt1PVKrdzWMJcir5hbfFduY",
+      "https://play-lh.googleusercontent.com/N_-1cZYNc76kzhQhcejk157tUZvL7DCNQ5swI3fUAXhETzlMgyXldUr751TFWsN66p1exl2w8MTvN4mISaUgPw"
+    ],
+    "reviews": [
+      {
+        "user": "M Kay Lee",
+        "text": "사용한지 3일만에 갑자기 기초대사 칼로리를 낮춰버리네요. 그럼 몸이 지방을 홀드하고 나중에 폭식이 올텐데요. 어떤 원리로 계산을 하는건지 모르겠습니다. 물이 빠지는거겠지만 3일간 하루에 몸무게가 정확히 100그램씩 빠졌습니다.",
+        "rating": 4
+      },
+      {
+        "user": "mel",
+        "text": "정말 원하던 기능에 깔끔한 UI에 앞으로 이걸 쓸까! 했는데 칼로리 기록해보니 단백질만 잔뜩 쌓임... 보니까 탄수화물이나 다른 것들 증발하고 단백질만 써져있음....ㅋㅋㅋㅋ 프리미엄은 멀쩡한지 모르겠네요... 어이없어서 삭제했습니다;;",
+        "rating": 2
+      },
+      {
+        "user": "ES Kwon",
+        "text": "영국에서부터 잘 쓰던 다이어트 앱입니다. 12주 단위 계획으로 섭취량도 잡아주고, 구글 피트니스와 연동도 잘 되어서 운동량이 반영되는 것도 맘에 듭니다.",
+        "rating": 5
+      },
+      {
+        "user": "이대희",
+        "text": "사용하기 편하고 메뉴도많고 좋아요",
+        "rating": 5
+      },
+      {
+        "user": "정은정",
+        "text": "결제하지도않았는데 자동으로결제된다고문자가왔네요. 취소해주세요",
+        "rating": 1
+      },
+      {
+        "user": "유서연 (션)",
+        "text": "며칠 다른앱과병행해봤는데 얘가젤편하네요 요걸로정착~",
+        "rating": 5
+      },
+      {
+        "user": "달빛태용",
+        "text": "친구한테 메시지 보내기가 안되는거 빼곤 좋아요",
+        "rating": 5
+      },
+      {
+        "user": "JK Park",
+        "text": "로그인이 안 됨. 가입 불가.",
+        "rating": 1
+      },
+      {
+        "user": "great na",
+        "text": "무료로 이정도 면 좋다고생각해요",
+        "rating": 5
+      },
+      {
+        "user": "백인수",
+        "text": "컴퓨터 인 터 넷 지구 통신 이 컴퓨터 가 않 들어오게 다 차단 만들기 차단",
+        "rating": 4
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "18.4.201",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Lose It! - 칼로리 카운터' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

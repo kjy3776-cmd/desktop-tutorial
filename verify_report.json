@@ -1501,13 +1501,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Lose It! - 칼로리 카운터",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 273,
+    "total": 274,
     "skipped": 176,
-    "has_issues": 97,
-    "total_issues": 136,
+    "has_issues": 98,
+    "total_issues": 137,
     "fixed": 18
   }
 }
