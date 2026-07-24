@@ -20333,5 +20333,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 275,
+    "name": "Seven - 7 Minute Workout",
+    "slug": "seven-7-minute-workout",
+    "cat": "health",
+    "icon": "https://play-lh.googleusercontent.com/lZk7m9F6owXrgEyNpxg_BvEzsqQLlwr65-aK-9qJfc-_xeHd-UP0X8bvdqgjq9p8JiZZy7SDBHw99DYjsG9OAg",
+    "developer": "Perigee AB",
+    "desc": "건강 관리가 이보다 더 쉬울 순 없죠! 하루 7분으로 최대의 효과를 얻을 수 있도록 과학적 연구를 기반으로 한 세븐 운동이 준비되어 있습니다.\r \r 세븐은 맞춤형 운동 계획을 통해 트레이닝 효과를 극대화합니다. 건강 관리, 체중 감량, 또는 근력 강화를 원하시나요? 목표와 체력 수준을 선택하시면 나머지는 세븐이 알아서 처리해 드립니다.\r \r 세븐을 선택해야 하는 이유\r - 언제 어디서나 운동하세요. 장비는 필요 없습니다.\r - 매일 7분 운동 챌린지로 운동 습관을 길러보세요.\r - 친구들과 경쟁하며 더 많은 격려와 응원을 받아보세요",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=se.perigee.android.seven",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/uUAaGO5NW3_bVRMNoRlBr_5j_JR-4Cd7qt_3Mj2A1dC8UGPeFCYNYPS8XftcCgOohhX4kzvHo88ZIOV9OKYgfQ",
+      "https://play-lh.googleusercontent.com/cUXBZS6ajbdZMIjZmNTv3mdBSSDOXA7ETLvWP-uwu9jIrTbMTpLugRYW_pwHJAJy8CDlcVKc1PyiMl16otV3Bw",
+      "https://play-lh.googleusercontent.com/oA2cdaIxnQn3VWq5bJYBhYxlGXJpdJwYVLE6lwjQ-AJa4SY3SsKZySdEbK2EgCz_HYzn2sgvX3BzRoQ5U_w7A1k"
+    ],
+    "reviews": [
+      {
+        "user": "이루리",
+        "text": "잘 모르겠어요... 좋은 것 같은데 별 3개를 줘야하나 2개를 줘야하나 모르겠어요 ㅎㅎ 그냥 잘써요... 설치를 추천하지는 않습니다... 좋긴 좋은 갓 같은데...",
+        "rating": 3
+      },
+      {
+        "user": "Google 사용자",
+        "text": "인앱구매가 아닌 7일 무료체험후 유료전환어플이네용. 이점 정확히 고지해주세요. 전 설치후 바로 삭제합니다(확인부탁드려요)",
+        "rating": 1
+      },
+      {
+        "user": "김여행",
+        "text": "동작을 보며 따라하기 쉽다",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "왜 결제했는데 왜 닫혀있는거죠?",
+        "rating": 4
+      },
+      {
+        "user": "신님",
+        "text": "너무 좋아요",
+        "rating": 5
+      },
+      {
+        "user": "최진호",
+        "text": "작동이 안돼요",
+        "rating": 1
+      },
+      {
+        "user": "류혜숙",
+        "text": "렉이...워치7인데...",
+        "rating": 1
+      },
+      {
+        "user": "Jung_Min Youn",
+        "text": "Your app is absolutely lovely. It’s unbelievably great. This is an essential app for busy Koreans. If possible, could you please provide a Korean version?",
+        "rating": 4
+      },
+      {
+        "user": "ribada hong",
+        "text": "goooood",
+        "rating": 5
+      },
+      {
+        "user": "YS An",
+        "text": "1주일 후에 유료로 바뀌긴 했지만 운동들이 너무좋아 정기구독하고있어요. 원래저는 HIIT 운동 체질이 아니라 생각했는데, 지금 1년 넘게 쓰고있어요. 꾸준히 할수있다면 돈 아깝지않아요! After a free trial week you have to pay subscription but because the workouts are so good I paid for annual subscription. Before I I hated circuit training but I love it now and I have been using the app over a year. If you can perservere it's totally worth the cost!",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Seven - 7 Minute Workout' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
