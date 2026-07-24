@@ -20297,5 +20297,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 274,
+    "name": "Mykan: Start Healthy Lifestyle",
+    "slug": "mykan-start-healthy-lifestyle",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/DIwJDHAfgRto2K6LFjfLgHmB-51nWu_lMdciz-XsuZxtzOdNY_-Fb2DQcRb8hrKI1kSXrOO72xLNG4W3vYx1ig",
+    "developer": "Achvkan",
+    "desc": "건강한 라이프스타일을 만들고 균형 잡힌 식단을 관리하는 방법을 잘 모르시겠나요? 🤔\r \r 이제 더 이상 고민하지 마세요! 인도네시아 개발자들이 만든 AI 기반 앱, 마이칸(Mykan)을 소개합니다. 마이칸은 여러분의 건강한 식습관과 라이프스타일을 위한 완벽한 도우미가 되어 스마트폰에서 바로 이용할 수 있습니다.\r \r 마이칸의 주요 기능은 무엇일까요?\r \r ✅ AI 음식 분석 → 섭취한 음식을 분석하여 마이칸이 미량 영양소와 다량 영양소를 자동으로 계산해 드립니다.\r \r ✅ 일일 영양 섭취 기록 → 모든 음식 섭취량을 기록하고 식단 ",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=id.my.mykan.app.twa",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/G8hQkkjvT5ip-7zvoscAuAOBLZLgOVK_f1622VugY17CzZ3eC0ikYrxi5Cmjeeg9mOZZfdGz8uRoglRTDxKYno8",
+      "https://play-lh.googleusercontent.com/cjuneQuh6vIF_FbXZuCKhhxfKA1XFRwGF8Zt-ANHMNEbDt3zYbFJ2jrhJLdADaTdMqlu0KRMShuz-mEKxNtSKg",
+      "https://play-lh.googleusercontent.com/2kChCzBDSnoDLhAabjdj11qrZ3QUrsE6hYWmUIW0rEjRiUCy_kxRvlwXehUPdf9C9FKAGRp-iRSrHpSo41yi3g"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Mykan: Start Healthy Lifestyle' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
