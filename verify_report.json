@@ -1483,11 +1483,16 @@
       "name": "Taska: 할 일 목록 & 플래너",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Motivation - 명언 마인드셋 과 영감",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 270,
-    "skipped": 175,
+    "total": 271,
+    "skipped": 176,
     "has_issues": 95,
     "total_issues": 133,
     "fixed": 17
