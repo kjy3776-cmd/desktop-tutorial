@@ -1518,13 +1518,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Finch: Self-Care Pet",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 276,
+    "total": 277,
     "skipped": 177,
-    "has_issues": 99,
-    "total_issues": 138,
+    "has_issues": 100,
+    "total_issues": 139,
     "fixed": 18
   }
 }
