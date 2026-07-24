@@ -1512,13 +1512,19 @@
       "name": "Drama Go - 단편 드라마",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Moj: Free Short Drama & Reels",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 275,
+    "total": 276,
     "skipped": 177,
-    "has_issues": 98,
-    "total_issues": 137,
+    "has_issues": 99,
+    "total_issues": 138,
     "fixed": 18
   }
 }

@@ -20594,5 +20594,52 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 278,
+    "name": "Moj: Free Short Drama & Reels",
+    "slug": "moj-free-short-drama-reels",
+    "cat": "sns",
+    "icon": "https://play-lh.googleusercontent.com/LAroFz9Kjl8wHNTUqbkoeuec6klY7D3TvbEQpzO0UioaDuoNXIBEZcRSC90hQ-ZVE2xsWY6lXMQPYSQK1kamHJg",
+    "developer": "ShareChat",
+    "desc": "Moj는 인도에서 인기 있는 숏폼 비디오, 릴 영상, 단편 드라마를 한데 모은 엔터테인먼트 앱입니다.\r \r 인기 있는 60초 비디오를 시청하고, 인도 전역의 크리에이터들을 만나보고, 짧고 간편하게 즐길 수 있는 단편 드라마 시리즈를 감상하세요. 무료 릴 영상부터 프리미엄 Moj+ 오리지널 콘텐츠까지, Moj 앱 하나로 다양한 엔터테인먼트를 즐길 수 있습니다.\r \r 🎬 2~5분 분량의 단편 드라마\r 로맨스, 스릴러, 코미디, 가족 드라마 등 다양한 장르의 단편 드라마 시리즈를 만나보세요. 짧은 에피소드로 구성되어 있어 잠깐 쉬는 시간",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=in.mohalla.video",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/jdI1XE0BOCFq1vTjPRs3rEqlL6gpaMzZiLuVK3wkhxiwASQ8gJjHw4nqXEoGn_j_-29Hzvjgf7lokTPgazHkbkA",
+      "https://play-lh.googleusercontent.com/VbKJDzwuu7tu-JZVGATwiCwH1160jrtZ3-Gn8_ACVd-INJRd3-41tBQtI3FeRF_a7vwtWrfvme5dMXz80A2NTaU",
+      "https://play-lh.googleusercontent.com/gfb70qm9xzQhzGSOEMga86-euoBQ9i7yqulPgHzhq9h3eQbpS61nA9njzK8F32LfT2i_73LusFcid2h7ntxd"
+    ],
+    "reviews": [
+      {
+        "user": "이재윤 ,로드튜브 Korea Road Tube",
+        "text": "사용하기 좋아요",
+        "rating": 5
+      },
+      {
+        "user": "김태영",
+        "text": "좋아요",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2026.22.6",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Moj: Free Short Drama & Reels' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
