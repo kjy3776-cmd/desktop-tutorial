@@ -1551,11 +1551,16 @@
       "name": "Pixelmon Addons - Minecraft PE",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "펫프렌즈 - 반려동물 1등 쇼핑몰",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 282,
-    "skipped": 180,
+    "total": 283,
+    "skipped": 181,
     "has_issues": 102,
     "total_issues": 141,
     "fixed": 18
