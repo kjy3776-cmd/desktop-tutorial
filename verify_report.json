@@ -1546,11 +1546,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Pixelmon Addons - Minecraft PE",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 281,
-    "skipped": 179,
+    "total": 282,
+    "skipped": 180,
     "has_issues": 102,
     "total_issues": 141,
     "fixed": 18

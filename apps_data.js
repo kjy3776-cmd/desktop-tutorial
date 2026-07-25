@@ -20991,5 +20991,47 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 284,
+    "name": "Pixelmon Addons - Minecraft PE",
+    "slug": "pixelmon-addons-minecraft-pe",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/0RsbBcDxZozVCy4HIXREpvv4IBRHf7OQ8yBDgGH7BJi-8NodrTNoAIQRUfc2yrt4uWIOkKnwxKB8Op8fouezzg",
+    "developer": "Yamapps",
+    "desc": "Pixelmon, Pokecraft 및 Cobblemon의 팬이신가요? 진정한 Pixelmon 트레이너를 위해 디자인된 모드, 애드온, 지도 및 스킨의 궁극적인 컬렉션으로 Minecraft 세계를 변화시킬 준비를 하세요! 🏆⚡  \r \r 이 앱을 사용하면 강력한 Pixelmon 생물, 흥미진진한 Pokecraft 전투, 몰입형 Cobblemon 생존 도전을 추가하여 Minecraft Pocket Edition(MCPE)에서 완전히 새로운 모험을 경험할 수 있습니다. Pixelball로 Pixelmon을 잡는 것부터 대규모 경기장에서 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id1625837587",
+    "androidUrl": "https://play.google.com/store/apps/details?id=info.pixelmonster.pokcraft.mcpe",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/B6Xa1g2MQyXf3jR8HD67l0lX9p_Fv9QgNprYidGdLGBvjQFf8cpOhcyX5z9btjA1sfNmD2EnBh0uyYRyFy_61A",
+      "https://play-lh.googleusercontent.com/aD1u5wG2b-F-zkXdte4ySEyV4pWRqxzzMb2a91SovOysvk9JruYRYcuWbktzzfmWwhJ1vWaNrUy-fP5jhSlH9g",
+      "https://play-lh.googleusercontent.com/ZEucPh4AMoYxljIdhn3fS3AqnyLfhc6JXc3Z6mE5XgPHnhc0ZUUPd3mIAW8iKqKFEM75GKX0U3iSRdYYWCRC"
+    ],
+    "reviews": [
+      {
+        "user": "김종훈",
+        "text": "재미있네요 ㅎ ㅎ",
+        "rating": 4
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Pixelmon Addons - Minecraft PE' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
