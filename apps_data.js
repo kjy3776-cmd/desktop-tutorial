@@ -20949,5 +20949,47 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 283,
+    "name": "Nykaa Fashion – Shopping App",
+    "slug": "nykaa-fashion-shopping-app",
+    "cat": "shopping",
+    "icon": "https://play-lh.googleusercontent.com/dfTSZA8NgdFsudbX5ffFEkezbH8bbKzPCWsDrEZDSV_kE0AoQXt0oaeUl8lsLz6zAbwp_GW8PjNHAY8AvkGclqI",
+    "developer": "NYKAA",
+    "desc": "Nykaa 온라인 패션 쇼핑 앱으로 가장 상징적 인 고급 브랜드를 발견하십시오. Nykaa 쇼핑 앱으로 쉽게 탐색하고 구매할 수 있습니다. 문앞에서 제품을 가져오고 주문 ​​제작 범위에서 쇼핑하고 독점적으로 제작 된 의류를 구입하고 다양한 스타일의 온라인 교환 정책을 쉽게 돌아보고 계절 프로모션 및 디자이너 의류에 대한 판매 및 놀라운 할인에 대한 알림을받습니다. Nykaa 패션 온라인 쇼핑 응용 프로그램에서.\r \r <b> Nykaa Fashion 온라인 쇼핑 앱 제공 : - \r 의류 의류, 보석류, 신발류, 란제리 등 250 개 ",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.fsn.nds",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/DnDjFRA3HspKj6iYdpePoGv2CyfLtDd5jZA05Q1Bzi7tShg7BFA0vgumWmkj5hp1VIvv0LU7Y4xHATNdd0xe",
+      "https://play-lh.googleusercontent.com/U2cqYOaW6j3Q8AgVl82v1VVbrOnDfywrPXb-8WTNSvTTKFI6534N7NqsXbfxmE5gutB2uAW16YmDQnSr_w_Gag",
+      "https://play-lh.googleusercontent.com/G4HY7SYMw546LbnidyWJMRgBt3KyJYCxKDUlKNKvyqxbua2Jy8XoIvt70-sEU3k8BKNw6BMtldvihjJFKZxBkqo"
+    ],
+    "reviews": [
+      {
+        "user": "Insuk Cha",
+        "text": "Very good App.",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "3.2.2",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Nykaa Fashion – Shopping App' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

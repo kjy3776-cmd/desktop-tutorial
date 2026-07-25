@@ -1540,13 +1540,19 @@
       "name": "리시트 호그 - 영수증 찍고 현금 버는 앱테크 생활",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Nykaa Fashion – Shopping App",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 280,
+    "total": 281,
     "skipped": 179,
-    "has_issues": 101,
-    "total_issues": 140,
+    "has_issues": 102,
+    "total_issues": 141,
     "fixed": 18
   }
 }
