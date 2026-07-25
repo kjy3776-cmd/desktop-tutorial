@@ -1529,13 +1529,19 @@
       "name": "리시트 호그 - 영수증 찍고 혜택 받는 저금통 생활",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "My Finances - Bills Reminder",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 278,
+    "total": 279,
     "skipped": 178,
-    "has_issues": 100,
-    "total_issues": 139,
+    "has_issues": 101,
+    "total_issues": 140,
     "fixed": 18
   }
 }

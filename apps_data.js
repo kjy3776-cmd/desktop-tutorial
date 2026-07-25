@@ -20815,5 +20815,52 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 281,
+    "name": "My Finances - Bills Reminder",
+    "slug": "my-finances-bills-reminder",
+    "cat": "finance",
+    "icon": "https://play-lh.googleusercontent.com/-1lEgZASwzS6G2BkT76-PXWmMsFHj8YfOL-IsWB5V36T2NZzMI6pO2jIznNnnsLiuKHlYRL8hXwNDFREJjAxlQ",
+    "developer": "Nimtech TI",
+    "desc": "❤ <b>내 재정: Play 스토어 최고의 재무 관리자!</b>\r \r 이 앱에는 금융 카테고리에서 가장 포괄적인 애플리케이션이 되는 몇 가지 매우 필수적인 기능이 있습니다!\r \r <b>☆ 주요 기능</b>\r \r • 모든 유형의 소득 통제(은행 계좌, 급여, 비공식 소득, 상업 등);\r • 모든 유형의 비용 및 수익(할부, 고정 및 변동)에 대한 통제;\r • 월별, 연간 저축 금액을 알아보세요.\r • 신용카드 통제;\r • 신용카드 및 등록된 계좌에 대한 세부 명세서;\r • 가장 관련성이 높은 정보로 앱 홈 화면을 완벽하게 사용자 정의",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=cicero.minhasfinancas",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/6WQMJ0iH_3STSEk6uYVgYT64OEBT1W9Zr8RbcnFqVq8GOq-2DZdheH-ZYw4aYMTURsfBjjk_JMB_JyknecL3nmg",
+      "https://play-lh.googleusercontent.com/TqV9F8k-reJoNcx57tpqWX_GmttGgMsMqa2Z0IJgWDvLr4br9W5mtS8KE6p6ZFpnPReOYWcqYYA_gX8YPzQu",
+      "https://play-lh.googleusercontent.com/u34wSB0ERcT7TD1eW-TcZGkLRTUkcGrX77rJ2ypgCDXDX86BSXUxXakehMnQ1JtRaCDN-OfMFFp0LBMwKbW2cg"
+    ],
+    "reviews": [
+      {
+        "user": "김다인",
+        "text": "탭 검색됨",
+        "rating": 1
+      },
+      {
+        "user": "김다인",
+        "text": "탭 검색됨",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "7.1.7",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'My Finances - Bills Reminder' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
