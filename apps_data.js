@@ -21366,5 +21366,47 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 290,
+    "name": "Hustly: Focus Timer",
+    "slug": "hustly-focus-timer",
+    "cat": "productivity",
+    "icon": "https://play-lh.googleusercontent.com/4_3V4OZdq2AYkOpdnAtU6MTujhjvoMmcctD5Fz5fWp-tX_WfyZPlhDG9khnsnmzqvFLb7ZMDBWdA1qA9kBQ8",
+    "developer": "Reading app",
+    "desc": "\"포커스 타이머: 집중 및 휴식\" 소개 - 최고의 생산성 동반자!\r \r  생산성 향상:\r 수백 년 된 Largo Baroque 작곡의 힘과 차분한 빗소리의 심포니를 활용하여 이전과는 비교할 수 없을 정도로 집중력을 높여보세요. 일을 하든, 공부하든, 바쁜 하루 중 잠시 휴식이 필요할 때, 포커스 타이머는 최고의 집중력 상태에 도달하는 데 도움을 드립니다.\r \r  평온함을 위한 빗소리: 세심하게 선별된 빗소리 컬렉션을 통해 평온함의 세계에 빠져보세요. 부드러운 이슬비, 이러한 차분한 소리는 산만함을 최소화하고 생산성을 최대화하는 고요",
+    "iosUrl": "https://apps.apple.com/kr/app/id6758303198",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.readingapps.focus_timer",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/_rOxC3fLDJflUh3_5NiLHX0MyucA-KJo6voKgWigDeCu4K4t6qfuH_eJgsdSLTh_i8OIdECC4UG0yu9uwCUdqg",
+      "https://play-lh.googleusercontent.com/-IMi1W8iHdtnTOK7KgbzzQb39IYkWiQhd-MKMIHkaWa2dio_6nZzQaxYYskpyoybkVCBjICRt36tLNWcw2VdYA",
+      "https://play-lh.googleusercontent.com/Iqsom9jDk4zCnx3VBlWwy2CPKkCaAfW8xSKLX-g4MKrQUhRoHwFTqNpbu_fxIRQvonLzPz3HOZZip3MVJHJVEQ"
+    ],
+    "reviews": [
+      {
+        "user": "ᄋ",
+        "text": "구독제",
+        "rating": 3
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Hustly: Focus Timer' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
