@@ -21207,5 +21207,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": "web"
+  },
+  {
+    "id": 287,
+    "name": "Playtomic - Play padel",
+    "slug": "playtomic-play-padel",
+    "cat": "sns",
+    "icon": "https://play-lh.googleusercontent.com/Rf3JqI4-qL0ij9c_KKndvL5mWAiJn_SCWzEDNlQ9Ug64ODYJeMG5lm3kvZtg1X0KQXw5x6r_hLc9QJSpGWKjOQ",
+    "developer": "Playtomic S.L.",
+    "desc": "패들, 테니스 및 기타 라켓 스포츠를 즐기는 1백만 명 이상의 플레이어로 구성된 계속 성장하는 커뮤니티와 연결해 주는 앱인 Playtomic을 만나보세요. 사용자를 염두에 두고 설계된 직관적이고 사용하기 쉬운 앱으로 독특한 경험을 즐겨보세요.\r \r 패들 커뮤니티에서 같은 생각을 가진 플레이어를 찾아보세요. 이미 함께 플레이할 친구가 있거나 새로운 파트너를 찾고 있다면 Playtomic은 귀하의 클럽이나 근처의 다른 패들 클럽의 사람들과 연결할 수 있는 기회를 제공합니다. 또한 맞춤형 추천을 받고 커뮤니티의 플레이어를 팔로우할 수도 ",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.playtomic",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/-4bVr2GxOsDITJY6lSha3gCy67CugLFVoU9Lsxpj83327c63An6m7dJOLMQjiEvgLKyN0cPwCSpZNLqsCr9a4g",
+      "https://play-lh.googleusercontent.com/clvFslRV0bm2AKpLh2As0Nd2hVlOARRtwUL8Xex8Vs7j5KJS7oZmEiVf-_kmU0QhnzR0TP_x16_39xVx9mek",
+      "https://play-lh.googleusercontent.com/8CPEsCjxgOX94T0okJfxB6RBixhiL0NEZMXkIeWa7uYeLiA0GjW1OvSIKgyLFP_ynOTlmd5-e1CmGjx4ot1O7w"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "6.82.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Playtomic - Play padel' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
