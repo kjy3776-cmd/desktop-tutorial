@@ -118,6 +118,7 @@
     "Marriott Bonvoy",
     "Massimo Dutti: 아웃핏 스토어",
     "Meesho: Online Shopping App",
+    "Meowdoku!",
     "Meu INSS – Central de Serviços",
     "MiRi - 광역버스 좌석예약 서비스",
     "Microsoft OneNote: Save Notes",
@@ -533,7 +534,7 @@
     "홈&쇼핑",
     "회독JLPT(AD)"
   ],
-  "last_run": "2026-07-25",
+  "last_run": "2026-07-26",
   "next_id": 0,
   "today_count": {
     "2026-05-26": 2,
@@ -596,6 +597,7 @@
     "2026-07-22": 6,
     "2026-07-23": 6,
     "2026-07-24": 7,
-    "2026-07-25": 6
+    "2026-07-25": 6,
+    "2026-07-26": 0
   }
 }
