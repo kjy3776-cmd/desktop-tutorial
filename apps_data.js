@@ -21330,5 +21330,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 289,
+    "name": "SC Lifestyle",
+    "slug": "sc-lifestyle",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/FTJWM7NVMQo-OOcekr2hmANMibKg1fcKxLnkUx7bGBgo5Y2N2M_kmPiS_9geFplSBUGYvg0jWGDPbOzo5Ke2cg",
+    "developer": "AZEOO",
+    "desc": "시즌 챌린지 라이프스타일 - 피트니스 앱 그 이상, 삶의 방식 💪💪\r \r 스포츠, 피트니스, 웰빙, 보디빌딩, 체중 감량... 🌎 계절의 리듬에 맞춰 몸과 건강을 변화시키는 독특한 접근 방식입니다. 어디에 있든 훈련하고, 발전하고, 목표를 달성하세요.\r \r MOVE+ – 체계적이고 효과적인 운동\r - 짧은 비디오와 자세한 설명이 포함된 운동 안내\r - 목표에 맞는 챌린지: 지방 감량, 탄력 강화, 근육 강화, 복근 강화 등\r - 현재 과제에 맞는 통합 영양 메뉴\r \r FIT&FLIX – 실시간 교육 영상\r - 동기 부여를 위한 Yo",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.seasonschallenge.programs",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/a-mwGzD6EH6JS2XSrbHPI4rE3QF1Msj40mF6XshtF-iUk3hy9C5E7XBVnGPslgJ_3QGuNbKJ1CbRgdQMEG7yaAU",
+      "https://play-lh.googleusercontent.com/9usDfNlsBde8PNqyyoZjGml627Mn3pFbSoxj6ZunJFMrTbdecedcuRxJ5v7_8ZGemQa7ZdlgMli8Hf5Lzwy-QK4",
+      "https://play-lh.googleusercontent.com/3CgLR82wcTfMckuhxzDDW8iS3s_LHuBQkquDGdu1UiEHSWY311_DAjcclAJfZdzg8mskG2mk0daNvMZ5r5j75Q"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'SC Lifestyle' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
