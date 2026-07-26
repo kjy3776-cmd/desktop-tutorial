@@ -1556,13 +1556,19 @@
       "name": "펫프렌즈 - 반려동물 1등 쇼핑몰",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Microsoft To Do: Lists & Tasks",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 283,
+    "total": 284,
     "skipped": 181,
-    "has_issues": 102,
-    "total_issues": 141,
+    "has_issues": 103,
+    "total_issues": 142,
     "fixed": 18
   }
 }
