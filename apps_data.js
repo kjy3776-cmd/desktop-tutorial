@@ -21833,5 +21833,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 296,
+    "name": "Nutracy Lifestyle",
+    "slug": "nutracy-lifestyle",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/owo-uu_pTYTZpIL3vGtJOLcQyoAS-XDYTb4P8OfYf6n1qKLYuoIAI8958zRBa_se7rKf_rsSHH_sHyPixvjtjQ",
+    "developer": "Rohini Somnath Patil",
+    "desc": "우리 브랜드 'Nutracy Lifestyle'은 모두를 위한 전체적인 건강한 삶이라는 사명을 담고 있습니다. 우리는 이를 가능하게 하기 위해 제품, 서비스 및 지원 시스템을 만들기 위해 노력하고 있습니다. 내부에서 밖으로 일하는 것이 우리가 하는 방식입니다. 당사의 제품 및 서비스 라인을 확인하고 이번 시즌 혜택과 제안을 이용하세요. 우리에게 와서 돌봄을 느끼고 건강을 쌓으세요. 우리는 건강한 삶이 가능하고 지속 가능하다고 진심으로 믿기 때문입니다.\r \r 우리는 정교하고 독창적인 맞춤형 옵션으로 건강한 생태계를 만들기 위해 노력하",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.zoconut.nutracylifestyle",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/N7WM8MEruLbvb8hjP_eNLunAn4zpu51T4gj3xvbNGwVmLoxwu_2WTlayUcz3u_wWlqRRmWTguQAx6_JbR_LwHw",
+      "https://play-lh.googleusercontent.com/u4IywGyESHE0HhETWvFbdu9YBW8NxCVu7WqpDNJDDXG7il8AkP_Ljo1InTkJGI5WYXYuIiLZiR-vmkwToWb-Xw",
+      "https://play-lh.googleusercontent.com/BXcSer2yxZxPkPwDr-cle9R8mfgCN_qCDtV6qAuqg-uZectgfG3r3r5AVDapahFOF7h-MC6PFECzBb0MMz2-gA"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Nutracy Lifestyle' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
