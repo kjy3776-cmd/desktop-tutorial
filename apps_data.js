@@ -15467,7 +15467,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "3.28.0",
+      "ver": "3.29.0",
       "os": "-",
       "size": "-"
     },
@@ -21663,6 +21663,83 @@ const APPS = [
     },
     "installSteps": [
       "앱스토어/플레이스토어에서 'Wanderlog - 트래블월렛 여행계획 & 일정 앱' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
+  },
+  {
+    "id": 294,
+    "name": "Budget App & Tracker: Spendee",
+    "slug": "budget-app-tracker-spendee",
+    "cat": "finance",
+    "icon": "https://play-lh.googleusercontent.com/NrtVAZlPAlKfBzOmxEPrR6A248njycZCB8DtrOv1lNu3cdRStAwVdt-ghSc8h1ZThP238B1mcsFplqGwBaPSaw",
+    "developer": "SPENDEE a.s.",
+    "desc": "🌟 Spendee로 돈 관리를 시작하세요! 300만 명에 가까운 사람들이 신뢰하는 무료 예산 관리 앱이자 지출 추적기입니다. 지출을 추적하고, 미리 계획을 세우고, 저축이 늘어나는 것을 지켜보세요. 이 예산 관리 앱은 중요한 것에 집중할 수 있도록 도와주어 마침내 돈이 당신을 위해 일하게 만듭니다.\r \r 🧠 모든 지출 내역을 한 곳에서 확인하면 모든 것이 달라집니다. 명확한 지출 내역 개요를 통해 계획을 꾸준히 지키고, 낭비를 줄이고, 자신감 있는 선택을 할 수 있습니다. Spendee는 간편한 예산 관리 기능과 스마트한 자동화 기",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.cleevio.spendee",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/yAk9aJDU63tclmm4KB0C_D1dZTlrMIhzbrJtEXZdcOzBScsnqRQ9cEG58rcify66IZIRkm0zrGwmzh6mRT9_Slo",
+      "https://play-lh.googleusercontent.com/oChnYSKtnOTrXstdOIoDs9OGE4qOIoXE6MctZI9uIrLAbPxAqqcerr_7D0MuliGcTUuas2txQKLtpyofJywu",
+      "https://play-lh.googleusercontent.com/MqE05IFaJZ8-8JaGkLzNvEMB4NcrMuIGwtm9uuOr2nvbHp3RlOYGsRdPrXqMs52jyykyjilVlGKbM6APQS-4eg"
+    ],
+    "reviews": [
+      {
+        "user": "J.K Kim",
+        "text": "어플이 마음에 들어서 라이프타임 구매를 했습니다. Select photo에서 사진을 여러장 선택하는 기능을 추가하면 좋을 것 같습니다.",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "Free for ONE  wallet .",
+        "rating": 3
+      },
+      {
+        "user": "Google 사용자",
+        "text": "진짜 세세하게 분류할수 있고 결과도 눈에 확 띄고 좋음!! 위젯활용도만 좀더 높였으면 좋을듯",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "기능은 써본 앱 중에 가장 탄탄하고 간결합니다.",
+        "rating": 4
+      },
+      {
+        "user": "Google 사용자",
+        "text": "The best financial app ever! :D",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "현존 가계부 앱 중 최고!!",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "직관적인 유저인터페이스가 마음에 듭니다. 프로버전업그레이드도 마쳤습니다. 자주 애용하겠습니다.",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "Appgratis....",
+        "rating": 3
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "5.6.5",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Budget App & Tracker: Spendee' 검색",
       "설치 버튼을 눌러 다운로드",
       "앱 실행 후 안내에 따라 이용 시작"
     ],
