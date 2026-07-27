@@ -1596,13 +1596,19 @@
       "name": "알파카 - No.1 공유 킥보드",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Wanderlog - 트래블월렛 여행계획 & 일정 앱",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 290,
+    "total": 291,
     "skipped": 185,
-    "has_issues": 105,
-    "total_issues": 146,
+    "has_issues": 106,
+    "total_issues": 147,
     "fixed": 20
   }
 }
