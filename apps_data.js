@@ -21869,5 +21869,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 297,
+    "name": "글자수 세기 (글세)",
+    "slug": "글자수-세기-글세",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/ilCSnmBYrCIsfwVpXQpL4IJbkbt_D2HXouC3IQjfKlNWQC0IFKP_sacAM_dJd48R_oyEXyQlRYT07YRJi1eZRw",
+    "developer": "Gonigon",
+    "desc": "글을 쓸 때 필요한 모든 것, 글세에 담았습니다.\r \r 텍스트를 입력하면 글자수, 단어수, 문장수, 문단수, 바이트,\r 예상 읽기 시간까지 실시간으로 확인할 수 있습니다.\r \r [주요 기능]\r • 글자수 세기 — 공백 포함/제외 글자수를 즉시 확인\r • 목표 글자수 설정 — 목표까지 남은 글자수를 진행바로 표시\r • 3개 프리셋 — 여러 글을 탭 하나로 빠르게 전환\r • 자동 저장 — 앱을 닫아도 작성 중인 내용이 그대로 유지\r • 텍스트 분석 — 자주 쓴 글자와 단어 TOP 20 확인\r • 편집 도구 — 대/소문자 변환, 연속 공",
+    "iosUrl": "https://apps.apple.com/kr/app/id6759443544",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.gonigon.counting_letters",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/VoTBzrRkxbtoM1egypm1xe8GlKeVQFwMFMkckMLH6DsC0evmvTyPrQ-wR1FSqSpQRb-XZ8w_-V9o4ZrVhGjm6aA",
+      "https://play-lh.googleusercontent.com/WqmYwWnjWUD1Rv3NJKrSqGNuMSB7DNTYGm1_D596XYWx2zJz2jpu1-U9GPg4mzFjPqqIHPg77j0ACvQceBsZ",
+      "https://play-lh.googleusercontent.com/zI8YhIUTRitWzs9zJxpaimw0FM3PgetxGpW9qXAjE4GDTA9Y7YNjwVZFtP-GClMLLMMM2cHvToer1WPrKEqnLg"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '글자수 세기 (글세)' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
