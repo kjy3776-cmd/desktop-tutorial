@@ -1591,11 +1591,16 @@
       "name": "티켓링크 – 스포츠, 공연전시 예매, 쉽고 빠르게!",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "알파카 - No.1 공유 킥보드",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 289,
-    "skipped": 184,
+    "total": 290,
+    "skipped": 185,
     "has_issues": 105,
     "total_issues": 146,
     "fixed": 20
