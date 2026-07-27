@@ -1608,11 +1608,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "기출탭탭-AI 맞춤 문제, 내신, 수능, 고등 전 과목",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 292,
-    "skipped": 185,
+    "total": 293,
+    "skipped": 186,
     "has_issues": 107,
     "total_issues": 148,
     "fixed": 20
