@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "results": [
     {
       "name": "카카오톡",
@@ -1586,11 +1586,16 @@
       "name": "Hustly: Focus Timer",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "티켓링크 – 스포츠, 공연전시 예매, 쉽고 빠르게!",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 288,
-    "skipped": 183,
+    "total": 289,
+    "skipped": 184,
     "has_issues": 105,
     "total_issues": 146,
     "fixed": 20
