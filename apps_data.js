@@ -22253,5 +22253,57 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 302,
+    "name": "포켓몬 카드 스캐너 & 가격: DexPrice",
+    "slug": "포켓몬-카드-스캐너-가격-dexprice",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/cLVXE2k1PUPLf8f1ISK7LXuCoUrpi7FsOE7iKtDZY7-UEjFoWTmMzPV8S_oKYArfw09rpX8UYQ21b6P9b5t0vA",
+    "developer": "EVO APPS",
+    "desc": "포켓몬 트레이딩 카드 게임(TCG) 컬렉터를 위한 올인원 디지털 관리 솔루션입니다.\r \r 📸 카메라로 카드 스캔\r 실제 포켓몬 카드를 카메라로 스캔하면 즉시 카드를 식별하고 상세 정보를 확인할 수 있습니다. 이미지 인식 기술로 빠르고 정확한 카드 검색이 가능합니다.\r \r 💰 실시간 시세 확인\r TCG 마켓플레이스 데이터를 기반으로 현재 시장 가격을 실시간으로 표시합니다. 카드 상태별 가격 정보를 통해 정확한 가치를 파악하세요.\r \r 📊 디지털 컬렉션 관리\r 스캔한 카드를 개인 디지털 인벤토리에 추가하고 체계적으로 정리할 수 있습니다",
+    "iosUrl": "https://apps.apple.com/kr/app/id6757810149",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.evotech.card.pokemon.value.scanner.tcg.tracker.collector",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/TBiTID3Sog7XVeCe4T89ruMi1MxLBWNKp_PljqeMffa4h5pbMHp58TIzGz9smp7OgQO53YGZhyQzeeXrc1DwLw",
+      "https://play-lh.googleusercontent.com/Oi0nQ4iEyDBNx_5DA3vwYS1G2qhB_qPY2x8Oo5vTxCWA4EDSH60EUre_xDVjSDwKDeBfDx5rLmEdr2RBXPON3Q",
+      "https://play-lh.googleusercontent.com/Og9gxSS9L0DrAd0oo60vd8MM227bWZNJM0757SAkShdoIN6yGV3tuZ0yAusKt9UDvDu-vzAzUcEycDDx2tm5ygM"
+    ],
+    "reviews": [
+      {
+        "user": "오병탁",
+        "text": "너무너무 맘에 들어요 ㅎㅎ 감사합니다",
+        "rating": 5
+      },
+      {
+        "user": "박성환",
+        "text": "3일 무료 사용하고 이후 결제 필요",
+        "rating": 1
+      },
+      {
+        "user": "김남이",
+        "text": "오늘도 화이팅 💕",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.0.2",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '포켓몬 카드 스캐너 & 가격: DexPrice' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
