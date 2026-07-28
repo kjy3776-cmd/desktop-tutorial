@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "results": [
     {
       "name": "카카오톡",
@@ -1625,13 +1625,19 @@
       "name": "글자수 세기 (글세)",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Joom. Shopping for every day",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 295,
+    "total": 296,
     "skipped": 187,
-    "has_issues": 108,
-    "total_issues": 150,
+    "has_issues": 109,
+    "total_issues": 151,
     "fixed": 21
   }
 }

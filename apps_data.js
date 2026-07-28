@@ -19588,7 +19588,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "3.0.9",
+      "ver": "3.0.10",
       "os": "-",
       "size": "-"
     },
@@ -21899,6 +21899,93 @@ const APPS = [
     },
     "installSteps": [
       "앱스토어/플레이스토어에서 '글자수 세기 (글세)' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
+  },
+  {
+    "id": 298,
+    "name": "Joom. Shopping for every day",
+    "slug": "joom-shopping-for-every-day",
+    "cat": "shopping",
+    "icon": "https://play-lh.googleusercontent.com/CASWOGDx42OWP6sVNflrRiA36AHqDB5s6Yv-0RcbFTqPepazKRpNs1ecnc5OVlSE1QD87pvdFiuRQt-1IHva_w",
+    "developer": "Joom",
+    "desc": "Joom 마켓플레이스에서 취향에 맞는 수천 가지 제품을 둘러보세요.\r Joom을 무료로 다운로드하세요. 전 세계 3억 5천만 명 이상이 사용하는 저렴하고 독특한 온라인 쇼핑 앱입니다.\r \r 개인 맞춤 프로모션 및 추천 상품\r - Joom에서는 저렴한 제품을 주문하고 개인 맞춤 할인을 받을 수 있습니다.\r \r - 모든 취향을 만족시키는 독특한 제품은 Joom의 강점 중 하나입니다.\r \r 전 세계 배송\r - Joom은 믿을 수 있는 국제 배송 서비스를 제공합니다. 앱에서 주문 상태를 추적할 수 있습니다.\r \r - 다른 도시나 국가에 있",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.joom",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/eL6Fas5a43lni9Q2b76Yv4cRgt5Ghfmbp8Jrhz_WVFuEHK6QlGCkDZc0VfPVd0YPOlac-SJt05gL_TOvCkqzPQ",
+      "https://play-lh.googleusercontent.com/IleChTP3kCf5nDsmQlR3x3Vt3g12sx4aey8NNTPAppnrC3EfnqTJojEWdMRFqaTaBw1hwpQ1wKnmLP58q9lF",
+      "https://play-lh.googleusercontent.com/qh88OuhwtMwufdoKgFItCRTnDDU7iDaC1P7ZiThu08yE0wChHHgpvDtTDuj35H9jFm7uVFj5bRdLGC_kDMA6Tw"
+    ],
+    "reviews": [
+      {
+        "user": "Young Koo Song",
+        "text": "이거 아주 못된 앱입니다. 나는 전혀 원하지도 않는데 쇼핑을 강제하여,, 지웠더니만,, 다시 이제는 설치를 강제 합니다. 절대로 조심 하시기 바랍니다",
+        "rating": 1
+      },
+      {
+        "user": "리엘사 (suga)",
+        "text": "품질 제품의 아주 좋은 제공 👍",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "선택의 폭이 아주 넓어요",
+        "rating": 4
+      },
+      {
+        "user": "서연",
+        "text": "앱 자체에 대해선 불만없지만 굳이 여길 쓸 이유가 없음.",
+        "rating": 3
+      },
+      {
+        "user": "Google 사용자",
+        "text": "아주 좋은 앱입니다",
+        "rating": 5
+      },
+      {
+        "user": "Карина Савич",
+        "text": "Joom는 사랑해 💕",
+        "rating": 5
+      },
+      {
+        "user": "Damaris",
+        "text": "love it",
+        "rating": 5
+      },
+      {
+        "user": "Batna Bataa",
+        "text": "ох",
+        "rating": 5
+      },
+      {
+        "user": "Варя Мураховская",
+        "text": "Очень крутой интернет магазин 😘",
+        "rating": 5
+      },
+      {
+        "user": "zhansulu anuarbek",
+        "text": "Super",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Joom. Shopping for every day' 검색",
       "설치 버튼을 눌러 다운로드",
       "앱 실행 후 안내에 따라 이용 시작"
     ],
