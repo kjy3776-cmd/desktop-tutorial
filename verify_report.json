@@ -1631,11 +1631,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "성경",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 296,
-    "skipped": 187,
+    "total": 297,
+    "skipped": 188,
     "has_issues": 109,
     "total_issues": 151,
     "fixed": 21
