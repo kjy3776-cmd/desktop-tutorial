@@ -1636,13 +1636,19 @@
       "name": "성경",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Shopee PH: 6.6-7.7 Sale",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 297,
+    "total": 298,
     "skipped": 188,
-    "has_issues": 109,
-    "total_issues": 151,
+    "has_issues": 110,
+    "total_issues": 152,
     "fixed": 21
   }
 }
