@@ -1667,11 +1667,16 @@
       "name": "MARU일본어 첫걸음",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "STYLZ(스타일즈): 데일리 런웨이",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 303,
-    "skipped": 193,
+    "total": 304,
+    "skipped": 194,
     "has_issues": 110,
     "total_issues": 152,
     "fixed": 21

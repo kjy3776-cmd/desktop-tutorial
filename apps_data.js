@@ -22566,5 +22566,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 306,
+    "name": "STYLZ(스타일즈): 데일리 런웨이",
+    "slug": "stylz스타일즈-데일리-런웨이",
+    "cat": "game",
+    "icon": "https://play-lh.googleusercontent.com/tTyCBnT3aKglaYcmR27hz8gy3rmMg3LiGfMHnHBrHkVgUGqVKYdfcNiDUpnc2l_uWT6iME0izddCD66ov-6i5A",
+    "developer": "Hair Construction, Inc.",
+    "desc": "모든 헤어를위한 앱인 Stylez는 헤어 전문가 및 고객에게 가장 만족스럽고 놀라운 헤어 경험을 제공하기 위해 만들어졌습니다.\r \r 헤어 전문가 용 :\r \r 헤어 교육\r • 좋아하는 교육자의 75 개 이상의 마스터 클래스 웨비나\r • 500 개 이상의 짧은 헤어 레시피 ™\r • 30 명 이상의 친밀한 아티스트 인터뷰\r \r 헤어 데이트\r • 기존 고객에게 새롭고 흥미로운 헤어 경험 제공\r • 완벽한 고객 일치 찾기\r • 해당 지역의 소비자에게 소개\r • 원하는 헤어 데이트를 유치하기 위해 자신의 프로필을 개인화\r • 헤어 데이트 전에",
+    "iosUrl": "https://apps.apple.com/kr/app/id6761049663",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.stylez.activities1",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/OWSF0bgt-AoXcjMYAFYMkTQF0n1JZ5IyVsKDsj1p_BKWdHunwve9tgvF5Vf8GxJKcIE9Gef-8vbNBV78WJqxdA",
+      "https://play-lh.googleusercontent.com/JuVsVrwQR22VpJEQKu6MRwSYmoKnQnuQwprbt_50SWV47Lc_wrLYcdz6SGztQECc1Ui-6yWwtJgvpUto6tkRQvk",
+      "https://play-lh.googleusercontent.com/POBUaHiQbBn8i8LQEBdejmR7WBOCZLufi0vpP-0xw7HjiuvqDAlPafnDdyayhieoH9auopQFlEcVuy6HUr3y"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "11.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'STYLZ(스타일즈): 데일리 런웨이' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
