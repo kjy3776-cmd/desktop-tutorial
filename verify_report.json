@@ -1662,11 +1662,16 @@
       "name": "MEGA: 암호화된 클라우드 저장소",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "MARU일본어 첫걸음",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 302,
-    "skipped": 192,
+    "total": 303,
+    "skipped": 193,
     "has_issues": 110,
     "total_issues": 152,
     "fixed": 21
