@@ -1652,11 +1652,16 @@
       "name": "포켓몬 카드 스캐너 & 가격: DexPrice",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "포켓몬GO",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 300,
-    "skipped": 190,
+    "total": 301,
+    "skipped": 191,
     "has_issues": 110,
     "total_issues": 152,
     "fixed": 21
