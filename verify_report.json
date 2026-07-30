@@ -1682,11 +1682,16 @@
       "name": "InBody+",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "minical - 일정 관리 캘린더 앱 (달력)",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 306,
-    "skipped": 196,
+    "total": 307,
+    "skipped": 197,
     "has_issues": 110,
     "total_issues": 152,
     "fixed": 21
