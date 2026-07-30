@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "results": [
     {
       "name": "카카오톡",
@@ -403,6 +403,7 @@
       "name": "Lifestyle FIT",
       "issues": [
         "iOS URL 불량: URL 없음",
+        "아이콘 이미지 로드 실패",
         "리뷰 없음"
       ]
     },
@@ -1350,7 +1351,6 @@
       "name": "Travelxp:Flights,Hotels,Shows",
       "issues": [
         "iOS URL 불량: URL 없음",
-        "아이콘 이미지 로드 실패",
         "리뷰 없음"
       ]
     },
@@ -1673,11 +1673,16 @@
       "name": "STYLZ(스타일즈): 데일리 런웨이",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Flo-생리 주기 앱, 배란일 및 생리 달력, 임신",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 304,
-    "skipped": 194,
+    "total": 305,
+    "skipped": 195,
     "has_issues": 110,
     "total_issues": 153,
     "fixed": 21
