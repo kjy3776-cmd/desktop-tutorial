@@ -1687,11 +1687,16 @@
       "name": "minical - 일정 관리 캘린더 앱 (달력)",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "포스텔러 - 2026 신년운세, 운세의 모든 것",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 307,
-    "skipped": 197,
+    "total": 308,
+    "skipped": 198,
     "has_issues": 110,
     "total_issues": 152,
     "fixed": 21
