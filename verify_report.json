@@ -403,7 +403,6 @@
       "name": "Lifestyle FIT",
       "issues": [
         "iOS URL 불량: URL 없음",
-        "아이콘 이미지 로드 실패",
         "리뷰 없음"
       ]
     },
@@ -1678,13 +1677,18 @@
       "name": "Flo-생리 주기 앱, 배란일 및 생리 달력, 임신",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "InBody+",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 305,
-    "skipped": 195,
+    "total": 306,
+    "skipped": 196,
     "has_issues": 110,
-    "total_issues": 153,
+    "total_issues": 152,
     "fixed": 21
   }
 }
