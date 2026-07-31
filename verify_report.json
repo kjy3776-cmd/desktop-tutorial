@@ -1703,11 +1703,16 @@
       "name": "벙커디펜스: 빠른 무한 물량 막기",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "폴라리스 뷰어 - PDF, 한글, 오피스 문서 리더",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 310,
-    "skipped": 199,
+    "total": 311,
+    "skipped": 200,
     "has_issues": 111,
     "total_issues": 153,
     "fixed": 21
