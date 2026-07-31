@@ -453,6 +453,7 @@
       "name": "H1 Lifestyle",
       "issues": [
         "iOS URL 불량: URL 없음",
+        "아이콘 이미지 로드 실패",
         "리뷰 없음"
       ]
     },
@@ -1708,13 +1709,18 @@
       "name": "폴라리스 뷰어 - PDF, 한글, 오피스 문서 리더",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "멜팅 - 캐릭터 채팅, AI 연애 시뮬레이션",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 311,
-    "skipped": 200,
+    "total": 312,
+    "skipped": 201,
     "has_issues": 111,
-    "total_issues": 153,
+    "total_issues": 154,
     "fixed": 21
   }
 }
