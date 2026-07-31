@@ -453,7 +453,6 @@
       "name": "H1 Lifestyle",
       "issues": [
         "iOS URL 불량: URL 없음",
-        "아이콘 이미지 로드 실패",
         "리뷰 없음"
       ]
     },
@@ -1720,7 +1719,7 @@
     "total": 312,
     "skipped": 201,
     "has_issues": 111,
-    "total_issues": 154,
+    "total_issues": 153,
     "fixed": 21
   }
 }
