@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "results": [
     {
       "name": "카카오톡",
@@ -1698,11 +1698,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "벙커디펜스: 빠른 무한 물량 막기",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 309,
-    "skipped": 198,
+    "total": 310,
+    "skipped": 199,
     "has_issues": 111,
     "total_issues": 153,
     "fixed": 21
