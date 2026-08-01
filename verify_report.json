@@ -1740,11 +1740,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Preply: 언어 공부앱 영어회화 일본어 중국어",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 317,
-    "skipped": 204,
+    "total": 318,
+    "skipped": 205,
     "has_issues": 113,
     "total_issues": 155,
     "fixed": 21
