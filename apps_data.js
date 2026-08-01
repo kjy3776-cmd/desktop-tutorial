@@ -23385,5 +23385,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 316,
+    "name": "버스타다 - 버스가 필요한 모든 순간",
+    "slug": "버스타다-버스가-필요한-모든-순간",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/iCCnzifvSyzfxr3ts4LS284I4FDJ_hRVaVDnS7CAZNVxaH97BVozi19BgUKuV4GZU9PYhLn3xxvND3epoUxEryU",
+    "developer": "버스타다",
+    "desc": "버스타다 앱을 통해 버스 이동의 고민으로부터 벗어나 더 편하고, 즐겁고, 가치 있는 일상을 함께하겠습니다.\r \r \r ■ 셔틀 버스 예약\r \r - 콘서트, 페스티벌, 스포츠 경기 등 단체 관람행사 셔틀 버스 예약\r \r - 수도권/지방 거점 노선, 정류장으로 통해 ‘home to festival’ 실현\r \r - 수요조사 기능: 이용객 요청에 맞춰 수요 응답 노선 운영\r \r - 간편한 노선 예약과 결제 시스템\r \r \r ■ 버스 대절 문의\r \r - 6개 타입의 버스 선택 (소형, 중형, 프리미엄, 우등, 대형, 수소 버스)\r \r - 원하는",
+    "iosUrl": "https://apps.apple.com/kr/app/id6745544295",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.bustada.www",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/7AhTUtrsOncZvNk-Fs9CM_qQOhSxwYTQ2_U_0uu20lEYY4EjNTH9NxXSZ1kIejgrHYHTZ3US6t4qinnf9bsI",
+      "https://play-lh.googleusercontent.com/vySRnCQNpy614vyi-LhjDylctE8tuvtq-WsHwBat_kx2sOB_9QxERUDyAYip-5w8hHnKgUfUUkek6W5YnLDT",
+      "https://play-lh.googleusercontent.com/L3IwXzawGZV2i_GnKKcw6AgionKX-yEhWfrNtbn3zSlrCjNRAC8kaaWrhV15hIjEhFzMqpkM03LogbliwKNWkUY"
+    ],
+    "reviews": [
+      {
+        "user": "귤귤",
+        "text": "공연 이번 주 주말인데 월요일에 셔틀 취소 통보 받았습니다. 최소 인원 미달이면 취소될 수 있다는 건 이해합니다. 근데 그럼 진행률이나 위험 안내라도 해줘야 하는 거 아닌가요? 문의해야만 몇 % 찼는지 알려주는 구조는 결국 고객이 계속 신경 쓰라는 거잖아요. 결과적으로 저는 출발 5일 전에 갑자기 교통편 다시 알아보게 됐고, 시간/비용 다 손해 봤습니다. “공지했으니 문제 없다”는 식이면 서비스 이용하는 입장에선 너무 무책임하게 느껴집니다. 다음부터는 이용자들이 대비할 수 있게 사전에 안내나 알림 시스템 개선 좀 부탁드립니다.",
+        "rating": 1
+      },
+      {
+        "user": "tasty Lee",
+        "text": "앱에 대한 평가라기보다 버스타다를 이용한 후 드리는 평점입니다. 예약 후 안내사항 등 문자로 다 안내해주시고 변경된 내용도 수시로 문자 보내주시고 버스타러 가는길 헷갈리지 않게 배너며 안내해주시는 분이며 배치를 너무 잘 해주셨습니다. 버스 탈 때도 캐리어같은거 있으니까 아래 짐 싣는 칸에 넣어주시고 내릴때도 꺼내주시고 우등버스에 목베개도 있어서 너무 편하게 이용했습니다. 이용하면서 단 한 순간도 불친절이란걸 느낄 틈이 없었습니다. 다음에도 이용할 의사 백프로!",
+        "rating": 5
+      },
+      {
+        "user": "백승남",
+        "text": "버스 내부가 정말 깔끔하고 쾌적해서 깜짝 놀랐어요. 좌석도 편안하고 청결 관리가 잘 되어 있어 장거리 이동도 전혀 피곤하지 않았습니다. 기사님도 친절하시고, 안내나 응대 하나하나에서 세심함이 느껴졌어요. :) 이전에 이용했던 업체들과는 확실히 차별화된 서비스였습니다. 특히 냄새나 먼지 하나 없이 청결한 상태를 유지한 점이 인상 깊었습니다. 주변 지인들에게도 자신 있게 추천할 수 있을 정도로 만족스러웠고요. 다음에도 꼭 다시 이용하고 싶어요. 감사합니다~ 버스타다 화이팅!",
+        "rating": 5
+      },
+      {
+        "user": "만듀",
+        "text": "이번에 콘서트 보러 갔다 오면서 교통편이 불편해 버스타다 앱으로 예약해봤는데 아주 편하게 잘 다녀왔어요^^. 기사분도 친절하시고 승차감도 좋고!! 교통 걱정 없이 신나게 공연 즐겼어요♡♡ 완전 추천!!! 추천합니다!!!!",
+        "rating": 5
+      },
+      {
+        "user": "원진실",
+        "text": "이번에 페스티벌 보러 버스타다 앱으로 예약하고 편하게 다녀왔어요^^ 기사님 친절해요~ 주차걱정도 없고~ 너무 편해서 자주 이용할게요♡",
+        "rating": 5
+      },
+      {
+        "user": "--",
+        "text": "네이버 로그인이 안 돼요 네이버랑 버스타다 어플 전부 최신버전이고 와이파이 이슈도 없는데 자꾸 실패하네요... 결국 네이버앱에서 웹으로 들어가서 로그인했어요",
+        "rating": 5
+      },
+      {
+        "user": "홍현아",
+        "text": "춟발지에서 목적지 까지 자세히 알수있어 편한것 같아요 가격도 알수있고",
+        "rating": 4
+      },
+      {
+        "user": "기타수리점통앤클래식",
+        "text": "아이들이 좋아하는 콘서트 갈때 한번씩 이용하기 좋아요 자주 이용할것 같아요~~^^",
+        "rating": 5
+      },
+      {
+        "user": "이영환",
+        "text": "손쉽게 예매해서 버스이용하기 너무 편리하네요 굿굿",
+        "rating": 5
+      },
+      {
+        "user": "정정훈",
+        "text": "공항다녀오는버스예약했는데 친절하시고 금액도저렴했는데 차는엄청좋았습니다 최고",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.0.19",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '버스타다 - 버스가 필요한 모든 순간' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
