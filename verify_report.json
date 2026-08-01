@@ -1729,11 +1729,16 @@
       "name": "나이키 런 클럽",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "오늘의성경 - AI와 함께하는 하루 성경 묵상",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 315,
-    "skipped": 203,
+    "total": 316,
+    "skipped": 204,
     "has_issues": 112,
     "total_issues": 154,
     "fixed": 21
