@@ -1724,11 +1724,16 @@
       "name": "버스타다 - 버스가 필요한 모든 순간",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "나이키 런 클럽",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 314,
-    "skipped": 202,
+    "total": 315,
+    "skipped": 203,
     "has_issues": 112,
     "total_issues": 154,
     "fixed": 21
