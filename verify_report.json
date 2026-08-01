@@ -1713,13 +1713,19 @@
       "name": "멜팅 - 캐릭터 채팅, AI 연애 시뮬레이션",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "AliExpress",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 312,
+    "total": 313,
     "skipped": 201,
-    "has_issues": 111,
-    "total_issues": 153,
+    "has_issues": 112,
+    "total_issues": 154,
     "fixed": 21
   }
 }
