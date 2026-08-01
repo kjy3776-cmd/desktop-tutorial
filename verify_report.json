@@ -1734,13 +1734,19 @@
       "name": "오늘의성경 - AI와 함께하는 하루 성경 묵상",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Coinbase: 비트코인 & 이더리움 구매",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 316,
+    "total": 317,
     "skipped": 204,
-    "has_issues": 112,
-    "total_issues": 154,
+    "has_issues": 113,
+    "total_issues": 155,
     "fixed": 21
   }
 }

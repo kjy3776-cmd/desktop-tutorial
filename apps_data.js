@@ -23646,5 +23646,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 319,
+    "name": "Coinbase: 비트코인 & 이더리움 구매",
+    "slug": "coinbase-비트코인-이더리움-구매",
+    "cat": "finance",
+    "icon": "https://play-lh.googleusercontent.com/0xUsZcZsSX0zdi0DeHI7kLrzG8SP_fG7OV68IKZlIgnw4DVfMBJHNccxxY6AxL2PiOXpmpQVowswjfefHS8_sg",
+    "developer": "Coinbase Inc",
+    "desc": "Coinbase는 세계에서 가장 신뢰받는 암호화폐 거래소로 안전하게 암호화폐를 구매, 판매, 거래, 보관 및 스테이킹 할 수 있습니다. 저희는 미국에서 유일한 공개된 암호화폐 거래소이며.\r \r 지원되는 자산\r 비트코인 (BTC), 이더리움 (ETH), USD 코인 (USDC)¹, 라이트코인 (LTC), 카르다노 (ADA), 폴리곤 (MATIC), 폴카닷 (DOT), 솔라나 (SOL), 테더 (USDT), 다이 (DAI), 유니스왑 (UNI) 등 수백 개의 암호화폐.\r \r Coinbase가 제공하는 기능 중 일부를 확인하세요:\r \r ",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.coinbase.android",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/FyYxwJUQuFOZRpzxwk0b9vKTsiPxlFWpuP7wFW2jmomo1IFcu-GA0hnAc50IZRnjzyFYhJv1bTfbms-V8PXn",
+      "https://play-lh.googleusercontent.com/i0GDc-qD656eDQqloKtGW7VdZN9-LIprrxahWSSSRMeC7Jgm_sTMoMnZcfBvuQ8KOJRxm5Lo3YnnRRIStIStyvs",
+      "https://play-lh.googleusercontent.com/Pir9DzN3HLZkpi8eQ42mcyUXHiqgeSnzKoXq50aV47R2fW5pZiq7cATjMSj3VqGhZsIguzFalzzSs2uW28vI2w"
+    ],
+    "reviews": [
+      {
+        "user": "hj kim",
+        "text": "코인베이스에서 바이낸스로 테더 보내려고 하는데 계속 오류나서 못 보내고 있어요. 그냥 바이낸스 계속 쓸 걸 후회중ㅠ network or other technical issue 라고 하는데 support팀 채팅하면 기다리라고만 하고. 해결하려는 의지는 있는지 돈 내어주기 싫어서 일부러 막은건지 . 해결되면 리뷰 수정해줄게요. 거의 2주 넘어서 겨우 보냈어요.",
+        "rating": 3
+      },
+      {
+        "user": "레이레하",
+        "text": "이거 관리를 왜 이렇게 멍청하게하죠? 아니 가입하고 이오스에 넣은 다음에 신분증까지 끝냈는데 계정 동결을 시키시면 어떡하죠? 지금 제한때문에 거래도 출금도 불가능한상태로 불안한마음으로 지켜볼수 밖에없습니다. 이건 그냥 도둑입니다. 오르락내리락을 두눈으로 보고서는 빼는거는 물론 뭣도 못하니 미치겠습니다. 이 어플 절대 사용하지 마세요. 고객센터에도 메세지보내도 4일째 답도없고 그냥 양아치놈들 입니다. 진짜 여러분도 피해보지말고 다른걸 쓰세요. 니들 이거 빨리해결해라",
+        "rating": 1
+      },
+      {
+        "user": "구리상우",
+        "text": "가입하려는데 oops something went wrong 이라는 문구가 뜨며 가입 안됩니다. 재설치하고 핸드폰 재부팅도 했으나 계속 가입이 안됩니다. 아래 다른 리뷰에 보니 사이트 들어가서 보라는데 이 문제는 검색도 안됩니다. 좀 제대로 된 답변을 주는게 낫지 않나 싶은데요, 세계 2위 거래소면 뭐합니까? 이런 가입문제조차 해결하지 못하는데... 웃기는 얘기",
+        "rating": 1
+      },
+      {
+        "user": "Jihoon Kim",
+        "text": "로그인 자꾸 풀림. Today gain/Total gain %로 보려면 추가로 클릭해야 볼수있게 바뀜. ㄹㅇ 이해할수가없는 ui변경 user unfriendly 그자체 moving average도 5일 밖에 못봄 바꾸능 기능이 있는데 못찾는걸수도 있지만 최악의ui임은 분명함 수수료는 최고로 받아쳐먹으면서 업데이트는 오히려 시대 역행중",
+        "rating": 1
+      },
+      {
+        "user": "Min Kim",
+        "text": "이거 절대 쓰지 마세요. 비트코인 송금/받기 제대로 되는지 확인하려고 송금하고 보냈다가 계좌 동결됐습니다. 문제는 그러고 이메일에 몇일동안 답도없고, 심지어 미국 외에는 Customer service운영안한다는 자동답변왔네요... 하 제 비트코인 어떻게 다시 받나요 진짜 고소하고싶네요 제발 제 계정좀 돌려주세요 도둑놈들아",
+        "rating": 1
+      },
+      {
+        "user": "Jonathan J",
+        "text": "가입할때 주민등록증이나 운전면허증이 안되고 왜 여권만 가능?",
+        "rating": 1
+      },
+      {
+        "user": "Ellis Lim",
+        "text": "왜 앱이 안 열리나요?? 빨리 복구 해 주세요.. 답답합니다. 사인인하고 들어가서 안 열리니.... 정말 이상합니다. 업데이트 되고서부터 이상하게 안 들어가지는거 같아요. 빨리 이 상황을 처리해 주세요.",
+        "rating": 1
+      },
+      {
+        "user": "ᄀᄋᄋ",
+        "text": "신분증 선택이 여권밖에 안되는 건가요? 앞 란에는 주민등록증 운전먼허증도 된다고 되어있는데 신분증 선택하는곳은 여권만 나오고 다른선택을 할 수가 없어요",
+        "rating": 3
+      },
+      {
+        "user": "오리너구리",
+        "text": "설치하자마자 중국어로 떠서 사용자체를 못하고 있습니다. 국가 바꾸려니까 웹으로 접속하라는데 웹으로 들어가면 한국어로 뜨는데 계정 연동인 안된건지 모바일 앱은 그대로 중국어라 사용을 못하고 있습니다. 언어변경 좀 편하게 만들어주십쇼..",
+        "rating": 1
+      },
+      {
+        "user": "SW J",
+        "text": "코인베이스 어플은 사용하기 편해서 좋습니다",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "14.28.33",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Coinbase: 비트코인 & 이더리움 구매' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
