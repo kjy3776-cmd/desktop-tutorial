@@ -23985,5 +23985,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 324,
+    "name": "Auto Clicker: Tap Automation",
+    "slug": "auto-clicker-tap-automation",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/CrGF2yHNHGXv48Gj7v4AYjN1R-opaneFgbhrU3f6muAz4JJXMlNRfZM_cIX_DBhoQuKV-bB4EE0xWsPjerqviAA",
+    "developer": "True Developers Studio",
+    "desc": "Auto Clicker를 사용하면 지정한 간격으로 모든 위치에서 반복적으로 탭할 수 있습니다.\r Auto Clicker는 루트 액세스가 필요하지 않습니다.\r 자동 탭을 시작/중지할 플로팅 제어판이 있습니다.\r 클릭 게임에 적합합니다.\r \r 특징:\r - 사용하기 쉬운 친숙한 사용자 인터페이스\r - 다중 클릭 포인트, 다중 스와이프 지원\r - 특정 시간 동안 실행되는 글로벌 타이머를 갖습니다.\r - 자동 스크립트 가져오기/내보내기 가능\r \r 메모:\r - Android 7.0 이상만 지원합니다.\r - 접근성 서비스가 작동해야 합니다.\r ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6758081018",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.truedevelopersstudio.automatictap.autoclicker",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/tTBNVFWxyvXPrsfVhqsG5oIUxJvGDTlpINl4YDg5Q7c5TybaSMYquaeRjTREC978j4LQPLbweWAC2mC_XPHOzQ",
+      "https://play-lh.googleusercontent.com/nrOvE6uQ-PQvzPBPrTsV_5eb-E0YhEkGxa1njhocP5_4RQK94PsjQXfEu4YNh7V-nDUCBNM8cpgzOmxccxq9",
+      "https://play-lh.googleusercontent.com/GlzjZ3s-EuSB4__YJFVCPR6oNzuXpMOo9Om9k_tTLfBi9LS4BzAQ96E7Gd780C1JxmwoBSbHLocTy7kOhZwO"
+    ],
+    "reviews": [
+      {
+        "user": "정대성",
+        "text": "단일 타겟 사용시 흔들립니다. 한곳만 집중해서 클릭이 되도록 수정 해주세요. 빠르게 사용시 부근 흔들리면서 터치가 됩니다. 흔들리지 않고 한곳만 집중 클릭이 되게 수정 부탁드리며 타켓원을 좀더 작게 줄여주세요 화면속 원이 차지하는 비중이 큽니다. 감사합니다 ^^",
+        "rating": 4
+      },
+      {
+        "user": "데이메이",
+        "text": "굿 너무좋은데요. 리모컨이라고 해야하나? 실행했을때 플레이,엑스,이동 이거요. 하나 더 만들순 없나요? 메크로 다른걸 설정해서요? 이럴땐 이걸 누르고 저럴땐 저걸 누르고. 해야할때마다 설정들어가서 메크로 종류바꾸고 나와서 실행시키고, 저거할땐 또 설정들어가서 종류바꾼후 실행시키고... 그래서 양쪽에두고 필요한 메크로를 사용할수있게 해주세요.",
+        "rating": 5
+      },
+      {
+        "user": "Park Pacey",
+        "text": "로블록스에 이 오토마우스를 사용 중에 있습니다. 단일 타겟모드로만 사용 중에 있는데 잘 작동되다가 1시간 쯤 되면 로블록스에서 튕겨져 기기의 바탕화면에 있는 어플이 클릭되어 있습니다. 광고가 떠서 그런가 싶어서 유료로 구매하여 사욘했지만 동일합니다. 로블록스 문제일까 싶어 애플리케이션 - 배터리 사용량 최적화에서 제외도 시켜 봤지만 동일합니다. 이 오토마우스에서만 그런 것은 아니고 다른 오토마우스 어플에서도 동일하게 1시간 사용하기 전에 늘 로블록스에서 튕겨져 있습니다. 대체 뭐가 문제일까요???",
+        "rating": 3
+      },
+      {
+        "user": "Jo K",
+        "text": "직관적이고 매우 만족함 건의사항 or 문제점 : 1. 터치 없을 때 홈화면등에서 화면 자동 꺼짐(스크린 off)이 동작하지 않음. 강제로 켜놓은것 같은데 옵션으로 지정가능했으면 좋겠음 2. 최대 터치 사용갯수를 늘려 주었으면 좋겠어요. 2000개 정도 사용 하면 재부팅됨 ㅠㅠ 로딩은 어싱크로 바꾸면 될것 같고 터치 뷰도 100개 넘어가면 맨 앞에꺼 부터 대체하면 문제 없을듯. 요 두개 빼고는 완벽함 강추!!!",
+        "rating": 5
+      },
+      {
+        "user": "오택민",
+        "text": "반복동작을 할 때 아주 유용하게 사용하고 있으며 만족스러운 앱이라고 생각합니다. 다만, 다소 편의성이 부족하다는 점이 아쉽습니다. 예를 들면, 설정한 프리셋이 복사가 안된다거나, 프리셋 반복 사이의 텀 설정이 안된다거나 하는 것이 있습니다. 개인적으로는 조금만 보완하면 5점이 아깝지 않은 앱이라 생각합니다.",
+        "rating": 4
+      },
+      {
+        "user": "Dongsoo SAM Lee",
+        "text": "일단 이거 무조건 쓰세요 1 무료 오토클릭커는 대부분 유료인 경우가 있지만 이 오토마우스는 무료면서 간단한 조건을 얻으면 쓸수 있습니다 2사용하기 간편하다 이건 위에서 설명한 특정조건을 달성하면 클릭 한번만 해도 오토마우스를 쓸수 있습니다 3기능 기능은 단일/다중이 있으며 다중은 여러가지의 기능을 덤으로 쓸수 있습니다 4 렉 렉이 안걸리고 광고같은건 없읍니다",
+        "rating": 5
+      },
+      {
+        "user": "박나윤",
+        "text": "우선속도가 무료이용하는데도 다른 어떤 앱보다도 빠른편입니다. 그런데 설정값을 똑같이 해도 폰기종마다 속도가 다르긴 하네요. 제폰은 빠른데 친구폰은 느려서 어떤설정값을 하면 좋을지 궁금하네요. 혹여 최적의 설정값이 있으면 댓글 부탁드립니다~ ㄷ",
+        "rating": 5
+      },
+      {
+        "user": "ililil il",
+        "text": "다른 오토클리커에서는 거의 3분마다 광고 나와서 한번 멈출때마다 큰 용기를 내야 하는데 광고가 없는것만큼은 (오늘 깔아서 아닐 수도 있지만) 정말 좋은 것 같네요 한글로 바뀌지 않아도 원래 오토클리커 쓰는 사람들은 잘 쓸 것 같긴 한데 한글 패치 하면 더 좋을 것 같긴 하네요",
+        "rating": 5
+      },
+      {
+        "user": "kiwon jung",
+        "text": "게임이나 앱 사용할 때 아주 유용합니다. 다중 선택도 가능하고 길게 스와이프도 가능해서 유투브 볼 때도 너무 좋습니다. 특히 큰 오류나 충돌이 없어 정말 좋습니다. 오토 클릭커 사용해 본 중에 최고 좋습니다. 폰 새로 설치할 때마다 찾아서 설치하는 앱입니다.",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "현재 사용한것중에는 최고입니다. 좋은점은 광고리뷰안뜨는게 첫번째고 두번째는 사용시 핸드폰다운 현상이 없는점. 앞으로도 광고안뜨게 해주시고 가끔보면 매크로키고 가동안했을시 자고일어나면 매크로가 사라져있네요 . 이문제점 개선 부탁드립니다.",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2.3.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Auto Clicker: Tap Automation' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

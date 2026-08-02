@@ -1761,11 +1761,16 @@
       "name": "오늘의 꽃 : 진짜 꽃을 키우는 게임",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Auto Clicker: Tap Automation",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 321,
-    "skipped": 207,
+    "total": 322,
+    "skipped": 208,
     "has_issues": 114,
     "total_issues": 156,
     "fixed": 21
