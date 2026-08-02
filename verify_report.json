@@ -1779,11 +1779,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "꿈틀 수비대: 습격!! 외계인 엉덩이 TD",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 324,
-    "skipped": 208,
+    "total": 325,
+    "skipped": 209,
     "has_issues": 116,
     "total_issues": 159,
     "fixed": 22
