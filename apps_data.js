@@ -24108,5 +24108,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 326,
+    "name": "Revolut — Banking & Beyond",
+    "slug": "revolut-banking-beyond",
+    "cat": "finance",
+    "icon": "https://play-lh.googleusercontent.com/LVmCH4DeBgO8Gyp69sApakf-KSy5Xf9ytV-NUmZnB2ZUKuIS0ee6cSACkalsLKuoQ1MorU7-0wW1xKZ6FUlS",
+    "developer": "Revolut Ltd",
+    "desc": "이 설명과 미리보기 자료는 영국 거주자에게만 해당됩니다.\r \r 1,300만 명 이상의 영국 고객을 위한 디지털 은행. 하나의 앱에서 지출, 저축, 투자 및 자금 관리를 모두 해결하세요.\r \r Revolut으로 더 나은 금융 생활을 누리는 전 세계 7,500만 명 이상의 고객과 함께하세요. 일상적인 당좌 예금 계좌부터 세금 면제 ISA를 통한 자산 증식까지, 안전한 하나의 앱에서 모든 금융 생활을 관리하세요.\r \r 일상적인 금융 거래를 간소화하세요\r \r * 필수 기능: 몇 분 만에 정렬 코드와 계좌 번호가 있는 영국 당좌 예금 계좌를",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.revolut.revolut",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/OYR-m2CywNC05i01GP1wscD3Ot1nNHHIVAkRwacGKvONR1663God-tyhQCMn8LtDvrM1221vp4xzPsP634tJ",
+      "https://play-lh.googleusercontent.com/JYKLQBaFyaYzGznjkXSSiUsa_qVYIe2IZrm2x7YluJTy1bzIQ37gTbB-nIb_9GffR3iFaumGcjEoKwdUUU6Ga-w",
+      "https://play-lh.googleusercontent.com/cLpQ3NCQ7BWE5TW1TVbiR8BAguQRPVak6fvxttAVAo5PvGY-AiBH1HiOTlngRxsNfnTa8unhimFjfgz3DR8-ig"
+    ],
+    "reviews": [
+      {
+        "user": "Chon Gym Khan",
+        "text": "현금인출할때 수수료 무료고 온라인 계좌이체할때 빠르고 그리고 바로바로 내가 계산할때마다 얼마썼는지를 보여주는게 더 좋음",
+        "rating": 5
+      },
+      {
+        "user": "Jihyun Shin",
+        "text": "오류도 많고, 영국에서 아일랜드로 주소를 바꾸는데 주소와 기본 통화 변경이 안됩니다. 계좌를 없애고 다시 만드려 하는데 교묘하게 계좌를 닫는걸 불가능하게 해놓았습니다.(터치가 안돼요) 문의를 해도 지시를 따르라고만 대답합니다. 지사도 없으면서 상담원과 소통하기도 어렵습니다. 여러 인터넷 뱅킹을 써봤는데 오류도 가장 많고 소통이 최악입니다. 그래도 계좌 유지 비용과 수수료가 없어서 기본적인 뱅킹 기능으로는 나쁘지 않습니다.",
+        "rating": 2
+      },
+      {
+        "user": "Alessandro Mirabile",
+        "text": "저도 다른 유저들도 전화인증까지 하고 계정 만들어지는 대기가 2주일... 3주일 영원히 완료되지 않습니다. 의미 없는 서비스라는 생닥이 들어요.",
+        "rating": 1
+      },
+      {
+        "user": "David Kang",
+        "text": "루마니아로 주소를 바꾸려고하는데, 미국으로 언어설정을 해서... 나아 선택을 다시할 수 없도록 되어있다. 리턴 버튼이나 링크를 둬야한다.",
+        "rating": 5
+      },
+      {
+        "user": "구제이쓴",
+        "text": "가입 도중에 메일이 도착하지 않아 가입이 어렵습니다. 이메일 다시 설정 할 수 있게 요청합니다",
+        "rating": 3
+      },
+      {
+        "user": "이혜리",
+        "text": "전화번호 인증까지 완료했는데 대기리스트에 있다고만 뜨고 2주가 지나도 계정이 안 만들어집니다.",
+        "rating": 1
+      },
+      {
+        "user": "자영",
+        "text": "빠르고 정확함 최고의 여행 파트너♡",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "편하고 좋습니다 !! 저럄한거 같구요 탱큐",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "해외송금에 편리한것 같아요!",
+        "rating": 5
+      },
+      {
+        "user": "김금화",
+        "text": "사용하가 너무편리해요",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "10.140",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Revolut — Banking & Beyond' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
