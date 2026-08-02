@@ -1750,13 +1750,19 @@
       "name": "Smash Fest!",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "PRONOTE",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 319,
+    "total": 320,
     "skipped": 206,
-    "has_issues": 113,
-    "total_issues": 155,
+    "has_issues": 114,
+    "total_issues": 156,
     "fixed": 21
   }
 }

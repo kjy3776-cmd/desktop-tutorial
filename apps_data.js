@@ -23856,5 +23856,47 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 322,
+    "name": "PRONOTE",
+    "slug": "pronote",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/gtRuvj-ZlL_8zK444zRjK9x4kBpAWxBwsf4CIEFH74x5US4xptkvO-IxzSUy5YuXYGGQhdsGq2ni2LLyB_Cfsg",
+    "developer": "Index Education",
+    "desc": "PRONOTE는 학교와 학생, 학부모 및 교사 간의 직접적이고 안전한 연결입니다.\r • 실시간 일정,\r • 교과서에 있는 숙제,\r • 교육 자료 및 포럼,\r • 결과는 성적 및/또는 기술의 형태로 나타납니다.\r • 결석 및 증빙 서류,\r • 문서를 다운로드할 수 있는 디지털 보관함\r • 설립 소식,\r • 설문조사 및 정보,\r • 보안 상황별 메시징,\r • 전년도 성적표,\r • 특허 파일,\r • 오리엔테이션 및 인턴십,\r • 그리고 더…\r 하지만 리뷰에서 알 수 있듯이 PRONOTE는 비디오 게임이 아닙니다 😉\r \r 개인 계정 설치\r",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.IndexEducation.Pronote",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/AKOY15-g45oBoeA-Dh_EOhJLRPwfEnTsdsKQ3DtzDaeVAesn1qScc9f8IqyQTBruXKUlOGWWrQ4hsS8aZI0h0g",
+      "https://play-lh.googleusercontent.com/P0KNpS4AGcvmhm3M6PpdmEgAygcXOX7DEAkam7X1x4q1JyAxFgxVskSkCkQ7bS8yDEaWUlXjMl7ZTkpegHMnzw",
+      "https://play-lh.googleusercontent.com/Wm84lXbQAeiRjLgza4gZ7bOKafUT9--e-PwNgZ_K_P8neIObRv5KSllGQtTdEUCrBRutuAVj0_JEalS-Iy_skTQ"
+    ],
+    "reviews": [
+      {
+        "user": "Google 사용자",
+        "text": "Tres bien pour le travail",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2.0.11",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'PRONOTE' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
