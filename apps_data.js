@@ -23820,5 +23820,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 321,
+    "name": "Smash Fest!",
+    "slug": "smash-fest",
+    "cat": "game",
+    "icon": "https://play-lh.googleusercontent.com/cGFHwA8tQmNoLVlbkDfnYEJVxno3wPR1IxYcKJ02hGVwAlD3Qrim3-hC70c9yNqljJ6os0aJgL-vA3JSzM87KGU",
+    "developer": "MEC ENERGY (PRIVATE) LIMITED",
+    "desc": "스매시 페스트에 오신 것을 환영합니다!\r 도시에서 가장 폭발적인 축제를 즐길 준비를 하세요! 화려한 경기장에서 모든 샷이 중요합니다. 대포를 발사하고, 깨지기 쉬운 항아리를 부수고, 무거운 돌을 부수며, 가장 만족스러운 방식으로 펼쳐지는 혼란을 지켜보세요.\r 각 레벨은 완전히 새로운 도전입니다. 각도, 위력, 타이밍을 조절하여 완벽한 발사를 만들어 보세요. 단 한 번의 정확한 사격으로 마법 같은 파괴의 연쇄 반응을 일으킬 수 있습니다. 처음 플레이하는 순간부터 쉽게 즐길 수 있지만, 정교한 조작을 좋아하는 플레이어에게는 실력과 정확",
+    "iosUrl": "https://apps.apple.com/kr/app/id6748084174",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.mec.energy.meow.puzzle",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/tetYBlkamgVvaMEnMg3LA-qsH5VW0NYWsbXvRMeu0wlbYX-ELIuxSTcdV2YlsWT-i-TVAhm9h8hMV8oqSd_JqAU",
+      "https://play-lh.googleusercontent.com/hXvZ1SGV2lCo18VZ7T4OKb6n3XtrqstZkqN4FKxhPX5uPeZaXYJkWUkUnNutdyQAbFSDTkuz0uXya6jYDIDO",
+      "https://play-lh.googleusercontent.com/3KYLjn6D_HYGn_rgx7rkp8YOt50ZQDQACNBfs7KxVs8d9soAp6PeusMNcwF0SBJJLCScRVogLAWDr05q5nI-NXg"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Smash Fest!' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

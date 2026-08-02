@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "results": [
     {
       "name": "카카오톡",
@@ -1745,11 +1745,16 @@
       "name": "Preply: 언어 공부앱 영어회화 일본어 중국어",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Smash Fest!",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 318,
-    "skipped": 205,
+    "total": 319,
+    "skipped": 206,
     "has_issues": 113,
     "total_issues": 155,
     "fixed": 21
