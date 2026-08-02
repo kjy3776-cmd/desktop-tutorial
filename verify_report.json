@@ -1784,11 +1784,16 @@
       "name": "꿈틀 수비대: 습격!! 외계인 엉덩이 TD",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "클로버 (C:LOVER) - 경기도교육청 환경실천",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 325,
-    "skipped": 209,
+    "total": 326,
+    "skipped": 210,
     "has_issues": 116,
     "total_issues": 159,
     "fixed": 22

@@ -24282,5 +24282,72 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 328,
+    "name": "클로버 (C:LOVER) - 경기도교육청 환경실천",
+    "slug": "클로버-clover-경기도교육청-환경실천",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/X5oOQ480iF9qpsGb-yIsX-9KRLYu6GHr1WiEEAoj_EzgRyeCJ7S33-kmNkqFgUxPCKT8RL5s-r5QxlCRyVFvQA",
+    "developer": "이노디지털 주식회사",
+    "desc": "온실가스 감축을 위한 친환경 활동에 대한 적립-리워드 시스템 안착을 통한 지속적인 참여 활성화를 위하여 학교에서 교사 및 학생들을 대상으로 환경 활동을 수행하는 앱 입니다.",
+    "iosUrl": "https://apps.apple.com/kr/app/id6751610666",
+    "androidUrl": "https://play.google.com/store/apps/details?id=kr.innodigital.clover",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/YdsYaLfJaq3my7JclaFIjNqMYc1kSeuMrALJVnhm064yInGh5oXVhooXO4NAA5kcpMeg4nv54EsDyDRS-bGe1QY",
+      "https://play-lh.googleusercontent.com/AMIAlKG_H6d10z3jfAvUa7yAHiDG_IDx7O9apJz1iZ9I7814eO-vWqLQYanWdmnLi04s5RIIxy3e21VwsWrzzg",
+      "https://play-lh.googleusercontent.com/Y4cXvaDnrZH2DXFK5nmT15RQQrybfE83DzskMaaqAye6qBWeKwZpqWxE1UcgpzxH0KIfWOg0RdfT_CfmpoLKVbk"
+    ],
+    "reviews": [
+      {
+        "user": "최재만",
+        "text": "교육상 구글플래이를 삭제하는데 구글 플레이를 삭제하면 어플이 작동을 안합니다 클로버 설치 후 구글 플래이 삭제해도 작동 잘 될수 있도록 고쳐 주시면 감사하겠습니다.",
+        "rating": 3
+      },
+      {
+        "user": "이재후",
+        "text": "와 예전과 비해 포인트 벌기 쉽네요",
+        "rating": 5
+      },
+      {
+        "user": "우수현",
+        "text": "뭐 쓸만 해요....",
+        "rating": 3
+      },
+      {
+        "user": "허은솔",
+        "text": "관리자님 저 이거 허락해 주세요 로그인 하면 관리자 허락있어야 된대요",
+        "rating": 1
+      },
+      {
+        "user": "한서준",
+        "text": "재미있음",
+        "rating": 5
+      },
+      {
+        "user": "박민준",
+        "text": "깔지마세요",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.2.4",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '클로버 (C:LOVER) - 경기도교육청 환경실천' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
