@@ -24072,5 +24072,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 325,
+    "name": "NoiseFit: Health & Fitness",
+    "slug": "noisefit-health-fitness",
+    "cat": "health",
+    "icon": "https://play-lh.googleusercontent.com/COGTc5hfzfLdA1C4UK7O3ZVqKzJHQfqSj9_T_04u7dS1DgfwVFX7SBBzKWdTnloneVeU3ca7xF-NORzHv9MChQ",
+    "developer": "Noise",
+    "desc": "모든 운동 및 건강 추적 요구 사항을 충족하는 원스톱 앱입니다. NoiseFit 앱으로 최고의 건강을 위한 길을 열어드립니다. Noise 스마트워치(시계 컬렉션: https://www.gonoise.com/collections/smart-watches)를 앱에 동기화하여 기기의 잠재력을 최대한 활용하세요.\r \r 📱알림을 놓치지 마세요\r 스마트워치를 연결하고 시계에서 SMS 및 통화 알림을 받아 연결 상태를 유지하세요. 편리한 시간에 다른 앱의 알림을 허용하세요.\r \r 👟친구들과 함께 훈련하세요\r Noise는 함께 건강해지고 건강해진",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.noisefit",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/TbnMjnbotnvxRoeZ3bFfFcwuB3ZMdXcA8mzbZRxgilYksbB_5vtovEPJlQoz27BvNjXEP6okGQW6zRPX_TeI",
+      "https://play-lh.googleusercontent.com/jy8RQsP0vbq7lPI0zlGHsFm8swFaM_TTg7FLYQVRpGRkvY7LTwDvY1CoPkmcp-LvM7DTBHMUJCrbpxEoyZ8R",
+      "https://play-lh.googleusercontent.com/7VlDDSELSiGQpn29u9fKSm-_KOyJxrO7nm8Wl2tH9ScGF10GDBj6ct0yPd8MNoX3sChGXMhz-SA4XY7LBQpr_w"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "5.2.7",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'NoiseFit: Health & Fitness' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
