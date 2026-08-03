@@ -232,6 +232,7 @@
     "TrackFollows - 인스타 언팔 확인",
     "Travelxp:Flights,Hotels,Shows",
     "Trendyol - Online Alışveriş",
+    "Tricky Mean2",
     "Tricky Story 2: Brain Twist",
     "Trust: Crypto & Bitcoin Wallet",
     "Uber Taxi(우버 택시) - 택시 호출 플랫폼",
@@ -611,7 +612,7 @@
     "회독JLPT(AD)",
     "히간: 이루실"
   ],
-  "last_run": "2026-08-02",
+  "last_run": "2026-08-03",
   "next_id": 0,
   "today_count": {
     "2026-05-26": 2,
@@ -682,6 +683,7 @@
     "2026-07-30": 5,
     "2026-07-31": 3,
     "2026-08-01": 6,
-    "2026-08-02": 8
+    "2026-08-02": 8,
+    "2026-08-03": 0
   }
 }
