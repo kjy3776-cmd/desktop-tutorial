@@ -1794,13 +1794,19 @@
       "name": "스프레드시트-XLSX 시트",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Early Learning Academy",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 327,
+    "total": 328,
     "skipped": 211,
-    "has_issues": 116,
-    "total_issues": 159,
+    "has_issues": 117,
+    "total_issues": 160,
     "fixed": 22
   }
 }

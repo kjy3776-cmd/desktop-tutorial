@@ -24385,5 +24385,47 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 330,
+    "name": "Early Learning Academy",
+    "slug": "early-learning-academy",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/NtFFz03vOUEu9sfYVMrX40GUbdqewT13WHhHwMmimfYWRtJ6shuouLLyvt6IC2lZCuA45RhZdyFLhocq2Cd4gzM",
+    "developer": "Intellijoy Educational Games for Kids",
+    "desc": "당신은 그들이 세계에서 첫 발을 내디딜 수 있도록 도왔습니다. Early Learning Academy는 학생들이 교실에 들어갈 수 있도록 도와줄 것입니다.\r \r 1000가지가 넘는 재미있고 매력적인 활동으로 구성된 가상 탐험에 참여하여 어린 학습자가 유치원과 1학년으로 쉽게 전환할 수 있도록 하십시오. 유치원과 유치원 커리큘럼이 이렇게 재미있을 수는 없습니다! 놀이처럼 느껴지지만 Intellijoy 조기 학습 아카데미는 자녀가 자신감을 갖고 올바른 발로 학교를 시작할 수 있도록 도와줍니다.\r  \r 이것은 아직 Intellijoy의",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.intellijoy.kids.academy",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/HF8erL18hrbl1gqntkzMI5OL2hVR3kDmvRcPKIO69dlctiwjN6-C3TXrl-uZIz-OiabUWYi3PH2D5lWca9m8",
+      "https://play-lh.googleusercontent.com/Ofx0vOHfCXRwiVgPyb81Zlxj2S6DGOABnL_1qTid2a-pPUYPCtKyOFWuS7LRW_3YTP5hjuYdYx7Dot_Jj5QcvQ",
+      "https://play-lh.googleusercontent.com/lUkWBxpGtV8x1kOeBVhtlbL47NuP8zipKT63CfV-2ORk35cAcObVBbDYLt9iPL1gGZjQmEMzDnwbV3mN1xMIjw"
+    ],
+    "reviews": [
+      {
+        "user": "Google 사용자",
+        "text": "구성좋아요",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "3.8.1",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Early Learning Academy' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
