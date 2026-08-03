@@ -1789,11 +1789,16 @@
       "name": "클로버 (C:LOVER) - 경기도교육청 환경실천",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "스프레드시트-XLSX 시트",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 326,
-    "skipped": 210,
+    "total": 327,
+    "skipped": 211,
     "has_issues": 116,
     "total_issues": 159,
     "fixed": 22

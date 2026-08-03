@@ -24349,5 +24349,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 329,
+    "name": "스프레드시트-XLSX 시트",
+    "slug": "스프레드시트-xlsx-시트",
+    "cat": "productivity",
+    "icon": "https://play-lh.googleusercontent.com/lVqtLipvFxHEqFTe0y05vKu1qwd4eVFVqYGfXv8zy31fom2E6v7CGZjQ7eUhJGoa-aXi_xqnYx0pEEszdwsG5Q",
+    "developer": "深圳市前海乐游原网络技术有限公司",
+    "desc": "모바일 폰 양식 작성 도구 소프트웨어 및 일상 사무 소프트웨어; 언제든지 양식을 만들고, 보고, 편집하고, 공유할 수 있습니다. 다양한 양식 템플릿을 제공하며, 일정표, 수업 일정, 품목 목록, 일일 보고서, 청구서, 기록표와 같은 다양한 관리 데이터 표를 빠르게 생성할 수 있습니다.\r 열 높이와 너비, 덧셈과 뺄셈, 뺄셈, 곱셈, 나눗셈 및 기타 기본 공식과 간단하고 일반적으로 사용되는 함수 공식의 자동 조정을 지원하여 작업 속도를 개선하고, 사무실 요구 사항을 충족하고, 작업을 더 잘 완료할 수 있습니다.\r 양식 링크: http",
+    "iosUrl": "https://apps.apple.com/kr/app/id1518721142",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.biggerlens.sheets",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/-auvqCTV5cPn4LPJbMf4JyZU7kzsC3iEueSBLuaZm7_P-ToWLPXfFiZDYmofeNIkdj6OeHbd5cDCcwak0MUy",
+      "https://play-lh.googleusercontent.com/QUT6D7NK3Qmsm31OVxBcMpZ4vQ0entKyxl-vblwU9l_F9sCOWoqVYXN1-1Rsr5DG12IJ2ImFXgwddK6493c7",
+      "https://play-lh.googleusercontent.com/o6GqjQ3SR_4GoJHIWURMEMuhj3ms_Ti9MF_5icC1sZzuiLJuwZdd_ovS_pDh1Edwu2oGaJgg23uapmWf-hfm"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '스프레드시트-XLSX 시트' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
