@@ -1372,6 +1372,7 @@
       "name": "Teachmint AI Online Teaching",
       "issues": [
         "iOS URL 불량: URL 없음",
+        "아이콘 이미지 로드 실패",
         "리뷰 없음"
       ]
     },
@@ -1823,7 +1824,7 @@
     "total": 331,
     "skipped": 212,
     "has_issues": 119,
-    "total_issues": 162,
+    "total_issues": 163,
     "fixed": 22
   }
 }
