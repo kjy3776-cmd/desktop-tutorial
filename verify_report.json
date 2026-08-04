@@ -1372,7 +1372,6 @@
       "name": "Teachmint AI Online Teaching",
       "issues": [
         "iOS URL 불량: URL 없음",
-        "아이콘 이미지 로드 실패",
         "리뷰 없음"
       ]
     },
@@ -1818,12 +1817,18 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "타일 클럽 - 매칭 게임",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 331,
+    "total": 332,
     "skipped": 212,
-    "has_issues": 119,
+    "has_issues": 120,
     "total_issues": 163,
     "fixed": 22
   }
