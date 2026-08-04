@@ -1800,11 +1800,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "스터디모아 - 스터디공간 예약 앱",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 328,
-    "skipped": 211,
+    "total": 329,
+    "skipped": 212,
     "has_issues": 117,
     "total_issues": 160,
     "fixed": 22
