@@ -1805,13 +1805,19 @@
       "name": "스터디모아 - 스터디공간 예약 앱",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "MEGOGO: Online TV, Movies",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 329,
+    "total": 330,
     "skipped": 212,
-    "has_issues": 117,
-    "total_issues": 160,
+    "has_issues": 118,
+    "total_issues": 161,
     "fixed": 22
   }
 }

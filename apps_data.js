@@ -24514,5 +24514,62 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 332,
+    "name": "MEGOGO: Online TV, Movies",
+    "slug": "megogo-online-tv-movies",
+    "cat": "entertainment",
+    "icon": "https://play-lh.googleusercontent.com/aCxgRYzHRLqDxNJj67tjUqhweEGO9Ff0VTzmAN5h5EXDXwvFRRV0poeAWoL-fX7xQfnBNDmfe7jUlTDDZB3uDg",
+    "developer": "MEGOGO",
+    "desc": "MEGOGO는 모든 것이 원하는 대로 제공되는 콘텐츠 세계입니다. 무료 온라인 TV, 영화, 시리즈, 스포츠, 오디오북. 좋은 것을 켜고 즐겨찾기를 켜십시오.\r \r – 최고의 TV 채널. 좋아하는 예능 프로그램, TV 시리즈, 영화를 TV에서 찾을 수 있는 인기 TV를 온라인으로 시청하세요. 또한 뉴스, 어린이, 교육, 정보, 스포츠 TV 및 음악 채널이 여기에 있습니다. 프로그램의 단일 에피소드를 놓치지 말고 중요한 이벤트를 최신 상태로 유지하고 좋아하는 TV 채널을 시청하세요. 그리고 일부 무료 TV 온라인 채널을 확인하십시오.",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.megogo.application",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/IxKxodrb4hyRJE6BlOFTB4rCWtXCU6QTc6qPysK2ebfcqBq8QYvmTdnuVpbTeOSXhy78FD2P1EBWo141__x5xQ",
+      "https://play-lh.googleusercontent.com/ZVONEJ03-i_r6omEbjF1MjPCbWB0Hg37cE8roljZn1pxjg2sv5WncFNun9xv1lX9pkdHeEtfGEitbezNM4FvCQ",
+      "https://play-lh.googleusercontent.com/zCQXpnfazMG3wyEm_FE8iMF6aGZQ9uSwpwa5vmup5_HxO4G8shH-pjzFlP37_A5l4UzKUW9vrMGmy2jZHUJ5gw"
+    ],
+    "reviews": [
+      {
+        "user": "Google 사용자",
+        "text": "러시아 영화보기 너무 좋습니다!",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "Хорошее прилоденте и для иностранцев",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "자막선택 가능하다고 들었는데 어떻게 선택해서 보나요 영화에 자막이없네요",
+        "rating": 4
+      },
+      {
+        "user": "Google 사용자",
+        "text": "очень полезно для изучения русского языка. Надеюсь там еще будут русские субтитры!",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'MEGOGO: Online TV, Movies' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
