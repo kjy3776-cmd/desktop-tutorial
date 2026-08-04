@@ -34,6 +34,7 @@
     "Bus Traffic Fever!",
     "Buz TV - Watch Your Media",
     "Byoh - Lifestyle",
+    "COSS 통합플랫폼",
     "CamScanner - 문서 스캔 & PDF 변환",
     "Cambridge English Dictionary",
     "CampusLearn - AI Companion",
@@ -620,7 +621,7 @@
     "회독JLPT(AD)",
     "히간: 이루실"
   ],
-  "last_run": "2026-08-03",
+  "last_run": "2026-08-04",
   "next_id": 0,
   "today_count": {
     "2026-05-26": 2,
@@ -692,6 +693,7 @@
     "2026-07-31": 3,
     "2026-08-01": 6,
     "2026-08-02": 8,
-    "2026-08-03": 2
+    "2026-08-03": 2,
+    "2026-08-04": 0
   }
 }
