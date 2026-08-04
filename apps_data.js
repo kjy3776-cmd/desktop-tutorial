@@ -24571,5 +24571,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 333,
+    "name": "푸바오 키우기",
+    "slug": "fubao",
+    "cat": "game",
+    "icon": "https://play-lh.googleusercontent.com/S7iPsm4z1URiniQwTPx1B2GI4Gjma_m0F4fBvxbjFO424ReHRrewTkRrbX--6Rs6QgnaB0Ddb8JsaBYPrJM-iw",
+    "developer": "Sichuan-Everend Panda(四川熊猫）",
+    "desc": "카톡테마 적용방법 :\r 1.카톡테마 설치 후 실행해주세요.\r 2.적용하기 버튼을 클릭해세요.\r 3.카톡테마 적용 완료!",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.kakao.talk.theme.fubaocute",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/QKsBHDuQZFvXJR5MioYXQbmBznGK-G8h4bDG5AUpkkaKTnc1omP4awStWbRyNhGSCvz_D_f7-EljrJ1a64f1",
+      "https://play-lh.googleusercontent.com/wxYpFiKaCpysAhJP0X2uKkE7FEpCSAgeaFUKRLutJQ7rOzcco9v_8xp4dE4GO87R2g08I2zZ9BOPO5uiZ4tvNQ",
+      "https://play-lh.googleusercontent.com/qmoVRpIOwYSfdxqSVb13XUMXVJ9Acldv-f_nMX74-a1cMVwhMAM4dBxBTe1phIQXVrSTboiDsOsQGV6pUSIpbuc"
+    ],
+    "reviews": [
+      {
+        "user": "ss w",
+        "text": "푸바오 너무 귀여워요♡",
+        "rating": 5
+      },
+      {
+        "user": "도라에몽",
+        "text": "푸바오야 진심으로 늘 건강하고 행복한 날만 보내",
+        "rating": 5
+      },
+      {
+        "user": "전선화",
+        "text": "귀엽고 좋아요~^^",
+        "rating": 5
+      },
+      {
+        "user": "윤가영",
+        "text": "울 푸바오 테마 넘귀여워요🩷",
+        "rating": 5
+      },
+      {
+        "user": "김화순",
+        "text": "푸바우너무이쁘고착한푸바우짱♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡◇",
+        "rating": 5
+      },
+      {
+        "user": "이효정",
+        "text": "귀염 푸바오 ♡♡♡♡♡",
+        "rating": 5
+      },
+      {
+        "user": "한수진",
+        "text": "푸바오야 행복하자💛",
+        "rating": 5
+      },
+      {
+        "user": "한예린",
+        "text": "푸바오내꺼",
+        "rating": 5
+      },
+      {
+        "user": "언약렘넌트",
+        "text": "귀욤귀욤",
+        "rating": 5
+      },
+      {
+        "user": "이솔비",
+        "text": "푸바오 카톡테마^^♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♥",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '푸바오 키우기' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

@@ -1811,13 +1811,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "푸바오 키우기",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 330,
+    "total": 331,
     "skipped": 212,
-    "has_issues": 118,
-    "total_issues": 161,
+    "has_issues": 119,
+    "total_issues": 162,
     "fixed": 22
   }
 }
