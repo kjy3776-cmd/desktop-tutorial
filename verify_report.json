@@ -1840,11 +1840,16 @@
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "블루미 - AI 친구 채팅 & 현실 친구 만들기",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 335,
-    "skipped": 214,
+    "total": 336,
+    "skipped": 215,
     "has_issues": 121,
     "total_issues": 165,
     "fixed": 23
