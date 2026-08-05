@@ -1845,13 +1845,19 @@
       "name": "블루미 - AI 친구 채팅 & 현실 친구 만들기",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Alison: Online Learning App",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 336,
+    "total": 337,
     "skipped": 215,
-    "has_issues": 121,
-    "total_issues": 165,
+    "has_issues": 122,
+    "total_issues": 166,
     "fixed": 23
   }
 }

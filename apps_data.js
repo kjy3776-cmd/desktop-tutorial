@@ -25042,5 +25042,62 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 339,
+    "name": "Alison: Online Learning App",
+    "slug": "alison-online-learning-app",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/98EQgvC4ghnymqgxBEG8HVno_K-g9AQy0uJrrYHAMVAJUybHK7RXPjKLeucd423LTxkMWtNNLmR8w_2H3sUbaQ",
+    "developer": "Alison eLearning",
+    "desc": "Alison의 무료 온라인 강좌로 언제 어디서든 무엇이든 배우세요.\r \r Alison은 교육, 경력 개발, 그리고 취업에 필요한 역량을 키울 수 있는 무료 온라인 학습 앱입니다. 195개국 이상에서 5천만 명이 넘는 학습자가 Alison을 통해 온라인으로 학습하고, 비즈니스, AI, 기술, 건강, 경영, 마케팅, 데이터 과학 등 6,000개 이상의 강좌를 통해 세계적으로 인정받는 CPD 인증 수료증과 졸업장을 취득하고 있습니다.\r \r 경력 개발, 사업 확장 또는 개인 발전을 위한 역량 강화:\r 기존 역량을 향상시키거나, 새로운 기술",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.alison.mobile.flutter",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/hvNMT2b2V8PuGwHaJMgTHzVXdnWpsKWHAkOED_naqo2sbwTZ_1Xni6jriRlZwBDJZcdivwJheo3DAYnMr25c1A",
+      "https://play-lh.googleusercontent.com/r7ZfH0TYN6_1RqPr8Y2G0Sf85w1N-PjvdqS1BmUgE50J3w07QdrAQh8mJHW3anxG8-2uIQdne64aXMoElt6OkFM",
+      "https://play-lh.googleusercontent.com/ACYXx8vhCBxYcEGjYjdwlSN7pMekNecCAnhVB30d0FJd7GLjHdadA1fYL3nyZWQ3Tt85eZljr4Rl8UguooU66w"
+    ],
+    "reviews": [
+      {
+        "user": "朴恵珍",
+        "text": "사기, 강제 어플",
+        "rating": 1
+      },
+      {
+        "user": "heunlee yang",
+        "text": "education English study APP let's go together",
+        "rating": 5
+      },
+      {
+        "user": "Faizan Khan",
+        "text": "Worlds best educational app ever made.....",
+        "rating": 5
+      },
+      {
+        "user": "yoon Tae",
+        "text": "I love this App, I even do it on PC, the courses are arranged perfectly, like if you want to learn different things, if you are looking for something specific it's there. Alison Team Great Work 😊",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "3.4.207",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Alison: Online Learning App' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
