@@ -1828,11 +1828,16 @@
       "name": "브레이크(BREAK) - 국내 1등 카드 경매 플랫폼",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "몬스터의 모험: 진화의 시작",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 333,
-    "skipped": 213,
+    "total": 334,
+    "skipped": 214,
     "has_issues": 120,
     "total_issues": 163,
     "fixed": 22
