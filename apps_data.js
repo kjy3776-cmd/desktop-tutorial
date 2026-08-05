@@ -24919,5 +24919,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 337,
+    "name": "Ovation Lifestyle v3",
+    "slug": "ovation-lifestyle-v3",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/DaO4F-VoQkHwrixGvE8BVyz0_AZf4-kIPrtCCBPU3URKp0A-BMMb2uJKd5-xDjJoM5S2pk5bI4k6my-e0D_nDvk",
+    "developer": "Flamingo Group Inc",
+    "desc": "Ovation Lifestyle 앱은 Flamingo의 입주민 참여 및 유지 플랫폼 기반의 올인원 앱으로, 122만 5천 개 이상의 아파트와 NMHC Top 50 중 29곳에서 신뢰받는 플랫폼입니다.\r \r Ovation이 운영하는 Ovation Lifestyle은 Flamingo의 입주민 참여 앱을 통해 입주민에게 필요한 모든 정보를 하나의 아파트 앱에 담았습니다.\r \r Ovation Lifestyle 입주민 앱에서 할 수 있는 일:\r \r • 아파트 단지 내 입주민 행사 및 커뮤니티 행사에 참석 신청\r • 빠르고 안전하게 임대료 납",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.getflamingo.OvationLifestylev3",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/hSso3Rhlow7Pt_WntALN3gKecwnweIr8bAD6_42IJ60NUl9z4A2Um6elFbStdSVGi_Gb4SSJt6W-BcOTBvevNA",
+      "https://play-lh.googleusercontent.com/KOV6Nqo8CZV4kwUUpJtl7zD85PApd8tr89-Q0c7t_XSA-eZuZqBcZfoBE2I4jtR0b6xOVEgipya-WL0eKeDblQ",
+      "https://play-lh.googleusercontent.com/qPKd7WLDZ2inbQ9n_uXy2VR--Uqw0mQdMVPJcWUbMD0s92swgPr-dCDSJPQV5plbgITco-JJcKKiaq4liGuTxQ"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Ovation Lifestyle v3' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

@@ -1833,13 +1833,20 @@
       "name": "몬스터의 모험: 진화의 시작",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Ovation Lifestyle v3",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 334,
+    "total": 335,
     "skipped": 214,
-    "has_issues": 120,
-    "total_issues": 163,
-    "fixed": 22
+    "has_issues": 121,
+    "total_issues": 165,
+    "fixed": 23
   }
 }
