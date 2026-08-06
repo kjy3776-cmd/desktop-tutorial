@@ -25099,5 +25099,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 340,
+    "name": "Flowspace: 드로잉과 명상",
+    "slug": "flowspace-드로잉과-명상",
+    "cat": "health",
+    "icon": "https://play-lh.googleusercontent.com/zlxupHkt1k5cqaPyaOq8mDT4S0lVybqu6w8FFu2S8oX4LkTQGxS9UvjT9tOIow68r2qEZv00Dkdoglgq66_1ro4",
+    "developer": "ian borukhovich",
+    "desc": "www.instagram.com/arflowarts에서 예시와 튜토리얼을 확인하세요 :)\r \r 무한한 가능성으로 플로우 아트, 댄스, 모션 비디오를 더욱 멋지게 꾸며보세요. 소품의 색상을 바꾸고, 몸에 궤적을 남기고, 플로우에서 요정 가루를 뿌리고, 저글링을 선으로 연결하는 등 다양한 효과를 활용해 보세요. 기본 효과는 영구 무료입니다!!!\r \r 효과 제작: sadoshi.ai (Sheel Doshi)",
+    "iosUrl": "https://apps.apple.com/kr/app/id6504600386",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.arflowartsreact",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/plIgvm7xtKbnFViM-eH1uKZSSeaR6Usr3bVbdWxHh6leoXbL64-IeRAHOnw4OIJQ82u4UDa9v1w8-dkvbo2ZXQ",
+      "https://play-lh.googleusercontent.com/cV78V8acPhg_uR5GON2ZxjPZFg0glR2ULV91sKzU6yqkT8iqlPOt1dyWKAatfCR4lxm-X-VsjOlTSmZ9-5Sl",
+      "https://play-lh.googleusercontent.com/urqoYcHvqJzBpi7D8w_Z7GF3a2KDRVkCTvGeQvxl5GdKcQVDor4AVR-iqdNVCKl7BUZ6fAu5sFi0LkXiObEuSOE"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "4.0.1",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Flowspace: 드로잉과 명상' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

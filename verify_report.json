@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "results": [
     {
       "name": "카카오톡",
@@ -1851,11 +1851,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Flowspace: 드로잉과 명상",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 337,
-    "skipped": 215,
+    "total": 338,
+    "skipped": 216,
     "has_issues": 122,
     "total_issues": 166,
     "fixed": 23
