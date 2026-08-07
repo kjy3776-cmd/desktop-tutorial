@@ -25309,5 +25309,47 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 343,
+    "name": "IPTV Smart Player M3U Xtream",
+    "slug": "iptv-smart-player-m3u-xtream",
+    "cat": "entertainment",
+    "icon": "https://play-lh.googleusercontent.com/Ua3GXGkYx92vfJ4KmDwqzs_3uIPO-IIqvpmVdAOAa6NeXD7zxTgxw_hOKw8BFFZX2u0hh0XhQm_V0kIbpRUe",
+    "developer": "Lamda Dev",
+    "desc": "🔥 IPTV 라이브 캐스트(ILC) – 최고의 스마트 IPTV 플레이어 및 TV 캐스트 앱\r \r IPTV 라이브 캐스트(ILC)로 Android 기기를 강력한 미디어 센터로 바꿔보세요. 실시간 TV 스트리밍, 영화 감상, 시리즈 시청 등 ILC는 빠르고 안정적이며 끊김 없는 IPTV 재생 환경을 제공합니다. Google Chromecast를 사용하여 좋아하는 M3U 재생 목록과 Xtream Codes 콘텐츠를 스마트 TV로 간편하게 전송하세요!\r \r ⚠️ 중요: IPTV 라이브 캐스트는 미디어 플레이어일 뿐입니다. TV 채널, 재생",
+    "iosUrl": "https://apps.apple.com/kr/app/id6738207538",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.livecast.cast.iptv",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/CF70ESOErzVWfHyyNAf2JpfMchGO-XQkFxZjWPfcXHVxOs4wOEetQ4KBoK3jNRNgSvP-yUZX6qLv35xp8I4nID8",
+      "https://play-lh.googleusercontent.com/DthevD62_n44wz26J_LRiNxQoI0JELd88a7s3azR9ftW17fOriaT15pE-x-T29LbEFfZOQ_Bn4FAQerAvPz2xA",
+      "https://play-lh.googleusercontent.com/yMo9sRMv604ipemyvWXAM2rs57vCJPY2Dtd9Olm3Be02JykXEhbp-RmCa-kjOGycubCQYlX_RYqEzrQGu5lU_IE"
+    ],
+    "reviews": [
+      {
+        "user": "김기철",
+        "text": "I will use this app when watching live TV. Thank you for the live TV , player and support that is more complete than it looks and cares about customers.",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "82.01",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'IPTV Smart Player M3U Xtream' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

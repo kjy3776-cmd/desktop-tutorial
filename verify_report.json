@@ -1866,11 +1866,16 @@
       "name": "Beam – 새로워진 도시 흐름",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "IPTV Smart Player M3U Xtream",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 340,
-    "skipped": 218,
+    "total": 341,
+    "skipped": 219,
     "has_issues": 122,
     "total_issues": 166,
     "fixed": 23
