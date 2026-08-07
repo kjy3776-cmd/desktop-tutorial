@@ -196,7 +196,6 @@
     {
       "name": "프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠",
       "issues": [
-        "구글플레이 URL 불량: 404 앱 없음",
         "설명글 너무 짧음 (21자)"
       ]
     },
@@ -1887,7 +1886,7 @@
     "total": 343,
     "skipped": 221,
     "has_issues": 122,
-    "total_issues": 166,
-    "fixed": 23
+    "total_issues": 165,
+    "fixed": 22
   }
 }
