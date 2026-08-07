@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "results": [
     {
       "name": "카카오톡",
@@ -1861,11 +1861,16 @@
       "name": "로블록스",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Beam – 새로워진 도시 흐름",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 339,
-    "skipped": 217,
+    "total": 340,
+    "skipped": 218,
     "has_issues": 122,
     "total_issues": 166,
     "fixed": 23
