@@ -1871,11 +1871,16 @@
       "name": "IPTV Smart Player M3U Xtream",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "파라타항공 - 최저가요금검색",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 341,
-    "skipped": 219,
+    "total": 342,
+    "skipped": 220,
     "has_issues": 122,
     "total_issues": 166,
     "fixed": 23
