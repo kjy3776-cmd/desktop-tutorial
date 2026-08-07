@@ -1876,11 +1876,16 @@
       "name": "파라타항공 - 최저가요금검색",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "D.up(디.업) : 더프 모의고사",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 342,
-    "skipped": 220,
+    "total": 343,
+    "skipped": 221,
     "has_issues": 122,
     "total_issues": 166,
     "fixed": 23

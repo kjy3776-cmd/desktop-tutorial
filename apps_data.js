@@ -25438,5 +25438,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 345,
+    "name": "D.up(디.업) : 더프 모의고사",
+    "slug": "dup디업-더프-모의고사",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/Xc3c7JmOoLhKwuKpPo1lQfAKikXmI2lH-MftmV7SJduLcrnCcucWbncixCeKOyWIdvI4JfQCqB1gcUCXfZU2gQ",
+    "developer": "대성학력개발연구소",
+    "desc": "대성학력개발연구소가 만든 전 과목 • 전국 단위 실전 연습 모의고사,\r D.up에서 더욱 편하게 THE PREMIUM 모의고사의 답안을 입력할 수 있습니다!\r \r 📷 OMR 카메라 자동 인식\r OMR 카드를 카메라로 비춰 보세요. OMR 카드에 입력된 답안이 자동으로 인식됩니다.\r \r ✏️ OMR 답안 그대로, 답안 입력\r 모의고사 OMR 답안 그대로! 마킹하듯 답안을 터치하여 답안을 입력할 수 있습니다.  \r \r 📊 누적 성적 관리\r 온라인 응시도, 학교와 학원에서 본 현장 응시도 누적하여 성적을 조회할 수 있습니다. \r \r ☑️",
+    "iosUrl": "https://apps.apple.com/kr/app/id6755669416",
+    "androidUrl": "https://play.google.com/store/apps/details?id=kr.co.dsdo.thepremium",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/tCT0ane4jgdHByKyl86ZXuX486shjcPjrdrPW6iedKF4hGjhLP78r-nn5nVRPyYqyw7vZuc0y9EUHrOoWhNLNQ",
+      "https://play-lh.googleusercontent.com/Jzx3dMCVxC74g5O4VtQqfxyj-fASSBJSw4_tIOZDNK2sYyIB8UHCifzswqZFTkFlyXXzWmUQqlyAX0vWINeS1g",
+      "https://play-lh.googleusercontent.com/q_lmxD06pOhjzsiuzVDYxSAbbOFeHAu0Smw0YyDSMuc4KwxzNSNGtMCHJ36PzPFy1aMLwf96Uy_NDgL0Sg-tGg"
+    ],
+    "reviews": [
+      {
+        "user": "ohh_n aah",
+        "text": "일정도 바로 확인할 수 있고 앱이 보기 편하네요. 수능 카운트다운 바로 보여서 살짝 압박감 있긴한데ㅋㅋㅋ 모의고사랑 이런거 매번 확인 안해도 되서 좋긴 할거 같음. 카메라로 답지 입력되면 답 입력할때 덜 귀찮을 거 같아서 더프 칠 때 써보겠습니다.",
+        "rating": 5
+      },
+      {
+        "user": "모르겄다",
+        "text": "어플의 ui가 보기 편하고 좋습니다. 그러나 모의고사 등록, 구매 등을 여전히 웹사이트에 방문해야 한다는 점이 아쉽습니다. 어플 내에서 모의고사 및 교재 구매와 등록 등이 가능하면 좋겠습니다.",
+        "rating": 5
+      },
+      {
+        "user": "강하균",
+        "text": "이런 계열 다른 앱은 다 하나같이 기능에 있어서 하자가 있거나 버그로 한가득이거나 해서 자연스레 안 쓰게 되기 마련이었는데 이건 진짜 잘 만든 듯 ㅋㅋㅋㅋ ui ux도 깔끔하고 잔버그도 없고 굳이 더프 종이 성적표 가지고 다닐 필요 없이 지표나 추이 확인도 바로 되고 답안 입력도 나름 편하게 잘 만듦",
+        "rating": 5
+      },
+      {
+        "user": "H.Y PARK",
+        "text": "홈페이지에서만 답안 입력이 가능해서 불편했는데 디업 앱에서는 OMR 카드 촬영해서 편하게 답안 입력이 가능해서 넘 좋아요! 성적조회까지 가능하니 편리하네요~",
+        "rating": 5
+      },
+      {
+        "user": "Wh K",
+        "text": "대성에서 새로 나온 더프 성적처리 어플 디업이 있다고 해서 설치해보았는데, 디자인도 깔끔하고 더프 등급컷도 바로 볼 수 있게끔 만들어진 것 같아서 좋아요. 더프모 성적 관리하기 편할 것 같네요~!",
+        "rating": 5
+      },
+      {
+        "user": "정한별",
+        "text": "웹보다 접근성도 좋구, 더프모 성적 확인할 때 전보다 편해져서 잘 이용할 거 같아용",
+        "rating": 5
+      },
+      {
+        "user": "Daniel Koo",
+        "text": "작년에 더프 칠때마다 성적 확인 귀찮았는데 앱 나왔다 해서 달려옴 ㅋㅋ 일정도 있어 좋네",
+        "rating": 5
+      },
+      {
+        "user": "byoungtaek Han",
+        "text": "정답을 한문제 한문제 입력없이 사진 촬영으로 편해서 좋아요.",
+        "rating": 5
+      },
+      {
+        "user": "heew P",
+        "text": "더프 온라인응시하다가 앱도 있길래 설치해봤는데 omr 입력도 편하고 좋아용",
+        "rating": 5
+      },
+      {
+        "user": "jjindoo man",
+        "text": "더프 모의고사 폰으로 볼 수 있어서 갠적으로 너무 만족스러움,, 화면 깔끔해서 이용하기도 편하고 모고 일정 확인할 수 있는 것도 좋은거 같음,, 디업 굳~",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.0.13",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'D.up(디.업) : 더프 모의고사' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
