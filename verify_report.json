@@ -197,6 +197,7 @@
       "name": "프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠",
       "issues": [
         "구글플레이 URL 불량: 404 앱 없음",
+        "아이콘 이미지 로드 실패",
         "설명글 너무 짧음 (21자)"
       ]
     },
@@ -1886,13 +1887,19 @@
       "name": "한방에 컴활 끝내기 2급(컴퓨터활용능력시험 문제해설)",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Paytm: Secure UPI Payments",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 344,
+    "total": 345,
     "skipped": 222,
-    "has_issues": 122,
-    "total_issues": 166,
+    "has_issues": 123,
+    "total_issues": 168,
     "fixed": 23
   }
 }

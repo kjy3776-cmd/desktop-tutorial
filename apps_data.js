@@ -25612,5 +25612,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 347,
+    "name": "Paytm: Secure UPI Payments",
+    "slug": "paytm-secure-upi-payments",
+    "cat": "finance",
+    "icon": "https://play-lh.googleusercontent.com/WDGsMRuVENnZPEpV4DEaXw12qtMY3em85xpmZqcXzeh0iT_eXFtAU9VUj-Z7xNQQd5DMqrkKSs9D0qbI1rlt",
+    "developer": "Paytm - One97 Communications Ltd.",
+    "desc": "<b>Paytm(पेटीएम) - 인도를 위해 탄생했습니다. 5억 명 이상의 인도인이 신뢰합니다.</b>\r Paytm은 인도에서 모바일 결제, QR 코드, 사운드박스, 매장 내 기기 분야의 선구자였으며, 혁신을 통해 계속해서 앞서 나가고 있습니다. BHIM UPI 생태계에서 Paytm은 실제 사용자 니즈를 기반으로 기능을 구축하는 유일한 UPI 앱입니다. 개인 맞춤 UPI ID, 개인 정보 보호 우선 관리 기능부터 위젯, 은행 잔액 확인 기능, Excel UPI 명세서까지, Paytm은 디지털 결제를 더욱 스마트하고 안전하며 개인 ",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=net.one97.paytm",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/skU7GZ2XCEReoJcQqoPu70J_JhJ1DdAa_E2cp0xudAjBpcIX3JTHKbXATXrbWYoCsBHIztBvpjN_0qBfUoBVMLo",
+      "https://play-lh.googleusercontent.com/OTTcSV2fNaIUXTHmQhqSxN8U--8RdKxHjhO224mIvPsYIbOhLIA5FqsKylLzWelFh3vsT7vftjobsJaRRT6A",
+      "https://play-lh.googleusercontent.com/YGrPjk_z3Gd-8IWklDl1eygGpDNoAzyfpRkfX0Q6Al7mttq30OspK43sLEW5sE0SMvaiOyymS76L0Y5vmtiP"
+    ],
+    "reviews": [
+      {
+        "user": "DH KIM",
+        "text": "잘 사용하고 있습니다",
+        "rating": 5
+      },
+      {
+        "user": "Ganga Bharti",
+        "text": "Gugfyi",
+        "rating": 5
+      },
+      {
+        "user": "HY Kim",
+        "text": "When is avilable wallet to new customers?",
+        "rating": 1
+      },
+      {
+        "user": "Jaesoo Lee",
+        "text": "Good",
+        "rating": 5
+      },
+      {
+        "user": "Sung Jin Park",
+        "text": "Good",
+        "rating": 5
+      },
+      {
+        "user": "YoungHyun Yun (YoungBrother)",
+        "text": "Good",
+        "rating": 5
+      },
+      {
+        "user": "Art on Tee",
+        "text": "Good to use",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "Good@",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "good",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "good for paying",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "10.83.10",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Paytm: Secure UPI Payments' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
