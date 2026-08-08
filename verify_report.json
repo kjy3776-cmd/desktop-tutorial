@@ -1943,11 +1943,16 @@
       "name": "레슨북 - 레슨에 관한 모든 기능을 하나로 !",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Lok l0k: Watch Movies,TV Drama",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 354,
-    "skipped": 227,
+    "total": 355,
+    "skipped": 228,
     "has_issues": 127,
     "total_issues": 173,
     "fixed": 25
