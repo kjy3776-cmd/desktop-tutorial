@@ -25956,5 +25956,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 352,
+    "name": "inDrive: Book Comfortable Cars",
+    "slug": "indrive-book-comfortable-cars",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/xzaieq15Hxs7nhvtPGPHXzRTJduer8mICZQkTt2Ci9nA_7FAqtyj6ERvYGw5vYWfdLsGs9ZAmI5yYsupz4zoqGg",
+    "developer": "® SUOL INNOVATIONS LTD",
+    "desc": "훌륭한 택시 대안인 inDrive(inDriver)는 차량 공유 앱으로, 운전자 앱이기도 하므로 차량을 찾거나 운전에 참여할 수 있습니다. \r \r 하지만 그게 다가 아닙니다! 또한 이 앱을 사용하여 다른 도시로 여행하고, 패키지를 보내고 받고, 개인 또는 비즈니스 요구에 맞게 트럭을 예약하고, 필요한 모든 것을 도와줄 현지 전문가를 고용할 수도 있습니다. 택배 또는 태스크 담당자로 등록할 수도 있습니다. 공정한 가격은 희망하는 것이 아니라 귀하가 동의하는 가격입니다. inDrive는 사람들이 언제나 합의에 이를 수 있다는 것을 증명",
+    "iosUrl": "https://apps.apple.com/kr/app/id780125801",
+    "androidUrl": "https://play.google.com/store/apps/details?id=sinet.startup.inDriver",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/kyigFY4A_jAV1GM8s8P35sLcOnW2aYlVBevzPI_0wYrh7c4bZLG68VGejaNLPdhlOQcBCGFGD_0AxoT4zS3zJV8",
+      "https://play-lh.googleusercontent.com/be9ek7RlZQFWoD_zK11kqPRTTW0viK8_crMoS4uewpFlHxiRvGhWJkc4qjbG0vs8RdWAc44gzsdJE_C0cu5g",
+      "https://play-lh.googleusercontent.com/Ash2MUIWWvrVb0cQeiAS26gib6_8DacDv_vXwKxhTxULHmCtldoSWyKYSC9X1Ef-w1VDyMLCU9-YaAXhwE33OA"
+    ],
+    "reviews": [
+      {
+        "user": "김기한",
+        "text": "이집트 여행중 사용하였습니다. 대부분의 기사는 처음약속한 것보다 더많은 금액을 요구했습니다. 내가 할수 있는건 기사에게 낮은 별점을 주는겄뿐이었습니다. 이어플이 사기를 치기 쉬운구조인지 이집트가 문제인지 여행끝날때까지 구분이 안되었습니다",
+        "rating": 2
+      },
+      {
+        "user": "샷또",
+        "text": "사용하려고 하는데 무슨 텔레그램을 설치하라고하는지 모르겠네 쓰지도 않는거 억지로 설치하기 귀찮아서 짜증남 다른방식도 있어야지 고르는것도 안보이고 안쓰고 말지",
+        "rating": 1
+      },
+      {
+        "user": "광희",
+        "text": "베트남에서 무조건 쓰세요 그랩이랑 비교해보면서 써봣는데 거의 반가격이에요",
+        "rating": 5
+      },
+      {
+        "user": "송정기",
+        "text": "친절하고 안전하게 운전해서 좋아요.",
+        "rating": 5
+      },
+      {
+        "user": "박아람",
+        "text": "한글 지원이 되지 않는게 아쉽지만 간단한 영어나 베트남어를 알고 있다면 사용하는데 불편하지는 않습니다. 택시를 부를때 거리에 따른 평균적인 가격으로 측정되고 택시가 잘 안 잡힐 경우 평균 가격을 조절할수 있어서 상황에 따라 금액을 조절할수 있다는 점이 마음에 듭니다. G사 업체와 비교시 가격적인 면에서 저렴하고 운전자간 금액을 흥정하는 시스템이라 기본적인 거리에 따른 금액을 알고 있는 사람이라면 G사보다 저렴하게 이용할수 있어서 처음 사용하는 사람들보다는 그랩을 많이 이용해 본 사용자에게 적합하다.",
+        "rating": 4
+      },
+      {
+        "user": "최문기",
+        "text": "태국 방콕공항에서 처음 사용해봤는데 좀 어렵네요. 우선 그랩은 전용 주차장이 1층에 화려하게 있는데 인드라이브는 개인이 해서 그런지 기사마다 주차를 1층과 2층 나뉘어서 하는 바람에 첫차를 놓치고, 두번째 차는 길도 모르면서 무조건 받고는 거기 그돈에 못간다하고, 한시간여 만에 겨우 똘똘한 기사 만나서 호텔로 왔어요.",
+        "rating": 4
+      },
+      {
+        "user": "눈오는날 접속하지마",
+        "text": "예전에 많이 사용핬는데 이번에 새로 설치하려니까 텔레그램 설치하라는데 맞나요?",
+        "rating": 1
+      },
+      {
+        "user": "서기원",
+        "text": "작년에ㅜ잘 이용했는데 다시 사용하려고 깔아보니 phone code disabled, code Aborted\"** 라고떠서 아예 접속이 안됩니다. 저와 제동료모두 같은증상입니다. 피드백부탁드립니다.",
+        "rating": 2
+      },
+      {
+        "user": "한상태",
+        "text": "기사님이 젊고,친절하며 차량 관리가 잘되어 있네요",
+        "rating": 5
+      },
+      {
+        "user": "정미랑",
+        "text": "코사무이 사용하려고 다운 가격흥정 가능하다고 했는데 남들후기처럼 내가 원하는 금액 쓰는 란이 안나옴. 다른어플처럼 정해진 금액에 택시만 호출하는 용도로 쓰네요. 가격이 넘 높은데 흥정하고 싶어서 어플 다운받은건데 바뀐건가요? 아님 뭐가 문제인가요?",
+        "rating": 4
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'inDrive: Book Comfortable Cars' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

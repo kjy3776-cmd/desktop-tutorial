@@ -1916,11 +1916,16 @@
       "name": "왁뿌 - 왁스 뿌수기",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "inDrive: Book Comfortable Cars",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 349,
-    "skipped": 224,
+    "total": 350,
+    "skipped": 225,
     "has_issues": 125,
     "total_issues": 171,
     "fixed": 25
