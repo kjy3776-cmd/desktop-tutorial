@@ -25833,5 +25833,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 350,
+    "name": "Shop MM - Online Shopping App",
+    "slug": "shop-mm-online-shopping-app",
+    "cat": "shopping",
+    "icon": "https://play-lh.googleusercontent.com/WVE7uWdj_ViWtiZbUkarLAC0RZWZFUcZVgS610WBZe41-jv4fd5TfQBXuIOTvO9eiS2fed5XozI-5f9FZ1yOhg",
+    "developer": "Daraz Mobile",
+    "desc": "<center><h1><b>12.12 세일 시작!</b></h1></center>\r 12.12 세일의 다양한 혜택을 소개합니다.\r \r <b>전국 무료 배송</b>\r 집에서 편안하게 수백만 개의 제품을 쇼핑하고 무료 배송받으세요.\r \r <b>첫 주문 특별 프로모션</b>\r 첫 주문 시 Daraz의 특별 신규 사용자 할인 혜택을 누리세요. 지금 Daraz 앱을 다운로드하세요!\r \r <b>최고의 할인</b>\r Daraz에서 좋아하는 제품을 다른 곳보다 더 저렴한 가격으로 구매하세요!\r • 깜짝 세일\r • 깜짝 세일 특가 및 할인\r • 할",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.shop.android",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/eeTYeVk29YBMpvmPwitRBg7_IUzcEnmTslirUUoBBrcN8p4U8KI2-QQACxNntJ6WxX-RjsGvFIiOsHzpinEv",
+      "https://play-lh.googleusercontent.com/yMCHbiblp9aNJOx7VKibAs6NhpAVyH0Vz64OEaXPZaKnJWV5_qRnetnpnB55jvYmhicWQG50pG3P6x1-bOhpNA",
+      "https://play-lh.googleusercontent.com/YtgFdlvLqdGwu5bZxr8XvpHsUJDLX_8gNy03Mqu6lPzdqnKWkNM1YGgDgmuUTm1Vh9QXzSZjyj53KU2_K2UZ9Q"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "9.33.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Shop MM - Online Shopping App' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

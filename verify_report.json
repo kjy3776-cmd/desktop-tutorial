@@ -1904,13 +1904,20 @@
       "name": "동시통역 - 음성 번역・받아쓰기",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Shop MM - Online Shopping App",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 347,
+    "total": 348,
     "skipped": 223,
-    "has_issues": 124,
-    "total_issues": 169,
-    "fixed": 24
+    "has_issues": 125,
+    "total_issues": 171,
+    "fixed": 25
   }
 }
