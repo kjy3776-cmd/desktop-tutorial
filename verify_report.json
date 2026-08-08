@@ -1911,11 +1911,16 @@
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "왁뿌 - 왁스 뿌수기",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 348,
-    "skipped": 223,
+    "total": 349,
+    "skipped": 224,
     "has_issues": 125,
     "total_issues": 171,
     "fixed": 25

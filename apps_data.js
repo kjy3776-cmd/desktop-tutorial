@@ -25869,5 +25869,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 351,
+    "name": "왁뿌 - 왁스 뿌수기",
+    "slug": "왁뿌-왁스-뿌수기",
+    "cat": "entertainment",
+    "icon": "https://play-lh.googleusercontent.com/sxuqCctqQP6QPa_WVGzo_p5PJQkSbFI5fDHjxYwVlcB_TTOiozcDVudFMLh7ifMKeTfO43GwqM5tBnz6xRBxPA",
+    "developer": "CRURU",
+    "desc": "왁뿌는 굳어진 왁스 코팅 말랑이를 손가락으로 누르고 깨며 콰삭거리는 소리와 진동을 즐기는 디지털 왁스 크랙 ASMR 앱입니다.\r \r 앱을 켜면 바로 왁스를 깨볼 수 있습니다. 왁스 종류마다 깨지는 느낌, 소리, 말랑이 반응이 다르게 구성되어 있습니다.\r \r 주요 기능\r - 바로 시작하는 왁스 깨기\r - 다양한 왁스 종류\r - 터치 위치 기반 균열 반응\r - 콰삭, 파사삭, 빠각 사운드\r - 진동 ON/OFF\r - 출석체크로 왁스칩 받기\r - 유료 왁뿌는 왁스칩으로 해금\r \r 왁뿌는 점수, 레벨, 랭킹이 없는 촉감형 엔터테인먼트 앱입",
+    "iosUrl": "https://apps.apple.com/kr/app/id6776644622",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.wakppu.app",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/QmyBkuc92ZDf1MEhGvld_LsWlDRbqU4zHx6RMn0mHGXmWwKO59tbFyMYP9_0qv7FGx8eaZluhX37dKtQtRIwyg",
+      "https://play-lh.googleusercontent.com/hF62LnlqIs2x3sX7Q4Mm78_U6-NXEG1tWKRm7RZN982GjwdofyjD94WS1OL3LHmrZLHxldtNbXDuoMZCd3-k_1A",
+      "https://play-lh.googleusercontent.com/G4PBCOCo8DTuJUfKmDXhu5bEhXblGIiXwWIOE-dTpqh6wviBgfqDDOtanAYvHLoqwCaJbdm9f3M3pu9f5nOrzJE"
+    ],
+    "reviews": [
+      {
+        "user": "정서희",
+        "text": "주로 어린친구들이 하는 게임이라 평점이 부정적인데 게임자체는 나쁘지 않습니다 레벨이 오를때마다 받은 보상으로 새로운 디자인을 살 수 있습니다 따라서 결제를 하지 않아도 오래 플레이한다면 다른 디자인을 얻을수 있습니다",
+        "rating": 5
+      },
+      {
+        "user": "송민정",
+        "text": "아니 1점 줄려다가 소리 좋아서 2점 줍니다 일단 돌리기가 안되요, (나만 그럼?)그리고 왁스를 많이 깨야 왁스를 더 얻을수 있고 좀 랙이 걸려요",
+        "rating": 2
+      },
+      {
+        "user": "Julie Kim",
+        "text": "다 좋은데 깨질때 뭔가 징그러워요ㅠㅠ",
+        "rating": 3
+      },
+      {
+        "user": "유튜브용",
+        "text": "뭐 얼마나 대단한 앱 만들었다고 유료결제까지 유도함? 이럴바엔 그냥 실물 사고 말지 참 돈 버는 방법도 가지가지",
+        "rating": 1
+      },
+      {
+        "user": "태허",
+        "text": "바이브 코딩으로 깔작거린다음 왁뿌볼 유행에 편승해서 한탕 벌어보려는 속셈이 너무 노골적이에요",
+        "rating": 1
+      },
+      {
+        "user": "류송",
+        "text": "밤티입니다 ! 갯수 더 늘려주셔야할 듯 계속 만지면 소리가 좀 밤티라서",
+        "rating": 1
+      },
+      {
+        "user": "소금",
+        "text": "2개 밖에 없고 10일 이상 출석해야지 1개 더 얻을수잇네용... 소리도 별로...",
+        "rating": 2
+      },
+      {
+        "user": "떠니은",
+        "text": "내가 알던 그 왁뿌볼이 아님...ㅠㅠ",
+        "rating": 2
+      },
+      {
+        "user": "Lia",
+        "text": "소리가 좀 밤티인거 같고 말랑이랑 왁뿌볼 너무 조금임요",
+        "rating": 2
+      },
+      {
+        "user": "Bsbjsn",
+        "text": "넘 재밌어요 스트레스가 어디로 갔나???",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "0.1.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '왁뿌 - 왁스 뿌수기' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
