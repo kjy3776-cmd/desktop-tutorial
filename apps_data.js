@@ -25786,5 +25786,52 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 349,
+    "name": "동시통역 - 음성 번역・받아쓰기",
+    "slug": "동시통역-음성-번역받아쓰기",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/-9DX3ytBnOcdm9Cg0oVtRICPGtA1d-ez6PnZPHS09WmyX3H-vgbvd9-Ruoi6YGAewjqcj1aaXbDpKJmIF2cUbg",
+    "developer": "Kotoba Technologies",
+    "desc": "『Kotoba』는 Kotoba Technologies가 선보이는 \"세계 최고의 동시통역 경험\"을 목표로 한 실시간 음성 번역・받아쓰기 앱입니다.\r \r 『Kotoba』는 핵심 번역 언어를 지원하는 Kotoba의 자체 음성 AI 모델 \"Koto\"를 중심으로, 기타 일부 언어 쌍에는 외부 AI 번역 모델을 조합해 개발되었습니다.\r \r AI가 대화의 흐름을 예측하여 말이 끝나기 전에 번역이 먼저 표시됩니다(최대 0.5초 선행).\r 회의, 상담, 여행, 접객 등 상황에서 지금 들리는 목소리를 즉시 읽을 수 있는 텍스트로 변환합니다.\r \r 말",
+    "iosUrl": "https://apps.apple.com/kr/app/id6740851285",
+    "androidUrl": "https://play.google.com/store/apps/details?id=jp.tech.kotoba.app",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/T4XkW-OyeNxjqBGUow9k0vP1jVEd6ecVpD4gH5r63FFgUr2cefFyWHvaKjGH3uq6GLTY729UxPS4GBj8-5P-og",
+      "https://play-lh.googleusercontent.com/gT47riaEImTnTYV0idla1xBc0IG8GgtiCNumQizQ_02KrZAIeEaA-g-ibfO4kZp6hiNockmGZwjYMzt7kK4fIQ",
+      "https://play-lh.googleusercontent.com/fzypH3RZIrhXgBhILNyqIkt2Rn3FhW8HVGXXu7y0FLf752Y1mYrqb3X2RZWFaZdb3L4AMCSxh0QdEojpQ2imGnM"
+    ],
+    "reviews": [
+      {
+        "user": "김정석",
+        "text": "일단 속도하나는 답답하지 않고 시원시원합니다. 가끔 인식이 안되거나 번역오류가 나긴하는데 좀더 발전하면 좋을거 같네요. qoro.ooo 가 인식은 좀더 나은거 같은데 속도는 kotoba가 좋네요",
+        "rating": 4
+      },
+      {
+        "user": "토왕광개",
+        "text": "제내로 번역이 안되고 무한 반복적으로 재생됨.",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '동시통역 - 음성 번역・받아쓰기' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
