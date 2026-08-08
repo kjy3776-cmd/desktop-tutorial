@@ -1933,11 +1933,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "칼로그 - 다이어트 식단 체중 기록, AI 칼로리 계산",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 352,
-    "skipped": 225,
+    "total": 353,
+    "skipped": 226,
     "has_issues": 127,
     "total_issues": 173,
     "fixed": 25
