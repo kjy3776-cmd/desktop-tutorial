@@ -26478,5 +26478,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 358,
+    "name": "ixigo Train, Bus, Metro Ticket",
+    "slug": "ixigo-train-bus-metro-ticket",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/Ax51Po0dz9yGJYPzHKzVJB69hL0VWVDvjYmbJFoF_n1cTlIGwk9dwzq_zLHxLMxcDNteFXaw9Kc5OkWRAfWnyw",
+    "developer": "ixigo - IRCTC Authorised Partner, Flight Tickets",
+    "desc": "<h1>#1 IRCTC 공인 열차 티켓 예약 앱</h1><h2>ixigo가 인도 철도에 가장 적합한 열차 예약 앱인 이유는 무엇일까요?</h2>✓ '대체 여행 계획'을 사용하면 티켓이 대기 목록에 남아 있을 경우 3배 환불*\r ✓ 최고 평점 열차 예약 앱 - 3,000만 명 이상의 사용자로부터 4.7점 평가\r ✓ 지하철 티켓 예약 가능\r ✓ '확실함'을 사용하면 즉시 전액 환불과 함께 무료 취소 가능\r ✓ PNR 상태 및 대기 목록 예측\r ✓ 인터넷 없이도 열차 운행 상태 확인 가능\r ✓ ixigo에서 버스 티켓과 호텔을 예약하세요",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.ixigo.train.ixitrain",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/eCWHWmTRoNrBJqxNES8Dpu4xroIFH-sRpsRok7KUSOAjdpQ9WrGgLBXE_KxFblGe_ajB8f_9kpB_kkXxOstndw",
+      "https://play-lh.googleusercontent.com/edZYnyBGqkgjqVbyYpaH2Op39P8sZ5ZGOIAUdO-zyPvM0wfHChyVCZhFMOu8-RsDiOJbF-j5UWT5T6g6PkeHeA",
+      "https://play-lh.googleusercontent.com/Y_X8EcLI1RFYvIYfDhYa6RcjNE0noPLEzSCmz1-DtYwgQATgpLsjDCI0yaEgELpuob8A-PoGRVrGBVtb9C5aqQ"
+    ],
+    "reviews": [
+      {
+        "user": "Google 사용자",
+        "text": "정말 보안상 최악의 앱. 수십번 해외에서 결재를 하였지만 카드번호 해킹당한건 처음입니다. 이앱으로 인도 기차예매 하였다가 결재는 되고 거래는 안되고.. 여기까지는 그래도 이해할수 있으나 약 5시간후 해외에서 갑자기 1,300$결재되었다고... 이앱 사용후 카드번호 해킹당했다는 후기 많습니다. 앱개발자는 보안에 더 아주많이 더 신경써야 됩니다.",
+        "rating": 1
+      },
+      {
+        "user": "Google 사용자",
+        "text": "클리어트립에는 티켓이 없다고 나오는데 같은 티켓이 익시고에는 있다고 나오고 예약, 결제까지 이상없이 되네요. 앞으론 익시고만 쓸 생각이에요. 참고로 익시고 결제할때 인도 폰 번호 넣으라고 나오는데 9로시작하는 번호 아무거나 넣고 진행하면 결제 진행됩니다",
+        "rating": 5
+      },
+      {
+        "user": "배천수",
+        "text": "ixigo 웹사이트에서는 로그인이 되는데 앱으로는 로그인이 안 됩니다. 계속 오류가 떠서 24시간 후 재로그인하라고 뜹니다. 로그인 오류를 해결해주세요. 사용자 이름 Cheonsu Bae입니다 추가로 고객센터 이메일을 알려주세요 republic of korea 사용자입니다 바로 해결드릴 것을 요청하는 겁니다",
+        "rating": 5
+      },
+      {
+        "user": "Faizan Khan",
+        "text": "좋은 앱인데 기차의 실시간 트래킹도 가능하고 엄청 빨라..",
+        "rating": 5
+      },
+      {
+        "user": "P小熊",
+        "text": "편하고 좋아요 굿굿",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "이앱으로 인도기차표 예매가능.(먼저 IRCTC 계정을 만들어야함) 클리어트립 보다 저렴하게 예약됨. 인도기차 어플중 단연 독보적인존재!",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "최악의 어플입니다 결제.. 하 진짜...",
+        "rating": 1
+      },
+      {
+        "user": "오동호 (浪漫旅游男子)",
+        "text": "수수료 좀 내려라 시끼들아",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "앱으로 인도기차예매를!",
+        "rating": 5
+      },
+      {
+        "user": "ZI ZI (입개까탈)",
+        "text": "이게인도지 암 쉬우면 인도가아니지....",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "9.12.1",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'ixigo Train, Bus, Metro Ticket' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

@@ -1948,13 +1948,19 @@
       "name": "Lok l0k: Watch Movies,TV Drama",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "ixigo Train, Bus, Metro Ticket",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 355,
+    "total": 356,
     "skipped": 228,
-    "has_issues": 127,
-    "total_issues": 173,
+    "has_issues": 128,
+    "total_issues": 174,
     "fixed": 25
   }
 }
