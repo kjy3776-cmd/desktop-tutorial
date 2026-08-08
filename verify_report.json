@@ -1921,13 +1921,19 @@
       "name": "inDrive: Book Comfortable Cars",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "한투-한국투자증권,주식,MTS,증권,주식어플,해외주식",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 350,
+    "total": 351,
     "skipped": 225,
-    "has_issues": 125,
-    "total_issues": 171,
+    "has_issues": 126,
+    "total_issues": 172,
     "fixed": 25
   }
 }
