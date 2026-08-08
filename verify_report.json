@@ -1938,11 +1938,16 @@
       "name": "칼로그 - 다이어트 식단 체중 기록, AI 칼로리 계산",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "레슨북 - 레슨에 관한 모든 기능을 하나로 !",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 353,
-    "skipped": 226,
+    "total": 354,
+    "skipped": 227,
     "has_issues": 127,
     "total_issues": 173,
     "fixed": 25
