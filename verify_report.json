@@ -1988,13 +1988,19 @@
       "name": "퍼플 : 플레이, 채팅, 라이브를 한 곳에서",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "로얄 매치 Royal Match",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 362,
+    "total": 363,
     "skipped": 232,
-    "has_issues": 130,
-    "total_issues": 178,
+    "has_issues": 131,
+    "total_issues": 179,
     "fixed": 27
   }
 }
