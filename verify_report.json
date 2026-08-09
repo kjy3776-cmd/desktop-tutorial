@@ -1983,11 +1983,16 @@
       "name": "가톨릭기도",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "퍼플 : 플레이, 채팅, 라이브를 한 곳에서",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 361,
-    "skipped": 231,
+    "total": 362,
+    "skipped": 232,
     "has_issues": 130,
     "total_issues": 178,
     "fixed": 27
