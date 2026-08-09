@@ -26775,5 +26775,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 362,
+    "name": "Brevet Bac Sup Révisions 2026",
+    "slug": "brevet-bac-sup-révisions-2026",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/HidYHBdI1iV4WZLrPHlv43dinU2fY-C5zDKDD5OG1Qy4oHMfz6i1Yc61bYPPujlcCa5I6MAFzpPC4R4YIlSxtA",
+    "developer": "Nomad Education",
+    "desc": "성공적인 학업 생활을 위한 모든 것\r 2026-2027학년도\r 초등학교 - 중학교 - 고등학교 - 대학교\r \r Nomad Education은 다음과 같은 기능을 통해 매일 실력 향상을 돕습니다.\r 친구들에게 깊은 인상을 줄 수 있는 일반 상식 퀴즈\r 영어 및 현대 언어: 어휘, 문법, 독해, 퀴즈, 재미있는 연습 문제\r 진로 적성 검사: 나에게 맞는 학업과 진로를 찾아보세요\r 모든 레벨을 위한 학업 복습\r 개인 맞춤형 코칭 및 학습 진도 관리\r 학습 자료, 강의, 퀴즈, 학습 계획 팁…\r \r 쉽고 효과적으로 영어 실력을 향상시키세요",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.nomadeducation.nomadeducation",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/hxsSHQCPZ7YsYNs_2h79wPp1HEi53fUh1ScICiPQpZf_gXsPcq0bhdlUXjaMOtjuf4_hULjYGr_uPO5Yu-4K",
+      "https://play-lh.googleusercontent.com/on_5RxoNkasbE3AHZAg9qt7xcGsxNVNPwqInzkAYJPZPQFmiGqLow3Wsh_O0uWArB-eEnIAh8j9Izc_8D-GK",
+      "https://play-lh.googleusercontent.com/T_yctUnt_ybtN3sBDf3glty5_SzGvAYRcy3ESDoN_eknrvLfV0dyYjyXQbTj3ML1CJS4wLIpohgmARhb2PX3OA"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "9.24.2",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Brevet Bac Sup Révisions 2026' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
