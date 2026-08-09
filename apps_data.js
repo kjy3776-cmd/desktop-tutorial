@@ -26811,5 +26811,67 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 363,
+    "name": "가톨릭기도",
+    "slug": "가톨릭기도",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/xKp6_QVJoq_K0kZ7ygDiWgrc4xjCXI55cfmUlg5JG2Zj9pEnEm0iAx9lINbbomq6cCVodeMyfNEidAkK8uqBXA",
+    "developer": "Goodnews",
+    "desc": "가톨릭기도는 굿뉴스가 제공하는 공식 가톨릭 기도 앱입니다.\r \r ■ 주요 기능\r \r • 묵주기도 — 환희·빛·고통·영광의 신비, 75개 알 단계별 기도문 제공\r • 9일기도 — 노베나 사이클 관리, 일차별 진행 저장\r • 삼종기도 · 성모송 · 주기도문 등 다양한 기도문\r • 십자가의 길 · 성체조배 · 렉시오 디비나\r • 연도 기도\r \r ■ 편의 기능\r \r • 기도 알람 설정\r • 기도 지향 작성 및 관리\r • 기도 달력 — 일별 기도 기록 확인\r • 기도 통계 — 연속 기도 일수(스트릭), 기도 현황\r • 성지 지도 — 전국 성",
+    "iosUrl": "https://apps.apple.com/kr/app/id437213095",
+    "androidUrl": "https://play.google.com/store/apps/details?id=kr.or.catholic.rosario",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/hiJ9VzLOxVjErY5xPyHEopvKiZ2XgYD_5IMghbH9V2TflQedZ0hr0uF3C1SMG2VDxpLKSowTZRgwLPoZLh5zIA",
+      "https://play-lh.googleusercontent.com/EriwdVL8jWBdJksDYD3isbwmUasbeTNQpxudbV3WiZ960VNu7omgjgdXlJD2DFR7yMDkjIIWq3gotwDj8U2ApA",
+      "https://play-lh.googleusercontent.com/FzP-lrVjRaAf3DmD4WgALbrfzSvWPXTHn8CrgrcPKcw_XMjoqy0LvUWpLmYoHUFF6N7X7JCwH9Mpl4EvbC0bbw"
+    ],
+    "reviews": [
+      {
+        "user": "서성식",
+        "text": "찬미 예수님!!묵주기도에서 음성 교차기도는 집중기도에 가장 적합하며 몰입에 좋은 방식입니다.저에게는 속도가 다소 느리긴 하여 음성속도 조절도 되면 더욱 좋겠지만 만족합니다.제가 바라고 고대하던 앱을 드디어 만나게 되었네여.. 모후이시며......시작돠는 성모찬송 텍스트가 중간정도에서 끝납니다.",
+        "rating": 5
+      },
+      {
+        "user": "이록이",
+        "text": "초4 아이가 앱을 둘러 보고 잘 만들었다고 해요. 저희는 매일 저녁기도와 함께 성경 낭독을 하고 있지만 짧게 짧게 할 수 있는 화살기도가 이 앱의 큰 장점인 듯요. 천주교인들이 매일 기도하고 평화를 얻기를 바랍니다.",
+        "rating": 5
+      },
+      {
+        "user": "Hyo Kim",
+        "text": "기도문 찾기가 편리합니다",
+        "rating": 5
+      },
+      {
+        "user": "송준우",
+        "text": "아멘",
+        "rating": 5
+      },
+      {
+        "user": "H W",
+        "text": "good",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "3.4.5",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '가톨릭기도' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
