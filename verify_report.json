@@ -1999,11 +1999,16 @@
       "name": "Berriz 베리즈",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "拼多多 - 多多买菜，百亿补贴",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 364,
-    "skipped": 233,
+    "total": 365,
+    "skipped": 234,
     "has_issues": 131,
     "total_issues": 179,
     "fixed": 27
