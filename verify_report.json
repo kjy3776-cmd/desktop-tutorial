@@ -1959,11 +1959,16 @@
       "name": "히로인스- 엄마전용 만보기·체험단·앱테크·쇼핑·커뮤니티",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Trip.com 트립닷컴 - 여행 할인 예약",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 357,
-    "skipped": 229,
+    "total": 358,
+    "skipped": 230,
     "has_issues": 128,
     "total_issues": 174,
     "fixed": 25
