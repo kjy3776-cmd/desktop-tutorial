@@ -26739,5 +26739,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 361,
+    "name": "ZERO LIFESTYLE",
+    "slug": "zero-lifestyle",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/2tljUQ8JNJjy_WnmJEJyHRDD0ylB17QQ-WkJBr6c7wSoWNfQ-JnitXBrR1nCL7BVmt-ci_Z2-JHKJqYSsSh1FA",
+    "developer": "ZHOU HAI",
+    "desc": "개요\r 활동 추적: 일일 걸음 수, 이동 거리, 칼로리 소모량 등을 모니터링합니다.\r 개인 목표 설정: 걸음 수, 칼로리, 거리, 활동적 시간(분) 및 수면에 대한 개인 목표를 설정합니다.\r 동기 부여 유지: 사용자 지정 비활동 알림을 설정하여 하루 종일 계속 움직일 수 있습니다.\r \r 호환 기기: E15\r \r 스마트 기능\r 심박수 추적: 낮과 운동 중 전반적인 심박수를 이해합니다. 더 나은 건강 상태를 위해 심박수 패턴을 추적하세요.\r 스마트 알림: SMS, 통화(발신자 ID) 및 타사 앱과 같은 휴대폰에서 알림을 받고 빠르게 응",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.zhapp.zerolifestyle",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/NWPih5qcAJ4l0d6OEXitNchgdacS4Di8KnplNusEv2buxTlAEplSBC52WJtjPRoJ8-gQ2o5VU0T-FjZRtzNmMD4",
+      "https://play-lh.googleusercontent.com/3OuQL10OcREUOpSFCoue1zDVqC5QHZSXJTUUTKVOQERcJ__QDbbF4MmpvY0XlJ_715xoHr71JSRe7P8I7Qt3Ng",
+      "https://play-lh.googleusercontent.com/586uMoNj-b4vo9ojYLwPgM3Ukw2CNYgB6GMz6oYf1y7btIW9yZdAvjvT6nGj8_ZkIHAHutXoopHgGcUc5HbCNA"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "5.6.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'ZERO LIFESTYLE' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

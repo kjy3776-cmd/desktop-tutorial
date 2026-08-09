@@ -1964,13 +1964,20 @@
       "name": "Trip.com 트립닷컴 - 여행 할인 예약",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "ZERO LIFESTYLE",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 358,
+    "total": 359,
     "skipped": 230,
-    "has_issues": 128,
-    "total_issues": 174,
-    "fixed": 25
+    "has_issues": 129,
+    "total_issues": 176,
+    "fixed": 26
   }
 }
