@@ -1954,11 +1954,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "히로인스- 엄마전용 만보기·체험단·앱테크·쇼핑·커뮤니티",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 356,
-    "skipped": 228,
+    "total": 357,
+    "skipped": 229,
     "has_issues": 128,
     "total_issues": 174,
     "fixed": 25
