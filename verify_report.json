@@ -1994,11 +1994,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Berriz 베리즈",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 363,
-    "skipped": 232,
+    "total": 364,
+    "skipped": 233,
     "has_issues": 131,
     "total_issues": 179,
     "fixed": 27
