@@ -27636,5 +27636,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 373,
+    "name": "Layered: 캘린더, 미리알림 일정을 배경화면으로",
+    "slug": "layered-캘린더-미리알림-일정을-배경화면으로",
+    "cat": "productivity",
+    "icon": "https://play-lh.googleusercontent.com/pjnl3WGKczvRzgbMf8GHAdECDQ1W6aGItJAiufOC56U-4AZVylyvTL-DLCKEnh8iTXU9HSwgs294XXjCNMsMZ20",
+    "developer": "Nemo Studio(KR)",
+    "desc": "폰을 켤 때마다 오늘 뭐 해야 하지? 하고 잠깐이라도 멈추는 순간이 있지 않으셨나요?\r \r Layered는 내 캘린더 일정을 그대로 잠금화면 배경화면으로 만들어주는 앱이에요. 위젯을 찾거나 캘린더 앱을 따로 열지 않아도, 화면을 켜는 것만으로 오늘 일정을 한눈에 확인할 수 있어요.\r \r 내 일정이 그대로 배경화면으로:\r 애플 캘린더와 미리알림에 등록된 일정을 배경화면으로 자동 변환해줘요. 시간별 일정, 하루 종일 이벤트, 장소 정보까지 깔끔하게 표시돼요.\r \r 단축어로 자동 업데이트:\r 매번 앱을 실행할 필요 없이, iOS 단축어 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6757686826",
+    "androidUrl": "https://play.google.com/store/apps/details?id=net.nemostudio.layered",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/8IxeLHCSkRu4DkBlQ2t9r3jmgkU2HnmiQKHfXu02MJEmYhL0CcK1itJxYcy6T_wIAI8K6zAZilxG-eaXj3pYKTU",
+      "https://play-lh.googleusercontent.com/CMRpqNcAIk20gBFR6fTNuoddGsSIdEe3uNLMPCQbpRzaBuwW-vvT9L5ogxGO9MRl4n_EQp1kprrcVg7yrwFCcg",
+      "https://play-lh.googleusercontent.com/Bv4k8r_9KL2s2xNr113816S8tF2_6rx73VZdXJMtHgvTpOKUTvl4_Vc21CchQLVxxsIERIywrzMLZIXhiZHv"
+    ],
+    "reviews": [
+      {
+        "user": "-",
+        "text": "잘 쓰고 있어요! 위젯이 아니라 배경화면으로 해놓으니 앱아이콘 올릴 공간도 있고 보기 편해요! 개인적으로는 카테고리별 일정 구분을 하는 것도 얼른 업데이트되었으면 좋겠어요 아니면 유료구매에 그런 기능적인 걸 더 넣어주시면 도움이 되시지 않을까 생각해요 저는 그냥 기본폰트 기본달력 쓰고 있어서요.. 저같은 사람은 광고 외로 유료구매 메리트가 좀 덜한 것 같아요",
+        "rating": 5
+      },
+      {
+        "user": "Coach Ahreum Kim",
+        "text": "유용하게 너무 사용 중입니다. 다만, 캘린더에 일정이 추가/변경되면 자동 업데이트가 되면 좋겠습니다. 캘린더 일정을 넣고 앱에 들어와 업데이트를 하는 과정이 상당히 불편합니다.",
+        "rating": 4
+      },
+      {
+        "user": "김소희",
+        "text": "너무 편하게 잘 사용하고있는데, 잠금화면에만 해두고싶은데 업데이트를 하면 홈화면까지 바뀌어버리네요ㅜㅜ! 특정 화면에만 적용될 수 있도록 옵션이 나오면 좋을 것 같아요!",
+        "rating": 5
+      },
+      {
+        "user": "장우",
+        "text": "캘린더 주간보기로 설정했을 때 시작시간, 종료시간 설정한다고 하면 앱이 하얗게 보이고 멈추는 현상이 있습니다. 보완 필요할거 같습니다. 그리고 갤럭시의 경우 삼성 리마인더는 가져올 수 없습니다.",
+        "rating": 3
+      },
+      {
+        "user": "김상진",
+        "text": "좋은것 같습니다. 다만 한가지아쉬운게 있다면 잠금화면에서 오늘 날짜를 표시해주는 기능이 있으면 좋겠습니다. 오늘이 며칠인지 한번 더 확인해야하는게 뵬거 아닌것 같지만 조금 번거로운 일일수가 있어서요.",
+        "rating": 5
+      },
+      {
+        "user": "유승현",
+        "text": "배경화면을 예쁘게 꾸밀 수도 있고 귀엽고 좋은데 자동 새로고침이 안됩니다 ㅠ.ㅠ 그것만 개선되면 계속 쓰고싶음!",
+        "rating": 4
+      },
+      {
+        "user": "HOEJIN KIM",
+        "text": "활동시간이 새벽 3시까지인데 그러면 너무 길어져서 에반데",
+        "rating": 5
+      },
+      {
+        "user": "왕통닭",
+        "text": "캘린더 위젯의 불편함을 개선해주는 앱이네요 굿~ 심지어 색감 예쁨",
+        "rating": 5
+      },
+      {
+        "user": "윤보라",
+        "text": "위젯으로만하고싶은데 자꾸 배경으로만들어놈",
+        "rating": 1
+      },
+      {
+        "user": "s Park",
+        "text": "원하는 사진 배경화면 안되나요?",
+        "rating": 4
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Layered: 캘린더, 미리알림 일정을 배경화면으로' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
