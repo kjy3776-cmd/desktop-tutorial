@@ -27221,5 +27221,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 368,
+    "name": "숨겨진 카메라 탐지기",
+    "slug": "숨겨진-카메라-탐지기",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/FwsYo2al63OYHvfBGnw9-7DTflRro57pm6S-LNzvO8fN_2Lf5E03p4h2IIif4C9FAk5x6J83i74ALUMwYU7T5g",
+    "developer": "FutureApps",
+    "desc": "* 우리를 기부 또는 광고 무료 버전을 갖고 싶어 할 사람들, * 개발자에서 더 많은로부터 숨겨진 카메라 감지기 adsFree 버전을 얻을\r \r * 댓글을 통해 우리의 응답은 다음과 구글에 의해 기본적으로 Gmail의 섹션을 업데이트 간다. 그래서 업데이트 섹션에서 구글 플레이에서 메시지를 확인하시기 바랍니다 *\r \r * 자주 묻는 질문 * 설명의 끝에\r \r <b> 방사선 측정기 기능을 휴대 전화에 자기 센서, 다른 하나는 현명이 기능이 작동하지 않습니다이 필요합니다. \r \r <b> 방법이 응용 프로그램을 사용할 수 있습니다. 어떻",
+    "iosUrl": "https://apps.apple.com/kr/app/id6612037031",
+    "androidUrl": "https://play.google.com/store/apps/details?id=hiddencamdetector.futureapps.com.hiddencamdetector",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/oMjrmTGHi_vGBYDAjAI3dp7__oBmpnEIJ8OKpEEk-CwBmKOX4uwWaJgCGW_K2Ku82KAC70l6tPFFq7po2udl2Xg",
+      "https://play-lh.googleusercontent.com/hLshXoJ9D4CC16TkZclNQunjBI1SLWX7GP5Wb6hY5vReXZGXHyLvmh1EI1Yt0_YFwens9aieUwP1Tq6qp84NWSg",
+      "https://play-lh.googleusercontent.com/c06gZxtFFciNKgP_hWwypBscteRNHiG30eM_Elm-oNhtPbuAAyEN876SV3kWtSwhfvL_rwFTvgoTea4iFgz7Vw"
+    ],
+    "reviews": [
+      {
+        "user": "옥수수건달",
+        "text": "오오!!! 처음에 사용할때 아무것도 안나와서 효과가 있는건지 의심스러워서 노트북 카메라모드나 그런걸로 시험 해봤는데 진짜 효과 있어요!!! 초록색 반짝이?가 화면에 진짜로 보여서 신기해용! 덕분에 인터넷에서 돈주고 몰카탐지기카드 주문한거 취소하러 갑니당",
+        "rating": 5
+      },
+      {
+        "user": "ᄒᄒ",
+        "text": "카메라가따로없어서 계속실험 못해봤는데 인터폰근처에 있으면 카메라있다고 신호바로옴 소리울리고 이거보고안심 진짜카메라도 찾아주겠구나!싶음 님들도 인터폰근처 라면 울릴수도있음 일단더사용해봐야 알겠지만 무료라서 좋음 그래서별5개",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "휴대폰에 갖다대보니 꽤 몇 초가 지나야 수치가 급상승하더라고요. 그래서 의심되는 부위에만 적용이 가능하다는 점이 많이 아쉽습니다. 그래도 없는 것보다는 낫습니다. 부디 더 개발해주세요.",
+        "rating": 3
+      },
+      {
+        "user": "Kwangseob Young",
+        "text": "의심스러운 무선wifi기기가 있긴한데 정확한지는 ? 자주여러번 탐색해봐서 더조사필요 하겠지요 자가설치와이보다 더근접 신호가 잡힐길레 역시 의심와이로 적신호 잡히네요 감사합니다. 확신을 심어줘서",
+        "rating": 5
+      },
+      {
+        "user": "쿵쾅쿵쾅6앵싸는도퇘지9",
+        "text": "한남들 자들파들 거리는 소리 꿀잼ㅋㅋ 갓양남들은 여성의 몰카근절을 위해 일하는데, 그 와중에도 클린한 리뷰에 여혐댓글 달기 바쁜 6.9흐허벌~한 xy그성별^^ 여성분들 효과 애매하다 싶으시면,, '몰카제로'라고, 검색하시고, 수동으로 하는 탐지기법 있습니다. 귀찮아서 그렇지 가장 정확한 방법이구요. 쿵쾅거리는 한남들 재기해~ 줘.안.먹^-^ do퇘지가 또ㅋㅋㅋㅠㅠ",
+        "rating": 5
+      },
+      {
+        "user": "나나나나",
+        "text": "우선 별5개 눌러놓는다. 이상한 소리가 나길래 그 주변으로 이 어플을 다운받아서 유선카메라감지 기능을켰더니 수치가 200까지 올라간다 정상이냐",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "이거 효과 없다고 깔지 말라고 리뷰 다는 애들 유심히 관찰 한번 해보는게 어떠냐? 뻥안치고 안경몰카, 시계몰카, 볼펜몰카, usb몰카, 단추몰카, 화재경보기몰카, 차키몰카, 라이터몰카 등등 별에별 몰카 종류가 많은데 반응 안하는게 이상할법도 하지 않냐? 한국 야동에 버젓이 올라온 유출야동만 보더라도 남일같이 느껴지시나? 그게 님들 지인, 친구, 친동생 하다못해 남자들도 몰카 걸릴수도 있단 얘기",
+        "rating": 5
+      },
+      {
+        "user": "김성자",
+        "text": "너무 감격입니다 고맙습니다 못인데 요카메라 라구감지가되네요. 몃달동안 전원이없는 제습기도 카메라 잡아주네요.",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "-경비실 방송나오는 스피커에서 경고음뜸 -싱크대 라디오에서 멀쩡하다가 전원버튼 옆 구멍에서만, 경고음뜸 -인터폰 화면모니터부분과 스피커쪽에서 경고음뜲 금속 다 반응한다면 어떤금속이건 전체수치가올라가야는데 그렇치않음 다른곳 반응없고 우연히발견한 화장실 벽쪽 구멍난곳에 수치올라가고 경고음듦 스트레스받아서 안하고있음 경고음 아무곳에서 뜨는거아님",
+        "rating": 4
+      },
+      {
+        "user": "조기환",
+        "text": "개판 이네요 무슨 탐지가 된다는건지. 리뷰알바들 고용한거 아닌가 싶네요. 어플 신용도 바닥인듯 개인적으로 느껴지네요. 다운받은 자체가 엄청 후회됨.",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "23.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '숨겨진 카메라 탐지기' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
