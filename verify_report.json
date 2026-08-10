@@ -2009,11 +2009,16 @@
       "name": "숨겨진 카메라 탐지기",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Translate Ease",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 366,
-    "skipped": 235,
+    "total": 367,
+    "skipped": 236,
     "has_issues": 131,
     "total_issues": 179,
     "fixed": 27

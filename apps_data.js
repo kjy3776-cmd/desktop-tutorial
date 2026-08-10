@@ -27308,5 +27308,72 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 369,
+    "name": "Translate Ease",
+    "slug": "translate-ease",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/kjCwQQFWru3yZqknSyl5UXlgbp2RwyZxuQDd835aOyou-Qylk0IOpbhUoYHlGC8DbRKYLqIuL_CY1BNTz-jYxg",
+    "developer": "Mortys Games",
+    "desc": "경계 없는 세상을 누비세요! Translateasy는 여행자, 학생, 전문가, 언어 애호가를 위한 궁극의 다국어 도우미입니다. 의사소통 장벽을 허물고 다양한 배경의 사람들과 오해 없이 쉽게 소통하세요.\r \r 오늘날의 글로벌 시대에 언어는 결코 장애물이 되어서는 안 됩니다. 새로운 나라를 배낭여행하거나, 국제 비즈니스 협상을 하거나, 집에서 외국어를 배우든 강력한 포켓 사전과 소통 도구가 필요합니다. Translateasy는 빠르고 정확하며 문화적으로 적합한 번역을 즉시 제공합니다.\r \r 🌟 주요 기능:\r \r • 🗨️ 실시간 채팅 도",
+    "iosUrl": "https://apps.apple.com/kr/app/id6740017050",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.translateasy.chattranslator",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/o6ZquzHo_mTTwfC5Ht4gyssR3FRoNYixt5942UtnqxnfN0-ZKQERL4vqZaGW7l3umwGFNM-l1kxD0aePVb173go",
+      "https://play-lh.googleusercontent.com/GxAW6tYbX-2UhPHroJlr4nJuHcTGm5cO94WwJbWcIo4vUwJOsDGAHl_KvHJJsNJ3Z3K1SvQcwEcSZ5_K5MjF",
+      "https://play-lh.googleusercontent.com/xiSEc2S_cVlBT4viNTtfPm6e1XW6MAcMj5su7XyA8aTsxKJVJ-08d4c4e3tmhLm9Izgh2-Aj9vTxMY-sm9sp3Hg"
+    ],
+    "reviews": [
+      {
+        "user": "Ju one Kim (MDMKER)",
+        "text": "[광고 많은 구글 밑 파파고용 앱] 번역 엉망[차라리 파파고가 나음], 번역하는데 시간많이 걸림[딜레이 극혐...], 광고많음[극혐]",
+        "rating": 1
+      },
+      {
+        "user": "이평구 (2 0 9)",
+        "text": "광고너무많음",
+        "rating": 5
+      },
+      {
+        "user": "김용돈",
+        "text": "아직 무슨사연인지 모르겠어요",
+        "rating": 5
+      },
+      {
+        "user": "sungchull Kim",
+        "text": "신경질 납니다.",
+        "rating": 1
+      },
+      {
+        "user": "소승철",
+        "text": "좋아",
+        "rating": 4
+      },
+      {
+        "user": "최병오",
+        "text": "잘모름",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "5.4.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Translate Ease' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
