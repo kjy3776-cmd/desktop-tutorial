@@ -2019,13 +2019,19 @@
       "name": "유심사 - 글로벌 eSIM 서비스",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "DramaWave -인기 단편/한일 드라마, 역전극!",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 368,
+    "total": 369,
     "skipped": 237,
-    "has_issues": 131,
-    "total_issues": 179,
+    "has_issues": 132,
+    "total_issues": 180,
     "fixed": 27
   }
 }
