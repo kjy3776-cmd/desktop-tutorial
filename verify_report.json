@@ -2014,11 +2014,16 @@
       "name": "Translate Ease",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "유심사 - 글로벌 eSIM 서비스",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 367,
-    "skipped": 236,
+    "total": 368,
+    "skipped": 237,
     "has_issues": 131,
     "total_issues": 179,
     "fixed": 27
