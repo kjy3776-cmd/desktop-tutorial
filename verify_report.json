@@ -2025,11 +2025,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "윈드러너 키우기",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 369,
-    "skipped": 237,
+    "total": 370,
+    "skipped": 238,
     "has_issues": 132,
     "total_issues": 180,
     "fixed": 27
