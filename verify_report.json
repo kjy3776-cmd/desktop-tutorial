@@ -2055,13 +2055,19 @@
       "name": "KB M-able - KB증권의 대표 MTS",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "클룩 KLOOK: 여행, 투어, 렌터카 예약",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 375,
+    "total": 376,
     "skipped": 243,
-    "has_issues": 132,
-    "total_issues": 180,
+    "has_issues": 133,
+    "total_issues": 181,
     "fixed": 27
   }
 }
