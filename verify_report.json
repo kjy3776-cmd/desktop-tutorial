@@ -2050,11 +2050,16 @@
       "name": "파스타(PASTA) - 혈당, 체중, 다이어트 앱",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "KB M-able - KB증권의 대표 MTS",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 374,
-    "skipped": 242,
+    "total": 375,
+    "skipped": 243,
     "has_issues": 132,
     "total_issues": 180,
     "fixed": 27
