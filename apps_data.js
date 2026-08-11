@@ -27723,5 +27723,52 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 374,
+    "name": "Paseo - Remote Coding Agents",
+    "slug": "paseo-remote-coding-agents",
+    "cat": "productivity",
+    "icon": "https://play-lh.googleusercontent.com/w5oMm25VAY-O1_1Wl21wQlcJHgWmTvxcdOBun-m2sOviqGGDEus7LNBuYLklzjk9o3Dqva9Jk8NGNlgtmS3Dko0",
+    "developer": "Mohamed Boudra",
+    "desc": "어디서든 모든 코딩 에이전트를 사용하세요\r \r 휴대폰, 데스크톱, 터미널 등 어떤 기기에서든 코딩 에이전트를 실행할 수 있습니다. 자체 호스팅, 다양한 서비스 제공업체 지원, 오픈 소스 솔루션입니다.",
+    "iosUrl": "https://apps.apple.com/kr/app/id6758887924",
+    "androidUrl": "https://play.google.com/store/apps/details?id=sh.paseo",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/a98zznbpyugJYqnEXpno8HTvqU54248eJ_KzNjk2sR3a0oJbYIzYSP_lUHF4FiWRLq4nexlFnyxJrwHWWNkjbg",
+      "https://play-lh.googleusercontent.com/E3CXdkVRg67KxxpCr4XheOX2xvTjybH8whXIFzTRFylwPPSygQfTWE5SFsOF1RgVEmOnzaQwkNu_4DNrEUoA5jE",
+      "https://play-lh.googleusercontent.com/jK02BsznKV5-aewdWULGrBN3kRE_lP0H39AtLdtoS_NAKkFKlzRQXC_8wq3P1esUqO7amJLr6pcSnlwasYI"
+    ],
+    "reviews": [
+      {
+        "user": "YC H",
+        "text": "On Android, the status bar and navigation bar colors are incorrect with most themes, which often makes the icons difficult or impossible to see.",
+        "rating": 4
+      },
+      {
+        "user": "Donghyun Kim",
+        "text": "super awesome!",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Paseo - Remote Coding Agents' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

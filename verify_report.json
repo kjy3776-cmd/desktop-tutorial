@@ -2035,11 +2035,16 @@
       "name": "Layered: 캘린더, 미리알림 일정을 배경화면으로",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Paseo - Remote Coding Agents",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 371,
-    "skipped": 239,
+    "total": 372,
+    "skipped": 240,
     "has_issues": 132,
     "total_issues": 180,
     "fixed": 27
