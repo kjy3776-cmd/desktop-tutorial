@@ -2045,11 +2045,16 @@
       "name": "플로우 가계부",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "파스타(PASTA) - 혈당, 체중, 다이어트 앱",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 373,
-    "skipped": 241,
+    "total": 374,
+    "skipped": 242,
     "has_issues": 132,
     "total_issues": 180,
     "fixed": 27
