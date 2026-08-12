@@ -28205,5 +28205,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 380,
+    "name": "Trainline: Train travel Europe",
+    "slug": "trainline-train-travel-europe",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/M3DswNatq2IZlqNc5RWzSaekFDgQKyN9zl2uK6XI6j7cnrCXtwLvkHIg38OxcfFly0sDxIYDtBWVZXTIiK5P",
+    "developer": "trainline",
+    "desc": "미래의 기차 여행객 여러분, 환영합니다! 지금 바로 전 세계 수백만 명의 사용자와 함께 유럽 최고의 기차 및 버스 앱, Trainliner와 함께 안전하고 편안한 여행을 시작하세요.\r \r 왜 Trainliner를 선택해야 할까요?\r 국제 도시로 향하든 국제 터미널에서 출발하든, 몇 번의 클릭만으로 최고의 좌석을 미리 예약하거나 최저가 보장 혜택으로 당일 티켓을 저렴하게 구매할 수 있습니다. 실시간 알림을 켜고 실시간 시간표를 확인하며, 혼잡도 알림 기능을 통해 열차의 혼잡도까지 파악할 수 있습니다. 또한, 종이 티켓을 잊어버리거나,",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.thetrainline",
+    "pcUrl": "https://line.me/ko/download",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/q2kiprpT6yUIqnd2agmWZESXN1dhFaqELtMb9CVESc1se4D_tkxxCOxvy9QTIWlIX5q_KFt0P1OI2PcB3eofZA",
+      "https://play-lh.googleusercontent.com/IYJDquS3960xu1hXmKCEb04xKUONsCcPyDvxBMbwsyQ5Nd-JbMlNvy6dLXB5KJn7GUUetiq4eN2ifEuX-b3FcQ",
+      "https://play-lh.googleusercontent.com/C8q2FH7BvNUE92lmPjdNZ95rIIZZ2k4K_cqffRmIb0XBI3gdFf1vhNvflDKrDWXNwVKFcmDr5gv3lZaWsbwT1w"
+    ],
+    "reviews": [
+      {
+        "user": "Google 사용자",
+        "text": "영국 여행할 때 편리함. 직관적으로 사용 가능함. Railcard나 국제학생증을 적용했을 때의 할인가도 볼 수 있고, 탑승 시간도 알려줘서 좋았음. 어플을 깔면 별도로 프린트하지 않고 사용 가능해서 좋음.",
+        "rating": 5
+      },
+      {
+        "user": "soon ja Ryou",
+        "text": "편리한데 더 많은 세부적 정보가 필요합니다. 저는 처음인지라 잘 한 건지는 모르겠어요.",
+        "rating": 5
+      },
+      {
+        "user": "Anew K.",
+        "text": "40일동안의 영국여행 준비 때 아주 유용하게 잘 씀. 복잡하지않고 표를 바꿔야할 때도 쉽게 변경가능해서 좋음",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "쓰기 편하게 잘 만들어져 있네요.",
+        "rating": 4
+      },
+      {
+        "user": "Google 사용자",
+        "text": "영국 여행 계획 중에 아주 유용하게 사용했습니다!",
+        "rating": 4
+      },
+      {
+        "user": "가까마까TV",
+        "text": "쉽고 저렴합니다..최고.",
+        "rating": 5
+      },
+      {
+        "user": "박헌",
+        "text": "저렴하게 유럽여행을 위해 좋아요",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "영국여행때 최고에요",
+        "rating": 5
+      },
+      {
+        "user": "Sujin Kim",
+        "text": "동유럽에서도 유용하네요 :)",
+        "rating": 5
+      },
+      {
+        "user": "Yoon-Gih Ahn (Sustainability Expert)",
+        "text": "very useful and convenient thank you",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "407.0.0.178994",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Trainline: Train travel Europe' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": "download"
   }
 ];

@@ -2067,13 +2067,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Trainline: Train travel Europe",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 377,
+    "total": 378,
     "skipped": 243,
-    "has_issues": 134,
-    "total_issues": 182,
+    "has_issues": 135,
+    "total_issues": 183,
     "fixed": 27
   }
 }
