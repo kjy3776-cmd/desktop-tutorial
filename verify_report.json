@@ -2083,11 +2083,16 @@
       "name": "티머니GO - 택시 고속시외 따릉이 킥보드",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "헤메코랩 - 매일 만나는 뷰티의 모든 것",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 380,
-    "skipped": 245,
+    "total": 381,
+    "skipped": 246,
     "has_issues": 135,
     "total_issues": 183,
     "fixed": 27
