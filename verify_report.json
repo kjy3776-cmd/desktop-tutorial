@@ -2099,11 +2099,16 @@
       "name": "VL.GG",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Sniper 3D: Gun Shooting Games",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 383,
-    "skipped": 247,
+    "total": 384,
+    "skipped": 248,
     "has_issues": 136,
     "total_issues": 184,
     "fixed": 27

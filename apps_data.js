@@ -28676,5 +28676,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 386,
+    "name": "Sniper 3D: Gun Shooting Games",
+    "slug": "sniper-3d-gun-shooting-games",
+    "cat": "game",
+    "icon": "https://play-lh.googleusercontent.com/mcIIbm7yBXgF_aX-2h23mb4BkWy5DWfx-dAvEOVZ-50c5FRahHW11RsUT9CoYOHQxgDsvWWkMzET6cA9aPpUtw",
+    "developer": "HypGames.",
+    "desc": "실시간 1v1 스나이퍼 대결에서 실력으로 승부하세요.\r 정밀한 사격과 전략으로 승리를 쟁취하고 글로벌 랭킹에 도전하세요.\r \r 현대 전장을 배경으로 펼쳐지는 긴장감 넘치는 스나이퍼 액션을 경험해보세요.\r 실시간 PvP 대결에서 상대와 겨루고, 다양한 무기를 강화하며 점점 더 높은 단계에 도전할 수 있습니다.\r 다이내믹한 날씨 변화와 다양한 전투 환경 속에서, 모든 경기가 새로운 전략과 집중력을 요구합니다.\r \r 세로 화면에 최적화된 빠르고 끊김 없는 전투를 언제 어디서든 즐기세요.\r 토너먼트와 이벤트를 진행하고, 강력한 무기와 장비",
+    "iosUrl": "https://apps.apple.com/kr/app/id930574573",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.hypgames.sniperbattle",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/iUbto--WP3EA2DfgAQaJpjcY1R_YjLEq_60PbnzFNG7iH6UBjgbEboVRoRvn5JO6jSbf6g-L1ineLTVgO3q6IiQ",
+      "https://play-lh.googleusercontent.com/vvGX_y6N_TXtM3Hf784yHXhteq3LzrVGX6cI5dbbrrWJ9OK8s6M3_V0mIDWxpdGA06PVCenkD7m5YDJm0x0bW3A",
+      "https://play-lh.googleusercontent.com/0jV9sNc1XAupwpqNyREEHxR-Cn_GyESv1lUCeyflxg1Usw8WtGE2tm-Joe4aVvCXz-tTVR_bc3KukfAeNQmB_g"
+    ],
+    "reviews": [
+      {
+        "user": "이동우",
+        "text": "간만에 재미있는데 슈팅게임이네요 현질을 해야 좋은 탄약을 받는건 어쩔수없네요 그리고 종료버튼이 없는게 좀 아쉽네요 마지막으로 장비중에 racon이란 총은 컨트롤이 안되 사용을 못하고 있네요 저만 에러인지 ㅜㅜ",
+        "rating": 5
+      },
+      {
+        "user": "김넷",
+        "text": "너무나 말이 안 된다고 생각이 되는 부분은 분명 npc몹이 이미 시야에서 없어졌을 타이밍에 상대 계정이 퍼펙트로 점수로 낸다는 점. __ 추가: 판정이 너무나 이상함. 스크린샷을 못 넣어서 답답한데 더 먼거리에서 상대방은90퍼센트 난 퍼펙트를 쐈는데 판정점수는 상대가 이김.",
+        "rating": 1
+      },
+      {
+        "user": "wolf yuki",
+        "text": "이때까지 게임 했던 시간이랑 아이템 아깝지만, 이 글쓰고 삭제함. 토나먼트 1개 진행 하는데 절반이 버그로 진행불가. 그냥 삭제함. 정신 건강에 안좋음...",
+        "rating": 1
+      },
+      {
+        "user": "작은정원",
+        "text": "재미있게 잘하고 있어요 그런데 접속 끊김이 있는데 상대방이 접속이 끊기면 나또한 더이상 진행이 안되고 점수반영도 안되며 강제 종료를 해야합니다 수정좀 부탁드려요",
+        "rating": 5
+      },
+      {
+        "user": "액션가면HM",
+        "text": "한참 게임하다 박스를 열면 자꾸사라짐 광고만 보게하고 열면 아무것도 진행되는거 없이 박스 사라짐 수정 부탁합니다",
+        "rating": 4
+      },
+      {
+        "user": "김도연",
+        "text": "광고보고 들어왔는대 요즘 이것만 하네요 총이나 총알이 아무리 좋아도 실력만 있다면 얼마든지 이길수 있는 게임",
+        "rating": 5
+      },
+      {
+        "user": "강학승",
+        "text": "재미있어요 과금유저와 차이가있지만 무과금으로도 시간 삐대기는 최고",
+        "rating": 4
+      },
+      {
+        "user": "Jon Oh",
+        "text": "제발 박스 사라지는 버그 수정하세요 벌써 수차례. 긴시간 기다리다 오픈하면 붕 떠버리고 보상실시 하세요",
+        "rating": 3
+      },
+      {
+        "user": "승택우",
+        "text": "처음 게임 시작후 한게임 했는데 광고 부터 시청하게함 광고 압박이 심할꺼라 확신함.",
+        "rating": 2
+      },
+      {
+        "user": "이재호",
+        "text": "재미있게 하고있습니다 같은 총기는 조합이 가능햇으면 좋겟네요",
+        "rating": 3
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.03.02",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Sniper 3D: Gun Shooting Games' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
