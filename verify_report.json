@@ -2073,11 +2073,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "브레인 테스트 (Brain Test): 까다로운 퍼즐",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 378,
-    "skipped": 243,
+    "total": 379,
+    "skipped": 244,
     "has_issues": 135,
     "total_issues": 183,
     "fixed": 27
