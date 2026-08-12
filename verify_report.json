@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "results": [
     {
       "name": "카카오톡",
@@ -2061,13 +2061,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Lifesum: AI Calorie Tracker",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 376,
+    "total": 377,
     "skipped": 243,
-    "has_issues": 133,
-    "total_issues": 181,
+    "has_issues": 134,
+    "total_issues": 182,
     "fixed": 27
   }
 }

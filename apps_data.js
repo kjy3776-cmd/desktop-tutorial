@@ -19588,7 +19588,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "3.0.10",
+      "ver": "3.0.11",
       "os": "-",
       "size": "-"
     },
@@ -28112,6 +28112,93 @@ const APPS = [
     },
     "installSteps": [
       "앱스토어/플레이스토어에서 '클룩 KLOOK: 여행, 투어, 렌터카 예약' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
+  },
+  {
+    "id": 379,
+    "name": "Lifesum: AI Calorie Tracker",
+    "slug": "lifesum-ai-calorie-tracker",
+    "cat": "health",
+    "icon": "https://play-lh.googleusercontent.com/gMeT8cxzZOnlrCKwYIOPHT90C9kb9pPbE0mHlk2gixDIadJ_B9QmslnPkQ3Sc0y9KuS8KMxPDxFgsL_GLnXbsg",
+    "developer": "Lifesum",
+    "desc": "<b>AI로 강화된 혁신적인 식단 관리 방식.</b>\r 나만의 스타일로 영양을 추적하는 새로운 시대가 열렸습니다. 새로운 Lifesum을 통해 사진 촬영, 음성 인식, 텍스트 입력, 바코드 스캔 등 다양한 방법으로 식사를 기록할 수 있습니다.\r 더욱 간편한 식단 관리를 통해 몸과 마음을 위한 건강한 선택을 할 수 있도록 도와드립니다.\r \r <b>6,500만 명의 사용자가 더 나은 건강을 향한 여정에 함께하고 있습니다.<b>\r 건강은 완벽함이 아닌 꾸준한 발전입니다. Lifesum은 작고 실천 가능한 변화들이 모여 지속적인 효과를 만",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.sillens.shapeupclub",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/ntZjMmhj7fkqXIhm5CeSoOFwiEyWYXOj_K2GZp9ltA2NFVEUH8ado3wbHM8XlpIE9zl20pIiRkoyneizV2aNz8k",
+      "https://play-lh.googleusercontent.com/fIhI-A9WHc2yf3raBArY8TRdD9xk37ROqLVcOK7mhlYrehjiqNfLSyQDsS4bwq6mbiBrql3CdQ06FmwxnZNJ",
+      "https://play-lh.googleusercontent.com/FygDY9_ysWK11bhVBRHaawndBzAHn9abmMAd4GdNM4-Z6VVnb6GZxzoBN5hzlyCoj2rOpKBsJxb28BD29jhY"
+    ],
+    "reviews": [
+      {
+        "user": "엄태원",
+        "text": "목표체중을 입력하는 것이 안되요",
+        "rating": 1
+      },
+      {
+        "user": "Google 사용자",
+        "text": "열심히칼로리체크하고 건강관리하기 넘 좋은 앱",
+        "rating": 5
+      },
+      {
+        "user": "YJ M",
+        "text": "It's been one and half month I'm using this app. It is very simple to add food and the barcode system works well (at least for French products).",
+        "rating": 5
+      },
+      {
+        "user": "이진",
+        "text": "It's really convenient to check how much I drank water and ate today! I can easily check the calories.",
+        "rating": 5
+      },
+      {
+        "user": "Gülben",
+        "text": "Since I dont wish to spend money, I would prefer it to be completely free.",
+        "rating": 4
+      },
+      {
+        "user": "Rokicat",
+        "text": "I wish there was an additional option to enter the details and calories of the meal myself. Sometime the calories or the nutrition facts are inaccurate. Especially Korean food. :'(",
+        "rating": 4
+      },
+      {
+        "user": "Josephine",
+        "text": "로그인 불가",
+        "rating": 2
+      },
+      {
+        "user": "Google 사용자",
+        "text": "똑똑해👍👍",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "this is super helpful!",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "좋아요",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Lifesum: AI Calorie Tracker' 검색",
       "설치 버튼을 눌러 다운로드",
       "앱 실행 후 안내에 따라 이용 시작"
     ],
