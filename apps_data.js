@@ -28553,5 +28553,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 384,
+    "name": "Moodle",
+    "slug": "moodle",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/w7ypn_LOfAHxzGHmYgJfVt-uuokHIYRLkbjZrvib5BRvNUk4yg8OhZUhgYdnKNIA2dGLMqCwQjFjE-YD76QXew",
+    "developer": "Moodle Pty Ltd.",
+    "desc": "언제 어디서든, 이동 중에도, 심지어 오프라인 상태에서도 Moodle 학습 관리 시스템 강좌에 접속하세요.\r \r 앱을 통해 다음 기능을 이용할 수 있습니다.\r • 오프라인에서도 강좌 콘텐츠 탐색\r • 강좌 참여, 퀴즈 풀이, 과제 제출\r • 알림 즉시 수신\r • 다른 수강생과 메시지 교환 및 소통\r • 성적 및 활동 내역 확인",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.moodle.moodlemobile",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/WBDmfdg3w7A8wiv8oYsjY5GNY97bxIQiOXGVN5NwR3kfpVPiJb_3qpwhveROtfmh2bnQ5BTEYqDO3Xc9b5p9Fg",
+      "https://play-lh.googleusercontent.com/eif3MOhTbBiyJrmGNuvO3kFwZdV6M72vVwCq7b3o4dl9ozJP21qloBlJqGoDs-WLw9kpOqbdsrGTlvVb0t6t",
+      "https://play-lh.googleusercontent.com/6TZlCb0U-WHgT4woqZcKAu8SCkhhoTm1i9JVHvYyQoj1pByRcHuLJHVY1JtelfIl8UyDfqhZZSSbYDYWAw2y"
+    ],
+    "reviews": [
+      {
+        "user": "김현중",
+        "text": "앱 만이라도 스마트폰자동입력된 단어, 자동추천문구(스마트입력,오토문구)가 안나오게 해주십시요. 이것때문에 문제를 못만들고 있습니다.",
+        "rating": 4
+      },
+      {
+        "user": "서연",
+        "text": "서버가 너무 자주 터져요!!!!!! 과제해야아는데!!!!! 저 장학금 못 받으면 대학 다닐 형평 안되는데 ㅠ",
+        "rating": 1
+      },
+      {
+        "user": "Ahreum Clara Han",
+        "text": "서버 접속 오류 라고 뜨는데 어떻게 해결하나요 ㅠㅠ 학교 웹사이트로 접속하면 문제없는데 무들 앱만 이러네요 ㅠㅠ",
+        "rating": 1
+      },
+      {
+        "user": "함다빈",
+        "text": "서버 터지면 답없어요..해결을 바로바로 해줬으면 좋겠는데 해결하는게 너무 느려요",
+        "rating": 1
+      },
+      {
+        "user": "Esteban Seo",
+        "text": "플렛폼과 100% 완벽히 호환되네요. 군더더기 없는 안정적인 시스템이 돋보입니다",
+        "rating": 5
+      },
+      {
+        "user": "김선근",
+        "text": "매우 훌륭한 앱입니다. 잘 사용하고 있습니다.",
+        "rating": 4
+      },
+      {
+        "user": "쌀쌀한가을이",
+        "text": "서버 관리를 안하는거임? 아니면 못하는거임?",
+        "rating": 1
+      },
+      {
+        "user": "Zimmystar성욱",
+        "text": "느린거에 별두개 감점입니당 ㅎㅎ",
+        "rating": 3
+      },
+      {
+        "user": "Google 사용자",
+        "text": "비밀번호 잊어버렸을 때 어떻게 찾나요?",
+        "rating": 4
+      },
+      {
+        "user": "Google 사용자",
+        "text": "계정 삭제를 어떻게 하나요?",
+        "rating": 3
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "5.2.1",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Moodle' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

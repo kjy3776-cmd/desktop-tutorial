@@ -2088,13 +2088,19 @@
       "name": "헤메코랩 - 매일 만나는 뷰티의 모든 것",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Moodle",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 381,
+    "total": 382,
     "skipped": 246,
-    "has_issues": 135,
-    "total_issues": 183,
+    "has_issues": 136,
+    "total_issues": 184,
     "fixed": 27
   }
 }
