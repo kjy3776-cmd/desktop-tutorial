@@ -2094,11 +2094,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "VL.GG",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 382,
-    "skipped": 246,
+    "total": 383,
+    "skipped": 247,
     "has_issues": 136,
     "total_issues": 184,
     "fixed": 27

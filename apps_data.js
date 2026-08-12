@@ -28640,5 +28640,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 385,
+    "name": "VL.GG",
+    "slug": "vlgg",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/1v5hUK6kgqrCcuuuY993KGyYxfpxI6G7eZscj9DkexFMeqEMX7Jgi2NmhaG9j8Imcsmff62aP_TtTcjmZk-yeg",
+    "developer": "staticvar.dev",
+    "desc": "용감한 e스포츠 경기 및 이벤트에 대한 최신 정보를 얻을 수 있는 오픈 소스 및 광고 없는 애플리케이션입니다.\r \r ✨ 앱 기능 ✨\r - VLR.gg에서 최신 뉴스 기사를 확인하세요.\r - 진행 중, 완료 및 예정된 경기 및 이벤트에 대한 개요 및 정보\r - 자신에게 중요한 경기, 이벤트, 팀을 구독하고 경기가 시작되기 몇 분 전에 알림을 받으세요.\r - 매치 화면에서 매치를 길게 눌러 친구와 여러 매치를 공유하세요.\r - 홈 화면에서 점수와 업데이트를 확인할 수 있는 위젯(아직 작업 진행 중)\r - 팀의 명단과 이전 또는 향후 경",
+    "iosUrl": "https://apps.apple.com/kr/app/id1550445011",
+    "androidUrl": "https://play.google.com/store/apps/details?id=dev.staticvar.vlr",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/ZgQZQ-GTOkgWklZtpzbiQhodi4NzuYfBOf5ySAHjJvOhQi6DK44hxqK4-GXchMxp78ttichMhJcflIW-_QS1",
+      "https://play-lh.googleusercontent.com/XM56BhJoWKziMGfECQxGpaY9yla4Y5A3fe2NwSW0NHRRnhgNgjXuGgxQsVc2kNrnCKv4fRqtsuP-y8G1QkzB4to",
+      "https://play-lh.googleusercontent.com/cvMJUyOEl_bQoDMYntrBz3MTn_Fd7W8ocHL-sHQGvI_esMNnlbUlrZx0AWv93AibayPpm9CgI63Oe24VLGErdw"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'VL.GG' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
