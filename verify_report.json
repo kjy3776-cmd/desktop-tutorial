@@ -2078,11 +2078,16 @@
       "name": "브레인 테스트 (Brain Test): 까다로운 퍼즐",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "티머니GO - 택시 고속시외 따릉이 킥보드",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 379,
-    "skipped": 244,
+    "total": 380,
+    "skipped": 245,
     "has_issues": 135,
     "total_issues": 183,
     "fixed": 27
