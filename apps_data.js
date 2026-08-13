@@ -28886,5 +28886,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": "web"
+  },
+  {
+    "id": 389,
+    "name": "Freedom Lifestyle & Fitness",
+    "slug": "freedom-lifestyle-fitness",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/h0vnlvGuQvZo0xBQ3LH-l3apqMlA9PvBrf66SXvDfFvFL3LF1wd7g4-EHpxXx-Wlaij1qE4YLDu-IQLjfSOz",
+    "developer": "Freedom Lifestyle and Fitness",
+    "desc": "이 앱을 사용하면 자유 회원은 다음을 수행 할 수 있습니다.\r -좋아하는 그룹 피트니스 세션에서 예약을 확보하고 운동 및 목표를 추적하십시오.\r -운동 전후에 프론트 데스크에서 픽업 할 상품, 커피 및 스무디를 편리하게 구매하십시오\r -푸시 알림을 통해 클럽 경영진으로부터 업데이트를 받아 회원이 알아야 할 모든 정보를 항상 최신 상태로 유지\r -회원 정보 업데이트\r \r 모든 Freedom Lifestyle 및 Fitness 회원은 체육관에서 경험을 극대화하기 위해이 앱을 다운로드해야합니다.",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.wellyx.freedomlf",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/HR7G0cHRim7j526bvL9ynmwihHsHVKLGc_6Xqm9YSzP8bWxLgCiErxoPzCCUIqq863NzAOHhQYJomI99ZtksYA",
+      "https://play-lh.googleusercontent.com/JNP-9F0dthPMsihr5TZXTBV_ajHnhERQj_e7YXTHyY40ptwpaA4ZogDNUPHGE2TSnX8AUk-YI1o_fL2Xfngq",
+      "https://play-lh.googleusercontent.com/GrQNKBsATB4rRxOLrzp8hoKrhaWliIqLjhK1Y3cpqDbQ2J6zaWwRkHZPEHUZrmqoLUWl4sg2Gb3rRzZhvxTM-qQ"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Freedom Lifestyle & Fitness' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

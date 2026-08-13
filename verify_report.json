@@ -2115,13 +2115,20 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Freedom Lifestyle & Fitness",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 386,
+    "total": 387,
     "skipped": 249,
-    "has_issues": 137,
-    "total_issues": 185,
-    "fixed": 27
+    "has_issues": 138,
+    "total_issues": 187,
+    "fixed": 28
   }
 }
