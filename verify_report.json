@@ -2109,13 +2109,19 @@
       "name": "Saydi – AI 실시간 번역",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "PDF용 Adobe Acrobat Reader",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 385,
+    "total": 386,
     "skipped": 249,
-    "has_issues": 136,
-    "total_issues": 184,
+    "has_issues": 137,
+    "total_issues": 185,
     "fixed": 27
   }
 }
