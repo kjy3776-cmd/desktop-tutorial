@@ -2144,11 +2144,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Lens AI & Reverse Image Search",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 391,
-    "skipped": 251,
+    "total": 392,
+    "skipped": 252,
     "has_issues": 140,
     "total_issues": 189,
     "fixed": 28

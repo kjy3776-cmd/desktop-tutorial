@@ -29230,5 +29230,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 394,
+    "name": "Lens AI & Reverse Image Search",
+    "slug": "lens-ai-reverse-image-search",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/9HTBiQKu_THKf33NRTSECgnm3xYOqo51ptuYzsxdwv7TEkIyCgPxvfM8oynusE74UfwAe9h6HKkj2FihQgaJ",
+    "developer": "HEYOS",
+    "desc": "AI 렌즈 - 역방향 이미지 검색: AI 시각 검색 및 찾기\r 혁신적인 시각 탐색 여정을 시작하세요. 역방향 이미지 검색은 휴대폰을 위한 최첨단 AI 카메라 렌즈로, 세상을 탐험하는 방식을 혁신합니다. 사진을 찍거나 업로드하는 것만으로 사물을 즉시 식별하고, 유사한 이미지를 찾고, 출처를 확인하고, 온라인에서 제품을 쇼핑할 수 있습니다. 키워드는 이제 그만! 카메라로 검색하세요.\r 주요 기능:\r AI 이미지 식별: 인공지능의 힘을 활용하세요. 고급 알고리즘이 모든 사진을 분석하여 사물, 랜드마크, 식물, 동물 등을 식별합니다. 카메",
+    "iosUrl": "https://apps.apple.com/kr/app/id6753348682",
+    "androidUrl": "https://play.google.com/store/apps/details?id=co.appnation.reverseimagesearch",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/v3SyoCFNHvky5JoTiSjnsNS39kMfuPvrvlcoWoONF0J03TuLkgXrMzNeByFtt-BV6eZlPr1nO3s3oO57lqe2yg",
+      "https://play-lh.googleusercontent.com/PQPTVoXp3IlXre-sITjPeohvAFxmlfLrG2eWqGVrqlijORmYaHJ7FymBulG4QxO2DqZsYXuIi_tnNAyMdOhWRQ",
+      "https://play-lh.googleusercontent.com/lQYcuPeb-3HMk50S6DXdFghV4oM8PAafixO0EkR3VxJewlx7b9HT5g1UASdUOCFQtuhybe-1bTAHdD873ogi"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.3.7",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Lens AI & Reverse Image Search' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
