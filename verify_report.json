@@ -2132,13 +2132,19 @@
       "name": "지게차 운전 기능사 필기 - 기출문제 & 모의고사",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Praktika: 영어회화, 스피킹, 발음, 문법",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 389,
+    "total": 390,
     "skipped": 251,
-    "has_issues": 138,
-    "total_issues": 187,
+    "has_issues": 139,
+    "total_issues": 188,
     "fixed": 28
   }
 }
