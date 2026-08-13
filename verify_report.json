@@ -2104,11 +2104,16 @@
       "name": "Sniper 3D: Gun Shooting Games",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Saydi – AI 실시간 번역",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 384,
-    "skipped": 248,
+    "total": 385,
+    "skipped": 249,
     "has_issues": 136,
     "total_issues": 184,
     "fixed": 27

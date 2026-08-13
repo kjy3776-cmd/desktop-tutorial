@@ -28763,5 +28763,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 387,
+    "name": "Saydi – AI 실시간 번역",
+    "slug": "saydi-ai-실시간-번역",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/XPK25FZ3t1OBnNoNe9Vpl5HKEWUt6q3CO6LOYCNuMVDc_XskRzKmadZ7uUnlKmjA-PljiMgcyWnl_RjxuCDPB5g",
+    "developer": "SotaLabs",
+    "desc": "Saydi – 회의 및 출장을 위한 AI 통역 서비스\r 해외 회의에 통역사가 없으신가요? 다음 출장에서 의사소통 오류가 걱정되시나요? Saydi는 실시간으로 대화를 통역하여 언어 장벽에 신경 쓰지 않고 회의 참석자들에게 집중할 수 있도록 도와드립니다.\r \r Saydi는 다음과 같은 중요한 순간에 유용합니다.\r - 해외 회의 및 협상: 일본, 한국, 대만 파트너와의 회의에 자신감 있게 참여하세요. Saydi는 실시간으로 각 발언자를 식별하고 중요한 내용을 놓치지 않도록 보장합니다.\r \r - 출장: 공항 체크인부터 고객과의 저녁 식사까",
+    "iosUrl": "https://apps.apple.com/kr/app/id6749557205",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.sota.aitranslatex",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/9MYwg_ppwzZzfxOKOpRQTgAKDdps45tufiasjseoEyopfd_yTy67pEgkj2uH8uIXnyG7GRINm6h1BiC__4kq",
+      "https://play-lh.googleusercontent.com/5Um9sN7NIj4YWREHvxXa3nu5AvS-sT57JX3Bw0PIXjyXxn-wDXeWu_fccYqA9A8yV9NBh9A5pfR3Vdwzd2i4tQ",
+      "https://play-lh.googleusercontent.com/ZQoiPpOMFQ-P8hOBr-cgXICJBP6e9vBJGoJyd3VDCH3MHTcrfTMhY8cjV2KA5fZ4xZxRFJCPktVmmNqs4X_Igg"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "3.4.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Saydi – AI 실시간 번역' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
