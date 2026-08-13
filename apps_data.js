@@ -28922,5 +28922,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 390,
+    "name": "Health Monitor: 혈압·혈당",
+    "slug": "health-monitor-혈압혈당",
+    "cat": "health",
+    "icon": "https://play-lh.googleusercontent.com/TGE2v9Zmp8hJ2mdCn9YN3ln6t0Xaj4frs9w9KH38wn7h-VTKOauUVxJ4XRa1QrDe55561JJkUwF5N6tFu5RmU3A",
+    "developer": "H2 Inc.",
+    "desc": "📊 혈당·혈압·체중·식단을 한 번에 관리\r 🤖 AI 음식 인식으로 음식 종류·양과 영양 정보 분석\r 📈 CGM 연동으로 식사·운동에 따른 혈당 변화 확인\r \r 슈가지니 - 혈당·당뇨·혈압 관리 앱\r \r 슈가지니는 혈당·혈압·체중부터 식단·운동·약물까지 다양한 건강 데이터를 한곳에서 기록하고 확인할 수 있는 통합 건강관리 앱입니다.\r \r AI 음식 인식, 혈당 기록, CGM(연속혈당측정기) 및 건강 기기 연동을 통해 단순히 수치를 기록하는 것을 넘어 식사와 생활습관에 따른 혈당 변화를 이해할 수 있도록 도와드립니다.\r \r 제1형 당뇨",
+    "iosUrl": "https://apps.apple.com/kr/app/id6739025809",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.h2sync.android.h2syncapp",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/KbqYioskhZZUUyn7kpsb8Vwsrl9LfngkB8tUkkmjASUpn0dK6qyqAV-wRd4RLFij1OF8NuOw6HWRXU-T8ds6",
+      "https://play-lh.googleusercontent.com/eMKEfmksc5bihJq8F80tsIo-APd5ilE7MG0GK9qBl0hoyPIV4FyO_swXCq04to-0RZixOowXE2JiPPaQcFkqeA",
+      "https://play-lh.googleusercontent.com/82DvQJo9IjoRqpmf1nKiaWK6cgT22QBN54SefL0jiqt-P-fLg-qv126X_qLcdkx6KmiLSwHYZ9ewLVSs7OpNGg"
+    ],
+    "reviews": [
+      {
+        "user": "박치형",
+        "text": "정말 최고의 혈당관리 앱입니다. 다른 앱을 사용중이었는데 광고가 너무 길게 나오고, 혈당측정 관리만 되어 앱 스토어에서 검색 후 다운로드도 많고 평가도 좋은 이 앱을 깔아봤는데 정말 좋네요. 일단 광고가 없고 타 앱과 연동을 하면 체중, 걸음수 등도 함께 볼 수 있네요. 게다가 직관적으로 보기 좋게 디자인되어 있습니다. 평소에 앱 평가는 거의 안하는데 이 앱은 꼭 추천해 주고 싶어서 평가글 올립니다.",
+        "rating": 5
+      },
+      {
+        "user": "noName",
+        "text": "너무 좋아요. 그런데 연속 혈당을 그래프로만 보는 것 말고도 리스트 형식으로 보는 뷰도 있었으면 좋겠어요. 시간 때에 몇 정도 나왔나 보려면 그래프 확대 해야하고 거기로 바를 가져간 다음에 감질맛나게 움직여야 겨우 볼 수 있더라구요 ㅠ. 좋은 앱 만들어줘서 고마워요 😀",
+        "rating": 5
+      },
+      {
+        "user": "Beomi Iee",
+        "text": "앱 업데이트를 하니 2년 이상 기록해 둔 당화혈색소 기록이 싹 다 날라가서 다시 일일이 추가로 기록해야 했습니다. 혈당 기록시 바로 숫자로 입력하게끔 해주세요. 위아래 룰렛처럼 돌리는 거 번거롭고 숫자 입력하려면 여러번 튕기다 한참을 누르고 있어야 겨우 입력 가능해 불편합니다",
+        "rating": 2
+      },
+      {
+        "user": "김옥경",
+        "text": "기록을 잘하고 있는데,갑자기 앱 열면 \"지원되지 않는 NFC 디바이스입니다\"만 계속 떠요ㅠ,ㅠ 전에 기록도 보고 사진 올리려는데,, 저 문구만 뜨고,,들어갈수가 없어요,,지우고 다시하려했다가 기록한거 다 날아갈까봐 못하고있네요 ,어떻게 해야되나요",
+        "rating": 3
+      },
+      {
+        "user": "손종희",
+        "text": "휴대폰에 기록하니 꾸준히 혈당체크하게 되네요 기록관리가 되어 좋아요 간단히 멘트를 적을 수 있는 것도 맘에 드네요",
+        "rating": 5
+      },
+      {
+        "user": "권나영 (맛나영)",
+        "text": "혈당체크와 식단에 너무 도움되었습니다. 이미지 분석도 생각보다 정확해서 브랜드 제품까지 상세히 나와서 좋았어요.",
+        "rating": 5
+      },
+      {
+        "user": "김광희",
+        "text": "실시간 혈당 보는 건 좋습니다. 다만 궁금한게 리브레 연동도 되서 보호자가 어플깔고 연동해놨는데 환자가 저혈당오게되면 보호자 슈가지니 어플에 알람이안오나요? 설정은 다 해놨는데 별다른 안내나 알람이없어서요",
+        "rating": 4
+      },
+      {
+        "user": "최학원",
+        "text": "S25휴대폰과는 현재 블루투스 연결도 하고 mysugr앱에 디바이스를 등록해서 사용하는데 혈당측정후 측정값에 대해 연동이 잘안되요 어떻게 해야 되는지 설명좀 해주세요",
+        "rating": 3
+      },
+      {
+        "user": "ST LEE",
+        "text": "혈당 측정을 예전 방식과 달리 폰 카메라에 손만대면 가능하다더니, \"측정 기능 제공 X\" ?? 속은 건가요?",
+        "rating": 1
+      },
+      {
+        "user": "진호",
+        "text": "당뇨 초진 받고 관리 할려고 여러 어플 깔아봤는데 이것보다 편리한 어플은 없는듯 더 사용해보고 프리미엄 사용 고민중",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2.108.1",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Health Monitor: 혈압·혈당' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
