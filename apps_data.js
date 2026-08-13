@@ -29009,5 +29009,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 391,
+    "name": "지게차 운전 기능사 필기 - 기출문제 & 모의고사",
+    "slug": "지게차-운전-기능사-필기-기출문제-모의고사",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/JSQnu57jQne8DTRwKl8cxKK6nh8aPymgfxUTAvvHYcPRrsCNu4OiXDbh0mzGrNB0IIbsgxx4mu-YzL2Z1gWk1A",
+    "developer": "이음플러스",
+    "desc": "지게차 운전 기능사 필기시험, 이 앱 하나로 완벽 대비하세요!\r \r 더 이상 두꺼운 수험서와 씨름하지 마세요. 자투리 시간만 투자하면 언제 어디서든 가장 효율적으로 합격을 준비할 수 있습니다.\r \r [핵심 기능]\r \r 1. 실전 감각을 익히는 '모의고사' 🧠\r     실제 필기시험(CBT)과 동일한 환경(60문항, 60분)으로 구성되었습니다.\r     시험을 마치자마자 합격/불합격 여부를 바로 확인할 수 있습니다.\r     모의고사를 통해 시간 관리 능력을 기르고 실전 감각을 최대로 끌어올리세요.\r \r 2. 합격의 지름길 '기출문제",
+    "iosUrl": "https://apps.apple.com/kr/app/id6748970898",
+    "androidUrl": "https://play.google.com/store/apps/details?id=kr.eumplus.dd.jige",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/_TdgNsJ3sp4qiBBoUN7BjwCX6csW1AZm24l8iQAajUn-IULUEv5ByMta-S0yX4-j3FraNiOa_rXQ9IPhP4mK_w",
+      "https://play-lh.googleusercontent.com/VMCyBnh-yH-TuVAVIHbWIw1ex71F9swB5plGwirhLwlXAaDxTLcp-a-6Jj5ANsBV1qOqA9R8d0RuXrcZ0j0kag",
+      "https://play-lh.googleusercontent.com/aqxVtkuCuAbUkEJzLlvzTXGcqBsfmAiGKED_BnrqlQqVUpV81qkET2OM-vtNRg6aNS-qss1Bm2JszR-ttKTBlQ"
+    ],
+    "reviews": [
+      {
+        "user": "피팢피팢",
+        "text": "119번 문제 오류 아닙니까? 고압전선로 주변에서 작업시 건설기계와 전선로와의 안전 이격거리에 대한 설명 중 틀린것은 4번 전압이 높을수록 멀어져야 한다 이게 자꾸 정답이래요 수정점요",
+        "rating": 3
+      },
+      {
+        "user": "김진욱",
+        "text": "기출문제를 공부할때 프로그램을 끄면 처음부터 다시 푸는것이 안좋음",
+        "rating": 3
+      },
+      {
+        "user": "차예슬",
+        "text": "빠른 피드백 감사합니다! 이 앱이 많이 알려지면 좋겠습니다",
+        "rating": 5
+      },
+      {
+        "user": "WS 44",
+        "text": "이거 10년전 기출아닌가요?",
+        "rating": 3
+      },
+      {
+        "user": "안성현",
+        "text": "문의드립니다 정주행 260번 문항 문제 오류라서 다음으로 넘어가지 않습니다 방법 문의드립니다",
+        "rating": 5
+      },
+      {
+        "user": "이승준",
+        "text": "이것만 반복학습해도 필기시험준비에 충분하네요",
+        "rating": 5
+      },
+      {
+        "user": "주신",
+        "text": "겨울에 공부해서 땁니다ㅋㅋ",
+        "rating": 5
+      },
+      {
+        "user": "천문수",
+        "text": "자격증 준비하는데 화이팅..",
+        "rating": 5
+      },
+      {
+        "user": "youngho min",
+        "text": "260번 넘어가질않아요",
+        "rating": 1
+      },
+      {
+        "user": "MJ Je",
+        "text": "합격 기원좀ㅎㅎ",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.0.24",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '지게차 운전 기능사 필기 - 기출문제 & 모의고사' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

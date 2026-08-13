@@ -2127,11 +2127,16 @@
       "name": "Health Monitor: 혈압·혈당",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "지게차 운전 기능사 필기 - 기출문제 & 모의고사",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 388,
-    "skipped": 250,
+    "total": 389,
+    "skipped": 251,
     "has_issues": 138,
     "total_issues": 187,
     "fixed": 28
