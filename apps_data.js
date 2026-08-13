@@ -29183,5 +29183,52 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 393,
+    "name": "YayTalk: 영어 말하기 & 학습",
+    "slug": "yaytalk-영어-말하기-학습",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/dC52k5KzZqpjeBmvlj2N82B9PmvUbCaPDb8-iF97G5_inOqlsjDj9k5zn9WZDgALId4UmkA4zALi3XoKmLW1-w",
+    "developer": "IdeaLabs.",
+    "desc": "자신 있게 영어를 배우고 말하고 싶으신가요? 이제 YayTalk로 학습을 한 단계 업그레이드할 때입니다 — 나만의 AI 영어 튜터. 실제 대화를 연습하고, 유창함을 키우고, 언제 어디서든 자연스럽게 언어를 익혀보세요.\r \r YayTalk는 새로운 언어를 더 빠르고 효과적으로 배울 수 있도록 설계된 AI 기반 언어 튜터입니다. 초보자부터 고급 학습자까지, 인터랙티브 영어 회화 연습, 즉각적인 피드백, 맞춤형 레슨을 통해 실생활 영어 말하기 능력을 키울 수 있습니다.\r \r AI와 함께 영어로 말하기\r AI 튜터와 함께 실생활 영어 대화",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.ai.language.learning.tutor",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/ansJlicAHg3gXO6TDlXuQ2Qg-2wyZRWL7lfMmpRhFE-QOTp2Gdg6NIrEaCv8PJedWDtKLxVxXyaSiQNE92gi",
+      "https://play-lh.googleusercontent.com/e9sEP4awNeijsgmG7WQk_3vPsLQjJJbjjJm7o2CyGs74B8Toy09RnqABhxxo396ZKN8OtTgcL3eBGc7N9CHISw",
+      "https://play-lh.googleusercontent.com/geSEkm-dP9o_hK-tLzPLeJPswIZDQ2sBwzTsElrE2AFuFZOyZ7BsaXQWMy2Nyl33QPAjQf6b4ytM16b5HgXFrw"
+    ],
+    "reviews": [
+      {
+        "user": "조현수",
+        "text": "사기 앱입니다. 동의없는 업그레이드, 중복결재, 취소, 철회, 환불 불가능",
+        "rating": 1
+      },
+      {
+        "user": "부자된다",
+        "text": "괜찮은거같아요",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.0.21",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'YayTalk: 영어 말하기 & 학습' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

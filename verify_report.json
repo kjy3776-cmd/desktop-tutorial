@@ -2138,13 +2138,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "YayTalk: 영어 말하기 & 학습",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 390,
+    "total": 391,
     "skipped": 251,
-    "has_issues": 139,
-    "total_issues": 188,
+    "has_issues": 140,
+    "total_issues": 189,
     "fixed": 28
   }
 }
