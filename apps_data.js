@@ -29302,5 +29302,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 396,
+    "name": "Hi AI chat offline translator",
+    "slug": "hi-ai-chat-offline-translator",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/7VxaxdadIdb5qcRVQWZ7j9UNR0dPEmZk0XN1_RvGJJOQGQXgDyg3ahrJKVkgdvk3nFTghnvpN62ocz2d4MjW",
+    "developer": "Hanwin Sky",
+    "desc": "Hi.AI는 여러분의 소셜 경험을 혁신적으로 바꿔놓을 것입니다. Hi.AI를 사용하면 나만의 디지털 친구를 만들고, AI 캐릭터와 채팅하고, 나만의 아바타를 생성하여 친구에게 생명을 불어넣을 수 있습니다.\r \r AI 롤플레잉, 가상 친구, 맞춤형 아바타가 어우러져 잊지 못할 경험을 선사하는 세상으로 여러분을 초대합니다.\r \r ### Hi.AI로 할 수 있는 일:\r \r * AI 캐릭터와 채팅: 개성 넘치는 AI 캐릭터, 판타지 페르소나, 또는 창의적인 친구와 채팅하세요.\r * 나만의 AI 친구 만들기: 독특한 성격과 맞춤형 아바타를 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6751367298",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.hiai_chatcharacte",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/qIBTS_topkWE0rLMaJJgx2BGgbMbraFkOtNTy28y5cD6wvtpHZWgmV2ruPzmtjETd7bFSQwC4S47gaseqX7Ylw",
+      "https://play-lh.googleusercontent.com/nqX8ecV65EyQC8fz02s4zNBT4SVvUYTuXFMFLqdN_gAe6p9mFqsTn5Zqwq8uxaNqpt7GtBXs-Kel5zmcOk4O",
+      "https://play-lh.googleusercontent.com/s9H3Z7cTAgWAJo7OEJoifbQ_-AWDKRTBGlNCnYIMq-dey9aEXCs9PqSH3ScFdmHkwX5fbCQdR0_VWcYHJ7C2aA"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Hi AI chat offline translator' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

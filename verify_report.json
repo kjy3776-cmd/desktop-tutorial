@@ -2154,11 +2154,16 @@
       "name": "bienvenue au croissant: 프랑스어단어",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Hi AI chat offline translator",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 393,
-    "skipped": 253,
+    "total": 394,
+    "skipped": 254,
     "has_issues": 140,
     "total_issues": 189,
     "fixed": 28
