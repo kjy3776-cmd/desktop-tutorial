@@ -29738,5 +29738,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 402,
+    "name": "Live Translator: Translate +",
+    "slug": "live-translator-translate",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/OsSt46K0YU7ZnIzHOzFWOYuCkULIBU9FyL02-riy3a1ZF_K_qRgtqNd7gSQUwG6KqhjOqxEYBBq4bjrQX8BB",
+    "developer": "TERASsoft",
+    "desc": "AI 기반 번역 앱으로 자연스럽고 유창한 텍스트 및 음성 번역을 경험하며 원활한 소통을 실현하세요.\r \r ✨ 주요 기능:\r 여행, 언어 학습, 국제 협업 시 빠르고 정확한 번역으로 언어 장벽을 해결합니다.\r \r 지금 다운로드하고 제한 없는 소통을 시작하세요! 🌐",
+    "iosUrl": "https://apps.apple.com/kr/app/id6741623453",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.live.translator.ai",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/laNbmMQyIvh6h-R7UNPRxoxYHcdwdc57O0anBM83BxnJrR-ygDulmB-eLv5XRmLzdN8fR3SGvBdhDL6eALRCLQ",
+      "https://play-lh.googleusercontent.com/TLToYfnvOvwyVG0lxq0VKb7vC2OyKR_Uk1uiE9ZLgK3iNsGUSYjP37fqTeYRTPjFOr_AhNVSNSUtrCQytSeJvA",
+      "https://play-lh.googleusercontent.com/dv7PpKc_FXjjHfgyyIFYX1MzGcC8fCRkzCpxnmd_eVgzdm-AWVTcc-x3Iad5JP6_7AuRlwVZI_PfJASU5MHZFQ"
+    ],
+    "reviews": [
+      {
+        "user": "이은구",
+        "text": "정말 쓰레기 앱입니다. 써보려면 정기구독 할수밖에 없이 유도하고 막상 써보면 제대로 기능도 안되서 사용도 못하네요.",
+        "rating": 1
+      },
+      {
+        "user": "엄기호",
+        "text": "열심히 하사면 영어 일어 중국어 완료됨",
+        "rating": 5
+      },
+      {
+        "user": "m.w lee",
+        "text": "베트남에서 일하는데 쓸만해요! 아! 년 정기 결재가 되었는데 넘기다가 평생결재로 클릭 청구가 되었는데 어떻게 되는 건지요?",
+        "rating": 4
+      },
+      {
+        "user": "정규호",
+        "text": "번역 속도가 너무 느리네요 실시간 통역에 문제가 있을 것 같고 대화도 거의 되지 않는 수준입니다. 결재 했는데 이거 결재 취소 하고 싶네요",
+        "rating": 1
+      },
+      {
+        "user": "Miyeon",
+        "text": "도대체 무엇 때문에 이 앱 은 돈을 받는지 이해할 수가 없습니다.",
+        "rating": 1
+      },
+      {
+        "user": "김향숙",
+        "text": "이제 처음 사용해 보려 합니다. 좀 더 사용해보고 좋은지 어떤지 친구들에게 말해 주겠습니다.",
+        "rating": 5
+      },
+      {
+        "user": "kim gihong",
+        "text": "먹튀 임. 동작 안됨. 몇일 되다가, 개인 연락처 연락도 되지 않음..사기.",
+        "rating": 1
+      },
+      {
+        "user": "성욱현",
+        "text": "좋은거같아요",
+        "rating": 5
+      },
+      {
+        "user": "Dongjun Kim",
+        "text": "사기임. 절대 사용 금지",
+        "rating": 1
+      },
+      {
+        "user": "한승용 (유생결)",
+        "text": "I purchased the subscription specifically for real-time Spanish-to-Korean translation while traveling in Mexico. The advertised functionality did not work as described. The translation quality was extremely poor and the app failed to perform its core function. I requested a refund shortly after purchase, but it was denied. Since the service does not match the advertised functionality, I would like to request a full refund. In particular, the microphone's voice recognition function is very poor.",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2.0.3",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Live Translator: Translate +' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
