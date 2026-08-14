@@ -2176,11 +2176,16 @@
       "name": "섯다 족보 & 가이드북",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Zip Unzip - Unrar Tool PRO",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 397,
-    "skipped": 255,
+    "total": 398,
+    "skipped": 256,
     "has_issues": 142,
     "total_issues": 191,
     "fixed": 28
