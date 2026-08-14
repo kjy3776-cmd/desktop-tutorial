@@ -29512,5 +29512,57 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 399,
+    "name": "섯다 족보 & 가이드북",
+    "slug": "섯다-족보-가이드북",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/YkEb1t0TWLolzJPgbUxj61_PzksrO_M0OABeyeRgBOwGC7xbY3IZQnCiav3ff6__-my31Y5qnTvHpj1M0pI0",
+    "developer": "BROKERS",
+    "desc": "예림이 그패 봐봐! 혹시 장이야? \r \"섯족\"이 족보를 봐드릴게요~\r \r 사용법\r \r 1. 두가지 패를 선택한다.\r  섯족 어플을 준비하세요!\r - 고광렬 \"자 길이하시죠\"\r \r 2. 우측에서 족보 순위를 확인한다.\r 상대에게 족보를 들키지않게 조심하세요!\r - 짝귀 \"구라칠때 절대 상대방 눈을 보지마라\"\r \r 3. 게임을 즐겁게 즐긴다.\r - 곽철용 \" 어이 젊은 친구 신사답게 행동해\"\r \r 4. 새로고침 버튼을 누르고 다시 패를 선택하여 게임한다.\r  게임은 적당한 재미와 경쟁이 좋습니다!\r - 고니 \" 이 어플 착한데 쓰겠습니",
+    "iosUrl": "https://apps.apple.com/kr/app/id1612649851",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.jd.sutda",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/0KTZqKzp160JbCnQ6Vbo6KROmcwOG_wWU8rinr3HlFkEhQ9xN77OkRVaPDOG7pkDVjNek_7DNmuj4PZ7v9SsZQ",
+      "https://play-lh.googleusercontent.com/O45ZaLuq01hIRhpCctwO5g76jVBe5dR54Ryvranl8p6K2oZmSiqHQ74Owo6RMWg7TqVjCFPmSi1SIG0cZE5ycA",
+      "https://play-lh.googleusercontent.com/xBI6onJbskuwMZlPbu4wE8K-Ml0kyzvfp8ofH-8Pz7XPONEUcF2G_I8Px88T8LQOKtUW4w_mFQfi5i1z2RpK"
+    ],
+    "reviews": [
+      {
+        "user": "dongeun shin",
+        "text": "클릭하면 바로바로 족보가 나와서 좋네용!!♡",
+        "rating": 5
+      },
+      {
+        "user": "_YBW_",
+        "text": "3홍단이랑 멧돼지를 누르면 땡잡이가 아닌데 땡잡이라고 떠요 고쳐주시요",
+        "rating": 1
+      },
+      {
+        "user": "티라미시우",
+        "text": "ㅋㅋㅋㅋㅋㅋㅋㅋ 섯다 족보 찾으러왔다가 이름보고 웃습니다 ㅋㅋㅋ 예림이 ㅋㅋㅋㅋㅋㅋ",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '섯다 족보 & 가이드북' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

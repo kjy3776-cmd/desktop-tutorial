@@ -2171,11 +2171,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "섯다 족보 & 가이드북",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 396,
-    "skipped": 254,
+    "total": 397,
+    "skipped": 255,
     "has_issues": 142,
     "total_issues": 191,
     "fixed": 28
