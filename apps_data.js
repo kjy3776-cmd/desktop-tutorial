@@ -29266,5 +29266,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 395,
+    "name": "bienvenue au croissant: 프랑스어단어",
+    "slug": "bienvenue-au-croissant-프랑스어단어",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/cyGeMJIPT5PB4T2PI_wGR9DRdXEQZ4s--T5XXnL2WZZNfOb5vWF10xs8PiKdrSSBBWUWpeHV9l_O4SJUVwpa",
+    "developer": "Croissant, Inc.",
+    "desc": "커피 숍을 탈출하십시오. NYC, SF, 런던 등에서 한 번의 멤버십으로 아름다운 작업 공간에 액세스하십시오. 그냥 나타나서 체크인하고 어디서나 업무를 마칠 수 있습니다!",
+    "iosUrl": "https://apps.apple.com/kr/app/id6789195599",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.croissant.ios",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/m4VY-qlExP2w0ZDAz2KhhlNuRcwUg-zarMfvoKaLuDNB988ZUpoGNb9NRkScxGXU9J8jqCG0mlvqMiybv-Xg",
+      "https://play-lh.googleusercontent.com/_Bq3p0Wt51yTnOKuIDpCGH8xj4uN5YZpzIRKa2jy246dWULZo8aH3WHuLc0AAUHDqThaGRamkKgl5s8_NzdUGg",
+      "https://play-lh.googleusercontent.com/fsRGd5LvO0IVpv67D6_X6h9qTPsYVkAL2qIVoIavOXOUYb3dxxLhLD5UG24y5wpJYY5XqpM_wYdxV45Sqctv"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'bienvenue au croissant: 프랑스어단어' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

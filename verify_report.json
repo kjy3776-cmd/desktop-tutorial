@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "results": [
     {
       "name": "카카오톡",
@@ -2149,11 +2149,16 @@
       "name": "Lens AI & Reverse Image Search",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "bienvenue au croissant: 프랑스어단어",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 392,
-    "skipped": 252,
+    "total": 393,
+    "skipped": 253,
     "has_issues": 140,
     "total_issues": 189,
     "fixed": 28
