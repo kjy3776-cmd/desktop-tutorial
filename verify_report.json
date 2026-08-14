@@ -2159,13 +2159,19 @@
       "name": "Hi AI chat offline translator",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "트립어드바이저: 여행 계획 및 예약하기",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 394,
+    "total": 395,
     "skipped": 254,
-    "has_issues": 140,
-    "total_issues": 189,
+    "has_issues": 141,
+    "total_issues": 190,
     "fixed": 28
   }
 }
