@@ -2181,11 +2181,16 @@
       "name": "Zip Unzip - Unrar Tool PRO",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "터닝: 앱 잠금, 폰 잠금, 공부/집중 타이머, 루틴",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 398,
-    "skipped": 256,
+    "total": 399,
+    "skipped": 257,
     "has_issues": 142,
     "total_issues": 191,
     "fixed": 28
