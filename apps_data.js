@@ -29425,5 +29425,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 398,
+    "name": "Klarna: Smarter everyday money",
+    "slug": "klarna-smarter-everyday-money",
+    "cat": "finance",
+    "icon": "https://play-lh.googleusercontent.com/B0A7tuj9KZrPM8BwVOIf6uvAMceRFHBQQxD3PYPRUGbJGXC5j9X6Cy6A2oha_Y0seMCnDyXV0r22VrAqsGvGEg",
+    "developer": "Klarna Bank AB (publ)",
+    "desc": "다양한 결제 방식\r 앱 어디에서든 다양한 결제 옵션으로 편리하게 쇼핑하세요. 3개월 무이자 할부, 일시불, 30일 후 결제, 또는 할부¹ 중에서 선택하실 수 있습니다.\r \r ¹영국: 감당할 수 있는 금액 이상을 빌리거나 연체 시 재정 상태 및 신용 등급에 부정적인 영향을 미칠 수 있습니다. 신용 승인은 신청자의 신용 상태에 따라 달라질 수 있습니다. Klarna 할부 금리는 연 21.9%(고정)입니다.\r \r ¹아일랜드: 책임감 있는 소비를 부탁드립니다. 만 18세 이상 아일랜드 거주자만 이용 가능합니다. 신용 승인은 신청자의 신용 ",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.myklarnamobile",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/uh0gcbJEs-olo2ObISwhHnBOSuJ4s6kSAfTYfw41xe57XeY3wnnTE8hRHXFjw5_4d_-q46QrTiYQpzLy7mS8bA",
+      "https://play-lh.googleusercontent.com/jF1he86aKvOZsZNxtqiigcfuFznWG33QhzXsn_ixdAmtNaNVQ3HbYlsjduA1hYkZPpT_J8lZAv0nvDC_W7F5Vw",
+      "https://play-lh.googleusercontent.com/8LwUT7JbsO7Rh2A27bvi_It7O6qnkELrgExhNDt7nDfga9fX3zYmzceLe_5CQbuDudrYBvjTDd4besnP29UMOw"
+    ],
+    "reviews": [
+      {
+        "user": "Lee Diana쪠",
+        "text": "앱이 다시 리셋되서 처음부터 다시 들어가야함 너무불편함",
+        "rating": 1
+      },
+      {
+        "user": "Taeyong Kim",
+        "text": "빨리 바코드가 떠야하는데 로고 나오고 한참이 있어야 됩니다. 바코드 찍자고 10여초를 로고 보고 있으라고요? 일단 바코드 보여주고 광고를 날리던지 해야지 핵심가치가 뭔지 모르는 앱입니다. 삭제 고려 중.",
+        "rating": 1
+      },
+      {
+        "user": "Ik Hwan Kim",
+        "text": "최악의 앱. 제대로 작동이 않되요.",
+        "rating": 1
+      },
+      {
+        "user": "Stained Fe",
+        "text": "ui/ux of the newest version is awful",
+        "rating": 2
+      },
+      {
+        "user": "David Jung",
+        "text": "good",
+        "rating": 4
+      },
+      {
+        "user": "Junghyun Kang (Jordan)",
+        "text": "Good for split payment",
+        "rating": 4
+      },
+      {
+        "user": "Jihye Park",
+        "text": "I made a payment through bank remittance because the app did not load, but there must be a 10-day handwritten processing period. If the payment period is in the meantime, it is an irresponsible place to hand over your information to the collection agency without checking the payment details. It is said that the customer's fault is the collection agency's fee after the payment is reduced or exempted. Never use this institution.",
+        "rating": 1
+      },
+      {
+        "user": "seoyoung lee",
+        "text": "app pire du monde. apres le premier paiement il m'a demandé de connecter a son application en disant que mon paiement n'est pas effectué et que je vais charger un risque je comprends pas pourquoi je dois installer cette nulle application a cause sa faute quand je ne voulais pas je vais supprimer tout de suite. c'est un detournement et arnaque. et en plus cet application ne fonctionne pas bien pour supprimer faut attend 30 jours C’est franchement dégueulasse.",
+        "rating": 1
+      },
+      {
+        "user": "이명훈",
+        "text": "funding app!! Do not use!",
+        "rating": 1
+      },
+      {
+        "user": "Alexandra Song",
+        "text": "Je veľmi otravné, že na používanie aplikácie musím mať vytvorený kod na jej otvorenie. Ide predsalen o vernostné karty a nie o môj bankový účet tak nerozumiem, prečo sú potrebné také vysoké bezpečnostné opatrenia s komplexným kódom. Prihlasovanie do aplikácie pomocou kódu by malo byt voliteľné a nie povinné",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "26.32.243",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Klarna: Smarter everyday money' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

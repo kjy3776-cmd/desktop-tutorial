@@ -2165,13 +2165,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Klarna: Smarter everyday money",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 395,
+    "total": 396,
     "skipped": 254,
-    "has_issues": 141,
-    "total_issues": 190,
+    "has_issues": 142,
+    "total_issues": 191,
     "fixed": 28
   }
 }
