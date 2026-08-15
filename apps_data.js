@@ -30287,5 +30287,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 410,
+    "name": "오늘공구 - 공동구매, 핫딜, 특가링크, 인스타최저가",
+    "slug": "오늘공구-공동구매-핫딜-특가링크-인스타최저가",
+    "cat": "shopping",
+    "icon": "https://play-lh.googleusercontent.com/Oi7xPd8GTJX_xEOo-SqncG8-w2I0gKvVAAqhphqRwMmDD-mZLmavRv7Ook6h88bK8Je7zVXYzoIj9cPDncbwIw",
+    "developer": "Yujun Kim",
+    "desc": "인스타그램, 맘카페, 검색창을 오가며 공동구매, 공구, 핫딜, 최저가 정보를 찾고 계셨나요?\r \r 오늘공구는 흩어져 있는 공동구매 정보를 한곳에 모아 더 쉽게 찾고 더 빠르게 확인할 수 있도록 도와주는 서비스예요.\r 여러 채널에 흩어진 1만개 이상의 공동구매, 맘카페 공구, 인스타 공구, 핫딜 정보를 한 번에 모아볼 수 있어요.\r \r 오늘공구에서는 이런 걸 할 수 있어요\r • 실시간으로 인기 있는 공동구매와 핫딜 확인\r • 카테고리별로 원하는 상품 빠르게 탐색\r • 관심 있는 크리에이터, 키워드, 상품 알림 받기\r • 곧 열리거나 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6761676496",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.todaygonggu",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/fxepWW8T-p-sOSp4SsRGn1LZF7_U0vIuzNREWPSC5tXN3J5hRz1jfnM4ls7r8fWN8BTsdKz3m1goc5icdC-R",
+      "https://play-lh.googleusercontent.com/stvR4WadLp5Sey91lYmu_TuTB8bhfujSY52NmPrpwpNK6CB0rMx2p2MFlk5CGhTlr2oYTDDYgTEBn8rBgRe3sA",
+      "https://play-lh.googleusercontent.com/1PZiIpJcMXtpRbxED_SIGHP-bqu_alCKl9oiWntXZlHrCP1rEqMfnQrabaEcL2sMLEtR3cRXkZNOmE8TwBw7vw"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '오늘공구 - 공동구매, 핫딜, 특가링크, 인스타최저가' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

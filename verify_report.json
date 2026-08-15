@@ -2229,11 +2229,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "오늘공구 - 공동구매, 핫딜, 특가링크, 인스타최저가",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 407,
-    "skipped": 263,
+    "total": 408,
+    "skipped": 264,
     "has_issues": 144,
     "total_issues": 194,
     "fixed": 29
