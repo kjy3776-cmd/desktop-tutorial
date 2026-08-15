@@ -29912,5 +29912,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 404,
+    "name": "Next Gen - Lifestyle",
+    "slug": "next-gen-lifestyle",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/2AijwWE9QRu4seZ5cC06cY5yxwMI_B3nzdp52l8K_tzL4WJ9EIe_VINrGtjkM9rFhmea_-1WWsOG9qmYM11NEw",
+    "developer": "FITsociety",
+    "desc": "건강 증진을 위한 준비가 되셨나요? Next Gen - Lifestyle 앱은 목표 달성을 더욱 빠르고 효율적으로 만들어 줄 모든 도구를 제공합니다.\r \r 앱으로 무엇을 할 수 있을까요?\r 영양 섭취 추적: 일일 섭취량을 한눈에 파악하고 건강한 라이프스타일을 위한 현명한 선택을 하세요.\r \r 운동 스케줄 관리: 운동 기록과 이력을 확인하고, 상세한 스케줄을 통해 동기 부여를 유지하세요.\r \r 원하는 수업 예약: 깔끔한 스케줄표를 통해 원하는 수업을 간편하게 예약하세요.\r \r 진행 상황 추적: 정기적인 점검, 사진 촬영, 신체 측정 ",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.nextgenlifestyle.app",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/D49HuPgIOhBizXEpvbq5nnI_tugakQZBVzqgNezTZ7tDB4rJE8QdCpC8iUFtVb-zNxWFR1MrkbE8HB2zDuH1mw",
+      "https://play-lh.googleusercontent.com/3BEN8232eiZzm6t8omAtLufziHu2gpkHrH_3AY7N7lkYlSiOwvswWnMpjz_7Z-UgnbhvCbIl9slBR76yOlUYQg",
+      "https://play-lh.googleusercontent.com/ZsNaK-Yqox-lc-cpXEWtWzix85lM8QqiLk0ZuqD-Khyl49K5lgI_GVu3ejFMJ4wzT-ygSxuUuuQ3v-7inJ4"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Next Gen - Lifestyle' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

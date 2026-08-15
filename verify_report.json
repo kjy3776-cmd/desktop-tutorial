@@ -2196,13 +2196,20 @@
       "name": "KBIZ노란우산",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Next Gen - Lifestyle",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 401,
+    "total": 402,
     "skipped": 259,
-    "has_issues": 142,
-    "total_issues": 191,
-    "fixed": 28
+    "has_issues": 143,
+    "total_issues": 193,
+    "fixed": 29
   }
 }
