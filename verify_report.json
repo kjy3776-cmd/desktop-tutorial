@@ -2203,11 +2203,16 @@
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "Titan Rush: Survival",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 402,
-    "skipped": 259,
+    "total": 403,
+    "skipped": 260,
     "has_issues": 143,
     "total_issues": 193,
     "fixed": 29
