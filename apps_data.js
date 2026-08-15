@@ -30209,5 +30209,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 408,
+    "name": "Transcription Pro",
+    "slug": "transcription-pro",
+    "cat": "productivity",
+    "icon": "https://play-lh.googleusercontent.com/DoCMGKbJF6MuYzoNeyFIeLTJj4EOt2C2QndNCtGkzN84l7AVk_IMn4qm4wM4Mh2-EkmNR-SJFZ6WJ11VLLBZ",
+    "developer": "Voicelyt Technologies",
+    "desc": "TranscribePro: 모두를 위한 만능 AI 작업 공간\r \r 🎁 사용량 기반 요금제: TranscribePro가 제공하는 다양한 요금제를 경험해 보세요. 강력한 녹취, 번역, 전문적인 내보내기 기능을 활용해 보세요!\r \r 수동으로 메모하는 데 시간을 낭비하지 마세요. TranscribePro는 오디오 및 비디오 파일을 몇 초 만에 정확한 텍스트로 변환하도록 설계된 최첨단 AI 작업 공간입니다. 회의실, 강의실, 또는 외딴 산업 현장 어디에서든 TranscribePro를 사용하면 단 한 마디도 놓치지 않습니다.\r \r 🏢 모두를 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6747905167",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.jude.transcribepro",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/U2i9MHxsiQs0hOkYqdw1akL4hAX8hnktu48fzIyoDsB1ZxelOE4-1nvPHoOnnuL4xIOnEqnG4-bU9zT1EL5N",
+      "https://play-lh.googleusercontent.com/1zAx8tU80vz0l6Z36l0WocYDrbI-7WPscb9U-6cmkR1kzHE9-3q2Zoz07-v-IJfHEOuT0ZkLUo9cudiX4iORzA",
+      "https://play-lh.googleusercontent.com/ORNhJFseuwkVBsCYypO3EFhixol9jp5SMwbhs9VUFXUclDRIw_3wj88zmhGfy82MQJY-v3LJR_9AMaDSiXPF1g"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Transcription Pro' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
