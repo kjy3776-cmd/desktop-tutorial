@@ -2191,11 +2191,16 @@
       "name": "Live Translator: Translate +",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "KBIZ노란우산",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 400,
-    "skipped": 258,
+    "total": 401,
+    "skipped": 259,
     "has_issues": 142,
     "total_issues": 191,
     "fixed": 28
