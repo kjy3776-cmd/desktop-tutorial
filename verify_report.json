@@ -2208,11 +2208,16 @@
       "name": "Titan Rush: Survival",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "비트윈 Between-커플,사진,기념일,디데이,연애",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 403,
-    "skipped": 260,
+    "total": 404,
+    "skipped": 261,
     "has_issues": 143,
     "total_issues": 193,
     "fixed": 29
