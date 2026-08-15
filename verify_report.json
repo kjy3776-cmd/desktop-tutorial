@@ -2234,13 +2234,19 @@
       "name": "오늘공구 - 공동구매, 핫딜, 특가링크, 인스타최저가",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "YouTube Music",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 408,
+    "total": 409,
     "skipped": 264,
-    "has_issues": 144,
-    "total_issues": 194,
+    "has_issues": 145,
+    "total_issues": 195,
     "fixed": 29
   }
 }
