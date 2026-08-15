@@ -2223,13 +2223,19 @@
       "name": "Transcription Pro",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Cronometer: Calorie Counter",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 406,
+    "total": 407,
     "skipped": 263,
-    "has_issues": 143,
-    "total_issues": 193,
+    "has_issues": 144,
+    "total_issues": 194,
     "fixed": 29
   }
 }

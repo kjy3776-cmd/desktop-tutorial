@@ -30245,5 +30245,47 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 409,
+    "name": "Cronometer: Calorie Counter",
+    "slug": "cronometer-calorie-counter",
+    "cat": "health",
+    "icon": "https://play-lh.googleusercontent.com/8bWVHZIajvfmDnnwm0K64_aGoUZ86sZVFftpssiPUtOOBYlM-YnCYFZuMyFUv5VqDInp5a8hqJ2Q0f88OtKAnA",
+    "developer": "Cronometer Software Inc.",
+    "desc": "크로노미터는 정확성을 위해 설계된 강력한 칼로리 계산기, 영양 추적기, 그리고 음식 일기입니다. 가장 신뢰받는 건강 및 피트니스 앱 중 하나인 크로노미터를 통해 칼로리, 매크로 영양소, 단식, 그리고 95가지 이상의 영양소와 화합물을 추적하세요.\r \r 체중 감량, 매크로 영양소 추적, 또는 전반적인 신진대사 건강 추적 등 어떤 목적으로 크로노미터를 사용하든, 과학적으로 검증된 명확하고 신뢰할 수 있는 영양 분석 정보를 통해 목표 달성에 도움이 되는 방법을 알 수 있습니다.\r \r 단순한 칼로리 계산기와 달리, 크로노미터는 110만 개",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.cronometer.android.gold",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/OqGVGpr4e_S-skDLZrBkiCDAJfRoixLPPoRLRlB4zvtPnVax5khb1busihq6LfrCDtZbEJuknYZ3BTtBrCIuTQ",
+      "https://play-lh.googleusercontent.com/OjP7lkEMhP6zk_Jb1Gnf623hULtAFzuR7qvEkvTzsz887jnQmuaIUAW2jrY7UxPwR3igrMgu4ky76ZT2aMRF_A",
+      "https://play-lh.googleusercontent.com/HaCdl-L0fVPSOSBL95q7tF6wuaiRfckg-H-WTyM1xkg0ahHW8NQgMPkQVq6eFU4CEFKI-ATV1IyJpcdQs9nENHQ"
+    ],
+    "reviews": [
+      {
+        "user": "권지훈",
+        "text": "한글",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Cronometer: Calorie Counter' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
