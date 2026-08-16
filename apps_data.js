@@ -30497,5 +30497,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": "web"
+  },
+  {
+    "id": 413,
+    "name": "Reddit",
+    "slug": "reddit",
+    "cat": "sns",
+    "icon": "https://play-lh.googleusercontent.com/8FVS0kvM60JwqZWRNzBIlwrZZxJa8vpli8IWaaTo8QXRe1PHmCNJ8UpWoXkGPV3jKEaTY2OVAeYoisOnGJXY",
+    "developer": "reddit Inc.",
+    "desc": "인터넷의 중심에 오신 것을 환영합니다.\r Reddit은 웹에서 벌어지는 다양한 일들을 속속들이 들여다볼 수 있는 공간입니다. 게임\r 커뮤니티, 안목 있는 블로거, 밈 크리에이터, 열성적인 TV 팬덤, 여행 애호가, 서포트 그룹,\r 뉴스, 아티스트, 연예인 가십 등 다양한 콘텐츠를 만나보세요.\r 사람들을 찾아보세요. Reddit은 같은 관심사를 나누는 사람들이 만들어 갑니다. 마치 집에 온\r 듯 편안한 커뮤니티의 일원이 되어보세요.\r \r Reddit의 토론 스레드는 대화를 더욱 생생하게 만들어 줍니다. 스레드는 커뮤니티 회원들이 대중",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.reddit.frontpage",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/vBK5m5P7ABG6YaIdGyfneJk36jrMWgCtM4RZVUwHKg3x-g6GxMdAMu2E4Fx5NlKjxiDzAQJog45r3x1IMYUSXg",
+      "https://play-lh.googleusercontent.com/hNz3GN2JDwgAKsVO75kaITYVdYAK-H0SyKVFzbq479YaFc-PrZPbTW_TFVo60jiMoAEeL3v_rVNJVpXBak7Z",
+      "https://play-lh.googleusercontent.com/VSyHc5YJcOWCoo_Ij2st45Mq2EW-HaoBGrbb0ZIN6zD50A_LtaR6DN7XBpIHUy1izcX519adWCphqTegdc9F"
+    ],
+    "reviews": [
+      {
+        "user": "박교민",
+        "text": "번역기능이 되지않는다고 불평하는 사람들이 많은데 해외커뮤니티 하려고 하면서 기본적인 영어도 안배우고 하려는 마인드가 잘못된거 아니겠는가. 영미권 사람들이 대부분인 곳에 가서 영어를 쓰는것이 무엇이 잘못되었는지 모르겠소. 기본적 영어만 할줄 안다면 대부분의 정보를 이해할 수 있는데,그것조차 하기 싫다면 다른 커뮤니티를 하는것을 추천하오. 정 싫다면 크롬같은 브라우저를 활용해 앱을 사용하지않고 모바일 웹으로 로그인한다면 번역하여 사용할 수 있으니 그 방법은 어떠한가.",
+        "rating": 5
+      },
+      {
+        "user": "비공개비공개",
+        "text": "주식때문에 웹으로 가끔 보는데 몇초 있으면 앱 깔으라고 하면서 웹페이지 못 보게 만들어놔서 어쩔수 없이 강제로 깔게됨...강제로 깔게 했으면 번역해줘야지. 메뉴만 번역되고 왜 게시글이 번역이 안 되냐?ㅡㅡ자꾸 짜증나네...휴대폰 웹으로 보는데 앱도 깔려있는데 왜 자꾸 앱 깔으라고 하면서 웹을 못 쓰게 만드냐?",
+        "rating": 1
+      },
+      {
+        "user": "Reiji ZX (전사미르)",
+        "text": "외국인도 이미 많이 쓰는 앱인데 번역 기능이 있었으면 합니다 그리고 레딧의 링크를 누를 때 레딧 내 내장 브라우저 말고 다른 걸로 열고 싶은데 어떻게 설정해야 할지 모르겠네요;; (이것 외에도 문제는 있지만 앱과는 관계가 없기 때문에 생략합니다)",
+        "rating": 4
+      },
+      {
+        "user": "jh H",
+        "text": "말 할 필요도 없음, 사용자 수가 많은 이유로 별 시덥잖은 질 낮은 글이 아주 많이 올라오고, 읽을만한 유익한 글은 진흙덩이 글의 1할도 안 올라오는 것 같아서 종종 무거운 진흙탕 안에서 같은 진주를 찾는 느낌으로 게시글을 읽는데, 그 진흙탕이 너무 크고 깊어서 짜증남.",
+        "rating": 2
+      },
+      {
+        "user": "박무건",
+        "text": "전반적으로 재미있고 편리합니다. 한가지 아쉬운점은 new / hot / best 선택이 어려워진 점이에요. 설정에 들어가서 선택하기가 번거롭습니다. 업데이트때 다시 이전처럼 쉽게 선택을 바꿀수 있게 되면 좋겠네요. 그것외엔 다 좋습니다.",
+        "rating": 5
+      },
+      {
+        "user": "Aa",
+        "text": "적당히 걸러서 보면 썩 나쁘지는 않은 앱. 기본 영어만 된다면 세계 곳곳의 사람들과 대화를 나눌 수 있다. 없는게 없다고 하는 이유가 하위 커뮤니티(서브레딧)이 굉장히 다양하고 많음 DM 버그, 알림 씹히는 경우 꽤 있으며 이미지/영상 로드 안 되는 오류가 종종 보임",
+        "rating": 3
+      },
+      {
+        "user": "Hj 27",
+        "text": "앱 강요하는거 봐라... 크롬에서 구글번역해서 보는게 편한데 왜 이따위 강매하는 거냐? 짜증나 죽겠네 나가라 그냥 Why is there no text copy and paste function?",
+        "rating": 1
+      },
+      {
+        "user": "하영",
+        "text": "밴드 덕질하기 너무 유용하지만 자동번역이없어져서 피곤해짐..근데 활발한건 장점..",
+        "rating": 4
+      },
+      {
+        "user": "손유우",
+        "text": "다양한 의견과 반박 틀린 반례에 대한 생각 구조와 다양한 주제를 통한 난이도별 사고훈련이 가능한 최고의 전문가 커뮤니티 앱",
+        "rating": 5
+      },
+      {
+        "user": "전당포집주인",
+        "text": "한국인 늘어나니까 한국어 번역 기능 삭제함. 최악임 ㅋㅋ",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Reddit' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

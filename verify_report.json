@@ -2245,13 +2245,19 @@
       "name": "중국어 - 표준 중국어 사전",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Reddit",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 410,
+    "total": 411,
     "skipped": 265,
-    "has_issues": 145,
-    "total_issues": 195,
+    "has_issues": 146,
+    "total_issues": 196,
     "fixed": 29
   }
 }
