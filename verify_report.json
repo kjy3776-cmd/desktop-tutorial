@@ -2262,11 +2262,16 @@
       "name": "바르디안: Vardian",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "오토클리커: 오토마우스, 오토클릭, 클릭 어시스턴트",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 413,
-    "skipped": 266,
+    "total": 414,
+    "skipped": 267,
     "has_issues": 147,
     "total_issues": 197,
     "fixed": 29
