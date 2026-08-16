@@ -2274,11 +2274,16 @@
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "문묵천기 자미두수 (역술가 버전)",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 415,
-    "skipped": 267,
+    "total": 416,
+    "skipped": 268,
     "has_issues": 148,
     "total_issues": 199,
     "fixed": 30

@@ -30881,5 +30881,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 418,
+    "name": "문묵천기 자미두수 (역술가 버전)",
+    "slug": "문묵천기-자미두수-역술가-버전",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/BRYjRHEHUbZkBsnBvtCAJ44nebrSDHZU5vtJsXikx3R3K0z0NlVRetLQnky5OFVJofqr2aWL8OKil5TGGc7z",
+    "developer": "文墨天機 Pro",
+    "desc": "\"문묵천기 • 자미두수\" 소프트웨어 는 많은 호평 을 받 고 있 는 \"文墨天機\" 소프트웨어 를 바탕 으로 번역 한 것 으로 주로 한국어 사용자 에 게 전문 적 인 자미두수 포국하기 서 비 스 를 제공 합 니 다.\"文墨天機\" 소프트웨어 는 중국 대륙, 홍콩, 대만, 말레이시아 등 여러 국가 와 지역 에서 널리 사용 되 고 호평 을 받 은 전문 자미두수 포국하기 소프트웨어 로 완 비 된 기능 을 가지 고 다양한 유파, 포국하기 가 정확 하고 설정 옵션 이 풍부 합 니 다.\r \r 이 소프트웨어 는 처음으로 한국어 사용자 에 게 발 표 된",
+    "iosUrl": "https://apps.apple.com/kr/app/id1529056487",
+    "androidUrl": "https://play.google.com/store/apps/details?id=air.com.ziwei001.zwmobilepro.ko",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/R4-MKvRAGNzdBs1Ft2aniI9c1sdFvOYmpV5J3VqEmKIZoJJmJQDaQZiJHe_097mI5c3Ev_WLWGG_OcodrXOa0Q4",
+      "https://play-lh.googleusercontent.com/_kEIl4bdhSZ4W_hYvq2QV26jSvBw2lEgYckAF5hFD-3TI2kU3gkwc4U_e0fXPOW-seJz1yfH7-mJR4Cy0jfv",
+      "https://play-lh.googleusercontent.com/ABEQeObvWaI7qGkmpIjc7n3zTp65OP9btS1E9JtbFqXME_8q7nyV1Ybzy-u9-GDnsT_JLZ9lp7jNxosrR0lH"
+    ],
+    "reviews": [
+      {
+        "user": "포시즌구아바",
+        "text": "무료인데다 기능도 여럿 있어서 매우 유용합니다. 디자인이랑 기능성 조금 개선 되었으면 하는 아쉬움이 조금 있습니다.",
+        "rating": 5
+      },
+      {
+        "user": "Edition London",
+        "text": "Ipad, Mi pad 등 태블릿에서도 모바일처럼 유월, 유일, 유시를 선택할수있게 업데이트 부탁드립니다.",
+        "rating": 5
+      },
+      {
+        "user": "0 oo",
+        "text": "시간틀리게 나와요 진태양시 보정이 뭐 저따위임 사신데 오시로 나옴 기본도 못함 쓰레기",
+        "rating": 1
+      },
+      {
+        "user": "chang joo hah",
+        "text": "음력 계해년 11월 5일 술시와 계해년 11월 29일 술시의 명반이 팔자 대운성을 빼고 같네요. 팔자대운성은 어떻게 계산하나요.",
+        "rating": 5
+      },
+      {
+        "user": "None None",
+        "text": "너무 좋습니다. 이어플을 이용해서 공부잘했습니다. 굳굳~",
+        "rating": 5
+      },
+      {
+        "user": "이영미",
+        "text": "잘배우고있는데 업데이트되면서 전혀 안보이네요..",
+        "rating": 5
+      },
+      {
+        "user": "화난루피",
+        "text": "아이폰에서 부분 결제했는데 구글에서는 복구가 안되는건가요?",
+        "rating": 3
+      },
+      {
+        "user": "김아영 (부엉부엉붱붱붕)",
+        "text": "아니 뭐 이렇게 만듬 포국 여는데 ㄷㅏ틀리잖아요 ㅡㅡ 다른프로그램이랑 비교해보세요 이거 안맞게 나와요",
+        "rating": 1
+      },
+      {
+        "user": "남예원",
+        "text": "유용하고 편리하게 되어있습니다. 감사합니다.",
+        "rating": 5
+      },
+      {
+        "user": "JJ Kim",
+        "text": "어플 좋네요. 유료보다 더 낫습니다.",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2.5.20",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '문묵천기 자미두수 (역술가 버전)' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
