@@ -2251,13 +2251,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Headspace: Sleep & Meditation",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 411,
+    "total": 412,
     "skipped": 265,
-    "has_issues": 146,
-    "total_issues": 196,
+    "has_issues": 147,
+    "total_issues": 197,
     "fixed": 29
   }
 }

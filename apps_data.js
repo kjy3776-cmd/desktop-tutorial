@@ -30584,5 +30584,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 414,
+    "name": "Headspace: Sleep & Meditation",
+    "slug": "headspace-sleep-meditation",
+    "cat": "health",
+    "icon": "https://play-lh.googleusercontent.com/7Y3V_lnXn_Im3v8d8cbVTAzZk1Z2FpMZi0a5PXhUBMu_sOAeoRcQRx1UYWS_nsQ21JTbxA02A7HZkSlc-e8vcxo",
+    "developer": "Headspace for Meditation, Mindfulness and Sleep",
+    "desc": "Headspace는 정신 건강, 마음 챙김, 명상, 수면 및 웰빙을 위한 길잡이입니다. 스트레스, 우울증 또는 불안감을 겪고 있더라도 Headspace는 여러분의 정신 건강, 웰빙 및 마음 챙김을 지원합니다. 과학적으로 검증된 다양한 명상 연습을 통해 마음을 돌보고, 매일 명상하며, 정신 건강을 증진해 보세요.\r \r 명상하고, 마음 챙김을 실천하고, 휴식을 취하며, 정신 건강, 수면 및 자기 관리를 우선시하세요. Headspace는 단 10일 만에 스트레스와 불안을 줄이는 데 도움을 줍니다. 무료 체험을 시작하여 명상의 효과를 경험",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.getsomeheadspace.android",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/jw_XqETCoJgz-2Ih4GZXAGpj6QtH4XcIYNH7hhob1qx_DX9T5JzSldlKpCXKfn5hip25UdQIdDTRdfaH4dPTMaA",
+      "https://play-lh.googleusercontent.com/XepTBPIa42U0OsZ-YRwCPnhkTFpVbhgNTij0A4H52ssbuouXeefF-Y32uUlIeYrFiUnqJlWpQ4KbVvDCoZGI",
+      "https://play-lh.googleusercontent.com/aT9eOuSLKcvxcz1Tw2asts01DTy-24866YkUA_1F1dfTx0OZdGqsr7BOd0vEhMgAb3x3Py49i1gvzxna6E75Gw"
+    ],
+    "reviews": [
+      {
+        "user": "Moon Jiyoung",
+        "text": "3년째 사용하다 캔슬했어요. 컨텐츠는 많아지는는데 정적 퀄리티는 점점 부실해지네요. 그리고 젤 중요한거!!! 연간회원 등록하면 자동 갱신하게 해놓고 (웹사이트에는 cancel anytime!이라고 써있어요) 근데 막상 갱신된거 취소해달라고 하면 돈 환불은 안해줘요. 😡 😡 😡다음번 자동 갱신만 해제해 줘요 ㅋㅋㅋ 마음의 평화대신 화를 불러일으킨 앱이예요 😆",
+        "rating": 1
+      },
+      {
+        "user": "Jean Yoo",
+        "text": "인생앱... 돈쓰는거 1도 안 아깝고 매일 달라지는 세션도 좋고 자기전에 듣는 컨텐츠도 좋고 포커스 뮤직도 좋고 심지어 자막까지 지원돼요. (컨텐츠 재생 후 태엽?톱니 모양 탭하면 캡션 온오프 가능) 평생 영어 공부한 보람을 이 앱을 쓰면서 느낍니다. 처음 명상 해보시는 분은 베이직 과정부터 하시는게 제일 좋을 것 같습니다. 그리고 앤디 퍼디컴 이분 책도 나와있으니 관심있으심 읽어보세요. 밀리의서재에도 있음.",
+        "rating": 5
+      },
+      {
+        "user": "김수영",
+        "text": "설치는 했는데 해보지도 않은걸 결제부터 해야하니 거부감 들어 시작도 안해요. Not free. 바빠서 종종 까먹으면 억지로 결제해야 할때가 많아 잊지않으려고 애써야하고 신경쓰여요. 스트레스 해소하려다 스트레스 받는 일이 생김. 가볍게 경험해볼수 있는 real free있으면 좋겠어요. 마음에 들거나 내가 실행해볼수 있게되면 결제해도 아깝지않지만 모험하고 싶지 않아요.",
+        "rating": 1
+      },
+      {
+        "user": "Google 사용자",
+        "text": "써본 명상 앱 중에 단연 최고입니다. 왠만하면 리뷰 안 쓰는데 자연스럽게 쓰고 싶게 만들 정도로 잘 쓰고 있습니다. 이 앱을 쓰는 사람들의 불안함, 염려, 불면 등 니즈를 정확하게 알고 편안하고 부담없이 약간 과하지 않게 큰 도움이 되는 것 같아요. 잠이 안 오거나 우울증, 공황장애 있으신 분들 꼭 써보세요 ㅎㅎ",
+        "rating": 5
+      },
+      {
+        "user": "김준석",
+        "text": "AI긴 하지만 드디어 한국어가 됩니다. 너무 좋아요. 빨리 컨텐츠 많이 늘어났으면 좋겠습니다.",
+        "rating": 5
+      },
+      {
+        "user": "단아한소오",
+        "text": "한국어 지원이 안되는 것만 빼곤 최고의 앱입니다. 아니 얼마나 한국 구독자가 많아져야 언어지원하실건지.....덕분에 영어가 늡니다",
+        "rating": 5
+      },
+      {
+        "user": "장예지공주무물보",
+        "text": "넷플릭스를 보고 알게 되어 앱도 깔아봤는데 아직 한국어가 없어서 아쉬워요😭😭 빨리 한국어 서비스가 생기면 좋겠어요 그리고 넷플릭스에서 나레이션 해주시는 성우분이 앱에서도 함께했으면 좋겠어요:)",
+        "rating": 5
+      },
+      {
+        "user": "임성우",
+        "text": "영어로 명상을 들여주는데 확실히 저한텐 어렵네요 명상 내용을 텍스트 파일에 따로 만들어서 모르는 영어를 찾아보면서 할 수 있으면 좋을거 같아요",
+        "rating": 3
+      },
+      {
+        "user": "Google 사용자",
+        "text": "한국어 지원 됬으면 비싼금액 이여도 저는 바로 구매했을 꺼 같아요 ㅋㅋ 영어라 알아 듣는거 때문에 아예 긴장 푸는거는 안되서 아쉽네용 좋긴 좋습니당",
+        "rating": 4
+      },
+      {
+        "user": "Hyein Cho",
+        "text": "결제취소가 된건가요? 취소의견 넣고 제출하면 자꾸 첫 화면으로 튕겨요. 개인 설정에 월단위 결제라고 떠있는건 바뀌지 않구요ㅠ",
+        "rating": 3
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "8.26.1",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Headspace: Sleep & Meditation' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
