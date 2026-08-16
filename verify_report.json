@@ -2240,11 +2240,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "중국어 - 표준 중국어 사전",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 409,
-    "skipped": 264,
+    "total": 410,
+    "skipped": 265,
     "has_issues": 145,
     "total_issues": 195,
     "fixed": 29
