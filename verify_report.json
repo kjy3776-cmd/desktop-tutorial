@@ -2257,11 +2257,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "바르디안: Vardian",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 412,
-    "skipped": 265,
+    "total": 413,
+    "skipped": 266,
     "has_issues": 147,
     "total_issues": 197,
     "fixed": 29
