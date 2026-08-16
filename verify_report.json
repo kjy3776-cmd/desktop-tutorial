@@ -2289,11 +2289,16 @@
       "name": "Toca Boca World: 집꾸미기",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "꼬박가계부 - 지출관리·저축·예산관리 가계부",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 418,
-    "skipped": 270,
+    "total": 419,
+    "skipped": 271,
     "has_issues": 148,
     "total_issues": 199,
     "fixed": 30
