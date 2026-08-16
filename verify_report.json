@@ -2267,13 +2267,20 @@
       "name": "오토클리커: 오토마우스, 오토클릭, 클릭 어시스턴트",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "GHOST Lifestyle",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 414,
+    "total": 415,
     "skipped": 267,
-    "has_issues": 147,
-    "total_issues": 197,
-    "fixed": 29
+    "has_issues": 148,
+    "total_issues": 199,
+    "fixed": 30
   }
 }

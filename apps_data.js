@@ -30845,5 +30845,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 417,
+    "name": "GHOST Lifestyle",
+    "slug": "ghost-lifestyle",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/XkPjjs8oLVYDN6W_7UWVU3Iape-n8wUC-UegLAH5AaeNrl-Z_3cYTeTfyOKC_GsqiaBt_v9kEVHY3PCOaZMK",
+    "developer": "GHOST Lifestyle",
+    "desc": "EPIC GHOST® 경험\r GHOST® LIFESTYLE에서 진행되는 전설적인 일을 탐색하고 구매하고 배우십시오. GHOST® 앱은 다가오는 출시, 브랜드 뉴스 및 이벤트에 대한 EPIC 내부 모습을 제공합니다.\r \r 독점 제품 및 상품 확보\r GHOST® 앱에서 독점적으로 한정판 제품 및 의류에 액세스하십시오.\r \r 가장 먼저 알아보세요\r 무엇을 떨어 뜨리고 있는지 확인하고 알림을 켜서 출시일에 잠들지 않도록합니다.",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.ghost.lgnds",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/ubKnsftruzF1OzMhs_U_Yku4PwBmEwCw6H7-mwHpiYhFz75KGDgYuDIySFT_qEJWts6KJcbWp79ZaKq1Lc15Kw",
+      "https://play-lh.googleusercontent.com/cqUDrLEwko01C9HTpp54kAJcR5hStA_iBDrLTRe1hlofXNGfkd8-LSg37xNzgIri4HZHxIQVblVsz6T_XLVrag",
+      "https://play-lh.googleusercontent.com/es1K_Ip7ndm-DJBI3Foukb4afwDt-w6mMEC_z7ijTW8W9jVo-TVpOKTydQEkwOCcHz90R_F3bCrLU0EOJBCl"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'GHOST Lifestyle' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
