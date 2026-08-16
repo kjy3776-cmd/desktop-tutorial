@@ -30968,5 +30968,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 419,
+    "name": "the bubble by DEAR U Intl.",
+    "slug": "the-bubble-by-dear-u-intl",
+    "cat": "sns",
+    "icon": "https://play-lh.googleusercontent.com/PcGXCWATy2dnIBmCK5hfeucsoW1TxHGSEsTuNa1AWlzoLt_PXdkf_pRSPhQ1MLBogfXVgDIZ7p49_6H4WAZg",
+    "developer": "DEAR U INTERNATIONAL INC.",
+    "desc": "선물처럼 찾아오는 최애의 메시지와 함께하는 설레는 일상!\r \r 최애 아티스트와 나만의 특별한 프라이빗 메시지,\r 최애의 메시지를 놓치고 싶지 않다면 지금 바로 bubble을 시작하세요!\r \r \r [서비스 소개]\r 01. 최애의 일상 이야기\r 내 이름을 불러주는 아티스트의 특별한 일상 메시지를 받아 보세요\r \r 02. 최애의 단독 콘텐츠\r 아티스트가 직접 보내주는 단독 콘텐츠를 만나 보세요\r \r 03. 최애가 답장을 기다려요\r 아티스트에게 응원과 사랑이 가득 찬 답장을 보내 보세요\r \r 04. 최애랑 나만의 기념일\r 오늘부터 1일! ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6618122661",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.dearu.intl.bubble.thebubble",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/ZDq1uiUqyS_c8MUjC9IVj_L7QiGGfjBzvl6sYQ-mppqcLIf9GzYsTg8BO8ugrqI23AS0IogVPWzqXWv1eI1bDA",
+      "https://play-lh.googleusercontent.com/paXFMoVTqmIl4LaijV_4GUBLHupiuwzfELPaC3LSreVWZHABW8YTrIHmXjm4Rdy0mvL6ItN2gAYOm2J1hkIoBg",
+      "https://play-lh.googleusercontent.com/dVmBIn0XeqMqHxG4-A3Wo2msyqgpmmI12U8088pyXIDBByK3UuuBtAbXYcjDoshCitR8kPQ_-8s9L9f39PX7sA"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'the bubble by DEAR U Intl.' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

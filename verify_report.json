@@ -2279,11 +2279,16 @@
       "name": "문묵천기 자미두수 (역술가 버전)",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "the bubble by DEAR U Intl.",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 416,
-    "skipped": 268,
+    "total": 417,
+    "skipped": 269,
     "has_issues": 148,
     "total_issues": 199,
     "fixed": 30
