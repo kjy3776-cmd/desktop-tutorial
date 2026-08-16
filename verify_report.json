@@ -2284,11 +2284,16 @@
       "name": "the bubble by DEAR U Intl.",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Toca Boca World: 집꾸미기",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 417,
-    "skipped": 269,
+    "total": 418,
+    "skipped": 270,
     "has_issues": 148,
     "total_issues": 199,
     "fixed": 30
