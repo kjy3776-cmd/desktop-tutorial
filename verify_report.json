@@ -2299,11 +2299,16 @@
       "name": "인포즈 - 모델, 사진작가, 뷰티 아티스트 매칭 플랫폼",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "트래블로카 - 항공권・숙소・액티비티 특가 예약",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 420,
-    "skipped": 272,
+    "total": 421,
+    "skipped": 273,
     "has_issues": 148,
     "total_issues": 199,
     "fixed": 30
