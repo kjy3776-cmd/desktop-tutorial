@@ -347,8 +347,7 @@
     {
       "name": "캔디크러쉬사가 (Candy Crush Saga)",
       "issues": [
-        "iOS URL 불량: URL 없음",
-        "아이콘 이미지 로드 실패"
+        "iOS URL 불량: URL 없음"
       ]
     },
     {
@@ -2341,13 +2340,20 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "TikTok Lite 포인트 & 쿠폰 & 리워드",
+      "issues": [
+        "구글플레이 URL 불량: 404 앱 없음",
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 427,
+    "total": 428,
     "skipped": 275,
-    "has_issues": 152,
-    "total_issues": 206,
-    "fixed": 32
+    "has_issues": 153,
+    "total_issues": 207,
+    "fixed": 33
   }
 }
