@@ -2324,11 +2324,16 @@
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "Google 드라이브 – 안전한 온라인 파일 저장공간",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 424,
-    "skipped": 273,
+    "total": 425,
+    "skipped": 274,
     "has_issues": 151,
     "total_issues": 204,
     "fixed": 32
