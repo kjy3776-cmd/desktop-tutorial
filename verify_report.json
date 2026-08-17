@@ -2317,13 +2317,20 @@
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "GoPass ®",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 423,
+    "total": 424,
     "skipped": 273,
-    "has_issues": 150,
-    "total_issues": 202,
-    "fixed": 31
+    "has_issues": 151,
+    "total_issues": 204,
+    "fixed": 32
   }
 }

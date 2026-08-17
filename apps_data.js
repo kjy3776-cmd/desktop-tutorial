@@ -31475,5 +31475,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 426,
+    "name": "GoPass ®",
+    "slug": "gopass",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/psHhLn_bRdeU7q8q_1i6y9m7hAqe2oSSB0UeM-SIZ9jcPsGSfMWRxOsuhcHEIYD949Afvd2N-_9uy0ciEjVXdlg",
+    "developer": "GoPass App",
+    "desc": "더 나은 결제 및 승차 방법.\r \r GoPass는 마치 여행용 가이드를 곁에 둔 듯한 올인원 여행 도구입니다. GoPass를 사용하면 DART, Trinity Metro, Tulsa Transit, Star Transit, CitiBus, DCTA, CCRTA 등의 대중교통 이용권을 휴대폰에서 바로 간편하게 구매할 수 있습니다! GoPass는 설정과 사용이 매우 간편하여 더 이상 종이 티켓을 구매할 필요가 없습니다!\r \r 특징은 다음과 같습니다.\r - 모바일 발권 기능으로 이용권을 구매하고 최대 60일까지 보관할 수 있습니다.\r -",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=dk.unwire.projects.dart",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/9Vw-B8GDqToxSaF6QyKzBIxogy3TOx8nC-ITH9Lni_f0xNm3_Fz1oPf0WNuMqB95sbRmke9gBxms6J2Lwhn2",
+      "https://play-lh.googleusercontent.com/Jy1OoOECZbCWQByXtm0eAiXU25A_Twknpwx7u2z6NnbEqQV8mPY43qUG7CNDSLkGI_TmRaYmp8qb_bk5tzLo",
+      "https://play-lh.googleusercontent.com/rPHxNd8iOegCgwLNj0wLDJ5jphUbECg8juqfComY_1QnHODNsG5pzRyAAWjcM6YTPDIx2o4zNHRYsm0pqQyBoaE"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "4.12.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'GoPass ®' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
