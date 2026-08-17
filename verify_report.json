@@ -2334,13 +2334,19 @@
       "name": "Bible Break: Screen Time Limit",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "호텔스컴바인: 호텔 ∙ 항공권 ∙ 렌터카",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 426,
+    "total": 427,
     "skipped": 275,
-    "has_issues": 151,
-    "total_issues": 204,
+    "has_issues": 152,
+    "total_issues": 205,
     "fixed": 32
   }
 }
