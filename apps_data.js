@@ -31598,5 +31598,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": "web"
+  },
+  {
+    "id": 428,
+    "name": "Bible Break: Screen Time Limit",
+    "slug": "bible-break-screen-time-limit",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/PZtTl0jQKX6nAFd_-OYom6O7x3qdPN-yKYdUHgFSMTdxf09UtJNwo3F-0LjVtm6bfXOXHV3Q6YzEfkrluhze7Q",
+    "developer": "Code By Cutting, LLC",
+    "desc": "화면 보는 시간을 줄이고 성경 읽는 시간을 늘려보세요. 이 성경 앱은 하나님의 말씀에 굳건히 뿌리내리고 의미 없는 스크롤링에서 벗어나도록 도와줍니다. 다양한 번역본으로 제공되는 성경 전체를 읽고, 구절을 강조 표시하고, 메모를 저장하고, 진행 상황을 추적하고, 내장된 AI 해설을 통해 성경을 더 깊이 이해해 보세요.\r \r 영적 훈련을 한 단계 더 발전시키고 싶다면, 화면 차단 기능을 사용해 보세요. 이 강력한 도구는 말씀 묵상에 집중하는 동안 방해되는 앱들을 일시 중지시켜 줍니다. 구절 하나를 읽을 때마다 화면 사용 시간이 1분씩 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6755405918",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.codebycutting.biblebreak",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Kq2PTkwYOOKoE8ldF08MbYXAGETZNdKo_CoUJJj464UAvrlphF58f9dzaF-ffmOj3YoBHThB10u3EOvbErnyaw",
+      "https://play-lh.googleusercontent.com/VZfdkfDo7hOfeTRbhbxB15D2LZ3p7-EwHuwVhCJjESZEbHzcAc6cUuRVV29VVsl4NRVswuXQ7cmWldlfDoGQwCk",
+      "https://play-lh.googleusercontent.com/_91irKbop6o__g_dQj4czp88kdevxhaFOmShQrC6XgnCWZYLRV_hN9XFu2gn55deGqVFS089KNzn4zzxKC8ijA4"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Bible Break: Screen Time Limit' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
