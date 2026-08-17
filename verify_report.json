@@ -2347,11 +2347,16 @@
         "구글플레이 URL 불량: 404 앱 없음",
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "IPTV VisionX",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 428,
-    "skipped": 275,
+    "total": 429,
+    "skipped": 276,
     "has_issues": 153,
     "total_issues": 207,
     "fixed": 33

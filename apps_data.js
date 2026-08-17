@@ -31808,5 +31808,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 431,
+    "name": "IPTV VisionX",
+    "slug": "iptv-visionx",
+    "cat": "entertainment",
+    "icon": "https://play-lh.googleusercontent.com/PW8uYDe99mSvkXh7eeEwhtZ-BXgaSQN8FiDx8tvR58ybjWyZpqRM2Hfn5rcL3E-wmsG3CeKPWOInyk60Nrwm",
+    "developer": "On virtual world",
+    "desc": "IPTV VISION — 실시간 TV 스트리밍 앱\r \r Android TV,\r Fire TV Stick, 모바일 또는 모든 Android 기기에서 하나의 앱으로 수백 개의 실시간 TV 채널을 시청하세요.\r \r 🔴 주요 기능\r \r • 셋톱박스 스타일 인터페이스\r 케이블 TV 셋톱박스처럼 카테고리 사이드바와 채널 그리드가 있는 클래식 셋톱박스 채널 목록을 제공합니다.\r \r • 모든 기기 지원\r Android TV, Fire TV Stick, 스마트폰,\r 태블릿 ​​및 모든 Android 기기에서 작동합니다.\r \r • TV 리모컨 탐색\r",
+    "iosUrl": "https://apps.apple.com/kr/app/id6793426094",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.iptv.vision.bd",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/oRfCY_hUuQlPOi1xfn70vUGf0OZc1zhPHZucmQQ1bsSTcGgsLqT1rM46OujWNKhLMBtsN35-KmiuX73DV5-k",
+      "https://play-lh.googleusercontent.com/wRZUQM1P6cGMmlSNJc1Xtg1WSxrAtih1l2lPKyYb_YI43ODIL_YK9K7sITH2KzSqm386lZJTM8Kk51-3Lqdm",
+      "https://play-lh.googleusercontent.com/7OwWcA_F25a4cPVAdWzBt-e0V6xffzW_JQl9EwJVLdqosHS7NdvTkDrPGCpsk2juHLvT4oykuN3hH_5UIGA1"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'IPTV VisionX' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
