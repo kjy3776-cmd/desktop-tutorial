@@ -31439,5 +31439,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 425,
+    "name": "Flashka - AI Flashcards & Quiz",
+    "slug": "flashka-ai-flashcards-quiz",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/vaAtNSRsZOslc9HF-a8A-ElQv6UhOg1ci_H6gDz66fFvrQqgbQSJnKG6uHn3WztME7jn3zFu2E7G0UCPJWpJFA",
+    "developer": "Flashka",
+    "desc": "Flashka로 더 빠르게 학습하고 모든 시험에서 만점을 받으세요!\r \r Flashka는 AI 기술을 활용하여 학습 자료를 플래시카드와 퀴즈로 변환해 주므로, 학습에만 집중할 수 있습니다.\r \r 노트, PDF 파일, 사진, 강의 슬라이드를 업로드하고 몇 초 만에 인터랙티브 학습 콘텐츠로 만들어 보세요.\r \r Flashka의 주요 기능:\r \r • 모든 자료 가져오기: 손으로 쓴 노트, PDF 파일, 사진, 슬라이드를 업로드하여 바로 학습하세요.\r \r • AI 플래시카드 생성: 콘텐츠를 기반으로 플래시카드를 자동으로 생성합니다. 복사하",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=ai.flashka.android.dev",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/nTpKz7Cr6ZrZv5OqPaFuIlmyGM5Llf4AWPbNxR6_JJLCP8xf4E64W2KaAkpGpSri0kNzaUddkfZSEKpaOc-HctE",
+      "https://play-lh.googleusercontent.com/pV1ITjuX2rCI50xWvpApIOd7gXlcpakYRLeDN82WgqQKIZrzpIPybQD7w21A5h0Naz_FTCoBjpfeMloU97QpaA",
+      "https://play-lh.googleusercontent.com/yccURQKhiJfaprBUBhdNBJ-vmxp4JMvJ3cHka33005M2WPZnXgsuHFLT7zIwIY2J1XZsvfddJw1ZZBnSHz1D"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "3.6.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Flashka - AI Flashcards & Quiz' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

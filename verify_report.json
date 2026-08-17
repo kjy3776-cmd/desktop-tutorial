@@ -2310,13 +2310,20 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Flashka - AI Flashcards & Quiz",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 422,
+    "total": 423,
     "skipped": 273,
-    "has_issues": 149,
-    "total_issues": 200,
-    "fixed": 30
+    "has_issues": 150,
+    "total_issues": 202,
+    "fixed": 31
   }
 }
