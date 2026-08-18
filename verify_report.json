@@ -2352,13 +2352,19 @@
       "name": "IPTV VisionX",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "VERO - True Social",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 429,
+    "total": 430,
     "skipped": 276,
-    "has_issues": 153,
-    "total_issues": 207,
+    "has_issues": 154,
+    "total_issues": 208,
     "fixed": 33
   }
 }

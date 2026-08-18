@@ -31844,5 +31844,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 432,
+    "name": "VERO - True Social",
+    "slug": "vero-true-social",
+    "cat": "sns",
+    "icon": "https://play-lh.googleusercontent.com/yfK4dPB2LvzCdYaLEO6Dn4YWeoFCvjPeLPfeij3EFy-Z3XNTIP0dGd8uQC5xuM8X9_7gtsHEa5I0KENh2e-WGYs",
+    "developer": "Vero Labs, Inc.",
+    "desc": "광고, 알고리즘 없는 소셜 네트워크로, 당사는 디자인에서 기능성에 이르기까지 소셜 네트워크의 모습을 재정립합니다. 우리가 정의하는 소셜 네트워크란 모든 사람에게 더 좋고, 더 진실한 사회 경험을 제공하는 것입니다. VERO는 중독이 아닌 연결에 최적화되어 있어 완전한 통제가 가능합니다. 창립 회원으로 가입할 수 있는 시간 내에 가입하면 구독권을 평생 무료로 제공합니다.",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=co.vero.app",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/X1KWTy2kEjmALCdzeu3t2TT7FfOhk-U6iwwoVPc0ED7Mbe-Zo2qi5CNAxbfSwhmu6BOaDmMAplCwsCtRhFTThQ",
+      "https://play-lh.googleusercontent.com/Gy8rgwvqcrc4lIc7fGQllvVK_A_tbs3blLkEl5krGjk_hzLAr5ZT_Ws-AWz2tyIqKOV22U_qf38IuiKek3kWhzI",
+      "https://play-lh.googleusercontent.com/7zu4vks_378YdCSx8ez0fS4RHz3aNSQqMJ0h5q3OoKPWNaf_hngHaHLgJ8D3tj573nE4P4qNaQXu4FFYNGCALA"
+    ],
+    "reviews": [
+      {
+        "user": "Kim SK",
+        "text": "사진을 많이 가지고 있는 경우, 업로드를 할 수 없습니다. Android MediaScanner가 심각하게 작동합니다. 사진 업로드를 위해 버튼을 누르면, 이후 OS 전체에 영향이 갑니다. 그래서 기본 갤러리 앱도 열리지 않아요.",
+        "rating": 1
+      },
+      {
+        "user": "Google 사용자",
+        "text": "갑자기 재연결중.. 이라고 뜨면서 접속이 잘 되지 않고 알람과 채팅이 뜨지 않음. 삭제후 재설치 했더니 삭제된 사용자라고 뜸 해결방법을 알려주세요",
+        "rating": 2
+      },
+      {
+        "user": "youngchul park",
+        "text": "가입할때 에러나고 들어가지도 않습니다. 절대 사용하지 마세요. 그리고 자꾸 메일이 반복적으로 옵니다.",
+        "rating": 1
+      },
+      {
+        "user": "Google 사용자",
+        "text": "어찌된 영문인지 음악 포스트만 업로드가 안됩니다 확인좀 부탁드립니다 그것빼고는 괜찮은거 같습니다",
+        "rating": 4
+      },
+      {
+        "user": "Absolute AtomyTV 이영만",
+        "text": "사진을 올릴수가 없어요.",
+        "rating": 2
+      },
+      {
+        "user": "Google 사용자",
+        "text": "sns인증번호가 오지않습니다. 어떻게 가입하나요?",
+        "rating": 3
+      },
+      {
+        "user": "4 65",
+        "text": "코드 확인이 안됨",
+        "rating": 1
+      },
+      {
+        "user": "주니",
+        "text": "코드확인안됨",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "좋아요.*^^*.",
+        "rating": 5
+      },
+      {
+        "user": "폰다",
+        "text": "I can't sign up because I don't get SMS authentication messages",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2.5.1",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'VERO - True Social' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
