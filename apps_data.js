@@ -32167,5 +32167,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 436,
+    "name": "범프 - 친구들의 지도",
+    "slug": "범프-친구들의-지도",
+    "cat": "sns",
+    "icon": "https://play-lh.googleusercontent.com/gm8PPTHUZDnBaRxAaBGrCmHs9LFn1S7XZaBD_yxGIASMDq4rwpua1MEdeMK36Jbd4imGBN7xkkUK9uPXeQp-Qw",
+    "developer": "amoamoamo",
+    "desc": "전 세계 수억 명이 사랑한 오리지널 위치 공유 앱인 Zenly 팀에서!\r Bump에서 정확하고 실시간이며 배터리 친화적인 위치 공유로 좋아하는 사람들과 장소의 개인 지도를 만드세요.\r \r [친구들]\r • 친구들이 누구와 함께 있는지, 배터리 레벨, 속도, 얼마나 오래 어딘가에 있었는지 확인\r • 지금 무엇을 듣고 있는지 들어보기\r • 앱을 떠나지 않고 그들의 노래를 자신의 Spotify 라이브러리에 저장\r • 휴대폰을 흔들어 BUMP! 친구들에게 함께 놀고 있다고 알리기\r \r [장소]\r • 가는 곳을 자동으로 탐지하여 개인 지도를 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6471519217",
+    "androidUrl": "https://play.google.com/store/apps/details?id=co.amo.android.location",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/kNkUCMYcZY2jHuzR1y-YtnIe_439jTb1Uj05O59Crit8SqPrtRgmL-9wMsdgviv1KdbmcwnX9rP7nMiK_l3D",
+      "https://play-lh.googleusercontent.com/qG_WTtxD0dUaBnMJ--Eif_AIvWKgfK8EJBPK2CEu0r7DbF8SxuVKsTBY7OBUekAv8jkMLWu2JvyzpskGJD3BxdY",
+      "https://play-lh.googleusercontent.com/JaMmh5BWicwxwl1qs-iHiRZ7Gg5-xCA9SJn2OwxWXyfuARcPkXAaV_FlfauYi01VgvF_Q0nQwPP0pS-CIAhAZg"
+    ],
+    "reviews": [
+      {
+        "user": "장서윤",
+        "text": "범퍼가 친구와 메세지도하고 정말 재미있는앱이지만 제가 친구랑 친구추가을 했는데 저랑 안 노는날에는 범퍼로 위치추적을 해서 같이놀자고하는데 제가 위치추적을 잠시만 그만하고싶을때는 위치추적이꺼지게 만들어지는 기능만 추가해주시면 좋을것 같아요!!",
+        "rating": 5
+      },
+      {
+        "user": "이도윤",
+        "text": "좋은 앱인거 같아요. 친구와 더 가까워진거 같고 신기하고 좋아요.장소도 추가할수있고 어디에 갔는지도 알수있고 근데 문제가 좀 있는거 같아요. 무슨 노래를 듣는지,전화를 하고 있는지 이런거는 너무 개인적인거잖아요? 그래서 자신이 원하면 뜨게 해야할거 같아요. 그리고 장소추가할수 있는 기능이 좋은거같은데 이름을 못 바꾸는게 좀 그래요 그리고 저장하고 싶은 장소를 실수로 못 저장할수도 있는데 이것도 좀 다시 저장 못하는게 아쉬워요. 이런것들 고치면 정말 더 만족할거 같아요. 아 그리고 친구 이름이랑 사진을 자신만 볼수있는 자신만 원하는거로 바꿀수있는 그런 기능도 있으면 좋을거 같아요. 인스타에 있는 별명같은 기능처럼",
+        "rating": 5
+      },
+      {
+        "user": "김미순",
+        "text": "앱이 정말 좋아요! 친구랑 메세지도 할수있고 친구 위치도 볼수있고 근데 제가 실수로 위치를 하나 잘못만들었는데 어떻게 지우죠? 혹시 지우는 기능이 없나요? 지우는 기능이 없음 만들어 주실수 있을까요? 그러니 앱자체는 정말 좋지만 가이드를 따로 볼수있는 기능을 만들어 주실수 있음 하네용!",
+        "rating": 4
+      },
+      {
+        "user": "푸로",
+        "text": "다른건 다 좋은데 범프친추하면서 전화번호는 공개 안됐으면 좋겠어요 전화는 디스코드나 인스타처럼 앱 내에서 통화기능만 제공하고 전화 엡으로 이동하지 않고 전화번호도 공개 안하는 선에서 전화기능을 넣었으면 좋겠어요",
+        "rating": 4
+      },
+      {
+        "user": "이현서",
+        "text": "우선 번역이 먼저 개선이 되야할듯. 자꾸 반말을 하는데 한국인 입장에서 번역이 제대로 안되있으면 양산형 게임 느낌이 많이남",
+        "rating": 4
+      },
+      {
+        "user": "박성아",
+        "text": "계속 위치꺼지고 위치 다르게 떠요 그리고 친구들이 계속 사라져요 제발 업데이트좀 해주세요 저만이런겄도 이니고 다른얘들도 계속 오류나서 서로를 못믿어요 제발 이것때문에 싸우는일이 없게 업데이트좀 해주세요",
+        "rating": 1
+      },
+      {
+        "user": "이미자",
+        "text": "혹시 친구의 이동경로는 볼 수 없나요 자녀가 해외여행갔는데 위치가 한 곳에 계속 정지된지 오래되었고 밧데리도 그대로라 걱정됩니다 혹시 gps 시간이 실시간인가요 몇분단위인가요",
+        "rating": 5
+      },
+      {
+        "user": "김인오",
+        "text": "친구랑 가족이랑 위치 공유 하면서 채팅도 재밋게 칠수 있어서 너무 재밌어여!!!",
+        "rating": 5
+      },
+      {
+        "user": "박민구",
+        "text": "광고에서 볼때 배터리 주는 기능도 있는거 같던데 어디있나요 그 외에 다른 기능들도 가이드가 없어서 불편해요 광고에서 볼때 배터리 스티커 같은거 보내길래 그럼 기능이 있는줄 알았네요!!너무 좋아요!!친구들끼리 쓰는데 어딨는지 볼 수 있고 그거 외에도 너무 좋아요!!",
+        "rating": 5
+      },
+      {
+        "user": "박라원",
+        "text": "진짜 미쳤다...! 솔직히 광고보고 뻥이라고 생각했는데 다 진짜여서 지금 호강하는중",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2.105.4",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '범프 - 친구들의 지도' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

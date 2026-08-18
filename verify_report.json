@@ -2374,11 +2374,16 @@
       "name": "Avenly – 여행 플래너",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "범프 - 친구들의 지도",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 433,
-    "skipped": 278,
+    "total": 434,
+    "skipped": 279,
     "has_issues": 155,
     "total_issues": 209,
     "fixed": 33
