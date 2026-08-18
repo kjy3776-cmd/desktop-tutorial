@@ -31931,5 +31931,67 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 433,
+    "name": "틱재팬 - 일본어 특화 AI 번역",
+    "slug": "틱재팬-일본어-특화-ai-번역",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/JaTEXCHnWttE98-7Etbu6Rrd8RjEWF-vQJj3GE-ZPLWyQMdCKZIdPap7H5lyisnm1uOr9k1LNugKFQKXEMK0mQ",
+    "developer": "JUNG BONGJUN",
+    "desc": "틱재팬은 오직 '일본어'에만 집중한 한국어–일본어 AI 번역기입니다.\r 번역을 넘어 '일본어를 이해하게' 만드는 것이 핵심입니다.\r \r 첫째, 억양 그래프!\r 예를 들어 'にほん'은 히라가나도 발음도 같지만, 억양에 따라 '二本(긴 막대 두 개)'이 되기도 하고 '日本(일본)'이 되기도 합니다. 한국 학습자는 번역은 해도 이런 억양을 놓쳐 어색하게 발음하기 쉽습니다.\r 틱재팬은 번역 결과의 억양을 그래프로 시각화해, 같은 글자라도 억양에 따라 뜻이 완전히 달라지는 일본어를 '눈으로' 익히게 합니다.\r \r 둘째, 문장 분해!\r 번역 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6781296261",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.tickjapan.app",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/YmzJcL71loC5o3Fa-qVgWorEHPLFdwgKKcdtPr0MK0ETTIg_UpWmAGvTgBtvIRrdFwXDrgHgNinnkFH_d1r-dB0",
+      "https://play-lh.googleusercontent.com/cHXbW-mi6vNRUduf66J7vHyszKwvVSRM3MJ5xeUZpCKHnhd3SNEglc-xEVMdUqPlEpFO8Ik7Q87rMq3JSwFBRQ",
+      "https://play-lh.googleusercontent.com/alt9sGbZxqcTi8WuJd_jHj1JMZmBNGNYifeM1i2VT6lubDmA_9N09SEpazPbccwMjLPHGAu1t75ehWFUeVUg"
+    ],
+    "reviews": [
+      {
+        "user": "우치하",
+        "text": "아직 무료 버전을 쓰고 있지만 너무 좋은 것 같습니다. 남자가 말 할 때와 여자가 말 할 때 다르게 말 하는 것도 있어서 너무 편한 것 같습니다. 이거를 이용 해서 일본어 공부도 하면 좋을 것 같습니다. 강추 합니다!",
+        "rating": 5
+      },
+      {
+        "user": "JIUI bak",
+        "text": "보통 이런 평 잘 쓰지 않는데 한번 무료로 써보고 나서 바로 결제 했습니다. 일본어 공부하고 있는데 도움이 많이 됩니다",
+        "rating": 5
+      },
+      {
+        "user": "최준혁",
+        "text": "오 이거 사진번역 엄청 좋은데요? 안써봤으면 후회할뻔했네요 계속 업뎃하고 어플 관리해주시는거죠? 맘에 드네용",
+        "rating": 5
+      },
+      {
+        "user": "정한주",
+        "text": "의성어도 쉽게 배울수있어서 너무 좋아요!",
+        "rating": 5
+      },
+      {
+        "user": "안윤지",
+        "text": "제가 바라던 기능이 고루고루 있어서 학생분들과 만나는 오타쿠 분들께 매일 추천중이에요 만들어주셔서 감사드립니다",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '틱재팬 - 일본어 특화 AI 번역' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

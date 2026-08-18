@@ -2358,11 +2358,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "틱재팬 - 일본어 특화 AI 번역",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 430,
-    "skipped": 276,
+    "total": 431,
+    "skipped": 277,
     "has_issues": 154,
     "total_issues": 208,
     "fixed": 33
