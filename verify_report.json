@@ -2379,11 +2379,16 @@
       "name": "범프 - 친구들의 지도",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Stellarium Mobile - 천체 지도",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 434,
-    "skipped": 279,
+    "total": 435,
+    "skipped": 280,
     "has_issues": 155,
     "total_issues": 209,
     "fixed": 33
