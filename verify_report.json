@@ -2389,11 +2389,16 @@
       "name": "딸깍 - 링크, 스크린샷, 메모 한 곳에 저장",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "3D Colorful Sort™ 마법의 물",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 436,
-    "skipped": 281,
+    "total": 437,
+    "skipped": 282,
     "has_issues": 155,
     "total_issues": 209,
     "fixed": 33

@@ -32428,5 +32428,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 439,
+    "name": "3D Colorful Sort™ 마법의 물",
+    "slug": "3d-colorful-sort-마법의-물",
+    "cat": "game",
+    "icon": "https://play-lh.googleusercontent.com/nl1p1R9g4vAZfj_h1dzcqRRnumzC8ZnRkSeXCVee3Ljjxu15SLE_leuzfwHye18lnvwYOs7BzG4ZdD8LrEhK",
+    "developer": "Gaming Laboratory",
+    "desc": "<font color=\"#FF69B4\"><b>진짜 ASMR 사운드가 있는 편안한 퍼즐 게임을 찾고 계신가요? </b></font>\r <font color=\"#9400D3\"><b>3D Colorful Sort™ Magic Water에 오신 걸 환영합니다! 영리한 너구리와 함께 즐거운 퍼즐 여행을 떠나 두뇌를 훈련하세요! </b></font>\r \r 🧪 물을 붓고 색을 맞춰 모든 컬러 퍼즐을 풀어 보세요.\r 차분한 ASMR 경험과 중독성 있는 물 분류 도전이 완벽하게 어우러졌습니다. 알록달록한 물을 분류하고 멋진 배경화면을 잠금 해제하며",
+    "iosUrl": "https://apps.apple.com/kr/app/id6757832779",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.magic.relaxing.water.sort.colorgame.puzzle",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/hox9yR-Si5MggkO3IJm5TA1vZAVTNFfwW1ocaMFRebiRfNQYJiQfOtcMoHgkf3bC3dx8z1gzsmoGq4qWA9WeDg",
+      "https://play-lh.googleusercontent.com/CXZC7W2uAHK5pqxYgDWwGe47woMAsYlM4Y62uMtIgY3k5gYNSfMjjSyg81s1izlQnFtMGCZp_s6i6P5-bYsR8g",
+      "https://play-lh.googleusercontent.com/_mdRRP68mDZpQMo3I7IpKxMHmk9Spd9nGWenP-GjGwsv0RHxaT35G1Ehl5iWBHR-G4bXFrxiKtrejXVqppooXA"
+    ],
+    "reviews": [
+      {
+        "user": "나의시간은너의시간",
+        "text": "인게임 광고에서 설치하면 광고 절대 없다더니 11렙 끝나니 평가창 뜨길래 좀 더 해보고 리뷰쓰려고 킵해놓고 하다보니 15레벨 끝나자마자 강제광고 뜹니다. 광고도 겁나 깁니다, 이래놓고 광고 전혀없다고 개소리하네요? 리뷰보니 광고 없다고 하신분들 알바입니까? 진짜 거짓리뷰 개짜증!",
+        "rating": 5
+      },
+      {
+        "user": "Milky Way",
+        "text": "플레이 하나 끝나면 광고를 봐야 하네요. 광고 안 보려면 결국 결제를 해야 하고 다른 앱에서 광고에 낚여 설치했는데 결제까지 하면서 게임하고 싶지는 않아요.",
+        "rating": 1
+      },
+      {
+        "user": "김대현",
+        "text": "게임은 좋은대요. 광고가 넘 심해서 열램하디가 삭제 했습니다 아니 플레스토아를 삭제 했네요 개인 게임사정이 아니라는걸 할지만. 너무 심합니다 10초 불량이면 충분한 광고가 30초이상~1분 넘어가요 퍠스클릭. 넘겨도 게속 떠 있내요 충분해서 스토아 자제를 삭제 했습니다",
+        "rating": 3
+      },
+      {
+        "user": "캣미남조카오",
+        "text": "광고 없다더니 있음 적절한 광고는 괜찮은데 매판 광고에 30초 이상이고 게임혜택 광고는 1분 그냥 넘어감 쿠팡 11번가 광고가 제일 악질임 같은거에 닫기 넘어가기 위치만 바꿔서 어플 기어이 뜨게함 초반에 3판에 광고 한번 뜨던게 2판에 한번 그리고 매판 뜸",
+        "rating": 1
+      },
+      {
+        "user": "박지은",
+        "text": "광고 없다고 보고 깔았는데 레벨 1 올라갈때마다 광고나와요.. 현재 30인데 광고보다 지쳐요 적당히나와야지..",
+        "rating": 1
+      },
+      {
+        "user": "오경환",
+        "text": "세상 광고는 다하는 앱. 광고없다고 광고하더니, 광고는 또 어찌나긴지 기다리다지친다. 삭제가 정신건강에 이롭다",
+        "rating": 1
+      },
+      {
+        "user": "이지영 (잇지여)",
+        "text": "광고 없다고 광고해서 했는데 첨엔 없더니 점점 광고나옴. 이 정도면 광고가 허위광고로 신고해야함.",
+        "rating": 1
+      },
+      {
+        "user": "OX OX",
+        "text": "광고없다해서 깔았더니 광고있음 딱히 재미도 없어서 33레벨까지 하고 지운다",
+        "rating": 1
+      },
+      {
+        "user": "조주영",
+        "text": "광고 없다고 허위광고 해놓고 광고는 졸라많고 게임은 졸라 재미없고 쓰레기 게임이라서 삭제함",
+        "rating": 1
+      },
+      {
+        "user": "송희라",
+        "text": "광고가 없다면서 왜 광고가 있죠? 이럴꺼면 애초에 광고없다고 하질 말던가요. 비슷한류 게임을 할때 광고 없는 게임이라고 계속 나오더니 막상 깔면 초반에만 안나오고 나중에 나옵니다...",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.1.8",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '3D Colorful Sort™ 마법의 물' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
