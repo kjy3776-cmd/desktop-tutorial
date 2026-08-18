@@ -32515,5 +32515,77 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 440,
+    "name": "WHS - 더나,윔,엠레드,웰니스",
+    "slug": "whs-더나윔엠레드웰니스",
+    "cat": "health",
+    "icon": "https://play-lh.googleusercontent.com/vs4J-We0apf4lkqldJriL8LuDKRF2kpBXmf2BS5IfxflaFibe29kU3132ZjuKfAS00MuWuDOmzxOoAXxq3mX6iU",
+    "developer": "AAC Inc.",
+    "desc": "WHS는 클리닉을 이용하는 시간을\r 조금 더 편하고, 조금 더 나답게 만들어주는 웰니스 앱입니다.\r \r 예약부터 방문, 시술 이후 리포트까지\r 흩어져 있던 과정을 하나로 정리해서\r 언제든지 쉽게 확인하고 관리할 수 있습니다.\r \r \r 주요 기능\r \r • 간편한 체크인과 방문 관리\r 클리닉에 도착하면 앱으로 빠르게 체크인하고,\r 현재 이용 상태를 한눈에 확인해 보세요.\r \r • 시술 진행 단계 확인\r 입장, 상담, 시술까지 지금 어디까지 진행됐는지 실시간으로 확인할 수 있어요.\r \r • 시술 리포트 확인\r 시술 후 제공되는 리포트를 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6760689802",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.aacsuper.prd",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/-BT5NTJ0BvCguGWvH_21AKDo4R4JDFOhVPdFCBdbHhqMUcsjmCXJsKutil8mzGEz2k4j9vV5ha226LiwEZTOf4w",
+      "https://play-lh.googleusercontent.com/-VzX5KtWmZUpk6-dj5glhbWtwxnXIeDUb0lCPunncbPFHnTyYpVIT4XGBVco9W_HtmmEB8q1mLg2p996X8nHtck",
+      "https://play-lh.googleusercontent.com/LuYnsYUj99RyWASu5xziLea2VQNOy1SaGXHLIyxOcDYRRwv0SY-GV3iPEU60rPBFVaacwPeeoGXQujHcIGqRIw"
+    ],
+    "reviews": [
+      {
+        "user": "sa lee",
+        "text": "더나의원 제 고객정보로 다른사람의 사진이 올라갔는데, 삭제기능이 없네요. 직원들도 삭제방법을 모르고있어서 당황스러워요.",
+        "rating": 1
+      },
+      {
+        "user": "김훈",
+        "text": "기존앱과 충돌나서 켤때마다 업데이트 화면 뜹니다",
+        "rating": 3
+      },
+      {
+        "user": "짹라라",
+        "text": "사진 올리면 시간 반영되게 해주세요 그게 제일 불편해요!!!!!",
+        "rating": 4
+      },
+      {
+        "user": "곰2",
+        "text": "운동 입력란에 메모칸이 있었으면 좋겠습니다",
+        "rating": 5
+      },
+      {
+        "user": "J CHOI",
+        "text": "빠른 업데이트 감사합니다",
+        "rating": 5
+      },
+      {
+        "user": "byeongjun han",
+        "text": "ux가 괜찮고 편리합니다. 필요한 기능들이 많아요.",
+        "rating": 5
+      },
+      {
+        "user": "김재현",
+        "text": "편하고 좋니용",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.0.8",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'WHS - 더나,윔,엠레드,웰니스' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

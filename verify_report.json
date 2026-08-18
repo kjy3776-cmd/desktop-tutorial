@@ -2394,11 +2394,16 @@
       "name": "3D Colorful Sort™ 마법의 물",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "WHS - 더나,윔,엠레드,웰니스",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 437,
-    "skipped": 282,
+    "total": 438,
+    "skipped": 283,
     "has_issues": 155,
     "total_issues": 209,
     "fixed": 33
