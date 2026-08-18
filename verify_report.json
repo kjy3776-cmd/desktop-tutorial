@@ -2399,11 +2399,16 @@
       "name": "WHS - 더나,윔,엠레드,웰니스",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "소방관계법규 기출심화",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 438,
-    "skipped": 283,
+    "total": 439,
+    "skipped": 284,
     "has_issues": 155,
     "total_issues": 209,
     "fixed": 33

@@ -32587,5 +32587,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 441,
+    "name": "소방관계법규 기출심화",
+    "slug": "소방관계법규-기출심화",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/ROn4BlfRZVu36P5qNjTGQcDMyOEbb670QwmLjO5JsIbkMsovj5b5oEcVqIsBtxupEWMlRtwpCbxtB777zo7mwA",
+    "developer": "메이에듀",
+    "desc": "소방관계법규 기출심화입니다.\r 무료 카테고리는 광고 없이 무료로 학습할 수 있으며, 프리미엄 구독으로 전 과목을 무제한으로 이용할 수 있습니다.\r \r [주요 기능]\r • 2018년부터의 소방관계법규 기출문제를 철저히 분석하여, 최신 출제 경향을 반영한 변형 문제 및 심화 문제를 수록\r • OX퀴즈,  심화문제 등 다양한 유형의 기출문제 수록\r • 오답노트로 틀린 문제 집중 학습\r • 카테고리별 정확도 통계 제공\r • 이어풀기 가능\r \r [수록 과목]\r • 무료체험 (무료)\r • 소방기본법 (구독)\r • 소방시설 설치 및 관리에 관한",
+    "iosUrl": "https://apps.apple.com/kr/app/id6789549183",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.sobanglaw.smartsearch",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/gbMR9qclsaH5-MBCzA4nFjHErBX9lOc6YfkKypfsM8b_LWU1cZIOPAjakM32fkQU7pCZlk4xGwOxlKuJIa2cimo",
+      "https://play-lh.googleusercontent.com/Fjc9_FZ9RGe8rtS4Ua1sH1kVMpSxp0FdMn_2x2BRs2lRSIV8Z6-NAD2QZi5Hc5mg8m4lsYvaj5H-VPWk65ji49Q",
+      "https://play-lh.googleusercontent.com/oy_VoUl9PyYMerzeeMilkuGLPc027msPD6Zr5IkWze9vDSv0e956gNadVmfawCgRyB4yX0sT0-58kAilzKswJzY"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '소방관계법규 기출심화' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
