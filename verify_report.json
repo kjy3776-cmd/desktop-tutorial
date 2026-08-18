@@ -2369,11 +2369,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Avenly – 여행 플래너",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 432,
-    "skipped": 277,
+    "total": 433,
+    "skipped": 278,
     "has_issues": 155,
     "total_issues": 209,
     "fixed": 33
