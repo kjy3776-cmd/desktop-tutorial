@@ -2363,13 +2363,19 @@
       "name": "틱재팬 - 일본어 특화 AI 번역",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Netflix(넷플릭스)",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 431,
+    "total": 432,
     "skipped": 277,
-    "has_issues": 154,
-    "total_issues": 208,
+    "has_issues": 155,
+    "total_issues": 209,
     "fixed": 33
   }
 }
