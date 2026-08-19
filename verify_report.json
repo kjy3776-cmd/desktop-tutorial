@@ -2421,11 +2421,16 @@
       "name": "MoboShort: 매일 업데이트 중독성 웹드라마",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Push Up Arena: Ranked Workouts",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 442,
-    "skipped": 286,
+    "total": 443,
+    "skipped": 287,
     "has_issues": 156,
     "total_issues": 211,
     "fixed": 34

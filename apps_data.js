@@ -32833,5 +32833,72 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 445,
+    "name": "Push Up Arena: Ranked Workouts",
+    "slug": "push-up-arena-ranked-workouts",
+    "cat": "health",
+    "icon": "https://play-lh.googleusercontent.com/bEz42QdfZZMImDhc-8oJT5WicdK9yMMeQJivHY-LQtk2O1StkwrgEJ7cxIkSyS8PyuBVGVO15EZdV975-ziQIA",
+    "developer": "VOLARA",
+    "desc": "스마트폰을 나만의 AI 피트니스 코치이자 운동 경기장으로 변신시키세요! 🏋️‍♂️📱\r \r 운동 수준을 한 단계 끌어올릴 준비가 되셨나요? 푸시업 아레나는 단순한 운동량 추적기가 아닌, 전 세계적인 피트니스 배틀 필드입니다! 스마트폰 카메라를 이용해 첨단 AI가 푸시업 횟수를 자동으로 추적하고, 정확한 자세를 유지하도록 도와주며, 전 세계 운동선수들과 연결해 줍니다.\r \r 별도의 장비는 필요 없습니다. 스마트폰을 바닥에 놓고 자세를 잡으면 AI가 자동으로 횟수를 세어줍니다!\r \r 🔥 푸시업 아레나가 특별한 이유 🔥\r \r 🤖 실시간 A",
+    "iosUrl": "https://apps.apple.com/kr/app/id6762318743",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.pushup.arena",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/KVd-mg-JtWMhTQuNJhHYY4_w2bfAmXrq7CGE_6tSxzsu3MntAoiyYnsHKZyoKZFjxNmT8LAySqeGQ23XkhXn",
+      "https://play-lh.googleusercontent.com/SGzeiMBwIDC6gU7Czyph9_m97ziBq7IvT7dhROTEr_e2oM6KBT47EQbcz8afO45IqSrs4XGzNDjshobgjOb0f0w",
+      "https://play-lh.googleusercontent.com/-Sr73TJq_8Gu70LUBoU1NBojDyRg4QWQxWQ1EN3we7R-TnybO59ZaW-5cN-V2ZcQxFEaQsDOX4CIbX840GqAPA"
+    ],
+    "reviews": [
+      {
+        "user": "동은성",
+        "text": "정자세 맞는데 미쳤나 지금",
+        "rating": 1
+      },
+      {
+        "user": "김사메",
+        "text": "한국어 지원좀 해주세요",
+        "rating": 4
+      },
+      {
+        "user": "이도현",
+        "text": "It's not being recognized.",
+        "rating": 2
+      },
+      {
+        "user": "Mushroom Hater",
+        "text": "My progress reseted 3times, U kidding me?",
+        "rating": 1
+      },
+      {
+        "user": "VOXE",
+        "text": "At some point, everything I did in the app reverts to its previous state when I re-start the app.",
+        "rating": 3
+      },
+      {
+        "user": "김서진",
+        "text": "I don't know if it's because I'm bad at it, but no matter how many I do, I can't get beyond 1.",
+        "rating": 3
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.0.7",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Push Up Arena: Ranked Workouts' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
