@@ -2416,11 +2416,16 @@
       "name": "플렘 - 원형 시간표, 일정관리, 투두리스트, 캘린더",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "MoboShort: 매일 업데이트 중독성 웹드라마",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 441,
-    "skipped": 285,
+    "total": 442,
+    "skipped": 286,
     "has_issues": 156,
     "total_issues": 211,
     "fixed": 34
