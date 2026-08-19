@@ -2426,13 +2426,19 @@
       "name": "Push Up Arena: Ranked Workouts",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Shopee TH: ซื้อของออนไลน์ส่งไว",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 443,
+    "total": 444,
     "skipped": 287,
-    "has_issues": 156,
-    "total_issues": 211,
+    "has_issues": 157,
+    "total_issues": 212,
     "fixed": 34
   }
 }
