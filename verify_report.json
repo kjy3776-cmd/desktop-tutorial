@@ -2411,11 +2411,16 @@
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "플렘 - 원형 시간표, 일정관리, 투두리스트, 캘린더",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 440,
-    "skipped": 284,
+    "total": 441,
+    "skipped": 285,
     "has_issues": 156,
     "total_issues": 211,
     "fixed": 34
