@@ -32623,5 +32623,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 442,
+    "name": "LIFESTYLE Fitness App",
+    "slug": "lifestyle-fitness-app",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/_PPgp_dYauLCnVXI_vuNnVJZt95ZgUhXVWFADdBiyJRz9dTxlzYQAFAUWWgqyK-u9gkWGK9vdIi1TU23Vyrn",
+    "developer": "EGYM",
+    "desc": "앱으로 피트니스 프로그램을 개선해보세요! 매력적인 통찰력과 동기 부여를 통해 쉽게 운동을 추적하고, 진행 상황을 추적하고, 피트니스 목표를 달성할 수 있는 올인원 솔루션입니다.\r \r 이 앱은 다음과 같은 다양한 기능을 제공합니다.\r \r 운동 추적\r 피트니스 장비에서 모든 운동 데이터를 원활하게 캡처하거나 수동으로 입력하여 완전한 기록을 얻으세요.\r \r 훈련 계획\r 체육관이나 트레이너가 제공하는 맞춤형 계획으로 운동을 최적화하세요.\r \r 활동 수준\r 레벨을 올리면서 동기를 부여하는 이정표를 따라가세요.\r \r 재미있는 도전\r 칭찬, 활",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.netpulse.mobile.lifestylefitnessapp",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/cmLuMHP13jS0dw4umgqowcvHr2N1DTWGNPMPc4prr1qcbndhM77WVx2NXZYOpHdSbZSFejPt0TXA1c9POC5bjbE",
+      "https://play-lh.googleusercontent.com/YjiGt9gENI0a-i-CSkviF0t-oMccQWgSXyqOtzVrJGIaZApkf4sBr67aWkuwmHrKfdMNCNYFjVL_BRqENvyvrg",
+      "https://play-lh.googleusercontent.com/BTm5ftMz0au0Weqh2rf0QiNNYaXUK8ryNs0UMf8kTWzY2ex8Pj53iSOsyTaXqEYo0e1n03s-gr0ha1esG9SdWWM"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'LIFESTYLE Fitness App' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

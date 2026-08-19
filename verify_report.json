@@ -2404,13 +2404,20 @@
       "name": "소방관계법규 기출심화",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "LIFESTYLE Fitness App",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 439,
+    "total": 440,
     "skipped": 284,
-    "has_issues": 155,
-    "total_issues": 209,
-    "fixed": 33
+    "has_issues": 156,
+    "total_issues": 211,
+    "fixed": 34
   }
 }
