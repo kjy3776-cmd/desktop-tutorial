@@ -33321,5 +33321,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 453,
+    "name": "Lifestyle",
+    "slug": "lifestyle",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/zc_9_AYHSlcCpTQihC4S0PSvZFMUn31ZKDDn2uo-inTcxgDalHOIBoSNBqBJ2ZuFS8sBqwXnaNVomkU1zuKNIOA",
+    "developer": "inChurch",
+    "desc": "📖 주머니에 성경을 들고 교회의 독서 계획을 공부하고 메모하십시오.\r \r 🖥 비디오, 오디오 콘텐츠 및 출판물을 통해 어디에서나 교회를 따르십시오. 다운로드 섹션에서 오디오 및 독점 콘텐츠를 다운로드하고 모든 것을 오프라인으로 유지하십시오.\r \r 📡 실시간 스트림에 대한 알림을 받고 앱에서 직접 시청하세요.\r \r 🗓 의제를 따르고 교회에서 일어나는 모든 일을 파악하고 이벤트에 등록하고 티켓을 항상 소지하십시오.\r \r 💛 신용 카드 또는 Boleto를 통해 앱을 통해 직접 기부하거나 교회에 기부하십시오.\r \r 👥 관심 그룹을 통해 교",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=br.com.inchurch.lifestylechristianity",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/M9umS6xUfyTeBJ0hU5qZpnt59aub91ZTRAAspjODJETl0ijq2lCfO1b0XqN3xq7vGP7tHN2VSVTEpELncIgKzA",
+      "https://play-lh.googleusercontent.com/7HzY_TSxjM46HuRmHUpf8kvmAZZGquaOToMKsEEx4J_tdTtqmb5ghxuFzSKLzlnhla52wtNFNrivRNIJAM34",
+      "https://play-lh.googleusercontent.com/s4uoQnDbpOQYJTY_yzvVPdv6FF8fr9Zme9VX-JImgwkdBq4-g_f-tkU1i0ybxJBwD5oellWxT000HOg7kv0LNA"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Lifestyle' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
