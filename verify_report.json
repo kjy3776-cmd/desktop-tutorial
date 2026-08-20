@@ -1182,8 +1182,7 @@
     {
       "name": "만보기",
       "issues": [
-        "iOS URL 불량: URL 없음",
-        "아이콘 이미지 로드 실패"
+        "iOS URL 불량: URL 없음"
       ]
     },
     {
@@ -2485,7 +2484,7 @@
     "total": 452,
     "skipped": 292,
     "has_issues": 160,
-    "total_issues": 219,
+    "total_issues": 218,
     "fixed": 37
   }
 }
