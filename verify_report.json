@@ -2451,11 +2451,16 @@
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "차란 - 브랜드 중고 패션 앱",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 447,
-    "skipped": 288,
+    "total": 448,
+    "skipped": 289,
     "has_issues": 159,
     "total_issues": 216,
     "fixed": 36
