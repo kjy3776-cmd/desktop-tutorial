@@ -661,6 +661,7 @@
       "name": "DoDay: To-Do List & Planner",
       "issues": [
         "iOS URL 불량: URL 없음",
+        "아이콘 이미지 로드 실패",
         "리뷰 없음"
       ]
     },
@@ -2461,13 +2462,18 @@
       "name": "Toca Boca Jr Kitchen NETFLIX",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "간단 - 간헐적 단식 다이어트 식단 몸무게 기록 관리",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 449,
-    "skipped": 290,
+    "total": 450,
+    "skipped": 291,
     "has_issues": 159,
-    "total_issues": 216,
+    "total_issues": 217,
     "fixed": 36
   }
 }
