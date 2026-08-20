@@ -33182,5 +33182,57 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 451,
+    "name": "Toca Boca Jr Kitchen NETFLIX",
+    "slug": "toca-boca-jr-kitchen-netflix",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/duD0fZCW86jMBYG8OPY4iaeMR10rY932a8PM6mYS0y60YpDq1n9Kna4aisYR_8IWGt0DqPmklNOxFpl4kbncsw",
+    "developer": "Netflix, Inc.",
+    "desc": "넷플릭스 멤버십이 필요합니다. 넷플릭스 회원이라면 누구나 광고 없이 무제한으로 이용할 수 있어요. \r \r 자유로운 아동용 요리 게임에서 손님들을 위해 특이하면서도 기발한 레시피를 만드세요. 스파게티 스무디? 수박 튀김? 어떤 요리든 괜찮습니다! \r \r \"Toca Boca Jr Kitchen\"에 초대받은 꼬마 셰프들이 주방을 어지럽히며 놀기 시작합니다. 세 명의 손님, 주방용품이 가득한 주방에 무궁무진한 재료 조합까지. 무한한 가능성이 펼쳐집니다. \r \r 주방에서 나만의 요리를 만들자\r 보기 좋고 맛있는 요리만 정답이다? \"Toca ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6768394254",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.netflix.NGP.tocakitchen2",
+    "pcUrl": "https://www.netflix.com/kr/",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/dNYGgXLOunDxVjk2K7xJ8zhiTO38oeR5xKIKRpY4KgavAQvYnD0ElltsIC-IF7zVkFUPbc194ZluoXz17MOJrOA",
+      "https://play-lh.googleusercontent.com/GeMYQCTPvbDwXlLkTiThbGN9xpvcn2cfuIAqo-BW3tWYWlhRju5SIvPqbBlkyRVJYSll9J2SY_cCGCIdSBwSfsA",
+      "https://play-lh.googleusercontent.com/d-5UXcpZwBuoORaE-1kkd4JUzN4VMMmArP8xbCAVbw7QMaapSLmhRDT4uiYtGayedB2qkeBcREJgBKIz2HBuiQ"
+    ],
+    "reviews": [
+      {
+        "user": "송혜진",
+        "text": "광고가 없어서 짱조아용!",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "저 어릴때 많이했는데 가입을 해야 한데요그냥 무료로 해주세요 넥플릭스말고 그냥 해주세요 저 하고싶어요 가입을 못해요 아직 11살이어서요 제발요 부탁드립니다",
+        "rating": 1
+      },
+      {
+        "user": "이이은오",
+        "text": "좋음♡",
+        "rating": 4
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Toca Boca Jr Kitchen NETFLIX' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": "web"
   }
 ];

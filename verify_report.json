@@ -2456,11 +2456,16 @@
       "name": "차란 - 브랜드 중고 패션 앱",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Toca Boca Jr Kitchen NETFLIX",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 448,
-    "skipped": 289,
+    "total": 449,
+    "skipped": 290,
     "has_issues": 159,
     "total_issues": 216,
     "fixed": 36
