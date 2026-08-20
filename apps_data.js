@@ -33059,5 +33059,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 449,
+    "name": "Your Lifestyle Plus",
+    "slug": "your-lifestyle-plus",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/KMD6ennJ60lDvKY4074Wn5WFcgldax1A_lLN2U_JDGoyrc5PER8rtP1ySVkulysVm1GURzLAg2G1fiNkQQ7g",
+    "developer": "Travel and Leisure Australia Pty Ltd",
+    "desc": "더 큰 꿈을 꾸고, 더 멀리 탐험하고, 더 많은 추억을 만들어 보세요. 라이프스타일은 특별한 혜택과 혜택 프로그램으로 일상의 비용을 절감하여 삶을 즐기고, 숙박 혜택과 혜택을 통해 머물고, 휴가 경험을 더욱 풍요롭게 만들어 줄 다양한 옵션을 통해 즐거움을 만끽할 수 있도록 설계되었습니다. 라이프스타일은 여러분의 휴가와 일상을 한 단계 더 발전시켜 드립니다.\r \r 클럽 회원은 라이프스타일 등급을 상향 조정하고 더욱 엄선된 혜택을 누릴 수 있습니다.\r \r 이용 약관 - https://www.yourlifestyleplus.com/ter",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.lifestylesapp",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/6tn29km5ZIoAUGcI_9fW42OV8oi3LeZ1HylpDi0Q26L68qP67wjS6Uj6xt2PhEWWLXKjlM_p8DVNGQ-Cqz_t",
+      "https://play-lh.googleusercontent.com/vA3sWVi6nk2Z1m1wnq5plR3SNFdr3YKB3ORGXY0BW6S169M5XuBXsAWrUG-r6nr4Nb1BygHrcPxxBkGo2tdHzw",
+      "https://play-lh.googleusercontent.com/nWcpX_SOGFMQs3-PjJN7WH1c-9S9ifivP3axrCyjJcMtCIS47ZfCRibJVAq5gkGcFs4bjvCo5Pj02-u71EZuQA"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Your Lifestyle Plus' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

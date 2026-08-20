@@ -2444,13 +2444,20 @@
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "Your Lifestyle Plus",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 446,
+    "total": 447,
     "skipped": 288,
-    "has_issues": 158,
-    "total_issues": 214,
-    "fixed": 35
+    "has_issues": 159,
+    "total_issues": 216,
+    "fixed": 36
   }
 }
