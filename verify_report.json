@@ -2437,13 +2437,20 @@
       "name": "Block Out! - Color Sort Puzzle",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Adapta One 26",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 445,
+    "total": 446,
     "skipped": 288,
-    "has_issues": 157,
-    "total_issues": 212,
-    "fixed": 34
+    "has_issues": 158,
+    "total_issues": 214,
+    "fixed": 35
   }
 }

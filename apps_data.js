@@ -33023,5 +33023,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 448,
+    "name": "Adapta One 26",
+    "slug": "adapta-one-26",
+    "cat": "productivity",
+    "icon": "https://play-lh.googleusercontent.com/wPo7eJ9eUWkLUiDgvFJvSNHwYO-tI3s8pDKfU_KPi4c-DKpGK-fNIbC9kbMhO9kD6V7J5GH-A-twMqU0PhPJFg",
+    "developer": "Adapta ONE",
+    "desc": "Adapta ONE은 단일 플랫폼에서 다양한 템플릿을 제공하는 완벽한 AI 챗봇입니다. 또한, 저희는 고객님의 문서를 AI 모델이 처리하고 활용할 수 있도록 관리합니다.",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=org.one.adapta",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/b5Fk9OzPtnxKnlcIhSRPwIGgLgXq4XWQkwOBXqo00DgIuDGAdgJiHb7aQeJ6lnftxFvE8IZi-CbV1lMolM_D_w",
+      "https://play-lh.googleusercontent.com/nuIoBop1yOerrEwgmZfzKIEYeJ2Y2Mm0FrmkGf02UA6fOhQQ8lniiw5BOzbNRiz5VlXQMF_9YD98KVkw3sy2vA",
+      "https://play-lh.googleusercontent.com/hPaOlvAbB_CtzJy82x8LQ1CKZB5VcocaiyWi1o6-NjOwFX320Jyc6SJbsoHeWRDz-Me2IiIg7DU_v3E5cTP_niA"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.4.5",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Adapta One 26' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
