@@ -2473,11 +2473,16 @@
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "삼성 헬스",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 451,
-    "skipped": 291,
+    "total": 452,
+    "skipped": 292,
     "has_issues": 160,
     "total_issues": 218,
     "fixed": 37
