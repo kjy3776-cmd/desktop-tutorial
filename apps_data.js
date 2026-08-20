@@ -32987,5 +32987,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 447,
+    "name": "Block Out! - Color Sort Puzzle",
+    "slug": "block-out-color-sort-puzzle",
+    "cat": "game",
+    "icon": "https://play-lh.googleusercontent.com/TaLG0xsrOEwJ4VFbHO9By9RX3YdGZbwEAXHJQFHkSBvTXgTYew6BmwcHoflBF72_SV7-_HTcoZHkHspZ7ILO",
+    "developer": "Apollo Mobile Games",
+    "desc": "BLOCK OUT을 준비하고 중독성 강한 새로운 퍼즐의 세계로 승리를 향해 나아가세요! 기발한 블록 퍼즐과 짜릿한 전략을 좋아한다면, Block Out - Jam Puzzle이 바로 당신의 다음 목표입니다!\r \r 혼란스러운 블록을 풀 수 있다고 생각하시나요? 단순한 블록 게임이 아닙니다. 탭과 슬라이드 하나하나가 중요한, 생동감 넘치는 퍼즐 잼입니다! 당신의 임무는 빽빽한 보드에서 알록달록한 블록을 전략적으로 옮기는 것입니다. 간단해 보이시나요? 영리하게 디자인된 레벨들을 보면 당신의 두뇌가 곤두서고 마침내 블록을 풀었을 때 \"아하",
+    "iosUrl": "https://apps.apple.com/kr/app/id6752672568",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.apollo.block.out.jam.puzzle",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/jFmKbEFT3hyfBEr4jm3tFsCQtKkiAxmx-wZH44pXhV6rL8isrqDVFTYxvfOoWE3-OmDxsh8Kcqi7rVe8cS_jdA",
+      "https://play-lh.googleusercontent.com/wkrR7PGSkP-XApGhO20gMNVNCg0Txwj-x-iWb84CJqt2znkCOuhRtXSnP1mo88xUbxHNmI0aezOmzqZo_jaD0jw",
+      "https://play-lh.googleusercontent.com/tInkPG6I6ZeGTO42lJM2aXaOeqcCiL_rDc3wx6RPZcEBIchqNfKizBzvFcYshy3U--_gQGtt7HXNGesfZ2e2Rg"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2.2.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Block Out! - Color Sort Puzzle' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

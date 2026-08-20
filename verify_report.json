@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "results": [
     {
       "name": "카카오톡",
@@ -2432,11 +2432,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Block Out! - Color Sort Puzzle",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 444,
-    "skipped": 287,
+    "total": 445,
+    "skipped": 288,
     "has_issues": 157,
     "total_issues": 212,
     "fixed": 34
