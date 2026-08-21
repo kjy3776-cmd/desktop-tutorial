@@ -2478,11 +2478,16 @@
       "name": "삼성 헬스",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "캠핏 Camfit - 캠핑 글램핑 카라반 펜션 체험",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 452,
-    "skipped": 292,
+    "total": 453,
+    "skipped": 293,
     "has_issues": 160,
     "total_issues": 218,
     "fixed": 37
