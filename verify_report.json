@@ -2483,11 +2483,16 @@
       "name": "캠핏 Camfit - 캠핑 글램핑 카라반 펜션 체험",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "짐워크 - 헬스 홈트 운동일지 운동기록 루틴 다이어트",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 453,
-    "skipped": 293,
+    "total": 454,
+    "skipped": 294,
     "has_issues": 160,
     "total_issues": 218,
     "fixed": 37
