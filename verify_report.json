@@ -2509,11 +2509,16 @@
       "name": "오사카 지하철 - 환승 안내",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "번역기 - 지금 번역: 음성, 텍스트 및 사진 번역",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 458,
-    "skipped": 297,
+    "total": 459,
+    "skipped": 298,
     "has_issues": 161,
     "total_issues": 219,
     "fixed": 37
