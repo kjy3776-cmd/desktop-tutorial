@@ -33705,5 +33705,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 458,
+    "name": "일본현지 택시 앱 GO",
+    "slug": "일본현지-택시-앱-go",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/M681iCezdHl0IItcLYNl9SpFuCJAoNEP_oBEWdnqDfUBBYO-Lwyt6rfyZ_zsyLC3cZqzNOhRXN8ecYxOrKDFpA",
+    "developer": "GO Inc.",
+    "desc": "・ 일본에서 가장 많이 사용하는 택시 앱(택시 예약 앱) GO\r 일본 전역 47개 도도부현에서 이용 가능한 GO는 가장 광범위한 서비스 범위를 자랑하는 일본 내 1위 택시 앱입니다! 홋카이도, 도쿄, 교토, 오사카, 후쿠오카, 오키나와 등 주요 관광지에서 이용 가능합니다.\r 일본에서 택시 앱 사용 시간의 80%를 GO가 점유하고 있습니다.\r 이제 일본 이외의 휴대폰 번호로도 가입할 수 있습니다(모든 국가의 휴대폰 번호로 가입 가능).\r 한국어 이용 가능!\r \r * data.ai by Sensor Tower 설문조사 결과\r - 일본 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id1254341709",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.dena.automotive.taxibell",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/uMrUSUoWyUf4jxumxnI4_meHeArtOVghNRlGnS9bmJU0BlJFSU8dDTI4Vt5Si2Kc9o21TGs3VwzquqQpy_oaR0s",
+      "https://play-lh.googleusercontent.com/UQOE5vyY6yEj4nh0LqfVHRwGrt64JxhPZLZc39xnjda_0BOPDJ8gGjFUlD9v9r3-zqBLJiazUfH_-p0CKuwPLw",
+      "https://play-lh.googleusercontent.com/eRodRQgc1bglWu3xHDmRHC4BlGhwSnNg4eoHdyRdKg4svetfJsy4sWddFVNT1dDvOXEpsMcBOevy8uXrdt2I"
+    ],
+    "reviews": [
+      {
+        "user": "kye hwan Oh",
+        "text": "아래에 한국분이 한국 전화번호로 가입시 에러코드 40333 문제를 얘기하셨는데. 저도 동일 에러가 떠서 이것저것 만저보다가 알아냈습니다. 해당 에러코드는 wifi가 접속된 환경에서 발생하며 lte 및 5g의 데이터통신 환경에서는 발생하지 않았습니다. 다른 한국분 혹은 외국분들은 참고해주세요. 어플은 깔끔하고 사용하기 괜찮네요.",
+        "rating": 5
+      },
+      {
+        "user": "Wonpyo Hong",
+        "text": "도쿠시마 오도리축제 마지막날 버스가 만원이라 못타고 택시탐. 잘 안잡혀서 오래기다렸으나 결국 잡혀서 탔어요. 친절하고 길안내도 지름길로 빨리 가주셨음. 제일 좋은방법은 미리 일찍 나서서 장소로 가는겁니다.",
+        "rating": 5
+      },
+      {
+        "user": "김효섭",
+        "text": "사용하기는 좋은데 예상 요금과 실제 요금은 차이가 크네요",
+        "rating": 5
+      },
+      {
+        "user": "모든게지친다",
+        "text": "비자카드로 결제등록이 가능하고 택시가 빠르게 잡혀서 좋습니다",
+        "rating": 5
+      },
+      {
+        "user": "Kim Dickie",
+        "text": "택시는 잘잡힌다.. 그런데 수수료가 200엔이면 너무 한거 아니오?? 표시되는 가격도 아니고 한번부를 때마다 따로 200엔을 청구하다니... 재벌되시겠네요.",
+        "rating": 2
+      },
+      {
+        "user": "TAKAKO AMANO",
+        "text": "1회 이용 시 카드 결재 되는 5000엔 (5만원)에 대하여 명확한 정보 표시가 필요합니다. 여행 중에 장소 이동으로 인해 택시 신청과 취소가 여러 차례 반복되어 매회 보증금이 결재 되었습니다. 15000엔의 결재 금액으로 인해 카드 회사에서 연락이 왔습니다. 카드 분실 및 부정 사용에 대한 알림이 온 것 입니다. 5000엔이 결재 될 것이라는 알림도 확인 버튼도 없이 결재 되었습니다. 이 것은 매우 큰 문제입니다. 1일에 1회의 보증금이면 충분하지 않을까요? 이 앱을 사용하는 사용자는 반드시 주의 해야 합니다.",
+        "rating": 1
+      },
+      {
+        "user": "추성량",
+        "text": "사용하기편하고 정확함",
+        "rating": 5
+      },
+      {
+        "user": "팔촌당숙",
+        "text": "jcb 일본 카드브랜드이고 캐시백행사 한다고 하면서 왜 카드 등록이 안됩니까? 리뷰보니까 많이 그러네.걍 하던대로 우버나 쓸랍니다",
+        "rating": 1
+      },
+      {
+        "user": "ALBERO",
+        "text": "2400엔 요금에 수수료만 600엔이다. 해외이용수수료 200엔,앱수수료100엔,호출수수료300엔. 절대 안쓴다.",
+        "rating": 1
+      },
+      {
+        "user": "내일의기억",
+        "text": "카드등록시 1엔씩 결제만 되고 등록이 안됩니다. 카드등록 계속 실패. 1엔씩 5번 빠져나가자 카드사에서 이상하게 여겼는지 시간을 두고 결제하라고 하네요. 왜 안되나요?",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "10.4.5",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '일본현지 택시 앱 GO' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

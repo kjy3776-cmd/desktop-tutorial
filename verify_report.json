@@ -2494,11 +2494,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "일본현지 택시 앱 GO",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 455,
-    "skipped": 294,
+    "total": 456,
+    "skipped": 295,
     "has_issues": 161,
     "total_issues": 219,
     "fixed": 37
