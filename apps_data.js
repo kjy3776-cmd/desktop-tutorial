@@ -24096,7 +24096,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "5.3.1",
+      "ver": "5.3.3",
       "os": "-",
       "size": "-"
     },
@@ -33873,6 +33873,93 @@ const APPS = [
     },
     "installSteps": [
       "앱스토어/플레이스토어에서 '다톡 - 관심사로 만나는 온라인 채팅 친구' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
+  },
+  {
+    "id": 460,
+    "name": "오사카 지하철 - 환승 안내",
+    "slug": "오사카-지하철-환승-안내",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/6DnTdP-UgPHkc4V2OV2ati4aAc4ae4DHK6tqfOVhFwQMaGg3uznBTpjiqAloSO1im0C8jvd9Ws_eIOmG6-ZG",
+    "developer": "Jorudan Co.,Ltd.",
+    "desc": "Japan Transit Planner -Norikae Annai- 는 일본에서 가장 많이 다운로드되는 내비게이션 어플 [환승안내] 의 다중언어 버전입니다.\r 일본국내의 철도,비행기를 이용하신 경로,환승을 안내합니다.\r 출발역과 목적지역만 입력하면 간단하게 경로와 운임,소요시간을 검색할수 있습니다.\r 그리고 일본전국 전역 (일부 구간을 제외합니다)의 시각표를 수록하고 있기때문에 정확한 소요시간,승차시간을 계산할수 있습니다.\r \r 경로검색.쾌적한 이동을 서포트\r ・역명 예측기능,입력이역으로 간단입력\r ・현재위치를 이용하여 가장 가까운",
+    "iosUrl": "https://apps.apple.com/kr/app/id6747218379",
+    "androidUrl": "https://play.google.com/store/apps/details?id=jp.co.jorudan.nrkj",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/tOAIhiLFxRRKL7UR4iqyyr-kTi9uaspCDdzcXDcVfgTxf1rgzu7QXcfNImL_aR6jt2CllXJo0vbR-_hpC7PChm0",
+      "https://play-lh.googleusercontent.com/PdssPlv3cv8agRIBNLG3A4gPeNDQP0E762fGB9V9FGJVqDM3nBqZ9GrEaUiixrOP6EWOr-VF_BadvFDUJc1x",
+      "https://play-lh.googleusercontent.com/qlJcBJ6LpsjSLz0pIRzw27qmQp2Qnzf3Ecxv1h3ctF-TFGJ42tD1Yoej6bFdpfpcNEPeFqTppBUBaYwiM-awHDY"
+    ],
+    "reviews": [
+      {
+        "user": "Jo자유연상",
+        "text": "네이버 블로그에서 일본 전철앱으로 추천해서 사용해봤습니다. 출발역에서 목적역 까지 갈 수 있는 여러 경로를 보여줘서 좋았습니다. 이 앱을 사용할 때, 우리나라 네0버지도, 카0오맵 등 대중교통 앱과는 보는 방식이 다르니 참고하세요! 익숙해지면 매우 간결하고 편리하더라구요~ 여행 잘 다녀왔습니다~~",
+        "rating": 4
+      },
+      {
+        "user": "P Mr.",
+        "text": "덕분에 여행 잘 다녀왔습니다~! 정말 간단하고 쉽고 빠르게 모든 정보가 써있더라구요~ :) 저는 지하철과 전철도 모르고 ..ㅠ 처음에 보는 방법을 잘 몰라서 헤맸는데 간단하게 왕초보 팁을 알려드리자면! 1. JR 역은 따로 있기 때문에 J로 시작하는 역은 JR 노선이라 한국의 '전철'(ex. 지하철 내부와 속도에 개념은 무궁화호 느낌?) 느낌인 것 같아요~! 그래서 지하철 역에서 내리셨으면 JR역을 따로 찾아가야 합니다 ㅎㅠ 2. 검색하시면 먼저 열차 시간, 어디 방면(ex. 시나가와 행, 이케부쿠로행 …), 노선, 쾌속 or 로컬 인지 확인하셔야 합니다~! Ps. 로컬은 역을 '다' 들렸다 가는 거고 쾌속은 '건너뛰어' 가는거에요~! (다들 아시겠지만 지하철을 안 타는 자는 몰러서..ㅎ) + 저는 쾌속 타야 하는데 로컬타서 30분정도 늦게 도착한 일이 있었다는..ㅠ 잘 확인해보세요..😢 3. 몇 앤인지 써 있기 때문에 티켓이면 그냥 그 금액 결제하시고 노선만 확인하시면 됩니다~!",
+        "rating": 5
+      },
+      {
+        "user": "보미김",
+        "text": "업데이트 이후 불과 몇 주 전의 가격 및 경로와 차이가 많이 납니다. 최저가 기준으로 더 이상 뜨지 않는 이전 경로를 따로 검색해보면 여전히 운행 중인데 어째서인지 더 이상 상위에 띄워지지 않습니다.",
+        "rating": 2
+      },
+      {
+        "user": "임은미",
+        "text": "일본 큐슈여행 내내 길잡이가 되어 주었습니다 너무도 좋은 앱입니다 실시간 1-3가지 루트를 선택할 수 있게 해줍니다 시간절약, 레일패스를 효과적으로 사용할 수 있게 해주어요 추천합니다",
+        "rating": 5
+      },
+      {
+        "user": "김라늘",
+        "text": "일본 여행할때 마다 사용합니다 너무좋아요",
+        "rating": 5
+      },
+      {
+        "user": "Steven Park",
+        "text": "정확한 전철 이동으로 편리하게 출장 다녀옴. 다른 앱들은 이름과 내용들이 서로 달라 설치 후 짜증을 유도하지만 이건 기능에 충실함.",
+        "rating": 5
+      },
+      {
+        "user": "박장미",
+        "text": "지하철노선도 정말 잘 사용했습니다 최고~덕분에 몇번 이용하다보니 익숙해져서 구글지도랑 같이 이용했어요.감사합니다",
+        "rating": 5
+      },
+      {
+        "user": "이북극곰토마토",
+        "text": "이거 진짜 유용함 금액 시간, 승차 플랫폼 대부분 정확함... 진심 강추앱",
+        "rating": 5
+      },
+      {
+        "user": "hyojin won",
+        "text": "승강장 플랫폼도 다 알려줘서 여행중 제일 도움됐어요!",
+        "rating": 5
+      },
+      {
+        "user": "Y KIM",
+        "text": "업데이트가 안되네요 버스 검색했다가 현지에서 없어진지 꽤 됐다고 해서 낭패 봄 기차나 지하철은 잘 맞는데 버스는 안 맞음",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '오사카 지하철 - 환승 안내' 검색",
       "설치 버튼을 눌러 다운로드",
       "앱 실행 후 안내에 따라 이용 시작"
     ],
