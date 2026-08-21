@@ -34140,5 +34140,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 463,
+    "name": "Cloud Music-Download Songs Lab",
+    "slug": "cloud-music-download-songs-lab",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/H0Z_ZXlx4oq7rR2Wv3DmrWz4xmnO-F7wfjRSUVKnQv43nfuUcs9PF1rk6VFIKjnEvfHx_FucP2gZ_584KL2iPA",
+    "developer": "CloudLab by Dang Duy",
+    "desc": "좋아하는 **무료 클라우드 음악 플레이어**로 간편하게 음악을 다운로드하고 오프라인에서 감상하세요! 무제한 음악 라이브러리를 모든 기기에서 언제 어디서든 이용할 수 있습니다.\r \r **주요 기능**\r \r ● 음악 다운로드 지원 클라우드: Dropbox, Google Drive, OneDrive, OneDrive for Business, Box, pCloud, HiDrive\r \r ● 인터넷 연결 없이 사용 가능. 모든 음악 앨범, 재생 목록, 폴더 또는 파일을 기기에 다운로드하여 오프라인 모드에서 재생할 수 있습니다.\r \r ● 재생 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id1164826566",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.duydv.cloudmusic",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/t4Rlq_GpPAem_Mwm_pK94dYez1uhKGImCLIdsBzBU4Gfknd-KXq6hI-swHgYvHabFGTUXboq8ioDvGa7fqbcdQ",
+      "https://play-lh.googleusercontent.com/Gbj1e2w4rnOHtPUFUwNfYmvXpfEuZwftRsU05rzqG-loQ6wr5zC4yxFhkW-O11ffSnPzfZYPDkKQp8cgGU7OJQ",
+      "https://play-lh.googleusercontent.com/wICtXaRI7lcjFyFUz4LTfHuO9vRYBrglB9IJPIsOsVh99WZt1I9lcGs_ES2SqkiM5f2ac1IueklvVH3uYt6FLkQ"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Cloud Music-Download Songs Lab' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

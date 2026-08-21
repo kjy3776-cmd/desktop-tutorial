@@ -2520,11 +2520,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Cloud Music-Download Songs Lab",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 460,
-    "skipped": 298,
+    "total": 461,
+    "skipped": 299,
     "has_issues": 162,
     "total_issues": 220,
     "fixed": 37
