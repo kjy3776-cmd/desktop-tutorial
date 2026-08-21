@@ -33618,5 +33618,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 457,
+    "name": "Insight Timer - Meditation App",
+    "slug": "insight-timer-meditation-app",
+    "cat": "health",
+    "icon": "https://play-lh.googleusercontent.com/H7MMtGtHuKqoT73wpfXXuqBgufaw3k03jUG58cqwJ1KITPU6nY8c1cvdAYCNcZY7xRwKwi-G3W6yltje3VbMnfY",
+    "developer": "Insight Network Inc",
+    "desc": "* 올해의 앱 수상작 - TIME 매거진 및 Women's Health *\r * 세상에서 가장 행복한 앱 - 트리스탄 해리스 *\r \r 최고의 무료 명상 앱입니다. 스탠포드, 하버드, 옥스퍼드 대학교 등의 최고의 명상 및 마음챙김 전문가, 신경과학자, 심리학자 및 교사가 진행하는 명상 안내, 수면 음악 트랙 및 강연입니다. 세계적으로 유명한 아티스트의 음악 트랙. 마음을 진정시키고, 불안을 줄이고, 스트레스를 관리하고, 깊은 잠에 도움이 되는 Insight Timer 명상 학습을 배우는 수백만 명의 사람들과 함께 하세요.\r \r 매일 ",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.spotlightsix.zentimerlite2",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/pP_uhSewhI9EvlWJRSZC40nJwt2oNq5LP74wHL5lYXsWykhk4zCqEG-VMI_Cna8qEMlfeTjlJY1EVJvZmgP3kw",
+      "https://play-lh.googleusercontent.com/0GxoI0wPyXUT-r59aCTon9Qgmrwoohi_LT42pr4IHro-CRqcCA8a1NDzxmheFWHi78zWSpvEDTlQxaV8SBiS",
+      "https://play-lh.googleusercontent.com/KrVIIPT9EEH0NMimgtHSx4VdqSEG2ubTu0Y3hukkCvvzOUhULa4P7PoBQqxoqBrDu4-LRls40ncSq5M-pV9iLBU"
+    ],
+    "reviews": [
+      {
+        "user": "연푸른달",
+        "text": "일단 일본앱인가요? 지원언어에 많은 언어들이 있었지만 영어와 일본어 위주로 지원되는것 같고 한국어 설정은 컨텐츠 설명에만 가능했습니다 음.. 무료컨텐츠부분은 조금더 경험해봐야겠지만 일본어 공부에 도움이 되는 명상앱이란 부분에서는 신선하네요",
+        "rating": 4
+      },
+      {
+        "user": "Ye-eun Kim",
+        "text": "변경내용이 실시간으로 반영되지 않고, 그룹 초대링크 보내는 게 거의 안되네요 ㅠ 그리고 그룹 가입 신청 내역도, 신청했다고들 하는데도 안뜨고요... 안드로이드라 안되는 걸까요... 기능 자체는 좋은 게 많은데 구동이 잘 안되는 느낌이에요",
+        "rating": 3
+      },
+      {
+        "user": "ddim kd",
+        "text": "잘 사용했었는데 얼마전부터 인터벌 벨이 울리질 않아요. 화면 터치하면 그때 벨이 울려요. 전혀 기능을 못하고 있어요. 업데이트는 수시로 하라고 오는데 여전히 이 문제 해결이 안되네요.",
+        "rating": 4
+      },
+      {
+        "user": "Google 사용자",
+        "text": "혼자 조용히, 스트레스 해소가 필요할 때 아무때나 이용할 수 있어서 너무 좋습니다. 무료 컨텐츠 좀 이용해보다가 괜찮으면 연간 구독하려고요.",
+        "rating": 5
+      },
+      {
+        "user": "이지원",
+        "text": "앱이 일본어로 나와요. 두번 세번 반복해서 다시 깔아도 일본어에요. 리뷰에도 똑같은 문제 제기하는 분들 있던데 이거 좀 빨리 고쳐주세요.",
+        "rating": 4
+      },
+      {
+        "user": "deepciel White",
+        "text": "명상할때 스마트폰 기본 시계앱만 사용하다 처음 써보는데 참 편리합니다 무료기능만 써도 충분히 만족스럽습니다",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "무료로 들을 수 있는 가이디드 명상도 많고 일반 명상도 데이터가 남아 표시되어 꾸준히 하는 사람에게 자료를 제공해주고, 전세계 명상 하는 사람들과 연결되어 표시되는 명상커뮤니티 분위기도 있어 좋음. 활용 잘하면 부족할 게 없는 명상앱.",
+        "rating": 5
+      },
+      {
+        "user": "s h I",
+        "text": "광고없이 잘 기록하고 있어요. 번잡스럽지도 않고 화려하지도 않아 딱 너무맘에 듭니다.",
+        "rating": 5
+      },
+      {
+        "user": "Joon Min Chung",
+        "text": "아주 편하고 퀄리티 있는 타이머 매일 명상시간을 체크해 주는것이 좋아서 사용중",
+        "rating": 5
+      },
+      {
+        "user": "May Jo",
+        "text": "엄청나게 많네요. 무료도 많구요. 영어 좋아하는데 정말 일석이조에요. 영어공부도 같이 되고 진짜 긋",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "20.30.1",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Insight Timer - Meditation App' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

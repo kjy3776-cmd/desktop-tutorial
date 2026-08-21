@@ -2488,13 +2488,19 @@
       "name": "짐워크 - 헬스 홈트 운동일지 운동기록 루틴 다이어트",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Insight Timer - Meditation App",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 454,
+    "total": 455,
     "skipped": 294,
-    "has_issues": 160,
-    "total_issues": 218,
+    "has_issues": 161,
+    "total_issues": 219,
     "fixed": 37
   }
 }
