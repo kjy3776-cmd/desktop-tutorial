@@ -2530,11 +2530,16 @@
       "name": "포켓 정렬 (Pocket Sort): 동전 병합 퍼즐",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Pokopedia: 포코피아 도감 & 가이드",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 462,
-    "skipped": 300,
+    "total": 463,
+    "skipped": 301,
     "has_issues": 162,
     "total_issues": 220,
     "fixed": 37

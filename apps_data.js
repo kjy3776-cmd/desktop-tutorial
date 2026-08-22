@@ -34263,5 +34263,47 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 465,
+    "name": "Pokopedia: 포코피아 도감 & 가이드",
+    "slug": "pokopedia-포코피아-도감-가이드",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/GKgH0ePI8wN7376UpRvkPQ0VgLjzd2RQQpvIFPsBBSTvQrBpbkuw_bQDPNQstDUfvjwPfCFdxOR0WD8fdVqNsA",
+    "developer": "hiugo",
+    "desc": "Pokopedia는 Nintendo Switch 2의 포켓몬 포코피아를 위한 비공식 팬메이드 가이드입니다.\r \r 중요: 이 앱은 닌텐도, 게임프리크, 주식회사 포켓몬, 그리고 포코피아의 개발사 또는 배급사와 아무런 제휴 관계가 없으며, 이들의 보증이나 후원을 받지 않았습니다. 게임 내 모든 이름과 상표는 각 소유자의 재산입니다. 이 앱은 독립적인 팬메이드 프로젝트입니다.\r \r 희귀한 포켓몬을 끌어들이는 배치 패턴을 찾거나, 컬렉션을 추적하거나, 요리 레시피를 확인할 때 Pokopedia가 도와드립니다.\r \r 새 소식: 보글보글 해저",
+    "iosUrl": "https://apps.apple.com/kr/app/id6759828943",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.hiugo.pokopedia",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/-_Ju3U7nck73S1mKHqgDbYM7ChofgO_lr3PNPHM5gf2rkFUQzHDXeYt7aCb4YXl92fp5VsUx62IeQmgW7TJtcdk",
+      "https://play-lh.googleusercontent.com/TBAVrrk-7mzHmrTgd42HpLAzjfmJWZIQoANwvDKe6ZonfpE3uMVOm-j7CpDR92_aFKXiZADjJmpKLS4up3XOww",
+      "https://play-lh.googleusercontent.com/-BaPcdKdhnlZobA46JSbLLl-157iC-8k2bQJAsO75eEvFIhI6IFPoxTOzmxMfzsOtOftLDghhCipGqyrHn5_xA"
+    ],
+    "reviews": [
+      {
+        "user": "박지영",
+        "text": "게임에서의 아이템이나 서식지 명칭과 일치좀 시켜주세요~~~",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.4.7",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Pokopedia: 포코피아 도감 & 가이드' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
