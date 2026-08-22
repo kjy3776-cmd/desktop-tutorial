@@ -2535,11 +2535,16 @@
       "name": "Pokopedia: 포코피아 도감 & 가이드",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "울룰루 - 여행계획·여행일정·여행기록을 한번에",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 463,
-    "skipped": 301,
+    "total": 464,
+    "skipped": 302,
     "has_issues": 162,
     "total_issues": 220,
     "fixed": 37
