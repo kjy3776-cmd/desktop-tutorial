@@ -34602,5 +34602,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 470,
+    "name": "Lifestyle Rewards",
+    "slug": "lifestyle-rewards",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/ey73EDFQby60iMih5FkPE8Iy_ZvzRsLTJg5X6mv3gZuNB3GHhZ08d5nQLeTw0-Mddtm63hud5C8IXka7Nl47ow",
+    "developer": "Legacy Lifestyle.",
+    "desc": "휴대폰에서 몇 가지 간단한 단계만으로 캐시백 리워드, 특별 혜택, 할인 혜택을 누리세요. 무료로 가입하고 남아프리카 공화국 및 전 세계 파트너 브랜드의 광범위한 네트워크를 경험해 보세요.\r \r 좋아하는 곳에서 실제 캐시백을 적립하세요\r 쇼핑, 식사, 숙박 등 다양한 활동을 즐기며, 지출 시 라이프스타일 랜드를 적립하세요. 라이프스타일을 더 많이 누릴수록 더 큰 보상을 얻을 수 있습니다.\r \r 라이프스타일 리워드의 장점\r • 로열티 카드 없이 온라인과 매장에서 라이프스타일 랜드를 적립하거나 사용할 수 있습니다!\r • 이해하기 쉬움: ",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.llmobile",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/c8eP1K1m31dtK21EzVAT8tVtmM6UeRGlKBgFd9iaqnDNCk3uIGsYmpcFr_a6bmDKI0lzQHpVHal80q8yh5yk",
+      "https://play-lh.googleusercontent.com/lWgdf4L-kssblygXagEBiCEjAyxQFG1VVLva3Y0QnhQZDKx3AD_vdz3VZTSTfHcUPVuvf-ZSSvYGI2ziV1Wjsg",
+      "https://play-lh.googleusercontent.com/j9QLYpWb-7kfzAgV8vIsgwJ0AQmNNZs0MgU1RMQ9qk2d8P8QY9dvEbTiXVLr_0d09Jec3hl-7dQzTvri_b5IJw"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Lifestyle Rewards' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
