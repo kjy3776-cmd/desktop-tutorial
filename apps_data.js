@@ -34479,5 +34479,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 468,
+    "name": "Modern Village Lifestyle",
+    "slug": "modern-village-lifestyle",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/wEX7ci7hL8TJDvyzxCfLiPtDSzJDDginKksaAwUtlnH5QsR0DKBp2aWyjNpYgsqV6RAKHjTSs_nKiB9IneJ2sA",
+    "developer": "M Village",
+    "desc": "모던 빌리지 라이프스타일(Modern Village Lifestyle)에서 5개 도시, 6개 브랜드에 걸쳐 50개 이상의 호텔과 리조트를 만나보세요. 다채로운 숙박, 특별한 경험, 그리고 모어 리워드(More Rewards) 회원만을 위한 특별 혜택을 제공합니다.\r \r 더욱 풍성한 숙박, 더욱 풍성한 리워드, 더욱 다채로운 경험을 만끽하세요. 모던 빌리지 라이프스타일 앱을 통해 더욱 풍성하고 편리한 여행을 즐겨보세요.\r \r 앱에서 직접 예약하고 모던 빌리지 라이프스타일에서만 제공되는 특별 혜택을 누려보세요. 모든 여행이 순식간에 더",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.mvillage.app",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/yfgBsExVASQadXDAsWgg0E0c-B95df9mLQlUKGAdQwyZKL-UI8Bs31AYQkwW9X8NyeBz_mr5oYeJTVvhkIEQmQ",
+      "https://play-lh.googleusercontent.com/qgKOR2kvKx2_DYaC69DSfupeuzsNxctIrom-aEgjh47snHEXyI_HfFuCNITpxuuuRkXwoGK7lEygmuMSDrUnOQ",
+      "https://play-lh.googleusercontent.com/S5dCAh6wimVFsNkw-ZcHj9UuzGu7zI5-EFM9w5jHAfIchJ89RzB3_jS_QdSgNpaPXK0tXSRf_lyvtZsm9Ge0UWo"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Modern Village Lifestyle' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
