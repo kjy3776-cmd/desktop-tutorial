@@ -34515,5 +34515,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 469,
+    "name": "Shopee 7.7 Ưu Đãi Đón Hè",
+    "slug": "shopee-77-ưu-đãi-đón-hè",
+    "cat": "shopping",
+    "icon": "https://play-lh.googleusercontent.com/LvaVHMxDqCspNmF9WHro6wkNW9JK5cXxDAm_WRgR8mNSJqo69JVZldu5QsmB_NqnCLvKKhNw1ss4xIXrUtbvJA",
+    "developer": "Shopee VN",
+    "desc": "쇼피 9.9 슈퍼 쇼핑 데이에서 놀라운 혜택을 놓치지 마세요! 초고속, 초저가!\r 무료 배송(*)\r 8월 26일부터 9월 11일까지\r (*) 프로그램 세부 정보(제외 품목 포함)는 쇼피 앱의 무료 배송 페이지에서 확인하세요.\r \r 쇼피에 오신 것을 환영합니다! 온라인 쇼핑과 엔터테인먼트의 모든 것을 쇼피에서 만나보세요.\r \r 언제 어디서든 빠르고 편리한 온라인 쇼핑\r ● 국내외 온라인 쇼핑에서 다양한 특가 상품을 만나보세요. 생활용품, 패션, 화장품은 물론 서비스 상품권과 휴대폰 충전도 가능합니다.\r \r ● 쇼피 앱에서 쇼피푸드를 ",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.shopee.vn",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/p4GFaZcO0pWrDXn2tojeXnD-0SzBei1pyhh1O9zEHheYZTvfpzONNyX5hoCv45kF9rHUF8TKp836a6ENryFxMw",
+      "https://play-lh.googleusercontent.com/3Owc-vZu9qjPDEsyWY47mxgb6X71ukUUHgrNp3IcZlaV_7C9CWYYrj2jprtSZNG-uGY4mv2O3TPJCRKzv--Jeuc",
+      "https://play-lh.googleusercontent.com/SxXDTvpauR5xytWGZ-YJrbMdoSGtHGHTRe_oU9WIPhA4zU9DdeYE-73ldR9tXpeu04ndjdGEzd_sdGkBLPf27Q"
+    ],
+    "reviews": [
+      {
+        "user": "김인섭",
+        "text": "도대체가 배송하면서 연락도 없고 뭐 어쩌라는 건가요. 언어는 현지 어플이니까 어쩔수 없다 칩시다. 배송 알림이 없는건 기본이고, 언제오는지 적힌 날짜도 정확하지 않으며, 연락도 없이 그냥 돌아가거나 하는건 무슨 경우입니까. 그리고 도대체 문자를 보내면 왜 답장을 안해주는건가요? 한국은 쿠팡이 있는게 정말 행복하고 편리한 거라는걸 느끼게 해주는 앱입니다.",
+        "rating": 1
+      },
+      {
+        "user": "호롤룰류",
+        "text": "저 같은 경우에는 라자다와는 달리 사진과 다른 제품이 오는경우가 없었습니다. 처음에는 라자다만 이용했었는데 지금은 쇼피만 이용합니다. 판매자도 쇼피챗으로 품절이나 재고상황 연락도 잘되고 계속 이용하다보면 등급이 상향되어서 월 배송비 쿠폰이나 여러가지 할인 바우처 사용이 많아서 좋네요~",
+        "rating": 5
+      },
+      {
+        "user": "Thoa kim",
+        "text": "쇼피 정책이 셀러에게 적당하지 않아, 고객들에게만 생각해 주는 것같다. 특히 환불 받고 제품도 갖을 수 있는 정책을 아는 고객들이라면 이 점을 이용해서 일부러 셀러를 어럽게 할 수 있다. 정말 답이 없고요. 그리고 2만원 미만 제품들을 현지 쇼피에게 반송해도 셀러에게 반송해주지 않은 것 때문에 구매 의사 잘 변심하는 베트남 고객들한테 정말 손해 많이 당했습니다.",
+        "rating": 1
+      },
+      {
+        "user": "임재민",
+        "text": "베트남에 살면서 이 앱을 사용해야겠다고 생각이 들었지만 한글 지원이 되지 않아서 조금 힘듭니다. 다른 건 몰라도 한글로 검색이 됐으면 좋겠어요. 아니면 영어로라도 검색이 됐으면 좋겠네요. 검색이 너무 힘듭니다.",
+        "rating": 3
+      },
+      {
+        "user": "설레임leapup",
+        "text": "좋은 물건들을 좋은 가격에 잘 사고 있습니다. 가끔 매우 이상하고 조잡스러운 물건을 보내는 판매자가 있지만 쇼피에서 환불을 잘 해줍니다. 귀찮고 번거롭지만, 꼭 박스를 열 때, 동영상을 촬영합니다. 원활한 베트남어 의사소통이 어려운 외국인이라 나중에 증빙자료로 쓰기에 좋아요.",
+        "rating": 5
+      },
+      {
+        "user": "C J",
+        "text": "라자다와 쇼피 함께 사용하고 있는데 라자다보다 훨씬 물건도 다양하고 쌉니다. 지금껏 양쪽 쇼핑몰에서 구매한 물건이 대략 백여건이 넘는 것 같은데 사기당한적 없고 화장품 전자기기 생필품 비싸고 싼거 다 주문해봐도 문제있던적은 거의 없었습니다. 개인 차이겠지만 물건하나 살 때 사소한거라도 신중하게 고르는 편이라 싸고 좋은물건 샀던 확률이 더 높았던 것 같아요.",
+        "rating": 5
+      },
+      {
+        "user": "심윤실",
+        "text": "좋은제품은 많은데 한국어로 볼수있으면 좋겠어요",
+        "rating": 2
+      },
+      {
+        "user": "Young Woo Yoon",
+        "text": "세일하는 상품이 많으며 거의 대부분 상품이 있음. 판매 위치, 판매된 수량 표기 등 필터기능이 구매에 유용함 판매자가 재고를 가지고 있지 않아 자동으로 구매 취소가 되는 경우가 종종 있으며, 매장 문의 시 응답속도가 느리거나 응답이 없는경우가 있어 관리가 필요함...",
+        "rating": 5
+      },
+      {
+        "user": "Donghee Kim",
+        "text": "앱이 너무 무겁고, 리소스를 너무 많이 잡아먹는다. 또한, 앱내 동영상 자동재생이 데이트 소모의 주요 요인이다. 즉, 최적화는 개나 줘버린 앱이다..",
+        "rating": 2
+      },
+      {
+        "user": "Chao Chicken Vietnam 베트남 짜오 사장 (베트남 짜오)",
+        "text": "쇼피는 처음 사용하는데 라자다 보다 상품 안전성 가격 제품반환 맘에들고 상품도 많아졌고 제일 중요한게 현금 으로 구입 할수 있는게 너무 좋네요 (근데 가혹 짝퉁 제품) 걸러야 합니다 그건 라자다도 같아요",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "3.80.37",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Shopee 7.7 Ưu Đãi Đón Hè' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
