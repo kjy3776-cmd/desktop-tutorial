@@ -2540,11 +2540,16 @@
       "name": "울룰루 - 여행계획·여행일정·여행기록을 한번에",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "패왕의별M:한국무협 IP 1억뷰기념 1억은자 지급",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 464,
-    "skipped": 302,
+    "total": 465,
+    "skipped": 303,
     "has_issues": 162,
     "total_issues": 220,
     "fixed": 37
