@@ -2525,11 +2525,16 @@
       "name": "Cloud Music-Download Songs Lab",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "포켓 정렬 (Pocket Sort): 동전 병합 퍼즐",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 461,
-    "skipped": 299,
+    "total": 462,
+    "skipped": 300,
     "has_issues": 162,
     "total_issues": 220,
     "fixed": 37
