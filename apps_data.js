@@ -34638,5 +34638,67 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 471,
+    "name": "AskSia: AI 학습 도우미 노트 숙제",
+    "slug": "asksia-ai-학습-도우미-노트-숙제",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/0ncm5LzpjRsGd_Vqp9SHMK-NJMePytkzIObFd1SMVHTt9hX08o9bqcZarqgRM1i4mlilHuFe810Vsd2b1Q3pHQ",
+    "developer": "Asksia Inc",
+    "desc": "Sia, 당신의 AI 학습 도우미\r \r 더 똑똑한 공부는 여기에서 시작됩니다\r \r AskSia는 학습 자료 업로드, 강의 녹음 전사, 질문하기, 노트 정리까지 모든 기능을 하나의 플랫폼에서 제공합니다. 학생을 위해 설계되었습니다.\r \r 무료 기본 플랜\r \r 월 300분 오디오 전사\r \r 월 100페이지 PDF 처리\r \r 일일 AI 질문 횟수 제한 있음\r \r 프리미엄 구독 (앱 내 구매 필요)\r \r PLUS 플랜 (월 $14.99)\r 일반 학습자에게 적합:\r \r 1,000페이지 문서 처리 (PDF, DOCX, PPT 포함)\r \r 무제",
+    "iosUrl": "https://apps.apple.com/kr/app/id6746232496",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.asksiaorg.asksiaapp",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Wt1MIUZcrwfzRTD7jH1LS4O3Fm8OMhrQqPAJ5toVEYn_Xeyou4hor72pd9KP7u_Eg6spEWvichTeYka0j6YMTQ",
+      "https://play-lh.googleusercontent.com/5brtdYYtmWMcl8fsp_kqY_VKIFtR7x_WdVwuJO5XPTtUGVp8ETiGq6K7MjiTHocWrDJ2EGG9iyjZqIRI5FxO",
+      "https://play-lh.googleusercontent.com/1Ercpa06Pl-6j4Rg5vEhnXE6UwPZQxBRo9cOXsUjv7UYVOlTNqSfWcC7PvTn3C0vVquLidT4LM1yzJaBgI4v4g"
+    ],
+    "reviews": [
+      {
+        "user": "MJ KIM",
+        "text": "a+ 플랜 3일구독후, 성능이 마음에 들지 않아 계정을 삭제했음. 플랜해지 방법도 찾아봤는데 내 계정에 구독형식도 표시되지 않아서 그냥 탈퇴했었는데 25$가 청구되면서 결제까지 완료됨. 기존 계정과 같은 아이디를 다시 복구하고 환불 메일도 넣었지만 답장이 없고, 새로 만든 아이디는 플랜구독도 안되어있는 상태로 돈만 빠져나간 상태임. 고객 응대는 이메일에 대한 답장도 없는 최악에, 앱 성능 자체도 별로라고 생각함.",
+        "rating": 1
+      },
+      {
+        "user": "노형선",
+        "text": "월간으로 구독해서 쓰고 있는데 정기구독 알람이 계속 뜨다가 구독 취소되고 환불되는데 어떻게 하라는건가요? 일단 다시 결제 했는데 또 오네요",
+        "rating": 5
+      },
+      {
+        "user": "이근혁",
+        "text": "이메일을 입력해도 계정 삭제가 안 됨 어떻게 해요?",
+        "rating": 1
+      },
+      {
+        "user": "H. Lee",
+        "text": "not good. I want a refund Gemini is better solving undergrad-level provlems",
+        "rating": 2
+      },
+      {
+        "user": "김태후",
+        "text": "좋습니다.",
+        "rating": 3
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2.10.1",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'AskSia: AI 학습 도우미 노트 숙제' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
