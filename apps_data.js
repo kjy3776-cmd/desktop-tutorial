@@ -34823,5 +34823,62 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 474,
+    "name": "BookMyShow | Movies & Events",
+    "slug": "bookmyshow-movies-events",
+    "cat": "entertainment",
+    "icon": "https://play-lh.googleusercontent.com/TB_8RMvDjxGmx06LBK-8opRFJ0msb6hSZalEtOMBmxgJ4jYE_i0BmdRuMWChCE76tLnxoytZ75Cew_r0_JDd",
+    "developer": "Bigtree Entertainment Pvt. Ltd.",
+    "desc": "모든 엔터테인먼트를 BookMyShow에서 만나보세요!\r \r 웅장한 콘서트와 최신 블록버스터 영화부터 스릴 넘치는 스포츠 경기, 연극, 그리고 모든 라이브 공연까지, BookMyShow에서 모두 찾아보실 수 있습니다. 잊지 못할 경험을 원하신다면, 이 앱을 스마트폰에 꼭 설치하세요!\r \r 어떤 기분이든 BookMyShow에는 모두를 위한 즐거움이 가득합니다. 최신 개봉작을 최고의 대형 스크린으로 감상하고 싶거나, 친구들과 함께 최고의 공연을 즐기고 싶다면 BookMyShow가 정답입니다. 가족과 함께 즐거운 시간을 보낼 수 있는 다",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.bt.bms",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/K5DxYwf0LYkhJzWgJ_r5HamZSuTI4vdi_5UG_verFpuCooY1brMaA4DmhSAHQeLH93BMAPcUxENAFazo_IPl",
+      "https://play-lh.googleusercontent.com/t_fk3fmwlfnAbWJPN7iPR_LN8eq54A8nZ4ka3DXW2VPLo9eL-HKMdSvXxcGc4tFoVRmT6B7fumgqJ0IYa3qLPg",
+      "https://play-lh.googleusercontent.com/7YeJOTgYZfSois2KkdBiVwlCx9jTi9IRc9NIUpITwrTKhtSJfIOtJ9LN5Ru5gyFs2bbvDDeBjGN4UznQ1GQu8ro"
+    ],
+    "reviews": [
+      {
+        "user": "Google 사용자",
+        "text": "Good",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "과연 적립될까?",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "한마디로편리하다",
+        "rating": 4
+      },
+      {
+        "user": "Google 사용자",
+        "text": "굿굿",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "18.2.7",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'BookMyShow | Movies & Events' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

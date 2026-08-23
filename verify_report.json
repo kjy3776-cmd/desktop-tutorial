@@ -2582,13 +2582,19 @@
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "BookMyShow | Movies & Events",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 471,
+    "total": 472,
     "skipped": 305,
-    "has_issues": 166,
-    "total_issues": 227,
+    "has_issues": 167,
+    "total_issues": 228,
     "fixed": 40
   }
 }
