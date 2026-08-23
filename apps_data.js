@@ -34787,5 +34787,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 473,
+    "name": "Olympus AI Lifestyle Journal",
+    "slug": "olympus-ai-lifestyle-journal",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/glP6icvTBGGt_PYPR-leQpmOrUoZD_hA9vHkfVunNBFVPrQFTIC1pNDzng8LwyUzwpy6NrucuIvt1EtBWNxf",
+    "developer": "Olympus AI",
+    "desc": "올림푸스 AI – 더 스마트한 삶을 위한 일기 쓰기\r \r 올림푸스 AI는 매일의 일기 쓰기를 개인적인 성장으로 바꿔줍니다. 말하거나 타이핑하기만 하면, 올림푸스 AI가 당신의 기분, 스트레스, 목표, 사고 패턴을 분석하여, 당신의 생각과 함께 진화하는 인사이트, 메시지, 그리고 라이프스타일 팁을 보내드립니다.\r \r 핵심 기능\r • 음성 및 텍스트 저널링 - 자유 형식 또는 가이드\r • AI 인사이트 - 기분 차트, 스트레스 수준, 목표, 관심사\r • 스마트 프롬프트 - 이전 기록을 기반으로 한 개인화된 일일 성찰\r • 대시보드 추적",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.olympus.olympusai",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/7PL5o5_iQIRietZYzYZ15X7nKCKMSQHAwck4pdvHy1mhQKyw-zqSxwBQjStZ-19mF6dDxbjwKioutt0qfXCg6A",
+      "https://play-lh.googleusercontent.com/Rfezy1nNQPcTAFLgvmzglsd4P927Z92L5phCE-cJ92ggkxib925ynaCEzyV6DCJrDa94Pp8jN1BkGGSjBQCxrQ",
+      "https://play-lh.googleusercontent.com/KF0v6rSA6SpmS9PUJnGDjsyG6csLPKrEEOyy4OnOroNKk8THtvpVD_qseosPCl5Q-Pt5dYCxNhD2HPwmB2H4"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Olympus AI Lifestyle Journal' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

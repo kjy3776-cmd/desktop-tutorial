@@ -2575,13 +2575,20 @@
       "name": "시티 - 우리의 새로운 티켓북",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Olympus AI Lifestyle Journal",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 470,
+    "total": 471,
     "skipped": 305,
-    "has_issues": 165,
-    "total_issues": 225,
-    "fixed": 39
+    "has_issues": 166,
+    "total_issues": 227,
+    "fixed": 40
   }
 }
