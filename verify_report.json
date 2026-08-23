@@ -2570,11 +2570,16 @@
       "name": "AskSia: AI 학습 도우미 노트 숙제",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "시티 - 우리의 새로운 티켓북",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 469,
-    "skipped": 304,
+    "total": 470,
+    "skipped": 305,
     "has_issues": 165,
     "total_issues": 225,
     "fixed": 39

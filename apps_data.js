@@ -34700,5 +34700,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 472,
+    "name": "시티 - 우리의 새로운 티켓북",
+    "slug": "시티-우리의-새로운-티켓북",
+    "cat": "entertainment",
+    "icon": "https://play-lh.googleusercontent.com/ZtjAmtXNVdcI92U69AqkrXpRpIcHNdJCIQ76anqYoqQi_3KLPChKFybJms46ujRGZBBZGv9tBe8m7MVyQQrccgc",
+    "developer": "시티",
+    "desc": "● 예매 내역으로 쉽고 빠르게 티켓을 등록해요.\r \r 흩어져 있던 예매 내역을 주요 예매처에서 불러오거나, 이미지 인식으로 관극 일정을 티켓북에 간편하게 등록할 수 있어요. 예매처에서 불러올 수 없는 양도 티켓도 캡처 한 장이면 충분해요.\r \r ● 티켓북 캘린더에서 내 관극 일정을 한눈에 확인해요.\r \r 등록한 티켓을 바탕으로 관극 일정을 캘린더에서 바로 확인해 보세요.\r \r ● 티켓과 함께 사진을 저장해요.\r \r 관극의 모든 순간을 사진과 함께 기록해 보세요. 공연별∙회차별로 사진을 모아보고, 용량도 편리하게 관리할 수 있어요.\r",
+    "iosUrl": "https://apps.apple.com/kr/app/id6746325816",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.remarkable.siti",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/VwHH7DcS39VGGY4KdXAsT0hnvWwLIwv2Vsn2SJQ_3vBMk6hhwGwSHbDhF0RNT7naPHT14AS_mEuBnKD18RsfRWY",
+      "https://play-lh.googleusercontent.com/pxi_RHkflSd9A6NKJn2jHcu18B96Kr_cMPWRa1zui8zyMl9HKYqROztPwMbkZB03Wrk-j8aLOQuPmcGX0Ar7fw",
+      "https://play-lh.googleusercontent.com/3w9zoTpoOiKXx65bsxEVwFfG34VV4RfhaPw-_iWXb8muo3BCohRWRiSAwZ2oR27oT68STERdLvco9Ph1YKRYWg"
+    ],
+    "reviews": [
+      {
+        "user": "김영은",
+        "text": "모든부분에서 너무나도 좋지만 비교적 작은 규모의 연극을 많이 보는 사람 입장에서 단기간 진행된 작은 규모의 공연을 기입하지 못하는게 아쉽습니다. 앱 자체에서 그런 작은 공연까지 집계하는 게 힘든걸 알지만 그게 어렵다면 따로 기입해서 표시라도 해둘 수 있으면 좋을 것 같습니다,, 한눈에 봤던 공연을 전부 보고싶은데 그런 소소한 공연들을 제외하고 봐야하니 아쉽습니다!!",
+        "rating": 4
+      },
+      {
+        "user": "첼도",
+        "text": "그 혹시 버튼 누를 때 진동 좀 없애는 기능은 없는지.... 수정+) 진동 on/off 기능 생겼네요 감사합니다!",
+        "rating": 5
+      },
+      {
+        "user": "이미정",
+        "text": "일단 앱이 예쁘네요. 하나씩 좋은 기능 생기는 거 같아서 앞으로가 기대됩니다.",
+        "rating": 5
+      },
+      {
+        "user": "엘프세라 (리카제)",
+        "text": "진짜 너무 좋은 앱인데 혹시 놀도 추가해주실수 없나요? 놀티켓은 있는데 놀(전야놀자)가 없어서 조금 아쉬워요 놀과 놀티켓과 연동이 안되서 놀에서 결제한건 티켓 직접 등록 밖에 안되서 아쉬습니다..",
+        "rating": 5
+      },
+      {
+        "user": "노윤서",
+        "text": "어플 '놀 티켓' 말고 '놀(야놀자)'에서는 티켓 등록이 불가능한가요? '놀'에서 잡은 티켓은 '놀티켓' 앱에서 확인이 안되네요",
+        "rating": 4
+      },
+      {
+        "user": "kwssong",
+        "text": "티겟 초대권 준다고 해서 깔았는데 뭐 어떻게 하는 건지 설명대로 따라 해도 안되고... 얍삽한 거짓 마케딩에 속은 거 같습니다",
+        "rating": 1
+      },
+      {
+        "user": "쨩페럿",
+        "text": "예매내역 불러오기 너무 느리고 자꾸 관극 날짜를 다음날로 인식해요 .... 느린거 이런것보다도 관극 날짜 안틀리는게 제일 중요한거 같은데 ㅜㅜ",
+        "rating": 3
+      },
+      {
+        "user": "김수현",
+        "text": "관극 일정 관리하기 편해요!",
+        "rating": 5
+      },
+      {
+        "user": "Il Jun Kook",
+        "text": "오.. 드디어 원하던 서비스가 나왔군요..! 와이프에게 추천하니 상당히 좋아하네요 ㅎㅎㅎ",
+        "rating": 5
+      },
+      {
+        "user": "얍얍",
+        "text": "월요일에 관극이 입력되지 않습니다🥲 확인부탁드려요",
+        "rating": 4
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2.5.1",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '시티 - 우리의 새로운 티켓북' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
