@@ -34880,5 +34880,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 475,
+    "name": "ABC Games: Phonics & Tracing",
+    "slug": "abc-games-phonics-tracing",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/5ZSQgpFiikNLhXOYv1vOg6zgQjWrLumoes1idKUOcjIkO0FjN_MjUt1F8vCjObFDkwWOTY3V2zho9B-l5ysD",
+    "developer": "Bebi Family: preschool learning games for kids",
+    "desc": "ABC Kids Learning game - 유치원 아이들을 위한 재미있는 알파벳 학습 방법.\r 어린이를 위한 교육용 ABCD 게임은 유아도 사용할 수 있는 간단한 인터페이스로 글자와 파닉스를 배우는 데 가장 매력적이고 효과적인 방법으로 설계되었습니다.\r \r 파닉스가 있는 아이들을 위한 2개의 ABC 게임은 재미있는 삽화, 사운드 및 효과를 가지고 있어 미취학 아동이 영어 글자 학습 경험을 더욱 즐겁게 만들 수 있습니다.\r \r 어린이 교육 앱은 글자를 배우는 데 이렇게 효과적이었던 적이 없었습니다. 미취학 아동은 자신이 배우고 있다",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.kids.learn.reading.app",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/ZfstOWPxdHgzKyY92QZfTwELTPUgBrEViJZ2PFe0xOCRiuHc623zT0YaGp9oysHdwO7qw4su65qX89xUfUHZsA",
+      "https://play-lh.googleusercontent.com/3OWn7MNtirxcWKv-G81GE4htFsoK0ftGY_DUjOMThuFuo_BaGLqQTrgIOthqEif59dLlYhw045wcl5SH18z3Dg",
+      "https://play-lh.googleusercontent.com/B2qk5jMBzuw720Wd_XFGGgkz2_d-Ue1hAAR2XFwsp9iBRrNYPAsB1YbaSt9bS0eQbdXGJq-zq2j_53q5rNiZp8w"
+    ],
+    "reviews": [
+      {
+        "user": "이채준",
+        "text": "광고두 없구 돈두 안내도 그냥할수있어서 너무 좋았어요 또 아이가 너무 좋아하더라구요 근데...... 아이가 3살 되고나서 시시 하데요ㅜㅜㅜㅜ 별점은 3입니다! ㅜㅜ",
+        "rating": 3
+      },
+      {
+        "user": "비비레아",
+        "text": "파닉스와 순서대로 쓰기까지 아이가 꾸준히 재밌어하며 익힐 수 있어 좋아요",
+        "rating": 5
+      },
+      {
+        "user": "원쏘울",
+        "text": "아이가 정말 좋아하는 숫자놀이",
+        "rating": 5
+      },
+      {
+        "user": "김은혜",
+        "text": "아직 어려워보이지만 아이는 재미있게 하고 있어요. 놀이하듯 재미있게 배울수 있을것 같아요.",
+        "rating": 4
+      },
+      {
+        "user": "Jin Hong Kim",
+        "text": "아이가 재밌어 하고 수준에 맞게 간단한 거 같아요.",
+        "rating": 5
+      },
+      {
+        "user": "HI Park",
+        "text": "애가 좋아해요 효과음만 조금 작았음 좋겠어요",
+        "rating": 5
+      },
+      {
+        "user": "장세라",
+        "text": "아이들 영어 공부에 도움이 됌",
+        "rating": 5
+      },
+      {
+        "user": "김재훈",
+        "text": "너무집중적으로 잘하고있어요",
+        "rating": 5
+      },
+      {
+        "user": "하하호호금이님",
+        "text": "아이가 재미있게 알파벳을 공부할수 있네요",
+        "rating": 5
+      },
+      {
+        "user": "오미영",
+        "text": "안드로이드폰에서 구매했는데 아이패드로 보려면 다시 결제 하는건가요?",
+        "rating": 4
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "19.14.09",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'ABC Games: Phonics & Tracing' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
