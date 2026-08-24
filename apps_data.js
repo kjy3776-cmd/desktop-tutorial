@@ -35141,5 +35141,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 478,
+    "name": "Pakuwon Lifestyle",
+    "slug": "pakuwon-lifestyle",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/OtDtycWO7VVX-_yk9lpwIEaZ8tSWTiC1Dq_K8pZqrNYjK2LV1UDwBDq6vrExNYMyIIh3-XN-i1vPIEOQ7BIa3CU",
+    "developer": "Pakuwon Jati",
+    "desc": "Tunjungan Plaza는 30년 이상 된 인도네시아의 쇼핑 센터입니다. 변화하는 시대와 함께 Tunjungan Plaza는 충성도가 높은 고객에게 최고를 제공하기 위해 계속 개선됩니다. 디지털 시대의 쇼핑 활동을 촉진하기 위해 Tunjungan Plaza는 2020년 7월부터 개인 쇼핑 프로그램 \"Tasya\"를 시작했습니다. Tasya는 가젯의 WhatsApp 애플리케이션을 통해서만 Tunjungan Plaza의 모든 매장에서 쉽게 쇼핑할 수 있도록 합니다. Tasya는 또한 인도네시아 전역에 배달 서비스를 제공하므로 다른 지",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.tunjunganplaza.mobile",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/A5FAcF5YEihNkNHpgS2lDW03RdD4e-pDGmgXNlqOCRrteB1-Ljrfo3TCFM-5fz80vUN2jvl5gM5uVw6sYtvPlg",
+      "https://play-lh.googleusercontent.com/owwMqOU-SqWmTODq4Vs_YVYD_SsbClw0zbvYHTREgSw1ShJtYYaBfRm30PaQwPVjeDGpm9clOBXEINVY02h0iA",
+      "https://play-lh.googleusercontent.com/5DnsaCPwGl0wuQIwA1sUsO9sadqACbHxEFsIfGzt6Va_-q2TEQtwiKYV2R9OYkjMHcAjs2wjwrQLbcPCN-_MEG4"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Pakuwon Lifestyle' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
