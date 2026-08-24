@@ -35264,5 +35264,47 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 480,
+    "name": "소방시설오작동Tip",
+    "slug": "소방시설오작동tip",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/Fu42TwtQe5RQe4Ud1tUyHXsKbqAqmOPBlvk_ajL2kspOqbPCELvOCDdesyWoyq0y0H2SjBbuNYpHBYRRZfZ9v6w",
+    "developer": "구세빈",
+    "desc": "소방시설 오작동될 경우에 대한 팁을 볼 수 있는 앱입니다.\r >이미지+설명 또는 동영상+설명으로 오작동에 대한 대처가 가능합니다.\r \r 대메뉴\r >경보설비\r >소화설비\r >기타설비\r \r 각메뉴에 따른 대처법 메뉴\r -경보설비\r >자동화재탐지설비\r >자동화재속보설비\r -소화설비\r >스프링클러\r >옥내소화전\r -기타설비\r >방화셔터 복구 및 수동 올리기\r >가스계소화설비 수동기동",
+    "iosUrl": "https://apps.apple.com/kr/app/id6755448112",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.company.equipguide",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/K_lY4xSzr5whFx36LIkIt3ViPRPP3a-MYRrq8LteNoUqkVweFvZeErzLkl7rsSgeXXMNb1hSrKJpw8vKPMNIdu4",
+      "https://play-lh.googleusercontent.com/8KHOKx-BpXbTOcQwDFGYau9CVO4Y8oiVY6PoNcZldti7G6BI4Q-0Vysvp3s6Y4rDBe6LP8l4chEFOe4e5KLOTg",
+      "https://play-lh.googleusercontent.com/MUNTD_b8kmmPlNQ72yXWBZ5MABNmBRq8ONpgIZAJ20JQymkWxy9oRlGEjrYtWT4GAORhxUKHFqwMbEYQAGuZ"
+    ],
+    "reviews": [
+      {
+        "user": "소방돌이TV",
+        "text": "주임님의 소방에 대한 열정과 애정 존경하고 멋있습니다. 항상 응원하겠습니다!",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '소방시설오작동Tip' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

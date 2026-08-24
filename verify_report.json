@@ -2617,11 +2617,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "소방시설오작동Tip",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 477,
-    "skipped": 307,
+    "total": 478,
+    "skipped": 308,
     "has_issues": 170,
     "total_issues": 232,
     "fixed": 41
