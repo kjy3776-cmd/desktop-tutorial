@@ -2622,13 +2622,19 @@
       "name": "소방시설오작동Tip",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Hopper - 항공편, 호텔, 차량",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 478,
+    "total": 479,
     "skipped": 308,
-    "has_issues": 170,
-    "total_issues": 232,
+    "has_issues": 171,
+    "total_issues": 233,
     "fixed": 41
   }
 }

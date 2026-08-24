@@ -35306,5 +35306,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 481,
+    "name": "Hopper - 항공편, 호텔, 차량",
+    "slug": "hopper-항공편-호텔-차량",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/HbSywvR-AS9iEr4DlkaK-tTi861QzFFAFC7SMmiY_jJi5S3RuuCJHdO_WSkb2gjcgM1GXckSV5hhRp4W5ypZuAY",
+    "developer": "Hopper Inc.",
+    "desc": "무려 7천만 명 이상이 Hopper 앱을 이용해 최적 가격의 항공편, 호텔, 숙소, 렌터카를 검색 및 예약했으며, 다른 여행 예약 사이트나 앱을 이용할 때와 비교해 여행당 평균 65달러를 절약했습니다.\r \r 항공편, 호텔, 숙소 및 렌터카 예약 \r 앱 한 곳에서 백만 개 이상의 항공편, 호텔, 숙소, 렌터카를 찾아보세요. 터치 몇 번이면 안전하게 여행을 예약할 수 있습니다. \r \r 언제나 최저가로 이용 \r Hopper는 최대 1년 전에 95%의 정확도로 항공권과 호텔 가격을 예측합니다. 앱에서 여행 요금 정보를 바로 모니터링하실 수",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.hopper.mountainview.play",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/yOGUJEOOAdtxV99x1c16ja6UwWamfE7sI4ciw--vuC32QaLr_FwUTPN3ZzDYOWHtd8V0yHIuYA5kRzOcin1skw",
+      "https://play-lh.googleusercontent.com/gdrIgcBYpbIDbHJeVyRH3a7fgehF1U_0dGYEsjEcbyBzoV8WVWiVQhsEBylTvxIHV4KWh6EiXkMSK5I66AWzJA",
+      "https://play-lh.googleusercontent.com/boRhTrADj3uMibgVv4P_NnBhjJHMgH1DXVQIeMbUzlB9jczYVoRBPybTl9bPI-Go0Vm-vdLtc73kYg244gaR"
+    ],
+    "reviews": [
+      {
+        "user": "조진성",
+        "text": "항공권 일정을 일방적으로 변경함. 이런 상황을 방지하고자 항공권 구매시 보험?비까지 추가 지불했음에도 우리가 원하는 일정으로 알아봐주겠다는 앵무새 같은 말만 몇주째 반복함. 계속 기다렸으나 결국 우리가 원하는 일정으로는 변경이 불가능하다고 함. 그래서 이번에는 환불을 요청했으나 이 또한 몇주째 무한 대기 중이며 연락 주겠다는 말만하고 연락 없음. 늘 우리가 먼저 연락하게 만듦. 앱에서는 취소(환불)도 안됨. 최악 중의 최악의 경험중. (+추가: 호퍼에서 무료 전화라고 알려준 고객센터 번호로 전화했는데 국제전화 요금 폭탄 맞음)",
+        "rating": 1
+      },
+      {
+        "user": "Sun Jin Chang (Erica)",
+        "text": "저는 한국에 여행 갔을때 호텔 예약이 이 앱을 통해서 저렴하게 구입했습니다.",
+        "rating": 5
+      },
+      {
+        "user": "김일명",
+        "text": "한글 버전이 있었으면 좋겠다",
+        "rating": 3
+      },
+      {
+        "user": "chong ho Kim",
+        "text": "Great deal",
+        "rating": 5
+      },
+      {
+        "user": "Christina Kang",
+        "text": "I've downloaded this app multiple times but everytime I try to use it and look for places either by manually searching or using my location, the search either stops and returns me to the home page, or the app crashes. So I've tried on Chrome(not on the app) and it doesn't let me change my settings. Don't get hopper. Not the hype they make it seem.",
+        "rating": 1
+      },
+      {
+        "user": "Google 사용자",
+        "text": "1. currency must be configured some how.. 2. must have better price from low carrier.",
+        "rating": 3
+      },
+      {
+        "user": "Google 사용자",
+        "text": "actually I am so mad. I saw the price when it was less than $215, but hopper said wait. Then when the price became $215, Hopper said you should book right now, it's gonna be more expensive. So I booked, but now. It's cheaper than $215! And it's getting lower!!!! I don't care the time. So if I didn't book when it was $215, I could book right now. The difference is almost $100! Could You Please make app really good?!",
+        "rating": 1
+      },
+      {
+        "user": "Google 사용자",
+        "text": "easy to use, searching for a verious option",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "Can you add the options to search flexible date?",
+        "rating": 3
+      },
+      {
+        "user": "Google 사용자",
+        "text": "사용하기가 참 편해요",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "5.110.1",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Hopper - 항공편, 호텔, 차량' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
