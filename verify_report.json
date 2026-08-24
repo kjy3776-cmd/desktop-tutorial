@@ -2594,11 +2594,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "갓갓갓",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 473,
-    "skipped": 305,
+    "total": 474,
+    "skipped": 306,
     "has_issues": 168,
     "total_issues": 229,
     "fixed": 40
