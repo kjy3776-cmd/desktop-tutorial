@@ -2599,11 +2599,16 @@
       "name": "갓갓갓",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Live Talk Translator",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 474,
-    "skipped": 306,
+    "total": 475,
+    "skipped": 307,
     "has_issues": 168,
     "total_issues": 229,
     "fixed": 40

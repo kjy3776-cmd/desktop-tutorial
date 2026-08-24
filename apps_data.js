@@ -35054,5 +35054,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 477,
+    "name": "Live Talk Translator",
+    "slug": "live-talk-translator",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/QndogyPas7djMCkDkxeELvsFMewK6_8-COTXhq-hz77GZY45LmtTZMBdL-6M8XfL4z5GlPT3h07x-DBmcpt0mw",
+    "developer": "TERASsoft",
+    "desc": "AI 기반 번역 앱으로 자연스럽고 유창한 텍스트 및 음성 번역을 경험하며 원활한 소통을 실현하세요.\r \r ✨ 주요 기능:\r 여행, 언어 학습, 국제 협업 시 빠르고 정확한 번역으로 언어 장벽을 해결합니다.\r \r 지금 다운로드하고 제한 없는 소통을 시작하세요! 🌐",
+    "iosUrl": "https://apps.apple.com/kr/app/id6459880514",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.live.translator.ai",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/oKvpCIgvUutW_59PHh5v3YYDRt8jwiwsH2wX-RHbJLXTTBZVJfgOQ9GHUbfL26EoXKBnUwD9BlvcVBB5axUYfg",
+      "https://play-lh.googleusercontent.com/--CBAgxMZHnl1b-GomiUVJDjiCyXp2pK_Vm-k0lkgwYYvA0HaVd98zK1KAHN1w8dWX-s_7biawPCYHi4sOKyrco",
+      "https://play-lh.googleusercontent.com/0rHRQoT2buyDdUIvd7X86A2HCHPyXclbI8T3_GimT3nMJJRwwAUZfRfs47Gp-v4ePma38cHvhQKldLOPVvIUFQ"
+    ],
+    "reviews": [
+      {
+        "user": "김도현",
+        "text": "개 쓰레기. 중국어 회의할 일이 많아 사용했지만, 다른 앱처럼 사전 테스트할수 있는 시스템도 아니고 무조건 결제부터 해야함. 결제하고 봤더니 영어는 어떨지모르겠지만 중국어 번역능력은 개최악. 하루 체험결제 있었으면 바로 취소했겠으나...1년을 해버렸으니...돈 날리고 배웠다고 생각해야지",
+        "rating": 1
+      },
+      {
+        "user": "이은구",
+        "text": "정말 쓰레기 앱입니다. 써보려면 정기구독 할수밖에 없이 유도하고 막상 써보면 제대로 기능도 안되서 사용도 못하네요.",
+        "rating": 1
+      },
+      {
+        "user": "엄기호",
+        "text": "열심히 하사면 영어 일어 중국어 완료됨",
+        "rating": 5
+      },
+      {
+        "user": "m.w lee",
+        "text": "베트남에서 일하는데 쓸만해요! 아! 년 정기 결재가 되었는데 넘기다가 평생결재로 클릭 청구가 되었는데 어떻게 되는 건지요?",
+        "rating": 4
+      },
+      {
+        "user": "정규호",
+        "text": "번역 속도가 너무 느리네요 실시간 통역에 문제가 있을 것 같고 대화도 거의 되지 않는 수준입니다. 결재 했는데 이거 결재 취소 하고 싶네요",
+        "rating": 1
+      },
+      {
+        "user": "Miyeon",
+        "text": "도대체 무엇 때문에 이 앱 은 돈을 받는지 이해할 수가 없습니다.",
+        "rating": 1
+      },
+      {
+        "user": "kim gihong",
+        "text": "먹튀 임. 동작 안됨. 몇일 되다가, 개인 연락처 연락도 되지 않음..사기.",
+        "rating": 1
+      },
+      {
+        "user": "김향숙",
+        "text": "이제 처음 사용해 보려 합니다. 좀 더 사용해보고 좋은지 어떤지 친구들에게 말해 주겠습니다.",
+        "rating": 5
+      },
+      {
+        "user": "성욱현",
+        "text": "좋은거같아요",
+        "rating": 5
+      },
+      {
+        "user": "Dongjun Kim",
+        "text": "사기임. 절대 사용 금지",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2.0.8",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Live Talk Translator' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
