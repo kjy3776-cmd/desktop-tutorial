@@ -35393,5 +35393,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 482,
+    "name": "크로코 악어 복불복",
+    "slug": "크로코-악어-복불복",
+    "cat": "game",
+    "icon": "https://play-lh.googleusercontent.com/IKh0loc5PKYNgALVivWt41tg6_qiXn_f52Vxi-6ny4lAQOzUn2XaJJBh9C3eoEg3zKKg_tmjSXkInLxvAW5e",
+    "developer": "OVJECT",
+    "desc": "친구들과 함께하는 악어 룰렛 게임 한 판!\r \r 다른 게임이 지루하다면 사다리 게임도 좋지만\r \r 악어 이빨 게임을 한번 해보세요!\r \r 점심 내기나 벌칙 게임으로, 규칙은 스릴 넘치게 정해보세요!\r \r 일상 속 소소한 재미, 악어 룰렛으로 더 즐겁게!\r \r 장난감 악어 룰렛 보드게임을\r \r 간단하게 앱으로 구현했습니다.\r \r 주의 - 혼자 하면 재미없어요!\r \r 크로코? 크로코! 악어 룰렛\r \r 악어 룰렛의 후속작이 지금 출시되었습니다!\r https://play.google.com/store/apps/dev?id=671188354",
+    "iosUrl": "https://apps.apple.com/kr/app/id1501486372",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.OVJECT.CrocoR",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/X8c8V9RfeSj6PrzXEixYfhelRUgWnjtuWhOK78hDNxthZh5OgmVc13VyNEEu3wDtD3fqkhBdOAVxum3W5mdm",
+      "https://play-lh.googleusercontent.com/AyiRDPM4i0FS9Cd3NVHlCbWi4fVjK-cPG2WfM1JcvsR-8kNZiQYykfZt1ZfpyNRteJL0Yt88gXQOVritOLkNFQ",
+      "https://play-lh.googleusercontent.com/Zid_K-HpCTnEkWyUntMIsTJoPSjypAAaPIN03GT9ZNWobpeMdVtj9dWqnPmIWJN-F85QLT70Jd5FkYRuFUfkaw"
+    ],
+    "reviews": [
+      {
+        "user": "beom",
+        "text": "이 버전말고 전 버전으로 계속 쓰고있다가 리뷰달려고 보니 다른버전인 이거만 있어서 리뷰달려고 또 깔았습니다! 악어표정 바뀌고 광고배너가 추가되었네요 전 버전을 계속 써도 상관없는건가요? 이거 쓰면서 내기 엄청했는데 덕분에 엄청 얻어먹었습니다 감사해요 ㅋㅋㅋㅋㅋ",
+        "rating": 5
+      },
+      {
+        "user": "심혜원",
+        "text": "진짜 사가지고 하는 것 같고 사지도 않고 그냥 깔기만 하면 돼는 거니까 돈 아낄수도 있고,엄마랑,언니랑,저랑 같이 게임을 이걸로 자리 정하기를 했었는데 너무 재밌더라구요!!진짜 보드게임 좋아하시는 분들은 이것 깔으셔야 됄것 같습니다!!",
+        "rating": 5
+      },
+      {
+        "user": "유현규",
+        "text": "재밌고 너무 좋아요 ㅠㅠ 오빠랑 같이 하는데 대부분 오빠가 걸린다죠 ㅋㅎㄹ 그래도 제가 걸릴때도 있지만 친구나 가족이랑 같이 내기해도 좋을거 같아요 ㅎㅎ 광고도 별로 없어서 진짜 좋아요 ㅠㅠㅎㅎ 제작자분 힘내세용 힛ㅎㅎ",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "재미드럽게도없고 이빨한개남았는데 입이닫아지고 이딴게임이있습니까 이게무슨 개임이라고만들어논건지 생각이있으면 게임 제대로만드세요 게임만드는생각이있고 생각없이 이 게임을 만드셨나요 재미도없는데 그냥 이 재미없는게임 만드느라 고생해서 월래 한개주기도아깝지만 2개정도 주는것이니 잘먹고 잘사세요",
+        "rating": 3
+      },
+      {
+        "user": "정정훈",
+        "text": "매번할때마다 제가걸려서술마시지만 빠르고 단체로도 좋은게임이에요",
+        "rating": 5
+      },
+      {
+        "user": "유쾌한앤",
+        "text": "광고도 많이 안나오고 악어가 귀엽고 놀라는 맛이 있어요! 5점 만점의 5점!",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "동생이... 참 재밌게 해요 ㅋㅋㅋㅋㅋㅋ 앱에 나와있는 사진을 보여줬더니 벌써 웃음꽃이 피어있더라고요 ☆ 재밌게 플레이 했어요! 감사합니다♡",
+        "rating": 5
+      },
+      {
+        "user": "이시국",
+        "text": "ㅋㅋㅋ이거 저희집에 실제로 있는데 동생걸리면 아프다고 울고불고 난리쳤는데 이걸 게임으로 만드시다니ㅋㅋ생각도 못했어용 동생이랑 벌칙 걸고 했는데 걸려서 떡볶이 사주러 가는길입니당",
+        "rating": 5
+      },
+      {
+        "user": "In J",
+        "text": "와 식은땀이나네요 너무 재밌고 스릴이넘쳐요 근데",
+        "rating": 5
+      },
+      {
+        "user": "이용재",
+        "text": "친구들이랑 내기같은거 할때 너무 재미있게 잘쓰고있어요 ㅋㅋㅋㅋㅋㅋㅋ 좋은 앱 감사합니다~~~",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.1.14",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '크로코 악어 복불복' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

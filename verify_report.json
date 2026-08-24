@@ -2628,11 +2628,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "크로코 악어 복불복",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 479,
-    "skipped": 308,
+    "total": 480,
+    "skipped": 309,
     "has_issues": 171,
     "total_issues": 233,
     "fixed": 41
