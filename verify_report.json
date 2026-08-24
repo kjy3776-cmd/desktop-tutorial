@@ -2611,13 +2611,19 @@
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "Nike Run Club - 러닝 코치",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 476,
+    "total": 477,
     "skipped": 307,
-    "has_issues": 169,
-    "total_issues": 231,
+    "has_issues": 170,
+    "total_issues": 232,
     "fixed": 41
   }
 }
