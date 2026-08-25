@@ -31463,7 +31463,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "3.6.0",
+      "ver": "Varies with device",
       "os": "-",
       "size": "-"
     },
