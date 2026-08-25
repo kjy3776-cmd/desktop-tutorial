@@ -2633,13 +2633,19 @@
       "name": "크로코 악어 복불복",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "데일리오 - 일기, 기분일기장, 다이어리, 일기장",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 480,
+    "total": 481,
     "skipped": 309,
-    "has_issues": 171,
-    "total_issues": 233,
+    "has_issues": 172,
+    "total_issues": 234,
     "fixed": 41
   }
 }
