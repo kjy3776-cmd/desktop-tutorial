@@ -258,6 +258,7 @@
     "Oxford Dictionary & Thesaurus",
     "PASS by SKT",
     "PASS by U+",
+    "PDF Reader - OCR Scan Edit",
     "PDFix: Edit, Sign, Convert PDF",
     "PDF용 Adobe Acrobat Reader",
     "PLVE",
@@ -930,7 +931,7 @@
     "히간: 이루실",
     "히로인스- 엄마전용 만보기·체험단·앱테크·쇼핑·커뮤니티"
   ],
-  "last_run": "2026-08-24",
+  "last_run": "2026-08-25",
   "next_id": 0,
   "today_count": {
     "2026-05-26": 2,
@@ -1023,6 +1024,7 @@
     "2026-08-21": 9,
     "2026-08-22": 7,
     "2026-08-23": 4,
-    "2026-08-24": 9
+    "2026-08-24": 9,
+    "2026-08-25": 1
   }
 }

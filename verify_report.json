@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "results": [
     {
       "name": "카카오톡",
@@ -2639,11 +2639,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "PDF Reader - OCR Scan Edit",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 481,
-    "skipped": 309,
+    "total": 482,
+    "skipped": 310,
     "has_issues": 172,
     "total_issues": 234,
     "fixed": 41
