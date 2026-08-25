@@ -347,8 +347,7 @@
     {
       "name": "캔디크러쉬사가 (Candy Crush Saga)",
       "issues": [
-        "iOS URL 불량: URL 없음",
-        "아이콘 이미지 로드 실패"
+        "iOS URL 불량: URL 없음"
       ]
     },
     {
@@ -2656,7 +2655,7 @@
     "total": 483,
     "skipped": 311,
     "has_issues": 172,
-    "total_issues": 235,
+    "total_issues": 234,
     "fixed": 41
   }
 }
