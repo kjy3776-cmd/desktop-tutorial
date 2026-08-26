@@ -2669,13 +2669,19 @@
       "name": "PeakWatch - AI 피트니스 코치",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "MetaMask: 암호화폐 거래",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 487,
+    "total": 488,
     "skipped": 315,
-    "has_issues": 172,
-    "total_issues": 234,
+    "has_issues": 173,
+    "total_issues": 235,
     "fixed": 41
   }
 }
