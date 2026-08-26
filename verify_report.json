@@ -2659,11 +2659,16 @@
       "name": "사진 번역",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "网易有道词典-专业查词翻译学习助手",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 485,
-    "skipped": 313,
+    "total": 486,
+    "skipped": 314,
     "has_issues": 172,
     "total_issues": 234,
     "fixed": 41

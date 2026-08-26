@@ -19588,7 +19588,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "3.0.11",
+      "ver": "3.0.12",
       "os": "-",
       "size": "-"
     },
@@ -35909,6 +35909,93 @@ const APPS = [
     },
     "installSteps": [
       "앱스토어/플레이스토어에서 '사진 번역' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
+  },
+  {
+    "id": 488,
+    "name": "网易有道词典-专业查词翻译学习助手",
+    "slug": "网易有道词典-专业查词翻译学习助手",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/PZV-gn9qS3dPrM_jb2I8IUqkX0jdSsZVHh0XWu-aMh0EYPDzZXFKpeck0ceiqGe5GrA_dT25D9lB6s2sDF5t6Q",
+    "developer": "Youdao (Hong Kong) Limited",
+    "desc": "<b>* 150개 국가의 100,000,000명의 사용자</b>\r <b>* Google Play에서 최고의 앱 및 최고의 자기 계발 앱으로 선정되었습니다.</b>\r \r U 사전은 <b>무료 사전 및 번역</b> 앱입니다.\r \r 오프라인 문장 ​​번역도 가능합니다! <b>58개 언어</b>의 완전한 오프라인 번역을 즐기십시오.\r \r U 사전은 원래 개발된 사전, 콜린스 고급 사전, WordNet 사전, 네이티브 예제, 동의어, 반의어 등을 사용합니다. 또한 <b>영어 실력 향상</b>에 도움이 되는 영어 비디오, 게임 및 퀴즈를 제공",
+    "iosUrl": "https://apps.apple.com/kr/app/id353115739",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.youdao.hindict",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/JVquedd6GgdQYKHNAclQhSeCvFcg2wS2gjNudQYDuj-G2jggbqbJmrbctDja9QwACITyZf1PEINaDW1c4flCDfU",
+      "https://play-lh.googleusercontent.com/_ymW30WFCQLJljhp3UsbhdJlKGqtqhfpU-is9EswiLAd_grLK2FKrsFAxHdr6kfp397baRtvYB9fX08CwZIkDQ",
+      "https://play-lh.googleusercontent.com/UZBv26Nk3FO_-ajreZ5FJunF-WMDBUxTaomxUuJgjlvbP1YpXg46ntU-NVzFwxZWMTW-0ILWc3z6rzMy1hVT1Q"
+    ],
+    "reviews": [
+      {
+        "user": "Google 사용자",
+        "text": "어플에 별 5점 주는건 또 처음이네요 ㅎㅎ 단언컨대 최고의 사전입니다!!!👍 한영 등 다양한 사전이 포함되어있고, 사전상 안나오는 단어면 알아서 번역기능으로 번역해줍니다! 또 여러 사전들을 한번에 보며 동의어나 반의어도 볼수있어서 좋습니다😀",
+        "rating": 5
+      },
+      {
+        "user": "비공개",
+        "text": "여러나라 언어를 쓸수 있어서 좋은데 설정에 한국어가 없어서 너무 불편해요 한국어 지원좀 해주세요 영어라 무슨 설정을 해야할지 모르겠어요",
+        "rating": 3
+      },
+      {
+        "user": "Lucas",
+        "text": "그저 그냥 써본 번역기. 잘 쓰다 버그가 생겼는지 앱 사용이 안되서 구글로 갈아탐.",
+        "rating": 3
+      },
+      {
+        "user": "jongsik Choi",
+        "text": "좋아요😄 번역기로 아주 유용하게 애용하고 있습니다",
+        "rating": 4
+      },
+      {
+        "user": "Sarah Mohemad",
+        "text": "이 번역가는 정말로 매우 아름답습니다 👍🏻⛓️💣",
+        "rating": 5
+      },
+      {
+        "user": "My little cat",
+        "text": "와우 이 앱이 좋아요 👌",
+        "rating": 5
+      },
+      {
+        "user": "soobonie",
+        "text": "그것은 최고의 응용 프로그램입니다😊♥️",
+        "rating": 5
+      },
+      {
+        "user": "Ria Purnama sari",
+        "text": "무ㅜㅛ대ㅜㅎ👋ㅜ므마ㅕ 걈 마ㅕ 녀ㅏㅁ ㅠ뭏ㄷㅅ ㄴ믐 메ㅣㅑㅏㅁ냐ㅜㅛㅁ😇ㅔㅐㅏㅐㅏㅜㅛㅁ ㅠㅁ현 ㅇ도",
+        "rating": 5
+      },
+      {
+        "user": "Hiba kim",
+        "text": "멋진 앱",
+        "rating": 5
+      },
+      {
+        "user": "Da Da",
+        "text": "good",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "6.7.4",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '网易有道词典-专业查词翻译学习助手' 검색",
       "설치 버튼을 눌러 다운로드",
       "앱 실행 후 안내에 따라 이용 시작"
     ],
