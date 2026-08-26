@@ -2675,11 +2675,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "인터치 - 임직원 여가지원 종합솔루션",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 488,
-    "skipped": 315,
+    "total": 489,
+    "skipped": 316,
     "has_issues": 173,
     "total_issues": 235,
     "fixed": 41

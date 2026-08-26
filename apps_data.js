@@ -36176,5 +36176,52 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": "web"
+  },
+  {
+    "id": 491,
+    "name": "인터치 - 임직원 여가지원 종합솔루션",
+    "slug": "인터치-임직원-여가지원-종합솔루션",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/PPLnBrYa-1bs8hDE-_M4b5dgdf6TD9bAK2iAYN9PpptWblK7oabowxQhq6F7zNROIs-ScI1Hoq_ZYklNmHdvug",
+    "developer": "FUNNBIZ",
+    "desc": "앱 정보 :\r 기업/기관 임직원 휴가지원 종합솔루션 \r 국내 및 해외 호텔, 리조트, 펜션 등 다양한 숙박 임직원 특가 예약\r 항공권, 렌터카, 식사권, 입장권까지 휴가에 필요한 모든 것!\r \r 국내 최대 휴가지원, 여행복지 운영사 샬레코리아의 모든 컨텐츠를\r  앱을 통해 이용하실 수 있습니다.\r \r [시즌 및 연중 휴양소]\r 회원사 임직원의 선호도와 니즈에 최적화된 숙박 포트폴리오\r 업체별 복지제도에 딱 맞추어 운영할 수 있는 유연한 커스터마이징\r \r [국내숙박]\r 전국 호텔 및 리조트, 콘도, 레지던스, 펜션 등 모든 숙박 임직",
+    "iosUrl": "https://apps.apple.com/kr/app/id6752929280",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.funnbiz.moweb",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/1AMUhCq1b0hC9Roc-h3knPYK3JM9Hq7xEEXSZTPiK71mHPDqfeod0RZS3YRvS1LdJN_M3_FNOeRh-jO3E_vb9K8",
+      "https://play-lh.googleusercontent.com/b4y6cvbGdY3Q08q48Tqi7E4OIT99BgRYCYWKlStpSYvRsD5oeXO7Fq_sJZlzXHJjUknfA8_nnrUIceOi3OHn",
+      "https://play-lh.googleusercontent.com/V3EmZwYeBdNQymBnD5B8aa85Vk3bW1tAUGNuysbO2odjafp9Idc9Y88dvEouCvSMvLn7vgDunEWREdL-SG-jcOk"
+    ],
+    "reviews": [
+      {
+        "user": "이상윤 (콘도대왕)",
+        "text": "고도화 진행중 좋습니다~~~실시간예약도 구현되고",
+        "rating": 5
+      },
+      {
+        "user": "남영규",
+        "text": "좋아요",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '인터치 - 임직원 여가지원 종합솔루션' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
