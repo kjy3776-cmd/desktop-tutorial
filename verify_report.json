@@ -2649,11 +2649,16 @@
       "name": "차란 - NO.1 세컨핸드 패션 앱",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "이모 - 이감 수능 국어 모의고사",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 483,
-    "skipped": 311,
+    "total": 484,
+    "skipped": 312,
     "has_issues": 172,
     "total_issues": 234,
     "fixed": 41
