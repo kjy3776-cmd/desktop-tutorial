@@ -2664,11 +2664,16 @@
       "name": "网易有道词典-专业查词翻译学习助手",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "PeakWatch - AI 피트니스 코치",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 486,
-    "skipped": 314,
+    "total": 487,
+    "skipped": 315,
     "has_issues": 172,
     "total_issues": 234,
     "fixed": 41

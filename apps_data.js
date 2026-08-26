@@ -36002,5 +36002,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 489,
+    "name": "PeakWatch - AI 피트니스 코치",
+    "slug": "peakwatch-ai-피트니스-코치",
+    "cat": "health",
+    "icon": "https://play-lh.googleusercontent.com/lmKaWxfaNZKF32hKzefOw8cMMvT0ECf-o8TT98aswQFXpYLwGOAAZvl2k21YDtNWqig4W0oqtdDUpmk7gC3yhQ",
+    "developer": "Social Tech.",
+    "desc": "2025년 새로운 목표를 세우고 70% 할인 혜택을 누리세요! \r \r FitAI는 당신이 새로운 결심을 실현하고 몸과 마음을 변화시킬 수 있도록 돕기 위해 2025년을 맞아 \"새로운 해, 새로운 나\" 캠페인을 선보입니다. 체중 감량, 근육 증가 또는 전반적인 웰빙 증진 등 어떤 목표든 FitAI를 통해 70% 할인을 경험하세요: 지금까지의 최대 할인 혜택입니다! \r \r FitAI: 궁극적인 AI 기반 개인 트레이너 및 운동 계획 앱 \r \r 최신 AI 기술과 방대한 운동 데이터베이스를 결합한 FitAI로 최대의 잠재력을 발휘하세요. ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6478431075",
+    "androidUrl": "https://play.google.com/store/apps/details?id=homeworkout.fitness.app",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/y33mAyklp9v_jKfanhzUIgxNB0IUEuKYeSNGM2PBXSQMCZrmzRFTJRML2JbnDLoYgse4EBW44-NoL5LF2o3-gZU",
+      "https://play-lh.googleusercontent.com/mVenEEwPh0Rjupp2KS71NCBeftpe1pQjihsM0p5lvcg8Lul9sXrIMNIvSq3gLUJ8ax-UIEyVyRIHXaJ64tD9API",
+      "https://play-lh.googleusercontent.com/YO6k7TQhIUa6RQrkRL7tiBqiOPd7Iy6CUSdkQ9r75_1YuHm3TtcUPbbDAb-1mJHcXIZdO6RSLWQv5nLtdWjl"
+    ],
+    "reviews": [
+      {
+        "user": "한성일",
+        "text": "운동 캘린더 요약에서 루틴 운동 완료 후 추가로 더 했을 때 합쳐서 보여지는게 아니라 마지막 완료 운동만 나와서 직관적이지도 못함. 그날 했던 운동은 전부 통합돼서 나와야 제대로된 요약이라고 할 수 있습니다. 그리고 AI 크리에이터가 모두가 많이 하는 2,3분할 운동 루틴은 못 짜는거 같아서 반복적 루틴을 선택할 수 있었으면 좋겠네요",
+        "rating": 1
+      },
+      {
+        "user": "David_bbu",
+        "text": "메일로 환불요청드렸으나 답신이 없네요. 연간 정기결제가 실수로 진행되었는데 취소할수도없고 환불 방법이 없어서 곤란합니다",
+        "rating": 1
+      },
+      {
+        "user": "최지희",
+        "text": "운동기록하고 꾸준히.내 몸상태 체크하기 좋은것 같아요. 사실.너무 쓸만합니다!!",
+        "rating": 5
+      },
+      {
+        "user": "정정재현",
+        "text": "도움이 되고 어느정도 운동이 되는듯 합니다",
+        "rating": 4
+      },
+      {
+        "user": "박진우",
+        "text": "좋은 운동그램입니다, 열심히 배워서 근육 키우게 해서 감사합니다",
+        "rating": 5
+      },
+      {
+        "user": "안민영",
+        "text": "속는셈 치고 결제해서 사용해봤습니다 운동효과 확실하네요",
+        "rating": 5
+      },
+      {
+        "user": "시흥두꺼비",
+        "text": "편리하고 좋네요~~",
+        "rating": 5
+      },
+      {
+        "user": "제정문",
+        "text": "아직 사용전이지만 처음 접근법이 좋네요",
+        "rating": 5
+      },
+      {
+        "user": "민우민우육",
+        "text": "앱깔고나서리뷰글요2026년1월3일토요일에단것외에 카카오계정가입 부분있는지모르겠기도해요",
+        "rating": 5
+      },
+      {
+        "user": "장병철",
+        "text": "계획 세우기 편해보임",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'PeakWatch - AI 피트니스 코치' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
