@@ -2680,13 +2680,19 @@
       "name": "인터치 - 임직원 여가지원 종합솔루션",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Bluesky",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 489,
+    "total": 490,
     "skipped": 316,
-    "has_issues": 173,
-    "total_issues": 235,
+    "has_issues": 174,
+    "total_issues": 236,
     "fixed": 41
   }
 }
