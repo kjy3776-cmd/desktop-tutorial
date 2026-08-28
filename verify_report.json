@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "results": [
     {
       "name": "카카오톡",
@@ -2692,13 +2692,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "KICK: Live Streaming",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 491,
+    "total": 492,
     "skipped": 316,
-    "has_issues": 175,
-    "total_issues": 237,
+    "has_issues": 176,
+    "total_issues": 238,
     "fixed": 41
   }
 }

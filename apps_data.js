@@ -21231,7 +21231,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "6.86.0",
+      "ver": "6.87.0",
       "os": "-",
       "size": "-"
     },
@@ -36391,6 +36391,93 @@ const APPS = [
     },
     "installSteps": [
       "앱스토어/플레이스토어에서 'Minecraft: 나만의 세계를 꿈꾸고 만들어보세요' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
+  },
+  {
+    "id": 494,
+    "name": "KICK: Live Streaming",
+    "slug": "kick-live-streaming",
+    "cat": "sns",
+    "icon": "https://play-lh.googleusercontent.com/zEMwKW77990UYUC6aJrJhJmnKdHpr_56Y4W1n7C9xrk2a2gSTT62_Lk1uaLek-cYH4UBl12pc8Au4444oYQK",
+    "developer": "KICK - Live Streaming",
+    "desc": "KICK은 크리에이터들이 커뮤니티와 함께 ​​소통하는 라이브 스트리밍 플랫폼입니다. (네, 저희가 그렇게 말했죠...)\r \r 저희 크리에이터들은 저희처럼 자신만의 리듬에 맞춰 활동하며, 95:5 구독료 분배, 크리에이터 인센티브 프로그램, 그리고 자유로운 멀티 스트리밍으로 경쟁자들을 압도합니다.\r \r xQc, Asmongold, Westcol 등이 모두 KICK을 선택하는 이유입니다.\r \r 시청자들은 놓칠까 봐 두려워하며, 인터넷 문화에 참여할 기회를 놓치고 싶지 않아, 실시간으로 광고 없이 시청할 수 있기를 바랍니다.\r \r 하지만",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.kick.mobile",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/gQhsICnXb1WHAdiUbcPfhwJumG_L6akreX3xO9HPu4kCBcsmSrexlFDnd9K7VPyE9z91ZKw8St1ILrctY6j1",
+      "https://play-lh.googleusercontent.com/hpXnjydYD43xsK8wGEuXL5I_sk4BJqZKulucc8W5K3qKZducBRwL2RmlYmf1s4r2KNXw6tkmDQ30W7uyL2vV9Zg",
+      "https://play-lh.googleusercontent.com/sgjpu6ieRotRov78OV878wRjFyx_KCrhTfHsPxuV-7tvfUerdCZKP666KXq0d-u8A0VqaxkcvQ9b74XoGYa0Zw"
+    ],
+    "reviews": [
+      {
+        "user": "노브리",
+        "text": "앱버전 40.13.4 안드로이드 13기반 태블릿인데, 버벅이는 스트리밍 앱은 킥 밖에 못봤습니다. 앱 구동 최적화가 시급해요. 오죽했으면 리뷰에 웹페이지로 시청하라는말이 왜 있는지 생각해주길바랍니다. 업데이트로 개선되길 계속 기다려왔지만 개선되지 않아서 남깁니다. 그리고 하루빨리 개선해주길바랍니다.",
+        "rating": 1
+      },
+      {
+        "user": "nisera",
+        "text": "트위치열화판느낌으로 ui가 상당히비슷함 아직 베타라서 그런지 여러가지 버그들이있고 채팅을 쳐도 안쳐지는등의 치명적인 버그들도 있음 실제로 난 챗이 항상 3~4번은 쳐야 1개가 올라감 그리고 걸핏하면튕김 모바일은 자동로그인을 켜도 구글로그인같은 경우에는 자동로그인이 작동하지않음 구독을 하면 1번만 결제되야 하는데 2번결제되고 돈이 빠져나간후 돌려주지않음",
+        "rating": 1
+      },
+      {
+        "user": "NawlDIA",
+        "text": "우선 트위치에 대한 대체 플랫폼은 맞습니다만. 아직 버그가 있고 채팅도 씹힙니다. 그리고 아직 이게 올해 베타 서비스중이라 각 나라의 서버가 없어 딜레이가 왔다 갔다 합니다. 쉽게 말하면 채팅 씹히는과 딜레이는 옛날 한국서버가 없던 트위치 라고 생각하면 됩니다.",
+        "rating": 3
+      },
+      {
+        "user": "J J",
+        "text": "좋아하는 스트리머의 플랫폼 이전으로 사용하게 되었는데 채팅이 좀 많이 씹히는 경향이 있어 불편하고 UI 화면이 대체로 최적화가 되어 있지 않은 느낌입니다. 아직 한글 지원은 하지 않는 듯 보이며 처음 사용하는 플랫폼이라 익숙해지려면 시간이 좀 걸릴 듯 하네요",
+        "rating": 3
+      },
+      {
+        "user": "이현준",
+        "text": "아직은 베타라 그런지 단점이 보이긴 하네요. 장점은 1080 화질로 볼 수 있다는 점인데 단점은 웹에서는 설정이 가능하지만 앱에서는 설정이 불가능하고 전체 화면했을 때 화면이 잘리는 것과 화면을 회전시키지 않을 경우 전체화면이 불가능하다는 점이 있습니다.",
+        "rating": 3
+      },
+      {
+        "user": "김도우",
+        "text": "렉이 좀 있긴한데 쓸만함, 근데 개선할 부분이 많음 일단 제발!!!! 백그라운드 재생기능좀 넣어줘 그리고 탐색에서 카테고리 부분 많이 개선 필요하고 검색창이랑 검색하는거 개선 필요함",
+        "rating": 4
+      },
+      {
+        "user": "Ency",
+        "text": "화면 회전되면 전체화면 풀리고 회전도 한 방향으로만 되고 구글 로그인은 자동 로그인도 안되고 로그인도 불안정해서 오류도 자주 뜨고 클립이랑 다시보기도 되다말다...",
+        "rating": 2
+      },
+      {
+        "user": "이상민",
+        "text": "채팅이 안 올라가는 현상과 튕기는 현상이 있다. 다시보기 영상 보관기간이 짧다.트위치 대체 서비스나 수위가 남다르다.다시보기 때 19초 넘기기 기능이 없다.",
+        "rating": 1
+      },
+      {
+        "user": "VRC길섭1852 (VRChat·VR챗 길섭1852)",
+        "text": "진짜 장난함? ㅡㅡ? 운영 제대로 안할래? 아니 무슨 설치 후 실행했는데 화면이 안넘어가는게 실화냐고!! 화면이 넘어가야 로그인 이든 뭐든 할거 아니냐고!!!! 이따위로 운영할거면 때려쳐!!! 트위치 처럼 서비스 종료 하는 날 똑같이 하던가!!! 이딴것도 방송시청 앱 이라고.... PC 노트북으로 방송 보려니까 보는내내 버퍼링이나 뜨고 진짜 서버관리 제대로 안할거면 아예 서비스 종료 시켜라!!! 진짜... 내시간 소비해가면서 까지 설치 한 내가 바보 였지~ 이딴 애플리케이션이 뭐가 좋아서 설치 했는지 어휴....",
+        "rating": 1
+      },
+      {
+        "user": "김민성",
+        "text": "스트리머 방송에서 채팅규칙란을 만들어 주셨으면 좋겠습니다. 채팅 내용에서 보기 불편하거나 스트리머에게 피해를 주는 경우가 종종있기 때문입니다.",
+        "rating": 4
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'KICK: Live Streaming' 검색",
       "설치 버튼을 눌러 다운로드",
       "앱 실행 후 안내에 따라 이용 시작"
     ],
