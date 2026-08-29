@@ -378,6 +378,7 @@
     "Travelxp:Flights,Hotels,Shows",
     "Trendyol - Online Alışveriş",
     "Tricky Mean2",
+    "Tricky Story",
     "Tricky Story 2: Brain Twist",
     "Trip.com 트립닷컴 - 여행 할인 예약",
     "Trust: Crypto & Bitcoin Wallet",
@@ -959,7 +960,7 @@
     "히간: 이루실",
     "히로인스- 엄마전용 만보기·체험단·앱테크·쇼핑·커뮤니티"
   ],
-  "last_run": "2026-08-28",
+  "last_run": "2026-08-29",
   "next_id": 0,
   "today_count": {
     "2026-05-26": 2,
@@ -1056,6 +1057,7 @@
     "2026-08-25": 3,
     "2026-08-26": 7,
     "2026-08-27": 0,
-    "2026-08-28": 1
+    "2026-08-28": 1,
+    "2026-08-29": 0
   }
 }
