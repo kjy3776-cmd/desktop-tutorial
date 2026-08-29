@@ -36484,5 +36484,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 495,
+    "name": "Color Widgets: Icon Themes",
+    "slug": "color-widgets-icon-themes",
+    "cat": "productivity",
+    "icon": "https://play-lh.googleusercontent.com/NDGAe0eILVJepafbhcAgZUOC8c8FfWLwApmwkPCdCgYuGZV9DY6ujxEE3RJHFzXG4jLYRu8fNPxKoChFjFgU",
+    "developer": "AI Photo Team",
+    "desc": "iWidgets는 모든 안드로이드 기기에서 사용할 수 있는 다양한 색상 위젯과 테마를 제공합니다.\r \r 시계, 사진, X-패널, 캘린더, 날씨, 배터리 잔량, 블루투스 상태, 이벤트 타이머 등 다양한 크기로 휴대폰 화면을 꾸밀 수 있는 풍부한 위젯을 제공하여 사용자의 필요에 맞춰 사용할 수 있습니다.\r \r 세련된 테마, 맞춤 아이콘, 실용적인 위젯으로 나만의 완벽한 홈 화면을 지금 디자인해 보세요!\r \r 🧐<b>iWidgets 주요 기능:</b>\r ✦ 모든 Android 기기에서 작동\r ✦ 다양한 디자인 테마\r ✦ 원클릭 위젯 추가",
+    "iosUrl": "https://apps.apple.com/kr/app/id1641447627",
+    "androidUrl": "https://play.google.com/store/apps/details?id=colorwidgets.ios.widget.topwidgets",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/cNGpc7I-8qcpjBBmbnkuZeAWYRQ4s4GGS0UPrR3-RgpIrQ70qs8wIjRtizEG6R8VYXV8SRrBu3zQjZXBqdSa",
+      "https://play-lh.googleusercontent.com/4S5VrpCdEbBB3AGuolX2UOnsatfYymxm2FYTgWqfewDSdg-uLoP7vszJS59fJLowBkzDPOnvDjBQ3snfdOPWNHs",
+      "https://play-lh.googleusercontent.com/Qircf0AFCI3Y7Qmv4NWqS4PdjzjI9ql-VGcGoSsdo82jBVRpl_jk_NbWwE5Il3Ypuu6g4uM68ZY4bGZliUjIeA"
+    ],
+    "reviews": [
+      {
+        "user": "Elumin",
+        "text": "닫을수없는 틴더광고때문에 광고만 6번보고 앱은 구경도못했다. 그냥 광고앱인가보다 가로화면 전용기의경우 닫기버튼은 화면아래에 있을지모르겠으나 스크롤이 불가능하기때문에 결국 광고를 닫는게 불가능하다",
+        "rating": 1
+      },
+      {
+        "user": "정예준",
+        "text": "이거 자꾸 광고만 뜨고 막상 들어가보니 갤럭시는 제가 원하는건 다운로드가 안되네요..... 거의 시간만 낭비한듯",
+        "rating": 1
+      },
+      {
+        "user": "김홍석",
+        "text": "날씨 앱 깔라고 하는 데 절대 깔지 말고 날씨 앱,그리고 기능은 좋네요.다만 한국어가 없죠.",
+        "rating": 4
+      },
+      {
+        "user": "ᄋᄋ",
+        "text": "앱 개발자도 무료로 앱을 제공해줄 수 없는 거 이해하고, 까짓 광고 좀 보면 되니 20개 가까이 봤는데 기껏 다 보니까 500포인트를 다 모았음에도 일부 아이콘이 다운이 안됨. 사람 귀한 시간 날리고 뭐하는건지",
+        "rating": 1
+      },
+      {
+        "user": "야요용",
+        "text": "예쁜데.. 광고가 좀 많이 나오는 것 같아요.. 그리고, 아이콘 설정할 때 안돼는 앱들이 생각보다 많아서 좀 불편하네요..",
+        "rating": 3
+      },
+      {
+        "user": "E Hong",
+        "text": "응? 앱 ui를 아이폰처럼 꾸밀 수 있는 줄 알고 다운 받았는데... 기능 없이 아이콘 모양의 이미지를 위젯으로 띄우는거네요??;;하하;; 삭제합니다...",
+        "rating": 3
+      },
+      {
+        "user": "김선효",
+        "text": "깔끔하고 좋은데 크기가 자동으로 채워지지 않아 위치 잡기도 애매해서 아쉽네요",
+        "rating": 4
+      },
+      {
+        "user": "김서현",
+        "text": "샘플은 많이 없지만 알짜배기만 모아져 있어서 화면 꾸미는데 유용해요.",
+        "rating": 5
+      },
+      {
+        "user": "Mhine Alexzo",
+        "text": "너무 귀엽고 마음에 들어요 항상 폰껐다가 열다보면 배경이 귀여워요!!",
+        "rating": 4
+      },
+      {
+        "user": "카리쓰권",
+        "text": "다이쁘고 좋은데 크기가 아이콘에 맞게조절되지않아 위치잡기가불편합니다",
+        "rating": 3
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.8.1.100",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Color Widgets: Icon Themes' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

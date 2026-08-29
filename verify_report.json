@@ -2698,11 +2698,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Color Widgets: Icon Themes",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 492,
-    "skipped": 316,
+    "total": 493,
+    "skipped": 317,
     "has_issues": 176,
     "total_issues": 238,
     "fixed": 41
