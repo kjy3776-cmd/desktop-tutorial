@@ -2721,11 +2721,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Cake: 전 세계 1억 다운로드 영어 학습 앱",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 496,
-    "skipped": 317,
+    "total": 497,
+    "skipped": 318,
     "has_issues": 179,
     "total_issues": 241,
     "fixed": 41
