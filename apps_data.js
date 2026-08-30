@@ -36745,5 +36745,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 498,
+    "name": "Games In One - Watch Games",
+    "slug": "games-in-one-watch-games",
+    "cat": "game",
+    "icon": "https://play-lh.googleusercontent.com/n-VW4rcGGAZNvcAxpAA6gM64UTXU2iuPuCXBluW83Kd21zGhNgOThvhsYTo25mME4VioiXXbg3oL3S_BIk5QvYQ",
+    "developer": "Must Be Fun",
+    "desc": "Games In One은 Wear OS 스마트워치를 위해 제작된 미니 게임 컬렉션입니다.\r \r 퍼즐 게임, 아케이드 게임, 액션 게임, 레이싱 게임 등 다양한 캐주얼 게임을 스마트워치에서 바로 즐길 수 있습니다. 집에서 쉬는 시간, 이동 중, 줄을 기다릴 때, 또는 잠깐의 휴식 시간에도 언제든지 간편하게 플레이할 수 있습니다.\r \r 다양한 인기 게임 스타일이 포함되어 있습니다.\r \r • 2048 숫자 퍼즐\r • 과일 합치기 게임\r • 물 분류 퍼즐\r • 블록 쌓기 게임\r • 새 피하기 아케이드 게임\r • 레이싱 및 드리프트 게임\r ",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.MustBeFun.GamesInOneWatchGames",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Hd8A6xABwjbK_v2SLVEOzp0OH3xLtMwHFwCGvjg_zi4d7y9JBoIAj8ILvOt634qqd5EFxrCSPTJJTLyiIq--5A",
+      "https://play-lh.googleusercontent.com/Dah4OPj4pxZNAmbehyWCWnP4K3Oxa6GtltZRgpeGa602l2PVgHeE9CnrrxIk-nt6_tKf71YPuQV_506Du2Pq",
+      "https://play-lh.googleusercontent.com/_iaInkmDidXgJji1qLuRxnb3leyoESKVgEdD6AycgBssiW-ywMJavZCKzUGsdkLO_PgRd-vcLbC1RZstmy7rLQ"
+    ],
+    "reviews": [
+      {
+        "user": "허진행 (미원)",
+        "text": "간단히 시간 때우기 좋은 게임입니다. 일부 잠궈져 있는 게임이 있는데요 단돈 ₩1,600원으로 해제가 가능합니다. (개인적으로 1,600원이면 비싼 가격은 아니라 생각하네요...)",
+        "rating": 5
+      },
+      {
+        "user": "나는사람이다",
+        "text": "폰 배터리 다나갔을때 하기 좋음 하지만 다른건 돈내야 할 수 있어서 조금 그럼",
+        "rating": 4
+      },
+      {
+        "user": "황아람",
+        "text": "워치로 단순하게 게임할 수 있어요. 핸드폰을 두고 왔거나, 학원이나 학교 등에서 압수당했거나, 와파나 데이터 없을 때 하기 좋아요. 은근 재밌고 몰입 됩니다.",
+        "rating": 5
+      },
+      {
+        "user": "김현성",
+        "text": "잠금 돼어 있는 게임 어떻게 하냐고 다들 하시던데 그거 인앱구매하면 됍니다. 저는 물론 구매해서 재미있게 즐기고 있습니다.",
+        "rating": 5
+      },
+      {
+        "user": "윤인화",
+        "text": "버그가 있고요 게임 반은 못합니다. 색깔 공 게임 버그 고쳐주세요.",
+        "rating": 2
+      },
+      {
+        "user": "김혜령",
+        "text": "게임중에 공 맞춰서 크기 키우는게 있는데 너무 버그가 많이 걸리네요",
+        "rating": 2
+      },
+      {
+        "user": "야채부락리 언이",
+        "text": "블록 채우기 게임 빈칸이 많이 남았는데 자동 종료돼요 제발 고쳐 주세요ㅠㅠㅠㅠㅠㅠ",
+        "rating": 2
+      },
+      {
+        "user": "양도연",
+        "text": "재밌는데 잠긴게 많고 또 잠긴것중 블록 블래스트가 너무 하고싶다",
+        "rating": 4
+      },
+      {
+        "user": "라지은",
+        "text": "현질해야 재미있고 할것도 많이 없어서 1개 주기도 아까움",
+        "rating": 1
+      },
+      {
+        "user": "SOEUN LEE",
+        "text": "재미있지만 pro인게 완전 많고 그중 타워랑 블록이 하고픔",
+        "rating": 4
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "0.4.5",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Games In One - Watch Games' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

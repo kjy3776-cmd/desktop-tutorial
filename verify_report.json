@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "results": [
     {
       "name": "카카오톡",
@@ -2715,13 +2715,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Games In One - Watch Games",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 495,
+    "total": 496,
     "skipped": 317,
-    "has_issues": 178,
-    "total_issues": 240,
+    "has_issues": 179,
+    "total_issues": 241,
     "fixed": 41
   }
 }
