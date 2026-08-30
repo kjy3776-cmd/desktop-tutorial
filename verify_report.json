@@ -2709,13 +2709,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Nike Training Club",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 494,
+    "total": 495,
     "skipped": 317,
-    "has_issues": 177,
-    "total_issues": 239,
+    "has_issues": 178,
+    "total_issues": 240,
     "fixed": 41
   }
 }
