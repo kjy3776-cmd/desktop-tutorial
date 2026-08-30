@@ -36919,5 +36919,57 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 500,
+    "name": "전자문제집 CBT - 오답노트 기출문제 자격증 공무원",
+    "slug": "전자문제집-cbt-오답노트-기출문제-자격증-공무원",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/chvKkDydGHN3Ou8D7yYkauLN8tdka0BU6upJ6Kk8FZznaj_h9lom4Mqn7TVV8vyEhaUuS3lCYYCb4kaPDuIp",
+    "developer": "Tomatocx",
+    "desc": "본 앱은 개인이 개발한 학습 보조 도구이며, 정부 기관이나 공식 시험 주관처를 대표하지 않습니다.\r \r 전자문제집 CBT는 국가자격증 시험 준비생을 위해 만들어진 실용적인 학습 애플리케이션입니다.큐넷(Q-Net), HRD-NET 등 공식 기관에서 공개한 기출문제를 바탕으로 체계적으로 구성되어 있어 효율적인 시험 준비를 도와드립니다.\r 기출문제 반복 학습은 많은 합격생들이 활용하는 효과적인 학습 방법입니다.\r \r 주요 기능\r ✅ 자동 채점\r 답지를 따로 확인하거나 파일을 다운로드할 필요가 없습니다.문제를 풀면 즉시 채점 결과를 확인할",
+    "iosUrl": "https://apps.apple.com/kr/app/id6746083907",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.tomatocx.cbtestpro.android",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/HjDGFDxGRNaKol6nnoyoTjCoPRKbfXu-69PCEY7xLc8-iTuDOWRYRxpos0IH9t1VSma6e35MHMYBOW09mddL4Co",
+      "https://play-lh.googleusercontent.com/01OM8M5lkNrQiFdfz43F8FvKvHmUPkIJIS2dboTk5KezTd1dOCxNWMpghb2pNG3PhWew2e2vn-MPDmv5fmZT_Q",
+      "https://play-lh.googleusercontent.com/RZ237dww8cjcWP4W8xE1W_oN8909oluxIr5hN1ZwCOymtBbq4RZX8UyWmwXUQgV5006c0PYSFdFYq4v5HDH2uG8"
+    ],
+    "reviews": [
+      {
+        "user": "프챔",
+        "text": "살인적인 광고로 유료결제 4000원 짜리 답 정확하지읺고 추상적인 답인도 많음 그래서 9000원짜리 결제 조금 나아진거 같으나 이건 아니다 싶음 별한개도 아까움 거기다 환불도 안되는듯",
+        "rating": 1
+      },
+      {
+        "user": "Jhshim",
+        "text": "광고 없는 버전(유료)도 출시했음 좋겠어요",
+        "rating": 4
+      },
+      {
+        "user": "신승현",
+        "text": "돈내고 광고제거 안되나요",
+        "rating": 4
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '전자문제집 CBT - 오답노트 기출문제 자격증 공무원' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

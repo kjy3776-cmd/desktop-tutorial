@@ -2726,11 +2726,16 @@
       "name": "Cake: 전 세계 1억 다운로드 영어 학습 앱",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "전자문제집 CBT - 오답노트 기출문제 자격증 공무원",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 497,
-    "skipped": 318,
+    "total": 498,
+    "skipped": 319,
     "has_issues": 179,
     "total_issues": 241,
     "fixed": 41
