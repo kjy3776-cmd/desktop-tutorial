@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "results": [
     {
       "name": "카카오톡",
@@ -2731,13 +2731,19 @@
       "name": "전자문제집 CBT - 오답노트 기출문제 자격증 공무원",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Emochi - 살아있는 AI 캐릭터 채팅",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 498,
+    "total": 499,
     "skipped": 319,
-    "has_issues": 179,
-    "total_issues": 241,
+    "has_issues": 180,
+    "total_issues": 242,
     "fixed": 41
   }
 }
