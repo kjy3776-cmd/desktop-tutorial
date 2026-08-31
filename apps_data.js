@@ -37145,5 +37145,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 503,
+    "name": "Shopee PH: 8.8 Sale",
+    "slug": "shopee-ph-88-sale",
+    "cat": "shopping",
+    "icon": "https://play-lh.googleusercontent.com/x-ifg5hWV4QdOxa1glXsgLG9AiO_2WTA63lusGLKYf8Y6JXRH9Mzkl7YBpyFI8muiY8zZFqlQUbCnfFpzxl8Tw",
+    "developer": "Shopee PH",
+    "desc": "9.9의 최대 특가 상품을 만나보세요! 9월 1일부터 10일까지 진행되는 이번 세일에서 쇼핑하고 Shopee All Out Mega Cash Panalo를 통해 최대 200만 페소의 당첨 기회를 잡으세요. 비상용품도 구매하고, 모든 상품을 SPayLater를 통해 무이자 할부로 구매하세요. 놓치지 말고 지금 바로 쇼핑하세요!\r \r Shopee는 동남아시아와 대만에서 가장 인기 있는 온라인 쇼핑 플랫폼으로, 편리하고 원활한 쇼핑 경험을 제공합니다. 필리핀의 최신 인기 상품을 구매하고, 안전한 온라인 쇼핑과 빠른 배송으로 강력한 결제 ",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.shopee.ph",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/1NIKrrqK06F4_rnTtb48qeEEAwza9hmuuhGRsO9ldLOyYVV66TOXhvhFh-LwqniGJw2ymArb5_XBkPA5ZDfXEA",
+      "https://play-lh.googleusercontent.com/8x_6w2vWTg2fde4Wnkgu9L6UNN73U4MDMJfGjtn0qKDq3HqFEufhCnr25AalokpRPoigxdEWaojAt0hvF_iNcw",
+      "https://play-lh.googleusercontent.com/W73z7Q1AslodlkeHDPu47d5yLum2qx8fgYpgTW5BvgOCLwwn_XtuR5nDgEwLc4QICyHvxpsQxU5holAz4ODeU5g"
+    ],
+    "reviews": [
+      {
+        "user": "Franklin D Roosevelt",
+        "text": "환불을 ai가 하는지는 모르겠는데 은행이 다른데 뒷번호가 같다고 엉뚱한데다가 환불해줌. 진짜 이렇게 허술할 줄은 몰랏음. 그리고 한국판매자 물품은 시키면 없다고 함. 그래서 시킬때 마다 스톡 없다고 다시 환불하는데 쇼피는 은행이 다른데 카드 뒷번호가 같다고 그 쪽으로 환불해줌. 진짜 총체적난국. 결론은 1. 한국판매자물건은 먼저 재고가 있는지 확인 후 주문할 것. 2. 쇼피페이?충전해서 사용할 것. 3. 품질 진짜 천차만별 복불복시스템. 4. 그냥 귀찮아도 오프라인 매장가서 사는 게 맘 편함. 5. 운에 맡겨라. 끝.",
+        "rating": 5
+      },
+      {
+        "user": "박재인",
+        "text": "다 좋은데 한국으로 배송은 못하는건가요?SNS에 검색하거나 물어봐도 제가 원하는 검색결과가 없네요,맞는 전화번호를 입력해도 해당되지 않는 번호라고 알림이 오며 지역과 나라에 한국또한 없습니다,다른분들은 다 아시던데 저만 모르겠어요ㅠㅠ 알려주실수 있을까요?",
+        "rating": 1
+      },
+      {
+        "user": "Rachel Choi",
+        "text": "쇼피 채팅도 고객센터도 안들어가지는 건 왜때문이죠ㅋ 제품이 비정상이라 환불요구 했더니 판매자가 거지같이 구는데 판매자랑 채팅을 할래도 답도 없지. 이건 뭐 도움 구할 데도 없고... 그냥 당한 니 책임이고여ㅠ 닥치고 돈만 뱉으라는 건가? 웹으로 들어갈래도 안 뜨는 건 무슨 경우지;;;",
+        "rating": 1
+      },
+      {
+        "user": "Peter Kim",
+        "text": "미친 서비스, 구글플레이스토어에서 받아서 설치했는데 제3의 곳에서 받아서 설치했단다? 모르면 모른다고하지 남탓하는건 미친 서비스지 에효",
+        "rating": 1
+      },
+      {
+        "user": "조영아",
+        "text": "집에서 아주 편하게 내가 찾는 물건을 구입할수 있어서 대만족 입니다. 배달해주시는 분들의 노고에도 깊이 감사드립니다.🙏🙏🙏 Thank you shopee💕💞💓",
+        "rating": 5
+      },
+      {
+        "user": "marcia oracion",
+        "text": "우수, 나는이 응용 프로그램에 아무런 문제가 없다, 항목 즉시 자신의 모든 완벽하고 잘 포장! ♥",
+        "rating": 5
+      },
+      {
+        "user": "이대윤",
+        "text": "해외 배송 생각보다 빠르고 괜찬은물건 받았네요 첫 경험자입니다 ㅋ",
+        "rating": 5
+      },
+      {
+        "user": "T43Y301V9 (T43Y301V9)",
+        "text": "판매자가 사용중이던 제품을 팔아도 사기를 쳐도 쇼피는 관리를 안하고 관심도 없다. 라자다 이용해라.",
+        "rating": 1
+      },
+      {
+        "user": "Jeeyoung Shin",
+        "text": "배송비가 저렴해서 아주 좋아요",
+        "rating": 5
+      },
+      {
+        "user": "James Lee",
+        "text": "신용카드 등록이 안되어서 물건을 살 수가 없었는 데 어느날 되네@@",
+        "rating": 4
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "3.81.30",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Shopee PH: 8.8 Sale' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
