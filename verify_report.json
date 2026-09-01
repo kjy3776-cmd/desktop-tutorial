@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "results": [
     {
       "name": "카카오톡",
@@ -2748,11 +2748,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "쿠지맨 - 모바일 제일복권 피규어&카드 플랫폼",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 501,
-    "skipped": 320,
+    "total": 502,
+    "skipped": 321,
     "has_issues": 181,
     "total_issues": 243,
     "fixed": 41
