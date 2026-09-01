@@ -2763,11 +2763,16 @@
       "name": "ChatNow・AI 챗봇 및 그림 생성기",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "배달안시켜요",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 504,
-    "skipped": 323,
+    "total": 505,
+    "skipped": 324,
     "has_issues": 181,
     "total_issues": 243,
     "fixed": 41
