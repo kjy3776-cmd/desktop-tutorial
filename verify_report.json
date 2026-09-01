@@ -2758,11 +2758,16 @@
       "name": "크랙 - 즉흥 서사 플레이, AI 채팅",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "ChatNow・AI 챗봇 및 그림 생성기",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 503,
-    "skipped": 322,
+    "total": 504,
+    "skipped": 323,
     "has_issues": 181,
     "total_issues": 243,
     "fixed": 41

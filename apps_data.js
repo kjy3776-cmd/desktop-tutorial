@@ -18691,7 +18691,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "9.33.1",
+      "ver": "9.33.4",
       "os": "-",
       "size": "-"
     },
@@ -26799,7 +26799,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "10.0.0",
+      "ver": "10.0.1",
       "os": "-",
       "size": "-"
     },
@@ -37400,6 +37400,93 @@ const APPS = [
     },
     "installSteps": [
       "앱스토어/플레이스토어에서 '크랙 - 즉흥 서사 플레이, AI 채팅' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
+  },
+  {
+    "id": 506,
+    "name": "ChatNow・AI 챗봇 및 그림 생성기",
+    "slug": "chatnowai-챗봇-및-그림-생성기",
+    "cat": "productivity",
+    "icon": "https://play-lh.googleusercontent.com/No3DMeCdl-GbRUMxzBvixxDwOgBELG7zK2zuCDDdSPnB01t5XYzvetrOi0of9EMdXzmhpCy_QIhflfQnFTMa",
+    "developer": "chao yan",
+    "desc": "<b>✨ ChatArt - AI 채팅, 글쓰기, 이미지 및 동영상 크리에이터 ✨</b>\r \r ChatArt는 <b>AI 채팅, AI 글쓰기, AI 이미지 생성 및 AI 동영상 제작</b> 기능을 하나의 앱에 통합한 <b>올인원 AI 어시스턴트</b>입니다.\r \r <b>GPT-5.6, DeepSeek V4 Pro, Gemini Omni, Claude Opus 4.8, Seedance 2.0, Seedance 2 Mini</b> 등 고급 AI 모델을 기반으로 하는 ChatArt는 언제 어디서나 아이디어를 답변, 이야기, 이미지, 동영상",
+    "iosUrl": "https://apps.apple.com/kr/app/id6670212540",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.chaoyan.chatai",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/g7g7wb1uTd51pMKVtSAzBb2uX7tvNvTde2LpGnkBGGykO-i5cUU4MFeBMazlxwGYNCRN1iaGdFa3v5l4bwTc",
+      "https://play-lh.googleusercontent.com/MWYyTOP2bB3EbluRt89E4zejOaGk0KkXRayaXNHsRf03FPvu26Hh441LLKRwPptHqKei_n9dHKMbmx_ZFe7W6t0",
+      "https://play-lh.googleusercontent.com/irZ7Tni3CPjjgnzfh9u445Lvu6j-qh6ZgHrZ4_HdmKFmfmrQuBJlut-Hi0SCsKvmjy62liBQKCdr9PURAie5l9A"
+    ],
+    "reviews": [
+      {
+        "user": "참새",
+        "text": "너무 좋아요.",
+        "rating": 5
+      },
+      {
+        "user": "더퍼스트",
+        "text": "텍스트 이미지 생성 시 한글 텍스트는 생성이 안되네요....",
+        "rating": 2
+      },
+      {
+        "user": "박재희",
+        "text": "편리하고 좋습니다.",
+        "rating": 5
+      },
+      {
+        "user": "신일수",
+        "text": "기존 사용하던 글 지우는 기능 추가해주세요",
+        "rating": 5
+      },
+      {
+        "user": "김전준",
+        "text": "간편한 AI 브리핑 챗GPT 대화 인공지능을 제공해주세요",
+        "rating": 5
+      },
+      {
+        "user": "오상훈",
+        "text": "저의 의견으로써 전 이앱 깔기를 잘했는것 같네요!",
+        "rating": 5
+      },
+      {
+        "user": "MY K",
+        "text": "pc와 연동이 안되는 건가요?",
+        "rating": 4
+      },
+      {
+        "user": "Hyunsik “thrksik” Kang",
+        "text": "신기하고 편리합니다",
+        "rating": 5
+      },
+      {
+        "user": "soaz sow",
+        "text": "영구 구매자한테 하루에 100개 지급 해주면 안되가요",
+        "rating": 5
+      },
+      {
+        "user": "ᄋᄋᄋᄋ",
+        "text": "무료로 안만드냐?!!!!????!??!!!?????",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "4.6.1",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'ChatNow・AI 챗봇 및 그림 생성기' 검색",
       "설치 버튼을 눌러 다운로드",
       "앱 실행 후 안내에 따라 이용 시작"
     ],
