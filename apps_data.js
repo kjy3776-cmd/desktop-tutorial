@@ -31796,7 +31796,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "46.6.3",
+      "ver": "46.7.3",
       "os": "-",
       "size": "-"
     },
@@ -37661,6 +37661,93 @@ const APPS = [
     },
     "installSteps": [
       "앱스토어/플레이스토어에서 '(구)신한 SOL뱅크 – 신한은행 스마트폰 뱅킹' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
+  },
+  {
+    "id": 509,
+    "name": "Blinkit: Groceries & more",
+    "slug": "blinkit-groceries-more",
+    "cat": "shopping",
+    "icon": "https://play-lh.googleusercontent.com/dY1ryTjOaVsnslxvNamNvSBulmDUkvW5f5FJ_HDApMfecSOIxjCafpNAv4LTG8TJVyp0XR9tAAaRI4K77Eiqfg",
+    "developer": "Blinkit",
+    "desc": "블링킷은 인도의 긴급 배송 앱입니다. 수백만 명의 사용자가 신뢰하는 블링킷은 3만 가지 이상의 제품과 식료품을 집 앞까지 배송해주는 편리한 온라인 식료품 쇼핑 앱입니다. 블링킷에서 유제품, 신선한 과일과 채소, 생활필수품, 주방용품, 가정용품, 사무용품 등을 온라인으로 구매하세요. 간편하고 편리한 앱 이용과 집 앞 배송 서비스를 경험해 보세요.\r \r ✅ 신선한 과일 및 채소\r ✅ 우유, 요구르트, 빵, 버터, 계란, 치즈, 파니르(인도식 치즈)\r ✅ 스낵, 비스킷, 칩, 아이스크림, 초콜릿\r ✅ 음료수, 얼음, 병따개\r ✅ 밀가루,",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.grofers.customerapp",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/4eJBU6EoSIDTkir7tZPVnLgGX_QwkjCJ_aLOV3OHPqYiW6j7LM1iw-VUJvFlS2PLVIzlZUgUz_R9RrpZKrHuGg",
+      "https://play-lh.googleusercontent.com/ZtNIJU9_2H9g25go6mngl2U824pqIimadU7ZCxRS4OFx_0uDZLDdCLG-ZkSwvrDlmGfwcYdSKeROuX01m-yqMA",
+      "https://play-lh.googleusercontent.com/URvwvHYUgldGUpy6NCtccOxboqk7toSAfcSh-Thd8eCoCPCWl4ZuMZNHEtTJ2rlU7ACGxaiu8dBgUajC-hLYpg"
+    ],
+    "reviews": [
+      {
+        "user": "한아름",
+        "text": "야쿠르트가 터져서 왔는데도 환불 받지 못함.",
+        "rating": 1
+      },
+      {
+        "user": "sw y",
+        "text": "빠르고 좋아요",
+        "rating": 5
+      },
+      {
+        "user": "Seunghyun Oh",
+        "text": "재고관리 잘 안됨",
+        "rating": 1
+      },
+      {
+        "user": "HS B",
+        "text": "갑자기 배달지역 바뀜",
+        "rating": 1
+      },
+      {
+        "user": "lunker_ dj (처남과매형)",
+        "text": "very good👍👍",
+        "rating": 5
+      },
+      {
+        "user": "구르가온임마누엘교회",
+        "text": "Very good",
+        "rating": 5
+      },
+      {
+        "user": "Young Ha",
+        "text": "Good : Quick delivery, clean and neat delivery crew. Bad : Ice-cream without ice bag or box. All were melted out.",
+        "rating": 1
+      },
+      {
+        "user": "Young Suk Kim",
+        "text": "good",
+        "rating": 5
+      },
+      {
+        "user": "Chris JEON",
+        "text": "There are many cases where the ordered items are not delivered. Even if you contact the customer service center, each consultant is different. It's the worst.",
+        "rating": 1
+      },
+      {
+        "user": "Miri Choi",
+        "text": "loading too slow but good as it has zucchini and pakchoi that I need.",
+        "rating": 2
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "18.19.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Blinkit: Groceries & more' 검색",
       "설치 버튼을 눌러 다운로드",
       "앱 실행 후 안내에 따라 이용 시작"
     ],

@@ -2773,13 +2773,19 @@
       "name": "(구)신한 SOL뱅크 – 신한은행 스마트폰 뱅킹",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Blinkit: Groceries & more",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 506,
+    "total": 507,
     "skipped": 325,
-    "has_issues": 181,
-    "total_issues": 243,
+    "has_issues": 182,
+    "total_issues": 244,
     "fixed": 41
   }
 }
