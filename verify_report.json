@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "results": [
     {
       "name": "카카오톡",
@@ -2768,11 +2768,16 @@
       "name": "배달안시켜요",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "(구)신한 SOL뱅크 – 신한은행 스마트폰 뱅킹",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 505,
-    "skipped": 324,
+    "total": 506,
+    "skipped": 325,
     "has_issues": 181,
     "total_issues": 243,
     "fixed": 41
