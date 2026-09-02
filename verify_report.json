@@ -2779,13 +2779,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Rapido: Bike-Taxi, Auto & Cabs",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 507,
+    "total": 508,
     "skipped": 325,
-    "has_issues": 182,
-    "total_issues": 244,
+    "has_issues": 183,
+    "total_issues": 245,
     "fixed": 41
   }
 }

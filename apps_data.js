@@ -18445,7 +18445,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "4.4.1",
+      "ver": "4.4.2",
       "os": "-",
       "size": "-"
     },
@@ -37748,6 +37748,88 @@ const APPS = [
     },
     "installSteps": [
       "앱스토어/플레이스토어에서 'Blinkit: Groceries & more' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
+  },
+  {
+    "id": 510,
+    "name": "Rapido: Bike-Taxi, Auto & Cabs",
+    "slug": "rapido-bike-taxi-auto-cabs",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/94XgU5OUmk5HIyv6gn9ZVJWudLxUjeAunu8QcORlmEx3sG_bw8NArUjvKx3lSAXsJAOYf7qfz1Fi7E-xEN4O",
+    "developer": "Rapido Bike Taxi",
+    "desc": "끝없는 교통 체증에 지쳤고 항상 늦습니까? 인도 최초이자 최대 규모의 통근 서비스인 Rapido(rapido)로 단 5분 만에 출퇴근 고민을 해결하세요! \r \r 자전거 택시를 타고 교통 체증을 뚫고 지나가야 하거나, 편안한 자동차에 올라타거나, 택시에서 휴식을 취해야 하는 경우 Rapido가 도와드립니다. 우리는 귀하가 시간을 절약하고, 돈을 절약하고, 언제나 빠르고 편안하게 목적지에 도착할 수 있도록 도와드립니다.\r \r 인도 전역의 500개가 넘는 도시에 진출하고 7,500만 명 이상의 만족스러운 고객 커뮤니티를 보유하고 있으며 ",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.rapido.passenger",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/H0HBRWrnnwI9EqIVYTfJQpT2Wr28PnPp-RztONFYstatgfcecoj7fQeue5Tr78TaBK9YhZ8_7P7QEsVvIEf0",
+      "https://play-lh.googleusercontent.com/Tp45QX7L492qNFMxtcwXz0y2Yiv60DTN7YrwzfUUhVErs3-S02kFgNluZFHJPpXw4Xuhu2XXgz0__39cJ0t8EQ",
+      "https://play-lh.googleusercontent.com/EDDVosHfRBJ_50E5aOygUj3lS_3jqyD7ymE0Vp_HLBZRlKMBlaD7rnOzfQ8sjf-TeWKmT1zHyVXjQEmsn8GrmRc"
+    ],
+    "reviews": [
+      {
+        "user": "진주jinju",
+        "text": "기사에 밤에 어두운곳에 세워줘서 100루피를 줘야하는데 실수로 500루피를 줘서 다음날 전화하니 100루피 받았다고 거짓말함. 더 황당한건 처음에 159루피금액이 후기올릴때 44루피로 되어있어서 완전 사기꾼임 very very unsafe and unprofessional please don't use this app . don't use this app if u wanna stay alive .",
+        "rating": 1
+      },
+      {
+        "user": "Della Park",
+        "text": "Rapido wallet에 충전한 금액을 사용할 방법이 없습니다.",
+        "rating": 1
+      },
+      {
+        "user": "SY Y",
+        "text": "worst app with worst customer care. I was extra charged because of toll, but we never passed toll gate and it was just 10 min trip. When I raised the ticket to customer care, they refunded in their rapido wallet that can only be used with bike ride, which I never use. I have asked to refund in my original payment account and they refuses which is basically taking advantage for their own mistake.",
+        "rating": 1
+      },
+      {
+        "user": "Aman Kumar",
+        "text": "very useful app",
+        "rating": 5
+      },
+      {
+        "user": "T R",
+        "text": "The auto riders doesn't accept the request at all. Only the bike service is grt nth else.",
+        "rating": 2
+      },
+      {
+        "user": "Liam Jang",
+        "text": "최고",
+        "rating": 5
+      },
+      {
+        "user": "Eunjung Song",
+        "text": "I love this application. It enhance many area of my life. Especially in this time it help me to approach many things- pick up & drop service with reasonable price. Awesome app.",
+        "rating": 5
+      },
+      {
+        "user": "young hwan cha",
+        "text": "Fcuk, fcuk, fcuking drivers... Every time asking extra money... or never come.",
+        "rating": 1
+      },
+      {
+        "user": "리썬",
+        "text": "Such a awesome app ever experienced before!! Convenient, kind, efficient riding",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "8.122.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Rapido: Bike-Taxi, Auto & Cabs' 검색",
       "설치 버튼을 눌러 다운로드",
       "앱 실행 후 안내에 따라 이용 시작"
     ],
