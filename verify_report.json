@@ -2785,13 +2785,19 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "ABCmouse: 아이들을 위한 학습 게임",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 508,
+    "total": 509,
     "skipped": 325,
-    "has_issues": 183,
-    "total_issues": 245,
+    "has_issues": 184,
+    "total_issues": 246,
     "fixed": 41
   }
 }

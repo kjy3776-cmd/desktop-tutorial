@@ -37836,5 +37836,47 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 511,
+    "name": "ABCmouse: 아이들을 위한 학습 게임",
+    "slug": "abcmouse-아이들을-위한-학습-게임",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/EmIdsznf-pipDHZLifhSa0BAZJBoojVGea8_L-D2pzUAEl66uu4NPcr86BYAMUKgR1UifJ_eQI64zMK2KzUnFw",
+    "developer": "Age of Learning, Inc.",
+    "desc": "완전히 새로워진 ABCmouse를 경험해보세요! 유치원 포함 2세부터 8세의 아이들은 전 세계 4500만 가정과 미국 650,000개 이상의 교실에서 선택한 수상 경력에 빛나는 교육 과정을 바탕으로 새로운 아이들의 학습 게임, 놀이 공간 등을 즐길 수 있습니다. 아이가 영어로 배우고 부모님과 선생님 모두가 사랑하는 종합 교육 프로그램에 뛰어들 수 있는 기회입니다! \r **50만명 이상의 학부모님이 ABCmouse에 5점을 주셨습니다**\r **부모님 선정 금상**\r **교사 선정 금상**\r **kidSAFE+ 및 광고 없음\r \r 상호",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.aofl.abcmouse",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/C3UqR-IjhWtwG8w-nV1jFJLeLz9vqPe7QD4GM7NHhMADPM8TMKZbC7K-7ohykVHcVRFsrRo4Vc80mr76282C",
+      "https://play-lh.googleusercontent.com/M9tsJDwqVZDNZSheGdXelZhBVRWaz7kOVrRMFJA-1ZkdLmkoQ6C5iYbT_bNZFQbtpCVxpx_ZK4NHzaO41P7v",
+      "https://play-lh.googleusercontent.com/kiAmKt5QPAgoQ8g-CtE2AUE4tZKQKxFDWeTaNW3DZxpGaDICvVKEZZIADv6F6qChmk71xkBAjOigcFRrv3BD6Q"
+    ],
+    "reviews": [
+      {
+        "user": "와이키즈죽전",
+        "text": "7일 무료 사용 후 지동결제 되었네요 환불요청합니다",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.69.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'ABCmouse: 아이들을 위한 학습 게임' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
