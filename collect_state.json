@@ -269,6 +269,7 @@
     "Nutracy Lifestyle",
     "Nykaa Fashion – Shopping App",
     "OHBM",
+    "OTP라커",
     "Obsidian - Connected Notes",
     "Olympus AI Lifestyle Journal",
     "OnlineMed",
@@ -986,7 +987,7 @@
     "히간: 이루실",
     "히로인스- 엄마전용 만보기·체험단·앱테크·쇼핑·커뮤니티"
   ],
-  "last_run": "2026-09-02",
+  "last_run": "2026-09-03",
   "next_id": 0,
   "today_count": {
     "2026-05-26": 2,
@@ -1088,6 +1089,7 @@
     "2026-08-30": 3,
     "2026-08-31": 3,
     "2026-09-01": 4,
-    "2026-09-02": 4
+    "2026-09-02": 4,
+    "2026-09-03": 0
   }
 }
