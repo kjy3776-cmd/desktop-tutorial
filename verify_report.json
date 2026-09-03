@@ -2798,13 +2798,20 @@
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "Voistep: İstanbul Travel Guide",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 510,
+    "total": 511,
     "skipped": 325,
-    "has_issues": 185,
-    "total_issues": 248,
-    "fixed": 42
+    "has_issues": 186,
+    "total_issues": 250,
+    "fixed": 43
   }
 }

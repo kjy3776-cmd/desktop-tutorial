@@ -24096,7 +24096,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "5.3.6",
+      "ver": "5.3.7",
       "os": "-",
       "size": "-"
     },
@@ -37908,6 +37908,42 @@ const APPS = [
     },
     "installSteps": [
       "앱스토어/플레이스토어에서 'Nickel - Compte pour tous' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
+  },
+  {
+    "id": 513,
+    "name": "Voistep: İstanbul Travel Guide",
+    "slug": "voistep-istanbul-travel-guide",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/LozQpa4zvRt_6tL4v6d-lqXr00Bm1b8-Ue3kkSwBm5CQGqYKdKRxg1eSbISqFvSgNH80za7nidDjF2kZpDw_GQ",
+    "developer": "voistep",
+    "desc": "Voistep: Istanbul Travel Guide는 이스탄불을 탐험하고 싶은 모든 사람을 위해 개발된 현대적인 도시 가이드이자 스마트 여행 앱입니다. 오디오 가이드, 도보 코스, 관광 투어, 엄선된 목록, 관심사에 따른 개인 맞춤 추천, 주변 명소 검색, 오프라인 사용 등 강력한 기능을 통해 가장 쉽고 자유로우며 즐거운 방식으로 이스탄불을 탐험할 수 있도록 도와줍니다.\r \r Voistep은 이스탄불의 매혹적인 역사, 문화, 그리고 정신을 원하는 속도로 경험할 수 있도록 설계되었으며, 수백 개의 장소, 특별 도보 코스, 관광 투",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.voistep",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/fei0lC0IU3wgUTxNngyZzX7FXB-J6T8B_s0c2S0p_i3k1BNa4BjCnqMmZYRePi7pSTlN3zOmMiDkh9FGZ0u3cA",
+      "https://play-lh.googleusercontent.com/mKAwJqfmKvJxs14NGAs0TzaNzSm9f6_sl77xqFdSOiCurzuPd2mhtfXO4-gThhJdybLQehW4QzTV_SGlHLWbDq8",
+      "https://play-lh.googleusercontent.com/WYlf4QRP1ohN0O1eM0N2ECE2zCF9Jmx3HmsF29Jegha7qxpdyVRlF0WxBBYK9frVj3T2qkqU2EEoxrLCzr8lkZs"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Voistep: İstanbul Travel Guide' 검색",
       "설치 버튼을 눌러 다운로드",
       "앱 실행 후 안내에 따라 이용 시작"
     ],
