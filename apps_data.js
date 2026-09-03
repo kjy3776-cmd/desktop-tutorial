@@ -37878,5 +37878,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 512,
+    "name": "Nickel - Compte pour tous",
+    "slug": "nickel-compte-pour-tous",
+    "cat": "finance",
+    "icon": "https://play-lh.googleusercontent.com/aVnn263Fdt6TU1hvf-EeganUb93WnkuAkbtJf7dla828ccV61EKsRTtKS6P8b-EAKQSwHkJaNzVnyZo7RajG9g",
+    "developer": "NiCKEL",
+    "desc": "\"니켈 계좌 개설 고객 400만 명 대열에 합류하세요!                 \r                 \r 니켈을 사용하면 5분 안에 계좌, 국제 마스터카드, RIB/IBAN을 만드실 수 있습니다!                 \r                 \r 조건 없이 간단하고 빠르며 누구에게나 열려 있습니다. 계좌를 개설하려면 신원 증명(190개의 여권 허용)과 €25만 요구됩니다.                  \r                 \r 따라서 몇 분 안에 https://nickel.eu/에서 온라인으로",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.fpe.comptenickel",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/YZxlgA4U3i3i0564qLLV0chHjjeyp8fpo8rBVZEHQyMmy5TLVln54Y32Awza26oPI0W4yA4jxvxHjo4oPkA5iLk",
+      "https://play-lh.googleusercontent.com/1wOWOxb78_s-PrtIN32wiU5eg5jQTQ_nsNQZ8YY6wKOxWTkJ_sGVauixD7iXheaLqQPDNDT9v8xgY3khrKCXeA",
+      "https://play-lh.googleusercontent.com/vkpTs1UnrmGSaNOlNEKSoGH7dqrMpIQ5hCZI6EtCaf9-tc2DORBVzCEEeiRrsmujxq6nj-q1bOcFBHHObRGoKw"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2026.16.1",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Nickel - Compte pour tous' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
