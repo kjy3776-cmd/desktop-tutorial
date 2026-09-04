@@ -38037,5 +38037,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 515,
+    "name": "미미테이블: 웨이팅없는 일본맛집여행",
+    "slug": "미미테이블-웨이팅없는-일본맛집여행",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/gxqrr3g0V93RCphtOrw2LJSsBzWqDweHq3kWP9qERsb-JBprTc40HIIClYazTaez9hUtT5v8R-RrcUOZfLS3KA",
+    "developer": "Seoul Comix",
+    "desc": "[일본 최고의 미식 여행, 미미테이블과 함께 쉽고 편리하게 시작하세요.]\r \r 일본 여행을 준비 중이신가요? 복잡한 예약 시스템이나 언어 장벽 때문에 가고 싶은 맛집을 포기하지 마세요. 미미테이블은 도쿄, 오사카, 교토, 후쿠오카 등 일본 전역의 숨은 로컬 맛집부터 예약이 치열한 오마카세, 미쉐린 스타 레스토랑까지 손쉽게 둘러보고 예약할 수 있는 필수 여행 미식 앱입니다.\r \r [왜 미미테이블이어야 할까요?]\r \r 1. 간편한 예약 시스템: 어려운 일본어 전화나 복잡한 예약 양식 없이 몇 번의 터치만으로 확정 예약이 가능합니다.\r ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6615082097",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.seoulcomix.mmtable",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/zsCgonya8MIpE_MSAdGaDPGgT_EdokKofpEkmuaoAhUQylvbntCqrSrT-xNMtBIadbiVBj-38K9N2IzfHe79",
+      "https://play-lh.googleusercontent.com/_19F32JDYYvUk4WrXtpugCwNEU2X8WmzImBZ0oTV3yK1k0rv5siQ-Wle0wNVBVdPD48z8jlB1CxBSqWP94KB",
+      "https://play-lh.googleusercontent.com/ihyqPY09_sGCgcTpIuji7KqhSPKs1ksIG2E9CgwVDc9HBJ709Y75XgtoD0MP4sH3GtlLZ62C2y-IL9w5hdes"
+    ],
+    "reviews": [
+      {
+        "user": "sanghyeon JEON (9'O)",
+        "text": "일본에서 다른 나라의 언어때문에 전화로 혹은 어플로 예약하기가 많이 어려웠는데 메뉴 사진부터 하나하나 확인이 가능하며 모든것이 한글로 다 되어있고 메뉴 설명도 다 한국어로 되어있어 미미테이블 덕분에 쉽고 간편하게 예약을 할수 있었습니다! 진심 편합니다 추천드립니다!",
+        "rating": 5
+      },
+      {
+        "user": "gelatooo riso",
+        "text": "계속 업데이트 하라고 하는데 해도 계속 떠서 삭제 후 재설치해도 똑같이 업데이트 하라고 뜹니다.",
+        "rating": 3
+      },
+      {
+        "user": "김효지",
+        "text": "업데이트가 필요하다고 어플 들어올때마디 계속 뜨네요 새로 깔아도 동일합니다",
+        "rating": 3
+      },
+      {
+        "user": "설희",
+        "text": "26. 8. 26일 기준으로 업데이트했는데 어플 실행할 때마다 업데이트하라고 팝업이 뜹니다.",
+        "rating": 4
+      },
+      {
+        "user": "j k",
+        "text": "일본식당 예약하기 어려운데 여기 통해서 하면 쉬워요 상담도 한국인이 해줘서 서로 소통 하면서 예약 가능합니다 이런 어플이 다 있었다니",
+        "rating": 5
+      },
+      {
+        "user": "이안석",
+        "text": "이앱 이상해요 예약하려고 구글로 로그인 했는데 업뎃하라고 뜨더니 갑자기 페이지가 바뀌고 번쩍거리더니 자꾸 화면이 반복되서 로그인 자체가 안되요",
+        "rating": 1
+      },
+      {
+        "user": "RIBO HA",
+        "text": "예약 안되는 식당도 많고 선택한 식당의 메뉴 확인도 안되네요. 아쉽지만 삭제합니다.ㅜㅜ",
+        "rating": 2
+      },
+      {
+        "user": "진혜",
+        "text": "예약되는게 없는거같아요.. 유명맛집들은 다 예약불가라 써져있고 다른어플로 해야해요",
+        "rating": 2
+      },
+      {
+        "user": "Ding !",
+        "text": "전화 못하면 추천",
+        "rating": 5
+      },
+      {
+        "user": "김형이",
+        "text": "편하고 좋아요.예약금 지원으로 안전하게 예약 완료",
+        "rating": 4
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '미미테이블: 웨이팅없는 일본맛집여행' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
