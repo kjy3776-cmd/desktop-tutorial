@@ -38298,5 +38298,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 518,
+    "name": "Psyda 사이다 - 심리 기반 소개팅",
+    "slug": "psyda-사이다-심리-기반-소개팅",
+    "cat": "sns",
+    "icon": "https://play-lh.googleusercontent.com/g_XibztlJpPoXh_U9Sa0gSoueq-SdrpAqk7DOa-3wqbu-RqJjwvvtVphJuiY-L9rp76QmvmXlHjV6td5Qsym_A",
+    "developer": "Psyda사이다",
+    "desc": "나다운 연애의 첫 시작, Psyda 사이다\r 가볍게 스쳐가는 만남 대신, 나를 먼저 이해하고 보완되는 인연을 만나는 여정을 시작해보세요.\r \r \r 내 성향을 이해하는 심리검사\r - 5가지 자아상태를 정밀 분석하는 LID심리테스트\r - 결과가 정해진 MBTI와는 달리, 내 안의 성격·성장 배경·관계 태도를 입체적으로 파악\r - 유형별 해설 카드로 진짜 나를 들여다보세요.\r \r \r 심리 기반 매칭 시스템\r - 검사 결과를 토대로 나와 보완되는 유형 추천\r - 서로에게 필요한 부분을 채워줄 수 있는 성향 보완 매칭 제공\r - 무의미한 스",
+    "iosUrl": "https://apps.apple.com/kr/app/id6748834897",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.psyda.ko",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/O718FMh58zPBmwtqf0IshpowaH-uQ-jjqoCEl6QILnp8JFN0TXDZQwhGVm9UDZfHAgCsGwA7L1mAbZc8gNVc",
+      "https://play-lh.googleusercontent.com/mAQAm_7gBVzFUwRLw_f_Q5vbftspBWFkDYJuotF3uPvjZr7-5vHdhuPo2Ds-fNWKMYMwTpXaqkJ070F434jZ_w",
+      "https://play-lh.googleusercontent.com/1k_IjpmpRKC-ZeoUjsRF7muPrTz0kV4Q__r60Db7_edl-GU2ZeGom4WuMIT-a_rzk5zMeH3j8PXP_deG27Fsng"
+    ],
+    "reviews": [
+      {
+        "user": "조정은",
+        "text": "사이다앱 이용 후기 남깁니다. 검사를 거치고나서 대화를 시작해서 그런지 이상한 사람들이 거의 없고 성숙하신 분들이 많은 것 같습니다. 세분이랑 매칭돼서 대화했는데 아쉽게도 아직 맘에 드는 분은 못만났지만 대화 매너 좋으시고 각자 성향에 대해서 스몰톡하니까 덜 어색한 것 같습니다. 보통 소개팅앱 쓰면 이상한 사람 걸리거나 읽씹이 잦아서 마상 입고 알게 모르게 긴장 되는데 사이다는 그게 덜해서",
+        "rating": 5
+      },
+      {
+        "user": "bebe Hussey",
+        "text": "심리에 관심 많은 사람으로서 테스트도 결과도 흥미로웠습니다. 결핍에 의해 끌린다는 카피에 홀려서 무료라길래 검사해봤는데요. 어렸을 때 가정 분위기나 어른 들이랑 맺는 관계가 가장 중요한데 그 부분을 짚어서 좋았어요. 알면서도 비슷한 사람만 만나서 힘들었는데 검사 결과에서 왜 그런지 상담 받는 느낌이었어요.",
+        "rating": 5
+      },
+      {
+        "user": "이강오",
+        "text": "인프제인데 NOAS나왔어요. 공감 잘하는데 가끔 T냐는 소리 자주 들었거든여... 대충 알고는 있었지만 한번 더 이유를 알게 된것 같아요. 그리구 검사는 잘 만들어놨는데 추천되는 사람들이 쫌 아쉬워요 더 늘려주세요",
+        "rating": 5
+      },
+      {
+        "user": "손종민",
+        "text": "사용자 피드백 잘 받는만큼 초심 잃지 않았으면 좋겠고 나한테 맞는 유형 직접 선택할 수 있었으면 좋겠고 다른 유형들도 더 궁금하고 무료 캔 더 많이 주면 좋겠고",
+        "rating": 5
+      },
+      {
+        "user": "여니",
+        "text": "오늘 가입했는데, 들어가자마자 화면만뜨고 터치가 전혀 안됩니다. 계정 탈퇴도 터치가 안되서 할 수도 없고, 아는 사람이 볼까봐 걱정되는데 어떻게 조치하나요? 답답하고 불안합니다. 속히 조치바랍니다.",
+        "rating": 1
+      },
+      {
+        "user": "uni chea",
+        "text": "지금도 꽤괜인데 가까운 사람이 많아졌으면 좋겠어요. 동네 친구랑 동성 친구 사귈 수 있는 기능도 있으면 좋을 거 가탕요.",
+        "rating": 5
+      },
+      {
+        "user": "Elloonc Choi",
+        "text": "추천합니다! 앱 4개 써봤는데 다른 데보다 과금유도가 적고 캔 한번 충전하면 꽤 오래 써요!",
+        "rating": 5
+      },
+      {
+        "user": "달보드레",
+        "text": "다른 어플 대비 약간 허접(?) 돈 덜 들인 느낌인데 나쁘지 않음 LID 무슨 약자인지는 몰겟지만 검사 퀄이 좋음 그리고 무슨 무슨 유형있는지 설명 좀 되어있음 좋겠음",
+        "rating": 5
+      },
+      {
+        "user": "ZN",
+        "text": "처음에 버그 있고 패스인증 안돼서 불편했어요 사진 추가도 안됐는데 지금은 잘되네요 음......현질 뉴도가 적은 편이에요",
+        "rating": 5
+      },
+      {
+        "user": "김다빈",
+        "text": "런칭 초기라 유저가 적어 보여요. 매칭 퀄리티는 나쁘지 않은 것 같아요. 홍보 더 열심히 하셔야 할듯",
+        "rating": 4
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.3.5",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Psyda 사이다 - 심리 기반 소개팅' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

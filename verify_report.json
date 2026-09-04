@@ -2826,11 +2826,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "Psyda 사이다 - 심리 기반 소개팅",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 515,
-    "skipped": 328,
+    "total": 516,
+    "skipped": 329,
     "has_issues": 187,
     "total_issues": 251,
     "fixed": 43
