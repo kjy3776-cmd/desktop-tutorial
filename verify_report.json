@@ -2815,11 +2815,16 @@
       "name": "미미테이블: 웨이팅없는 일본맛집여행",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "헤이링: AI 전화영어, 스픽•영어회화•스피킹•발음",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 513,
-    "skipped": 327,
+    "total": 514,
+    "skipped": 328,
     "has_issues": 186,
     "total_issues": 250,
     "fixed": 43
