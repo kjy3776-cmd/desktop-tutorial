@@ -2805,11 +2805,16 @@
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "TMM - 1위 온라인 주문서",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 511,
-    "skipped": 325,
+    "total": 512,
+    "skipped": 326,
     "has_issues": 186,
     "total_issues": 250,
     "fixed": 43
