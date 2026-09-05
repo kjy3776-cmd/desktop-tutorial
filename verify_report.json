@@ -2831,11 +2831,16 @@
       "name": "Psyda 사이다 - 심리 기반 소개팅",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Logos: 로고스 성경 리서치 플랫폼",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 516,
-    "skipped": 329,
+    "total": 517,
+    "skipped": 330,
     "has_issues": 187,
     "total_issues": 251,
     "fixed": 43

@@ -38385,5 +38385,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 519,
+    "name": "Logos: 로고스 성경 리서치 플랫폼",
+    "slug": "logos-로고스-성경-리서치-플랫폼",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/aihHgTrmAtLVy5SE4iRrP9pJm5pVntqPLaSF_5HTrG98I68RwgGQ_gb0pC9-Hy3_MfVCo-riPABGeVJz18Tw",
+    "developer": "Faithlife",
+    "desc": "만약 성경 앱이 성경을 스스로 더 잘 이해하도록 도와준다면 어떨까요?\r 대부분의 성경 앱은 구절만 보여주지만, Logos는 강력한 주석, 설교 준비 도구, 유명 신학자들의 저작을 포함한 40권 이상의 무료 성경 및 서적을 통해 성경을 깊이 이해하도록 돕습니다. 무료 계정을 생성하고 시작해 보세요:\r   ● 독서 계획표—맞춤 설정하고 공유할 수 있는 플랜으로 묵상 습관을 기르세요.\r   ● 스터디 어시스턴트—질문을 던지면 Logos 서재 내에서 엄선된 답변을 얻을 수 있습니다 (무료 사용 횟수 제한)\r   ● 스마트 검색—구절, 주제",
+    "iosUrl": "https://apps.apple.com/kr/app/id336400266",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.logos.androidlogos",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/wOQ7IJp3ubCnCHHFRrlg2oANZHsqBYAACSTSjT94P29ql7wAXILIck4F2cDiDrUMP92XMKP6etPmBzk5a0QYeQ",
+      "https://play-lh.googleusercontent.com/cWxQXb4CNwj6CyQjVWSjLKKTZkWNtBnBBORD3c8G-fnaLDUEmbbmEJzKBYIrntXvjlYTssH6gFsuM08jCnOBXw",
+      "https://play-lh.googleusercontent.com/QHtaTQ7LROGXae70CzZm6eq00-F-cUPwoMrxVY2Hs8DG0ZfiYeEoU8YKOuDmDS63aBERexWDVoIjorboerF9Mg"
+    ],
+    "reviews": [
+      {
+        "user": "Joongmin Choi",
+        "text": "점점 더 간편하고 쓰기 편하게 업데이트합니다. 좋기도 하지만 한편으로 익숙한 메뉴가 바뀌니 당황스럽기도 합니다. 한글화가 쉽지 않은데 계속 좋아지는 모습에 만족합니다. 얼마전 업데이트 이후로 역본 비교 탭에 성경책들을 선택할 수 없어졌는데. 이런 부분은 해결해주셨으면 좋겠어요. 또 뒤로가기하다가 앱이 꺼지는 것도 당황스럽습니다. 꺼지기 전에 확인 창 하나 띄워주면 좋을 듯합니다.",
+        "rating": 4
+      },
+      {
+        "user": "남상진",
+        "text": "로고스 바이블 앱을 정말 잘 사용하고 있습니다. 그런데 최근 들어 제 휴대폰(갤럭시 S24+)에서 굉장히 버벅임이 잦아지고 있습니다. 태블릿 PC(뮤패드 K13)에서도 사용중이었는데 이 태블릿이야 고사양 제품이 아니니까 그럴 수 있다고 생각했지만, 휴대폰 앱마저 이런 상황이 되니 로고스 바이블 앱 자체가 좀 너무 무거운 것 아닌가 하는 생각이 들더라구요. 휴대폰과 태블릿을 통해 이 로고스 바이블을 매우 잘 쓰고 있던 한 사람으로써 계속해서 이 성경 소프트웨어가 발전해 가기를 바라는 마음에 한 번 적어봅니다.",
+        "rating": 4
+      },
+      {
+        "user": "이대겸",
+        "text": "너무 좋은 앱입니다. 한가지 아쉬운 점은 ios 소프트웨어와 안드로이드 소프트웨어 간에 가독성이나 다른 옵션들이 ios에 최적화 되어 있는듯 합니다. 갤럭시는 조금 불편하네요. 그것만 빼면 교회 리더들에게 너무 유익한 앱입니다.",
+        "rating": 4
+      },
+      {
+        "user": "송기형",
+        "text": "다앙한 방대한 자료에 놀람... 개발자들의 수고에 박수를 보내며 지속적인 업데이트로 건승하기를 바랍니다... 별 하나를 뺀 이유는 다른 것이 아니라 금전적으로 약간 부담스러운 점 때문이었다... 개발자들이 아쉽다면 하나를 더 보탠다... 충분히 자격있다...",
+        "rating": 5
+      },
+      {
+        "user": "Do-Hyun Kim",
+        "text": "원어 용례를 통한 의미 파악과 구분에 도움이 됐습니다. 관주성경이 많은 도움이됐습니다. 방대한 자료를 다 사용해 보지 못했습니다. 더 많는 유익한 기능들과 정보들이 있지만 저의 활용능력의 부족, 시간부족로 더 사용하지 못하고 있습니다. 저는 타인어케 적극 추천합니다.",
+        "rating": 5
+      },
+      {
+        "user": "히브리어의모든것",
+        "text": "진짜 좋다 개역개정 성경을 또 돈주고 샀는데 연계되는 기능이 많아서 후회하지 않는다. 오히려 다른 번역본을 찾아보는 것 보다 로고스를 보는 것이 훨신 더 이해가 잘 된다.",
+        "rating": 5
+      },
+      {
+        "user": "Jong Roh",
+        "text": "아이패드에서는 잘 쓰고 있는데 안드로이드에서는 메모 편집이 잘 안됩니다. 매초마다 저장을 하려고 하는지 자꾸 멈추어서 입력이 어렵고 또 메모를 수정하면 수정 내용이 제대로 입력 안 되네요.",
+        "rating": 4
+      },
+      {
+        "user": "구미섬기는교회",
+        "text": "안드로이드 앱에서 뒤로가기로 종료가 되지 않는 부분만 불편할뿐 기능과 내용은 잘 사용하고 있습니다. 좋은 프로그램을 제공해 주셔서 감사드립니다.",
+        "rating": 4
+      },
+      {
+        "user": "Google 사용자",
+        "text": "도움이될것같은데 앱자체가 너무 로딩이 많습니다. 한국어 번역이 많지않응것을 포함해서 한국도 지원이많이되는 영역이많아지면 좋겠네요",
+        "rating": 2
+      },
+      {
+        "user": "Google 사용자",
+        "text": "로고스 소프트웨어로서 피시와 폰과 같은 내용을 연결해서 끊임 없이 볼 수 있다는 점이 매력적입니다. 늘 들고다니는 성경 주석 겸 공부 앱이라는 점은 이 앱 많이 가지고 있는 특징입니다.",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "53.0.1",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Logos: 로고스 성경 리서치 플랫폼' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
