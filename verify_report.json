@@ -2846,11 +2846,16 @@
       "name": "포랜드 - 반려견 산책 영토 게임",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Freecash - 돈버는앱",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 519,
-    "skipped": 332,
+    "total": 520,
+    "skipped": 333,
     "has_issues": 187,
     "total_issues": 251,
     "fixed": 43
