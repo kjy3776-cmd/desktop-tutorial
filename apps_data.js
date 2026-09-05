@@ -38559,5 +38559,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 521,
+    "name": "포랜드 - 반려견 산책 영토 게임",
+    "slug": "포랜드-반려견-산책-영토-게임",
+    "cat": "health",
+    "icon": "https://play-lh.googleusercontent.com/-PsExCpyCUGELQQgKaZDYWNxIrA9FTGlkT6h0CbhKCB5fqujY8mt2uzGGVGYOX-YyOb8znJfhqJPC-lQ04uz",
+    "developer": "(주)온제니스",
+    "desc": "포랜드 - 걸을수록 내 땅이 되는 산책\r \r 매일 반복되는 강아지 산책, 조금 더 재미있을 수 없을까요?\r 포랜드는 반려견과의 산책을 영토 점령 게임으로 바꿔주는 GPS 기반 산책 앱입니다.\r 걷기만 하면 지나간 길이 내 영토가 되고, 우리 동네 지도가 나만의 색으로 물들어갑니다.\r \r ----------------------------\r \r [이런 분께 추천해요]\r \r - 매일 산책하는데 기록이 남지 않아 아쉬웠던 보호자\r - 강아지 산책 동기부여가 필요한 보호자\r - 우리 동네 다른 반려견 친구들이 궁금한 보호자\r \r -----",
+    "iosUrl": "https://apps.apple.com/kr/app/id6792218554",
+    "androidUrl": "https://play.google.com/store/apps/details?id=app.pawland",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/luTRpOCXTP9iRHjaVwt_yIsCljH3KL2WOWuj0c_geGFCE9OUucfQz0U_JWY6Nx3QKAa5Pq-lHTf4oOng4GLwtw",
+      "https://play-lh.googleusercontent.com/Xs8zTZPimEDnc6IK2pBejl5Qq521SDh4XqDcB2_t0Eaa6qXTmLG_N6HeTFtpC9UN8bv_XibqX6-aUjGS6dOk",
+      "https://play-lh.googleusercontent.com/nYHkkPH0sVof1DC3vPae0z5P8j6fdUA1sp5Pbyb7lPomFqibXizFpPJaFozaDBM_Plyr2xCDrJqIECy2hXsS"
+    ],
+    "reviews": [
+      {
+        "user": "Jihye Han",
+        "text": "산책 시간, 거리, 경로 기록되는 딱 이런 앱을 원했는데 최고에요! 하나 추가로 가능하면 일주일 말고 하루 종일 얼마나(시간+거리) 걸었는지도 확인 가능하면 좋겠습니다. 지금은 산책 한번당 아니면 일주일 전체만 확인가능해서요ㅠ 그리고 한번씩 로그인 튕기고 gps 끊겨서 등록 안될때가 있어서 슬퍼요ㅠ",
+        "rating": 5
+      },
+      {
+        "user": "한상윤",
+        "text": "인스타에 떠서 퇴근하고 별 생각없이 깔아봤는데 생각보다 재미있고 유익함ㅋㅋㅋㅋ 약간 헬스로 따지면 닌텐도 스위치 링피트하는 기분임. 강아지랑 함께 게임하는 기분 들어서 그냥 평범하게 산책하는거랑 약간 다른 기분들음!! 목표 설정이랑 기능 좀 더 많아지면 훨씬 더 재미있을거같음.",
+        "rating": 5
+      },
+      {
+        "user": "박효리",
+        "text": "인스타에서 우연히 광고로 보게 되어서 시작했어요. 앱이 출시 되자마자 설치+산책을 했는데 너무 만족하면서 사용중이에요. 산책시간+거리+영토 차지도 재미있고 매일 해주는 산책이 더 의미가 있는 시간이 되었습니다🩷",
+        "rating": 5
+      },
+      {
+        "user": "박세리",
+        "text": "어제 깔았는데 너무 재밌어요! 동네에 널리 퍼져서 다같이 즐기고싶어요! 다견가정도 고려해서 반려견 추가 및 개별산책도 생기면 좋겠습니다!! 배변횟수 정도도 추가 기록할 수 있으면 좋을 것 같아요",
+        "rating": 5
+      },
+      {
+        "user": "김소연",
+        "text": "어플 알기 전에는 산책이 귀찮기도하고 숙제처럼 느껴지기도 했는데 포랜드 앱 알고나서부터 산책이 즐거워졌고 내땅을 지켜야한다는 생각이 생기면서 산책을 더 오래 하게되더라구요 내 강아지랑 교감도 생기고 즐거운일도 생기고 더이상 산책이 지루하지않고 오히려 땅먹으러 가야한다는 생각이 드니 더 자주나가고 더 오래하게됩니다. 이런 재밌고 즐거운 앱 만들어 줘서 너무 감사해요!!!",
+        "rating": 5
+      },
+      {
+        "user": "깡통만만세",
+        "text": "예전에 쓰던 다른 앱에 비해 끊김도 없고 기록이 정확해서 좋은데 영토 공격, 방어 화면이 엉성(?)해서 게임의 느낌은 별로예요.",
+        "rating": 3
+      },
+      {
+        "user": "쭈양이",
+        "text": "너무좋은데 홍보 많이 해주세요!! 동네 댕댕이들 보고싶어요~ 그리구 보물은 2개 지나갔는데도 왜 찾은보물은 0개인가요? 영토 색깔 개인취향으로 다양하게 선택할수있음 좋겠어요 안되면 어쩔수없지만ㅠㅠ",
+        "rating": 5
+      },
+      {
+        "user": "윤설",
+        "text": "너무 좋아요! 강아지랑 조금 더 멀리 조금 더 길게 조금 더 다양한 길로 가게끔 해주네요.. 의무감에 나갔던 산책에 재미가 더해져서 너무좋습니다🥰",
+        "rating": 5
+      },
+      {
+        "user": "니가좋아나도좋아",
+        "text": "다른 지역의 지인과 친구추가 ,초대 해서 서로의 거리, 땅따먹은 크기 지역등을 볼수있거나 점수 경쟁 할수있었으면 좋겠어요",
+        "rating": 3
+      },
+      {
+        "user": "MISO KIM",
+        "text": "반려견과의 산책이 더 재밌어졌어요!! 영토 지키기 위한 매일매일의 산책!! 반려견도 좋아하고, 저도 재미있고!! 매주 나오는 랭킹 순위권 들어가면 야호!!",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.5.3",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '포랜드 - 반려견 산책 영토 게임' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
