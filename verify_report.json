@@ -2851,13 +2851,19 @@
       "name": "Freecash - 돈버는앱",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "삼성 월렛",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 520,
+    "total": 521,
     "skipped": 333,
-    "has_issues": 187,
-    "total_issues": 251,
+    "has_issues": 188,
+    "total_issues": 252,
     "fixed": 43
   }
 }
