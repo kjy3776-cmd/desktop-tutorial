@@ -2857,11 +2857,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "일본어 공부 - 헤이재팬 (HeyJapan)",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 521,
-    "skipped": 333,
+    "total": 522,
+    "skipped": 334,
     "has_issues": 188,
     "total_issues": 252,
     "fixed": 43
