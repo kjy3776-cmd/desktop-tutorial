@@ -71,6 +71,7 @@
     "Chase Mobile",
     "ChatNow・AI 챗봇 및 그림 생성기",
     "Claude by Anthropic",
+    "Clever Cleaner: 폰 클리너",
     "Clone App - Multiple Accounts",
     "Cloud Music-Download Songs Lab",
     "Code Busters: Word Puzzle Game",
@@ -1013,7 +1014,7 @@
     "히간: 이루실",
     "히로인스- 엄마전용 만보기·체험단·앱테크·쇼핑·커뮤니티"
   ],
-  "last_run": "2026-09-06",
+  "last_run": "2026-09-07",
   "next_id": 0,
   "today_count": {
     "2026-05-26": 2,
@@ -1119,6 +1120,7 @@
     "2026-09-03": 3,
     "2026-09-04": 4,
     "2026-09-05": 5,
-    "2026-09-06": 1
+    "2026-09-06": 1,
+    "2026-09-07": 1
   }
 }

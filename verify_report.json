@@ -2862,11 +2862,16 @@
       "name": "일본어 공부 - 헤이재팬 (HeyJapan)",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Clever Cleaner: 폰 클리너",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 522,
-    "skipped": 334,
+    "total": 523,
+    "skipped": 335,
     "has_issues": 188,
     "total_issues": 252,
     "fixed": 43
