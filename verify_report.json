@@ -2867,11 +2867,16 @@
       "name": "Clever Cleaner: 폰 클리너",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "애슬로직 - 운동 식단 통합 관리, 운동루틴 식단기록",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 523,
-    "skipped": 335,
+    "total": 524,
+    "skipped": 336,
     "has_issues": 188,
     "total_issues": 252,
     "fixed": 43
