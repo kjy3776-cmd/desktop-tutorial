@@ -2872,13 +2872,19 @@
       "name": "애슬로직 - 운동 식단 통합 관리, 운동루틴 식단기록",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "ConfirmTkt: Train Booking App",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 524,
+    "total": 525,
     "skipped": 336,
-    "has_issues": 188,
-    "total_issues": 252,
+    "has_issues": 189,
+    "total_issues": 253,
     "fixed": 43
   }
 }

@@ -39081,5 +39081,47 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 527,
+    "name": "ConfirmTkt: Train Booking App",
+    "slug": "confirmtkt-train-booking-app",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/omZPMQ80MfNdEE4gC3jrUdapgPGZIdhIe6dI_FmaHyFVhSZLYbvIhRsiKLFU_GSUJmqCrLSe0XlbLNVB1zjodMU",
+    "developer": "ConfirmTkt - IRCTC Authorised Partner",
+    "desc": "<h1>ConfirmTkt: IRCTC 공식 기차표 예매 앱</h1>\r ● <b>AI 좌석 찾기</b>\r \r ● 모든 여행 요구 사항을 충족하는 하나의 철도 앱\r \r ● 티켓이 확정되지 않으면 3배 환불*\r \r ● 지하철 QR 티켓 예매\r \r ● 인도 최고 평점 기차 앱\r \r ● 항공권, 호텔, 버스 예약도 가능\r \r <h3>대체 여행 계획</h3>대기자 명단에 있는 경우, 선택한 여행 방식에 따라 확정 좌석 또는 환불(항공편 3배, 버스 3배, 기차 2배)을 제공합니다.<h3>확정된 기차표</h3>ConfirmTkt의 대체 및 예",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.confirmtkt.lite",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/vxfguKGesfd_spQO8A40J0OXN3XhPbm13jwHejaMQwr-o6VXrErDGXTxAEiAILQc47sBPAx7fZLo4k700JfS",
+      "https://play-lh.googleusercontent.com/8vbDuEZ3Tb77EdFPXH_Xse2vt9RkRdCrJ9DiSaYNEK42VyCLeVH_HJrj4_i3xULbHHWrkB2uZVXE7LiTuHax",
+      "https://play-lh.googleusercontent.com/Xb8R1llXWtZbQwqT9Kc2mMi0qVj0hQEuhEB4c3LyvUecXkJrMn2DlRqRiZHSDv1Ak2Na_vLHihLFIVecf0G2"
+    ],
+    "reviews": [
+      {
+        "user": "오동호 (浪漫旅游男子)",
+        "text": "익시고보다 앱이 가벼운편. 근데 어짜피 같은회사라",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "9.7.1",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'ConfirmTkt: Train Booking App' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
