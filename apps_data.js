@@ -19588,7 +19588,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "3.0.12",
+      "ver": "3.0.13",
       "os": "-",
       "size": "-"
     },
@@ -39204,6 +39204,93 @@ const APPS = [
     },
     "installSteps": [
       "앱스토어/플레이스토어에서 '마통 - 마사지, 에스테틱, 왁싱 최저가 어플' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
+  },
+  {
+    "id": 529,
+    "name": "스도쿠 - 광고 없음 스도쿠",
+    "slug": "스도쿠-광고-없음-스도쿠",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/QjylSeKdEubMRsC6Vtsm_7ntIEln1ZOEsEYbnID__ez1h8idR1yowA_zYXyGRtiW_6jyRx4FUXvMkR5-vRJ2",
+    "developer": "Seulgi Jang",
+    "desc": "매일 조금씩 젊어지는 두뇌 습관, 방해 없는 진짜 스도쿠를 만나보세요.\r \r 시도 때도 없이 튀어나오는 광고와 조잡한 화면에 지치셨나요?\r 당신의 논리적인 사고를 흩트리지 않도록, 게임 플레이 중에는 최소한의 광고만 남겼어요. 오직 숫자와 논리에만 완벽하게 몰입할 수 있는 최적의 두뇌 게임 환경을 제공합니다.\r \r 핵심 기능 소개\r 순수 클래식 모드: 종이 스도쿠를 풀던 감각 그대로! 힌트와 자동 오답 체크 기능 없이 스스로 빈칸을 채워나가는 짜릿한 성취감을 경험해 보세요. 하드코어 로직 퍼즐 유저들을 위한 궁극의 모드입니다.\r \r",
+    "iosUrl": "https://apps.apple.com/kr/app/id1533935003",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.jsk.sudoku",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/WMzxeXI11XVmxJTlYXjiCyALNBYlYkzS2l0e7548qUUPuT6kGcuO0kQkcrJn-2q7Hf29uahg6JQNF_SRMeBwLS0",
+      "https://play-lh.googleusercontent.com/N2cVsaCdUfV-LCaJuOjpzwrVWaTUDclcn1uEUP_MDnHGv1RhkJGWnu54X3_0taiHjGCkHmthmlJo0Fib-qOcHQ",
+      "https://play-lh.googleusercontent.com/ZZxtVmjYIm4Y8yPGdggi-dG00xhZPyYpJMe42kAsGVgDJI01iZP7kFO7csuOQ1o7l8GDL4Ivs-Pfb9oGeagD"
+    ],
+    "reviews": [
+      {
+        "user": "고미남",
+        "text": "광고가 없어서 너무 좋아요! 강추합니다.",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "정말 광고하나 없이 편하게 즐길 수 있는 스도쿠게임",
+        "rating": 5
+      },
+      {
+        "user": "올니",
+        "text": "광고가 없오 ㅠㅠㅠ 최고다 !!!!!!!!",
+        "rating": 5
+      },
+      {
+        "user": "ny J",
+        "text": "짜증나는 광고 1도 없어서 좋아요 진짜 진짜예요",
+        "rating": 5
+      },
+      {
+        "user": "Yonsang",
+        "text": "광고없이 좋아요 머리가 좋아져요",
+        "rating": 5
+      },
+      {
+        "user": "Kyeongkook Kong",
+        "text": "진짜 광고가 없네요",
+        "rating": 5
+      },
+      {
+        "user": "오로로캡틴",
+        "text": "광고가 없어 좋아요",
+        "rating": 5
+      },
+      {
+        "user": "김경희",
+        "text": "광고없음 그게 좋구만",
+        "rating": 5
+      },
+      {
+        "user": "유재서",
+        "text": "진짜 광고없음!!! 대박!!!",
+        "rating": 5
+      },
+      {
+        "user": "왈왈이왈왈",
+        "text": "숫자 누르면 같은 라인이 회색으로 변하는 설정 끌 수 없나요? 조금 산만하네요.",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.0.53",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '스도쿠 - 광고 없음 스도쿠' 검색",
       "설치 버튼을 눌러 다운로드",
       "앱 실행 후 안내에 따라 이용 시작"
     ],

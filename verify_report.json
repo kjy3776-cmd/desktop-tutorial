@@ -2883,11 +2883,16 @@
       "name": "마통 - 마사지, 에스테틱, 왁싱 최저가 어플",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "스도쿠 - 광고 없음 스도쿠",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 526,
-    "skipped": 337,
+    "total": 527,
+    "skipped": 338,
     "has_issues": 189,
     "total_issues": 253,
     "fixed": 43
