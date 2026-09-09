@@ -2888,13 +2888,19 @@
       "name": "스도쿠 - 광고 없음 스도쿠",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Samsung Members",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 527,
+    "total": 528,
     "skipped": 338,
-    "has_issues": 189,
-    "total_issues": 253,
+    "has_issues": 190,
+    "total_issues": 254,
     "fixed": 43
   }
 }
