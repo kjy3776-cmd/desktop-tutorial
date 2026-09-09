@@ -1086,7 +1086,8 @@
     {
       "name": "수학문제",
       "issues": [
-        "iOS URL 불량: URL 없음"
+        "iOS URL 불량: URL 없음",
+        "아이콘 이미지 로드 실패"
       ]
     },
     {
@@ -2899,13 +2900,18 @@
       "name": "도시락eSIM - 해외여행 필수 데이터 로밍 앱",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "레진코믹스",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 529,
-    "skipped": 339,
+    "total": 530,
+    "skipped": 340,
     "has_issues": 190,
-    "total_issues": 254,
+    "total_issues": 255,
     "fixed": 43
   }
 }
