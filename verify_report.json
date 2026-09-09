@@ -1086,8 +1086,7 @@
     {
       "name": "수학문제",
       "issues": [
-        "iOS URL 불량: URL 없음",
-        "아이콘 이미지 로드 실패"
+        "iOS URL 불량: URL 없음"
       ]
     },
     {
@@ -2911,7 +2910,7 @@
     "total": 530,
     "skipped": 340,
     "has_issues": 190,
-    "total_issues": 255,
+    "total_issues": 254,
     "fixed": 43
   }
 }
