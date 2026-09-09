@@ -39558,5 +39558,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 533,
+    "name": "아자르 - 마음 맞는 친구 찾기",
+    "slug": "아자르-마음-맞는-친구-찾기",
+    "cat": "sns",
+    "icon": "https://play-lh.googleusercontent.com/bjiFnYkJFWw_Arz3xg-Yc7dHQSdsJPYa0xOxX5K1E3kAIQ9PyFP8SQjeHqR9amYD45lO8Z2f_YMXgAcVQHcw",
+    "developer": "SKTelecom",
+    "desc": "SK텔레콤 친구찾기 서비스는 휴대폰의 현재 위치 정보를 기반으로\r 실시간 위치 확인부터 이동 경로·거리 조회, 분실폰 찾기까지 지원하는 가족·지인 안심 위치 서비스입니다.\r \r [주요 기능]\r 1. 친구 찾기\r 등록한 친구나 지인, 가족의 위치를 찾을 수 있어요.(친구 수락 후 이용)\r \r 2. 위치 자동 알림\r 원하는 요일과 시간을 설정하면 친구의 위치를 자동으로 문자 또는 알림을 통해 받아볼 수 있어요.(친구 수락 후 이용)\r \r 3. 내 위치 전송\r 현재 내 위치를 친구에게 간편하게 전송할 수 있어요.\r \r 4. 분실폰 찾기\r",
+    "iosUrl": "https://apps.apple.com/kr/app/id972558973",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.skp.FindFriend",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/VUpXi0J9uq_FteAQi0aNfbIqXf4g2gEcwjeP2J5Wo5X-JqYsczzaADIreFqOui75b2OVPwEIaNjkeFRx008Zgg",
+      "https://play-lh.googleusercontent.com/KjZQ547DbFazzGaKZ18paqSsEKlRUq_qnfgFeYnB32c78yEQDqfmYoYYApKvTaWZt4mfceA02rkpvuFFu09yT88",
+      "https://play-lh.googleusercontent.com/2LdaYIyH4BFpzVF6MAdeAb8Zi3i_4w38LI_YqZsjT7IkuhOwOYONOTa_Zg5rd3h_Dt1_q--kAQGtM0AfB2yMgQ"
+    ],
+    "reviews": [
+      {
+        "user": "차이",
+        "text": "분실 휴대폰 때문에 설치했어요. 친구찾기 위치는 매우 정확한데, 분실폰찾기 위치는 전혀 정확하지 않습니다. 구글이 더 정확해요. 예를 들어 집에 폰이 있다면 1키로 이상 떨어진 곳의 위치가 떠서 개고생만 했네요.",
+        "rating": 1
+      },
+      {
+        "user": "고흥68년생",
+        "text": "친구찾기하면 2-3번해야 맞은위치를 찾았요. 몇번이나 위치를 찾으면 위치가 맞는지 의문이 갑니다 예전과 하나도 변한것이 전혀 없는것 같습니다. 앱만 만들고 관리도 하지않고 요금만 챙기고만 있는것 같습니다. 월정액을 다쓰고 계속 건당으로 쓰고 있습니다 .수수료만 사라지고 있습니다. 갈수록 믿을수없는 친구찾기앱 입니다.돈만 충내는 회사.반성하세요",
+        "rating": 1
+      },
+      {
+        "user": "박용철",
+        "text": "저럼한 가격이라 일단 사용을 처음해봤는데 친구 찾기가 너무 힘드네요. 친구위치를 확대해서 볼수 있었으면합니다. 그리고 한번 친구찾기한번 클릭하면 현재 위치에서 멈춰 있네요. 갱신이 되어서 위치를 다시 잡아주었으면 합니다.",
+        "rating": 1
+      },
+      {
+        "user": "지창성",
+        "text": "친구찾기 앱 악성 앱 감지 되었다고 뜹니다. 친구찾기 앱 악성 소프트웨어 또는 의심스러운 활동이 있습니다. 친구찾기 앱 권한 설정 해도 애플리케이션 정보로 넘어갑니다. 친구찾기 앱 정상적으로 사용할 수 없습니다.",
+        "rating": 1
+      },
+      {
+        "user": "InHong Chung",
+        "text": "잘 이요했어요 휴대폰 잘 찾았어요",
+        "rating": 4
+      },
+      {
+        "user": "Jh Kim",
+        "text": "별 한 개도 아깝다. 분실폰 찾기 구색만 맞춘 서비스이다. 통신사 입장에서는 기기만 팔면 끝. 애초에 기기 판매채널을 통신사 국한으로 만든 잘못이 크다 봅니다. 복사 붙여넣기 답글 달지마시고 내부적으로 좀 개선이 필요합니다.",
+        "rating": 1
+      },
+      {
+        "user": "Google 사용자",
+        "text": "자꾸 강제종료되요. 정액제에 유료앱이면서 서비스가 엉망이여요. 캐시삭제. 업데이트진작에 완료 다해봤지만 친구찾기.-위치조회 하기만하면 앱실행중지 됩니다.",
+        "rating": 1
+      },
+      {
+        "user": "Misun Lee",
+        "text": "폰 잃어버려서 분실신고하고 어플 깔았는데 도대체 왜 본인인증이 안되는걸까요 한번도 안된적이 없었는데 삭제후 재설치, 와이파이\\데이터, 기지국 이동 등등 해봐도 안되네요......하ㅜㅜ",
+        "rating": 1
+      },
+      {
+        "user": "doknechicin “돋네칙인”",
+        "text": "분실폰 위치찾으려고 sk고객센터에서 설치하래서 했는데 전원꺼짐만 뜨고 전원꺼지기전 마지막 위치도 안알려준다. 어플시스템은 20년전쯤 만든거같은데 기능도 20년전 그대로 인듯.",
+        "rating": 1
+      },
+      {
+        "user": "jinjinling",
+        "text": "실시간 조회로 핸드폰 움직임을 추적하면서 찾아냄. 꽤 정확한 위치를 알려줌!! 최고!! 운좋게 휴대폰을 가져가신 분을 잡았음~ 휴대폰도 무사히 찾고 너무 고마운 앱임!!",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "7.0.5",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '아자르 - 마음 맞는 친구 찾기' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

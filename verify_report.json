@@ -2904,11 +2904,16 @@
       "name": "레진코믹스",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "아자르 - 마음 맞는 친구 찾기",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 530,
-    "skipped": 340,
+    "total": 531,
+    "skipped": 341,
     "has_issues": 190,
     "total_issues": 254,
     "fixed": 43
