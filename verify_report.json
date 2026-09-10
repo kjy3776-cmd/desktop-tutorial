@@ -2929,11 +2929,16 @@
       "name": "PosturePod",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "아쿠아랜드: 크레이지 서바이벌",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 535,
-    "skipped": 345,
+    "total": 536,
+    "skipped": 346,
     "has_issues": 190,
     "total_issues": 254,
     "fixed": 43

@@ -21231,7 +21231,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "6.88.0",
+      "ver": "6.89.0",
       "os": "-",
       "size": "-"
     },
@@ -39885,6 +39885,93 @@ const APPS = [
     },
     "installSteps": [
       "앱스토어/플레이스토어에서 'PosturePod' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
+  },
+  {
+    "id": 538,
+    "name": "아쿠아랜드: 크레이지 서바이벌",
+    "slug": "아쿠아랜드-크레이지-서바이벌",
+    "cat": "game",
+    "icon": "https://play-lh.googleusercontent.com/eDxdGytER34b52oX4FB5m5AyCdQLjJEy9mzmI2lHfKs_a90-8TvK3TSKvafp1uetKZliECkGXPRTEOAeTGYDWg",
+    "developer": "Hong Kong Just Game Technology Limited",
+    "desc": "전 세계 생태계가 이미 붕괴되었고, 현대 사회는 끝없는 바다 아래로 완전히 사라졌습니다. 당신과 가족은 기적적으로 탈출한 소수의 생존자 중 일부이지만, 육지가 없는 세상에서 위태로운 뗏목 하나에 의지한 채 고립되고 말았습니다.\r \r [잠수·수집·생존·건설!]\r 🌊 - 해상 보루 건설: 표류하는 모든 자원을 모아 유일한 피난처를 끊임없이 강화하세요.\r 🦈 - 험난한 바다 정복: 광포한 상어를 격퇴하고, 심해에 숨어 있는 잔혹한 해적들을 물리치세요.\r 🔨 - 인류 문명 재건: 종말의 위기에서 살아남아 모든 역경을 딛고 인류 사회의 문명",
+    "iosUrl": "https://apps.apple.com/kr/app/id6780387121",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.iyagames.flotshelter",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/3mFWfU5tX3KTOB9p4trHIQL-StxzRgiMxpzZ9F0p4I9jNkkTFiDNeaVutmgZkpnEDZAmRFKe5H15n9j0n1Zx_iI",
+      "https://play-lh.googleusercontent.com/mtfRc9jIo3vSDuUtP7hf2hmTQhXA82LDNmK6X6IxEzbayIeMyYSpcGIPLFlSI0_oQ02A1da-Hf6RJ6VVB3B9",
+      "https://play-lh.googleusercontent.com/GyygEMwFlHDyZA3xqQ0YzkjCYVKNOvcyX0P0z7YL4-HOr_926gGkr-iwKNEDrRDG2OYFPPjOZdpceciTNbUB_IA"
+    ],
+    "reviews": [
+      {
+        "user": "영숙",
+        "text": "광고가 없다는게 너무 좋고 아직까지는 재미있습니다. 그런데 반드시 싸워야만 생산에 필요한 물품 제공되는데 그 싸워야할 영웅 키우는 비용 마련이 잘 안되다보니 건축과 생산 시간이 오래 걸리고 레벨업도 오래 걸리는 게 좀 아쉽네요.",
+        "rating": 4
+      },
+      {
+        "user": "1별2",
+        "text": "폴드7인데 폴드피고도 보통 타겜은 화면비율이 커지는데 이겜은 화면비율이 안커지고 작네요.글씨가 잘 안보이고 캐릭도 넘 작아서 불편해요..겜은 재밌어 보이는데 게임내에 카메라시점 확대도 안되요 개선좀 해주세요",
+        "rating": 2
+      },
+      {
+        "user": "구독취소TV",
+        "text": "에초에 광고에서부터 바다위에서 집만드는 게임이라했으면서 막상들어가보면 뭐 전투나 쳐하고있고 영웅들있고 그냥 안까시는거 추천해요 데이터도 겁나 잡아먹더만 처음부터 허위광고일꺼알고있었는데 진짜 이정도로 다를준 몰랐네요ㅋㅋㅋ",
+        "rating": 1
+      },
+      {
+        "user": "김승우 (KAAL)",
+        "text": "\"아쿠아랜드: 크레이지 서바이벌\"을 사용 잘하겠습니다. 그리고 연결오류 나지않게 유지해 주셨으면 좋겠습니다.",
+        "rating": 4
+      },
+      {
+        "user": "zzangdis",
+        "text": "게임 밸런스가 안맞음. 두서없는 게임. 광고랑 전혀다름. 이해할 수 없는 테크트리",
+        "rating": 1
+      },
+      {
+        "user": "봄날",
+        "text": "솔직히 재미있어요 하지만 창고나 이런게 용량이작아서 업그레이드시키고 싶은데 어렵네요",
+        "rating": 5
+      },
+      {
+        "user": "이글",
+        "text": "재미도없고 감동도없고 쾌감도없고 성취감도 없고 디자인은 구리고 차라리 AI라도 돌려서 품질 향상시켜라 다른 겜처럼",
+        "rating": 5
+      },
+      {
+        "user": "김밥",
+        "text": "광고 없고 시간 남을 때 하기 좋음",
+        "rating": 5
+      },
+      {
+        "user": "허윤호",
+        "text": "기존의 서바이벌 게임들과 거의 같지만 물이 제 취향이네요 ㅋㅋ",
+        "rating": 5
+      },
+      {
+        "user": "김명수",
+        "text": "광고 하나도 없고 현질유도 없는 갓겜 꿀잼이네여",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.2.2",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '아쿠아랜드: 크레이지 서바이벌' 검색",
       "설치 버튼을 눌러 다운로드",
       "앱 실행 후 안내에 따라 이용 시작"
     ],
