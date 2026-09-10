@@ -2924,11 +2924,16 @@
       "name": "Pokedata: Scan and Track TCG",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "PosturePod",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 534,
-    "skipped": 344,
+    "total": 535,
+    "skipped": 345,
     "has_issues": 190,
     "total_issues": 254,
     "fixed": 43

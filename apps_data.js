@@ -39855,5 +39855,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 537,
+    "name": "PosturePod",
+    "slug": "posturepod",
+    "cat": "health",
+    "icon": "https://play-lh.googleusercontent.com/_TR2mNoXsawqvuuEOZiK8q4UOp-kF8z-3ix1VZ41_quLRdpa-4CU5bgoDrt-turaVV-7HinUrUrjU36lSpjDtII",
+    "developer": "POSTURE.",
+    "desc": "좋아하는 포스처 웰니스 수업을 예약하고, 추적하고, 즐기는 더 스마트한 방법을 알아보세요. 리포머, 요가, 매트 필라테스, 명상, 사운드 힐링 등 어떤 수업이든, 저희 앱을 통해 꾸준히 동기를 부여하고 꾸준히 운동할 수 있습니다.\r \r 주요 기능:\r \r 간편한 수업 예약 - 스튜디오, 강사 또는 수업 유형별로 검색하고 몇 초 만에 자리를 확보하세요.\r \r 유연한 결제 방식 - 라이프스타일에 맞는 멤버십, 크레딧 또는 수업 패키지를 구매하세요.\r \r 개인 대시보드 - 활동, 크레딧, 진행 상황을 한눈에 간편하게 확인하세요.\r \r 특별",
+    "iosUrl": "https://apps.apple.com/kr/app/id6475196206",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.posture.postureapp",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/79FLpweaAyBVzGZHsJ8ILUlMqoLj6pG-43rsCAgrPHU00lpexcV9Gwfch0r36IXtP9S-CPaLUaP742f9wwnh6g",
+      "https://play-lh.googleusercontent.com/AJnMxwxXLYlwES4vF_A23DUtXP24Aqk224nEWNtYK26arLlHcDNGNRiX5WjoBOZsDW3Ht-OGbYXkOu1p2zZ6m0s",
+      "https://play-lh.googleusercontent.com/KHUqbrw-mqLUDN_DVNZpC3JrfYT1R6aaRfaoqdsdF1M823SSksNo87ke6iS-sZZhfshQLmm9_J78A54Wiw0z9g"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'PosturePod' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
