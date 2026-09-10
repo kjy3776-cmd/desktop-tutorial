@@ -39732,5 +39732,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 535,
+    "name": "멜로디 파티 - 언제 어디서든, 신나는 노래 놀이터",
+    "slug": "멜로디-파티-언제-어디서든-신나는-노래-놀이터",
+    "cat": "entertainment",
+    "icon": "https://play-lh.googleusercontent.com/AIy35l8IIhG9DDpSr3Uq4lPHiTDe8Xgg6Nhsys6C3Xp1npHaRsPic-IEQHb9hNEfdBcly0kshkiRTMvEWgzRE2A",
+    "developer": "ROLLINGSEA",
+    "desc": "최신 인기곡과 추억의 명곡이 가득 담긴 음악 라이브러리!\r 신박한 플레이로 즐기는 다채로운 게임! 끊이지 않는 재미가 여기서 펼쳐져요!\r 갑분싸 1도 없는 텐션 폭발 보이스 놀이터! 혼자서 노래 실력을 뽐낼 때도, 다 같이 놀 때도 멜로디 파티가 딱이에요!\r \r # 세상에 없던 새로운 게임이 가득!\r • 마이크 쟁탈전: 아는 노래면 망설임 없이 도전! 최신곡부터 애창곡까지, 무대 주인공은 바로 나!\r • 노래 배틀: 단순한 노래 대결은 끝! 카드로 전략을 더한 신개념 음악 서바이벌.\r • 꼼수 음악 퀴즈: 음악 지식은 기본, 정령의",
+    "iosUrl": "https://apps.apple.com/kr/app/id6578442566",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.party.seoul",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/1plEOT9GNjHLKa5dFx68rNTq4Enm3ZJabBULV965_VSq44AyHV1qXlXUnwhezshe0s-8OWPiaty3QcIW9XZ4bw",
+      "https://play-lh.googleusercontent.com/jOimAuP_rznsXvjqMmoL__vrT03GvMJztOBKaB8jsxfEjCy73jRFo7KPbnbTZig0qxUcUrQszPpobRrEzeG_Eg",
+      "https://play-lh.googleusercontent.com/qYQPJJz93BowzoidZ_mKQhvwoDEzymQ8etgNMquG3nAfp52NwxHlXG1cYj8-vP1GpJ_IkklygkNJ7fD4Pz3mAw"
+    ],
+    "reviews": [
+      {
+        "user": "홍민재",
+        "text": "싱어송 모드가 나온 뒤로 서버가 너무 불안정해요 내프로필을 들어가려해도 3~5번 반복해야 로딩이됩니다 싱어송,마이크쟁탈만 음질이 안좋은건 상관없는데 로딩실패,서버렉좀 어떻게 해주세요.. 노래 배틀은 너무 재밌게 플레이중입니다.",
+        "rating": 4
+      },
+      {
+        "user": "정해광",
+        "text": "안녕하세요 멜로디 파티 하는 유저입니다 솔직히 위플레이 욕 시스템이 워낙 강해서 이게 더 나은데 몇개 고치면 좋은거3가지 1, 음악퀴즈 PK 재대로 찍었는데 오류가 납니다 불편해여 2,싱어송 같은거 말고 노래카드 춤추기 카드 나왔으면 좋겠에여 3, 특히 성인인데 임영웅, 김범수, 탑현, 엠씨더맥스 등등 이런거 몰라여",
+        "rating": 2
+      },
+      {
+        "user": "포카리협회장",
+        "text": "재밌게 하고있는데 노래퀴즈PK 생긴 후로 너무 재미없어졌습니다... 그냥 가수PK처럼 잘 안뜨는 카드도 아니고 한 라운드에 무슨 2~3개 떠버리고 나오는 노래들도 너무 생소해서 흥미가 확 떨어지고있네요...요즘 게임 내 큰 패밀리나 골수 유저들도 점점 지쳐가고 있다는 사실도 같이 알려드립니다...유입이 더 필요합니다",
+        "rating": 3
+      },
+      {
+        "user": "군밤",
+        "text": "노래 판정이 너무 까다로워요 상대방이 잘 불렀다 생각했고 끝까지 불렀는데도 실패가 뜨는 것도 빈번하구요.. 음정맞춰 부르기만 하면 통과 시켜줬으면 합니다. 유행하는 노래나 발라드도 많이 넣어주세요. 저 포함 다른 유저분들도 모르는 노래가 너무 많습니다.",
+        "rating": 2
+      },
+      {
+        "user": "황연재",
+        "text": "요즘노래는 왤캐 없나요 늙은이들 저격 앱인가 요즘노래 더 넣어주고 노래배틀할때 하나도 부를곡이 없어요!!!! 제발 넣어주시면 정말 감사할거같아요",
+        "rating": 1
+      },
+      {
+        "user": "박차오름",
+        "text": "다른앱에서 리워드받을려고 광고보는데 광고를 너무 길게함 같은광고를 세개를 붙여서 함 욕나옴 이말할려고 앱받음 이제 삭제",
+        "rating": 1
+      },
+      {
+        "user": "이가을",
+        "text": "노래 부르는것도 좋고,배틀 하는것도 너무 재밌어서 이 앱을 사용하는걸 추천드려요..~~",
+        "rating": 5
+      },
+      {
+        "user": "노래하는지민",
+        "text": "갤럭시폴드8 노래할때 제출키좀 눌러지게 해주시구 음악퀴즈pk 제일아래선택칸좀 보이게좀해주세요 아무래도 요번에 휴대폰이 짧게 나와서 그런거 같긴한데...",
+        "rating": 5
+      },
+      {
+        "user": "Chj",
+        "text": "진짜 진짜 재밌는데 요즘 유행하는 곡이나 대중적인 곡들이 더 많이 나왔으면 좋겠어요!",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "기능은 좋은데 공식 채팅방이 문제네요 한명은 깽판치고 다 들낙하는데 관리를 안해요",
+        "rating": 2
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.5.82",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '멜로디 파티 - 언제 어디서든, 신나는 노래 놀이터' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
