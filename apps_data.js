@@ -39819,5 +39819,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 536,
+    "name": "Pokedata: Scan and Track TCG",
+    "slug": "pokedata-scan-and-track-tcg",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/1lMpKVtzKx4l4_3SH-5MKk-zlHn98ch60jvxPpc_sRspDq_31c8YGJUpK2aAVKBtciu4QSapiyq3pgf0fG8hGA",
+    "developer": "Browse LLC",
+    "desc": "PTCG 시장에 대한 정확한 최신 데이터로 컬렉션과 시장을 추적하세요.\r pokedata를 사용하여 컬렉션을 최대한 활용하세요! 우리의 목표는 취미에 투명성을 부여하고 귀하와 같은 수집가와 투자자에게 적합한 도구를 제공하는 것입니다.\r \r • 현재 가치와 구성 요소에 대한 카드와 봉인된 제품을 쉽게 검색할 수 있습니다. 우리는 영어와 일본어 카드 및 제품 카탈로그가 점점 늘어나고 있습니다. 우리는 또한 가장 투명하고 다양한 데이터를 보유하고 있습니다. 여러 시장(eBay, TCGPlayer, CardMarket, Auction Ho",
+    "iosUrl": "https://apps.apple.com/kr/app/id6504906730",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.browse.pokedata",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/43QiBYC8UIIDU2zGyZwCANXZI556oPMiGTwQi7am1UVfd_tCky0OLrYxvODui1NOTD9e7kEYMgzxa1qHs76SBg",
+      "https://play-lh.googleusercontent.com/3dPLQp4v7g2xKs5jlPjnh3jOUf2yyqiGWPpBf-t9gDrWbIhTYCOmsl_RD_V-ThG7F8Trcnj56Wrf0hBQERv1iw",
+      "https://play-lh.googleusercontent.com/20M4zY12g2HfhC6ddzLf6SvumSQHpq1tOHw4B7y-aAo3ttHHoIs5YFbvCkTMAl5nNv0hRj80RnYj2g0pxDjP"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "0.0.41",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Pokedata: Scan and Track TCG' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

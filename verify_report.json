@@ -2919,11 +2919,16 @@
       "name": "멜로디 파티 - 언제 어디서든, 신나는 노래 놀이터",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Pokedata: Scan and Track TCG",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 533,
-    "skipped": 343,
+    "total": 534,
+    "skipped": 344,
     "has_issues": 190,
     "total_issues": 254,
     "fixed": 43
