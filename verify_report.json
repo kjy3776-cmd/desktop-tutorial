@@ -2952,11 +2952,16 @@
         "iOS URL 불량: URL 없음",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "분실물 찾기 - 경찰청 습득물 조회",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 539,
-    "skipped": 347,
+    "total": 540,
+    "skipped": 348,
     "has_issues": 192,
     "total_issues": 257,
     "fixed": 44

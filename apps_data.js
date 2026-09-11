@@ -17287,7 +17287,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "5.43.01",
+      "ver": "5.44.00",
       "os": "-",
       "size": "-"
     },
@@ -40182,6 +40182,93 @@ const APPS = [
     },
     "installSteps": [
       "앱스토어/플레이스토어에서 'DM Education' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
+  },
+  {
+    "id": 542,
+    "name": "분실물 찾기 - 경찰청 습득물 조회",
+    "slug": "분실물-찾기-경찰청-습득물-조회",
+    "cat": "productivity",
+    "icon": "https://play-lh.googleusercontent.com/MFXu7K1Vjo98cbZXmO44Fa4_ickyhX-zXjQhCkGyUNmSlM6VoyWWe3yIc-EOAexEMab2WPxqO4_dTecq_V6oKUo",
+    "developer": "SejongDx",
+    "desc": "빠르고 정확한 분실물 관리 블록체인과 AI 기술로 간편하게!\r 『 서비스 소개 』\r 분실물 통합 관리 플랫폼 서비스 '파인딩올(Finding All)'\r 블록체인과 AI 기술을 바탕으로 24시간 언제든지 분실물을 검색하고 추적할 수 있으며, 유실물을 취급하는 기관과 협력하여 분실자에게 신속한 반환을 지원하는 스마트 솔루션입니다.\r 『 주요 기능 』\r  ① AI 이미지 분석 : AI 이미지 분석 기술을 활용하여 분실물의 물품명, 색상, 카테고리 정보를 자동으로 분류해줍니다.\r  ② 유사도 분석 및 매칭 : 유실물의 유사도 정밀 분석 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6468574567",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.sejong.findingall",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/cC_T2xKpdK1xsjpu85OFtXre-ztWnk0H9DNA5gPYX2tYUW1xHcOOPn4YvejUetLrleHgTgo6I0YKVaQLCX5uew",
+      "https://play-lh.googleusercontent.com/taiV-dGmPCGEs5J8MM-cbqmu7rXiqKgXEA07AG5qqkK14RBKi9PNQIWXueKQPgY9GopyL4B0LbGbAZgO8NjQWg",
+      "https://play-lh.googleusercontent.com/H7vzo-a8If0dy5BFZ0fNhBuP3YO76ZNnAgFl033Hp4IeQu54Op2Xc0Elzc6yxRBohdg_iQ5eNIAMntQnRD0-iFE"
+    ],
+    "reviews": [
+      {
+        "user": "이선구",
+        "text": "정말 편리하고 유용한 파인딩올입니다!~~ 필요한 물건을 빠르고 쉽게 찾을 수 있어서 시간을 많이 절약할 수 있었어요^^&. 인터페이스도 직관적이라 누구나 쉽게 사용할 수 있을 것 같습니다!~~. 다양한 검색 옵션과 정확한 정보 덕분에 물건을 찾는 데 어려움이 없었고, 원하는 결과를 빠르게 얻을 수 있었습니다^^. 앞으로도 자주 사용할 것 같아요. 강력 추천합니다!^^&!! 너무 좋습니다!^-----^&",
+        "rating": 5
+      },
+      {
+        "user": "Minjoo Kang",
+        "text": "블록체인과 AI 기술을 사용해서 이미지 분석, 유사도매칭 등이 가능해서 잃어버린 물건을 찾기 용이하게 참 창의적으로 만든 앱이네요. 자주 사용할 것 같습니다. 이런 앱 개발해주셔서 감사합니다.",
+        "rating": 5
+      },
+      {
+        "user": "윤동규",
+        "text": "과연🤔 분신물신고를 했는데🙂 믈건이 발견된 사례가 있긴해요😀",
+        "rating": 4
+      },
+      {
+        "user": "ya nunna",
+        "text": "[ L U C K 5 9 5 9 ] 블록체인과 AI 기술을 사용해서 이미지 분석, 유사도매칭 등이 가능해서 잃어버린 물건을 찾기 용이하게 참 창의적으로 만든 앱이네요. 자주 사용할 것 같습니다. 이런 앱 개발해주셔서 감사합니다.",
+        "rating": 5
+      },
+      {
+        "user": "이병국",
+        "text": "아주 유용한 앱이네요. 그런데 좀 더 보완하면 한층 좋아질거 같아요. 큐알코드에 문구를 더 잘 적어주면 좋겠어요. 그냥 연락 달라니까 홍보하는거 같기도 하고... 암튼 참 필요하고 유용한 앱이네요.^^ 감사합니다",
+        "rating": 5
+      },
+      {
+        "user": "Dakyum Kang",
+        "text": "간편하고 가벼워서 너무 좋아요. 자꾸 도망가는 강아지 리드줄에 달아서 혹시나 분실되면 찾을 수 있어서 자주 이용하고 편리하게 쓸 수 있는 유용한 서비스네요! 많이 이용해보세요!!",
+        "rating": 5
+      },
+      {
+        "user": "왕영진",
+        "text": "얼마전에 에어팟을 잃어버렸는데. ㅠ 어디서 어떻게 찾아야할지 난감했고.. 결국 못 찾아서 결국 재구매한 1인으로써...한마디 할께 파인딩올 이놈~!! 진작 나왔어야지...!! 앞으로 잘 부탁한다~!! ㅋㅋㅋ",
+        "rating": 5
+      },
+      {
+        "user": "운처리",
+        "text": "블록체인 기술을 점목해서 빠르게 분실물을 찾아줄수 있어서 좋은것 같아요 빠른 시일내에 전국적으로 진행했으면 좋겠어요",
+        "rating": 5
+      },
+      {
+        "user": "정주현",
+        "text": "편리, 차량에 전화번호 대신 거치해도 좋을것 같아요. 분실물. 커뮤니티??? 기능도 아주 좋을것. 같아요.",
+        "rating": 5
+      },
+      {
+        "user": "손은지",
+        "text": "카드 분실 전에 알았더라면 좋았을텐데.. UI도 깔끔하고 사용성도 좋습니다:)",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '분실물 찾기 - 경찰청 습득물 조회' 검색",
       "설치 버튼을 눌러 다운로드",
       "앱 실행 후 안내에 따라 이용 시작"
     ],
