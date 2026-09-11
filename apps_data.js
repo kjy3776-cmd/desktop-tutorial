@@ -40152,5 +40152,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 541,
+    "name": "DM Education",
+    "slug": "dm-education",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/eQBPSNU18byjMQHx2-ty0oHzJQbAMvhEvUrrB8YVG2LBw0AXjfZiFwpSPP5ZI0tGRWztFH0KhGRXrVZJs0E9xA",
+    "developer": "Softmint Software Solutions",
+    "desc": "DM Education 앱은 A/L 생물학 학생들이 디네쉬 무투갈라 박사의 지도 아래 실시간 수업에 참여하고 비디오 강의를 쉽게 시청할 수 있도록 도와줍니다.\r \r 주요 기능\r - A/L 생물학 학습 콘텐츠를 한 곳에서 이용 가능\r - 온라인 수업에 간편하게 참여 가능\r - 수업 기반 교육 비디오 콘텐츠 시청 가능\r - 중요 업데이트 및 공지사항 수신 가능\r - 체계적이고 학생 친화적인 플랫폼에서 학습 가능\r - AI 생물학 튜터\r - 온라인 시험 문제 풀이 및 점수 분석\r \r DM Education을 선택해야 하는 이유\r DM E",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=lk.dmeducation.app",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/7ZnzgxcFMedqQCGcajJWLGFNFn_sMm9wMU-TKXo5Fg6EG_-buo4MgIamLR_XY-WCZVFXw7TqM5v2RLmKCmTrEkk",
+      "https://play-lh.googleusercontent.com/TEL5VQhxeJZSZk-J7mnLqSBRihvNp5g3TMbDia6YhdsxWrnrgGevkHZLqcOOMpYjHjfioH8-rdEVdnShyAOVSw",
+      "https://play-lh.googleusercontent.com/uwhRRDnLYnUB_352CdVXqRWrOx1QEtkRJ7pnjED0t0Y4yyB-A6rcfU9dV0nvTCBAhPsdXw3U6ZtR9y_QUP-N"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'DM Education' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

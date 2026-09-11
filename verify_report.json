@@ -2945,13 +2945,20 @@
       "name": "GetYourGuide: 계획 및 예약",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "DM Education",
+      "issues": [
+        "iOS URL 불량: URL 없음",
+        "리뷰 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 538,
+    "total": 539,
     "skipped": 347,
-    "has_issues": 191,
-    "total_issues": 255,
-    "fixed": 43
+    "has_issues": 192,
+    "total_issues": 257,
+    "fixed": 44
   }
 }
