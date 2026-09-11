@@ -40065,5 +40065,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 540,
+    "name": "GetYourGuide: 계획 및 예약",
+    "slug": "getyourguide-계획-및-예약",
+    "cat": "life",
+    "icon": "https://play-lh.googleusercontent.com/ohKnf65dEeWogq4fNtF-vPUq2Dwyn0yFS-5YIzme_oL1dTz7vKQFqIJCs86F6fwOjPsXiP8wOCYs4Gg7_l35dg",
+    "developer": "GetYourGuide",
+    "desc": "여행을 만끽할 수 있는 최고의 즐길거리를 찾고 계세요?\r \r GetYourGuide 앱을 다운로드하여 세계 최고의 투어 및 액티비티를 간편하게 찾아보고 예약해 보세요.\r \r 꼭 방문해야 할 명소의 우선 입장 티켓부터 전용 입장 서비스 및 관련 정보가 함께 제공되는 특별한 경험에 이르기까지 앱을 통해 모든 여행지를 최대로 만끽하실 수 있도록 지원해 드립니다.\r \r GetYourGuide가 투어 및 액티비티에 대해 훌륭한 여행 앱인 이유는 무엇일까요?\r \r 200,000여 개의 즐길거리 제공\r 꼭 방문해야 할 명소 — 콜로세움, 에펠탑",
+    "iosUrl": "https://apps.apple.com/kr/app/id705079381",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.getyourguide.android",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/1xpVorq2W_Zt7RwvRFd7E1nh5riZeZqsMBLv5app5oQkdYwtbaonSTs73m_wH74G5uwcDbHeZlU25TdkwPWeZgY",
+      "https://play-lh.googleusercontent.com/yWolEdgjsoI4jyvW48UWOMkiuKQgbhaj3J99DoGRkAneCuvi0EAIh216wzYU9EduSsHK_B6v2bxtleDWDvUEKw",
+      "https://play-lh.googleusercontent.com/Osl--RMsHXCRCLMCgdeaNwN52lQGXhhDRK-mRboUfk2mquFTQD5CPkaoTJaM56aB7nnmYf_H-D-GBwDFVI0q_pg"
+    ],
+    "reviews": [
+      {
+        "user": "jh jh",
+        "text": "공식홈페이지에서 발권하는 입장권과 가격 비교하면 2유로에서 3유로이상까지 터무니없이 비싸요. 요즘 크롬이나 MS브라우저 쓰시면 번역 기능 아주 좋아요. Chat GPT도 너무 잘 알려주고요. 그러니 이 앱으로 돈낭비 하지 마시고 공식홈페이지를 통해 예매하셔서 수수료 아끼세요. 게다가 입장권은 포함되지 않고 외부에서만 투어하는 걸 특정 티켓을 구하기 어려워하는 사람 심리를 이용해 현혹시키고 헷갈리게 하는 미끼성 상품도 있어요.",
+        "rating": 1
+      },
+      {
+        "user": "조주현",
+        "text": "유럽 여행하다보면 가짜 사이트 같은곳에 노출되기 쉽더라구요.. 조금 아끼려구 핸드폰 오래 보는 것보다 쉽게 해결하고 풍경을 더 즐기시길 바랍니다!!",
+        "rating": 5
+      },
+      {
+        "user": "Ronnie",
+        "text": "이 상품 선택을 잘 했다 생각합니다. 정말 소중한 추억으로 남을 여행이었습니다. 함께한 가이드님께 감사드립니다.",
+        "rating": 5
+      },
+      {
+        "user": "CHANG SUP EOM",
+        "text": "친절한 가이드와 가성비 투어를 추천합니다",
+        "rating": 5
+      },
+      {
+        "user": "김용태",
+        "text": "정보가 다양하고 이용이 편리함",
+        "rating": 5
+      },
+      {
+        "user": "charlie blubber",
+        "text": "사용이 편하고 각종 정보가 모두 모여있어요",
+        "rating": 5
+      },
+      {
+        "user": "주영재",
+        "text": "하루 여행에 적당한 배분으로 코스를 느낄 수 있었다",
+        "rating": 5
+      },
+      {
+        "user": "이슬아",
+        "text": "일단 24시간 전화응대서비스가 있어서 좋습니다! 포르투갈에서 예약일정 몇시간 전에 갑작스런 투어회사의 일정변경 통보를 받아 당황했는데 전화하니 바로 취소하고 환불처리해줘서 안심하고 남은 기간 여행했어요!",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "가장 큰 문제는 앱에서 언어선택이 안 되는거다. 가이드에게 예악내용에 대해서 문의하려했는데 앱에서 안 되어서 크롬으로 다시 접속해야되었다.",
+        "rating": 3
+      },
+      {
+        "user": "이경민",
+        "text": "부쿠레슈티오시면 소금 광산은 꼭 들려 보세요.정말 강추합니다. 투어는 안드레아의 day tour가 좋습니다. 이름이 조금 틀릴수도 있습니다.",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "26.37.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'GetYourGuide: 계획 및 예약' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

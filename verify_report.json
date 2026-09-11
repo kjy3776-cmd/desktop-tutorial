@@ -2940,11 +2940,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "GetYourGuide: 계획 및 예약",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 537,
-    "skipped": 346,
+    "total": 538,
+    "skipped": 347,
     "has_issues": 191,
     "total_issues": 255,
     "fixed": 43
