@@ -39978,5 +39978,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 539,
+    "name": "etoro: Trade & Invest",
+    "slug": "etoro-trade-invest",
+    "cat": "finance",
+    "icon": "https://play-lh.googleusercontent.com/Vh-ObnoK4wyeqrhbKe0ymbHr7KClkJf6OwcbFY0ruRKM0XclsN00sP8AM6fxd3qg3FNHNqwguk07JTtUsPyy",
+    "developer": "eToro",
+    "desc": "2007년부터 수백만 명의 투자자들이 자신의 지식을 공유해 왔습니다. etoro는 이러한 정보를 바탕으로 소셜 투자, 글로벌 주식 시장 분석, 기관 투자자급 AI를 하나의 투자 앱 및 거래 플랫폼에 통합하여 지능적인 분석을 제공합니다.\r \r 하나의 거래 앱에서 세 가지 AI 도구 활용\r 대부분의 AI는 뉴스를 읽지만, etoro의 AI는 수백만 명의 투자자들의 행동을 분석합니다. etoro의 AI 에이전트인 Tori는 시장 관련 질문에 답변하고 실시간 주식 시장 심리를 추적합니다. Alpha Portfolios는 수백만 투자자의 익",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.etoro.openbook",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/8EUuEKdQ0ufHNKQXdCwPKCGfc0oykddmZ8fepAF4b1PvZwACmcVoCyCCm9vPiSU3nHi6TTOWsuinbwXmTtQqNg",
+      "https://play-lh.googleusercontent.com/G-tXP9czRHf4h7z1UkBdL9or-MBTRJOCcNB8hV-XiKz2JdVXXG4LperD0dMJTJ_YguuZZ29ZWwrewwtJBHnw",
+      "https://play-lh.googleusercontent.com/v4ZQ5JgruUdY0Of-lOfMzQiu21r3aBVLNRB2UCOMmkuetssFze7P32n0h12mbCHnjma68KUwCvYfiPuumpAA8Q"
+    ],
+    "reviews": [
+      {
+        "user": "Sangwook Yu",
+        "text": "약 십년전에 뭔가를 2만원어치 구매 했습니다. 확인해 봐 달라니까 ..정보를 못찾나봐여ㅠ 저 바이킹 아이콘만 보면 생각나네요,, 그게 비트코인인지 이더리움 인지는 잘 모르겠습니다먄.. 언제든지 꼭 찾고 싶네요..",
+        "rating": 2
+      },
+      {
+        "user": "Jeong Hwan Park",
+        "text": "가입하다가 말았는데 탈퇴도 않되고 앱 삭제만 했더만 자꾸 네이버에 자동으로 로그인 요청이 뜨네",
+        "rating": 1
+      },
+      {
+        "user": "코나코",
+        "text": "유럽과 나스닥 시장에 투자 할 수 있다는 장점있지만 소수 종목은 없는것들도 있고 부실?, 급등락 종목은 매도가 불가능 합니다.",
+        "rating": 2
+      },
+      {
+        "user": "이준석",
+        "text": "쓰레기가 이 어플리케이선보다 가치있다. 이용하면 수명이 단축된다. 멍청하고 게으른 운영진",
+        "rating": 1
+      },
+      {
+        "user": "D J",
+        "text": "엡데이트 후 로그인하면 화면 아무것도 뜨질 않음...",
+        "rating": 1
+      },
+      {
+        "user": "flame ori",
+        "text": "Do not use ever the shittiest app ever 이 앱 절대 사용하지마세요. 자기 유리할때만 마켓 닫고 팔지못하게 합니다.",
+        "rating": 1
+      },
+      {
+        "user": "Google 사용자",
+        "text": "다양한 옵션과 레버리지",
+        "rating": 4
+      },
+      {
+        "user": "Jay kim",
+        "text": "CS 팀이 많이 답답합니다.쓰다보시면 자연스럽게 알게 될꺼입니다.",
+        "rating": 1
+      },
+      {
+        "user": "Keenoy (Keenoy)",
+        "text": "이 어플은 기업의 이익을 위해 당신의 거래를 마음대로 제한할 수 있습니다.",
+        "rating": 1
+      },
+      {
+        "user": "김다찬",
+        "text": "2년동안 멀쩡히 하던 CFD 갑자기 닫아버리면 어쩌자는 건지",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "651.1320.2",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'etoro: Trade & Invest' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

@@ -2934,13 +2934,19 @@
       "name": "아쿠아랜드: 크레이지 서바이벌",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "etoro: Trade & Invest",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 536,
+    "total": 537,
     "skipped": 346,
-    "has_issues": 190,
-    "total_issues": 254,
+    "has_issues": 191,
+    "total_issues": 255,
     "fixed": 43
   }
 }
