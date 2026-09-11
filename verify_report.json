@@ -2957,11 +2957,16 @@
       "name": "분실물 찾기 - 경찰청 습득물 조회",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "TradingView - 주식, 증권 및 비트코인",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 540,
-    "skipped": 348,
+    "total": 541,
+    "skipped": 349,
     "has_issues": 192,
     "total_issues": 257,
     "fixed": 44
