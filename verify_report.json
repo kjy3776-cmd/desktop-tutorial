@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "results": [
     {
       "name": "카카오톡",
@@ -2962,11 +2962,16 @@
       "name": "TradingView - 주식, 증권 및 비트코인",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "발로란트 조준선 - 발로란트 조준선",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 541,
-    "skipped": 349,
+    "total": 542,
+    "skipped": 350,
     "has_issues": 192,
     "total_issues": 257,
     "fixed": 44
