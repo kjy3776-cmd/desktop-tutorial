@@ -40449,5 +40449,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 545,
+    "name": "uLesson Educational App",
+    "slug": "ulesson-educational-app",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/5ryX0G8X_lOSKza-hP_z0tWFQi-gCRMbPHZ3T7oxKBf78I41lsziu5Y9iegXduav2kGx45nwMpazsZaJRbBNBA",
+    "developer": "uLesson Education",
+    "desc": "<b>더 나은 성적을 받는 것이 더 쉬워졌습니다.</b>\r \r uLesson은 <b>WAEC</b>, <b>GCSE</b>, <b>A 레벨</b>, <b>BECE, <b>GCE</b>, <b>NECO</b>, <b>JAMB</b> 및 기타 <b>국가 시험</b>.\r \r 참여도가 높은 비디오와 맞춤형 학습이 완벽하게 결합된 uLesson은 최고의 교사, 미디어 및 기술을 활용하여 학생들이 쉽고 재미있고 매력적인 방식으로 개념을 배우고 이해하고 연습할 수 있도록 돕습니다.\r  \r 지금 다운로드하여 uLesson을 신뢰하는 수천 명의 학",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.ulesson",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/070zp1VCX3yd_V6yboO8JyRbwPvUSXIS-ewq0c1oqHKQvFvUY1SQgIKjxJNgEgfOErzrmTT1NlFusnto_DDQ",
+      "https://play-lh.googleusercontent.com/jUJY7NFM4zS5f1ZXafl1xna387Pwg-yXjGUgocljt41IqduBSU6RdfeJSdQqr0xRgA50sZnQgr8xF1Hxzk1odQ",
+      "https://play-lh.googleusercontent.com/yn0SeVsP-eExVUbt-t4ME6YGeFhLZCcVQa80XSARFMkFnW-wbGwmvin5AqPQOAB85zbjydvdtWBywAqOfXGd"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2.0.31",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'uLesson Educational App' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
