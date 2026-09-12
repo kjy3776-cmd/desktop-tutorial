@@ -40572,5 +40572,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 547,
+    "name": "Heritage: Ancestry & Ethnicity",
+    "slug": "heritage-ancestry-ethnicity",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/urEIxBjZBjp7WhMgSAEK4O1125dWXKvBDBvbPZw5m2sTzbWHQjjaw0fEdWIqc5ouyObuZ9cr5y3486-z6zI9",
+    "developer": "Denali Digital",
+    "desc": "당신의 조상은 누구였을까요? 전생의 당신은 어떤 모습이었을까요? 당신이 진짜로 속한 곳은 어디일까요?\r \r Heritage는 AI 기반 조상 및 민족성 앱으로, 셀피 한 장을 당신만의 완전한 헤리티지 스토리로 바꿔줍니다. 당신의 민족적 뿌리, 국적 구성, 전생, 그리고 이상적인 파트너까지 확인해보세요.\r \r ✦ 셀피 한 장으로 AI 민족성 테스트\r 셀피를 업로드하고 나만의 독특한 민족적 구성, 국적 분포, 그리고 세대를 거쳐 전해졌을지도 모르는 성격적 특징을 알아보세요. Heritage는 고도화된 AI 얼굴 분석을 사용해 당신의 얼",
+    "iosUrl": "https://apps.apple.com/kr/app/id6759910369",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.denalidigital.heritage",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/s5NZ5A6qSjtkvn-qfGj8n-TFXY7cBcPKaQ4SzcivjbmSdBTXzrhemZ9V_27kOeNeLlKAU7bxct9a_DleS5Y3DnU",
+      "https://play-lh.googleusercontent.com/PQvyi6IVw0JwQZUwn7Vasb1a9tREIBOq97fikJTKbThhJgwJ0j8HemnZDv0UIWaQMK3MnsEIg9VxNj5JB9MWBw",
+      "https://play-lh.googleusercontent.com/ydrnCb053V08PdSV1XA4VLOwD-RzkUQiSlzUz3zj8h7jeMYqrv2qgbfTlQ8Rs_XsbJwg1sLDEdLrkkks6dyV"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Heritage: Ancestry & Ethnicity' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

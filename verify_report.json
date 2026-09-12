@@ -2979,11 +2979,16 @@
       "name": "누모(Numo) - 데이터 기여하고 리워드받기",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Heritage: Ancestry & Ethnicity",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 544,
-    "skipped": 351,
+    "total": 545,
+    "skipped": 352,
     "has_issues": 193,
     "total_issues": 259,
     "fixed": 45
