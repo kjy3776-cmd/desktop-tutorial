@@ -2995,11 +2995,16 @@
       "name": "플라이북 FLYBOOK - 함께라서 더 즐거운 독서",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "TimeTill: 카운트다운 & 위젯",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 547,
-    "skipped": 353,
+    "total": 548,
+    "skipped": 354,
     "has_issues": 194,
     "total_issues": 260,
     "fixed": 45

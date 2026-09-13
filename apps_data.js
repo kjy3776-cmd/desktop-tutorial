@@ -40782,5 +40782,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 550,
+    "name": "TimeTill: 카운트다운 & 위젯",
+    "slug": "timetill-카운트다운-위젯",
+    "cat": "productivity",
+    "icon": "https://play-lh.googleusercontent.com/1LRBVfFeSXmCwosB0Va-fip_Fz6iRnqE_w35GzuMR7WwHS3bgYM2DlKRvINAAks3PEy3500MS9qK-TkIL7o-Zg",
+    "developer": "Handcrafted Apps and Games",
+    "desc": "중요한 날을 손꼽아 기다리시나요? 잊고 싶지 않은 순간을 영원히 기억하고 싶으신가요? 📅✨ 'Time Until'이 당신의 모든 소중한 순간을 함께합니다. D-Day 카운트다운부터 지난 이벤트 추적까지, 이 앱 하나로 완벽하게 관리하세요!\r \r 지금 사람들은 무엇을 카운트다운하고 있을까요? ⏳\r *   광복절 연휴 (8월 15일) 🇰🇷\r *   민족 대명절 추석 (9월 중순) 🌕\r *   KBO 한국시리즈 결승전 ⚾\r *   설레는 겨울 방학 시작 ❄️\r *   따뜻한 크리스마스 & 연말 파티 🎄\r *   새로운 시작, 2027년 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6474212499",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.brunoschalch.timeuntil",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/zLMquWUkOB29VUXJmIsEFf5iJG74Tj3j4AtHCu-Pg8mdd48D2G1F9bfiSe4TcKEt7rNMSPg7qs7gIRVgboGGNw",
+      "https://play-lh.googleusercontent.com/LKwOlhsr3LXgvfxCvWcH3scahzlenIEDT31qwLwL0YxHIlSW36LygWTJU_2x-snEThO95A0NPf6cWjgi8evQoQ",
+      "https://play-lh.googleusercontent.com/kDbXZzJS1g-MN-w4ImqnsQY31kga3aK1bHoR1A55Nxi-cmjxgDi5glzBfYak3uUIN4fQ4xoOpMC4J9jbyBuIGDA"
+    ],
+    "reviews": [
+      {
+        "user": "Google 사용자",
+        "text": "너무 좋아요 좋은 앱 만들어 주셔서 감사합니다 영어도 좋지만 한글로 볼수있게 업데이트해주세요💜💜💜",
+        "rating": 5
+      },
+      {
+        "user": "dj Lee",
+        "text": "예전에 잘 쓰던 앱이 구글플레이에서 사라져서 아쉬웠는데, 아주 만족스런앱을 찾았네요",
+        "rating": 5
+      },
+      {
+        "user": "조동주",
+        "text": "제가 찾던 카운트다운 앱입니다! 최고입니다!",
+        "rating": 5
+      },
+      {
+        "user": "오뎅",
+        "text": "위대하신 개발자님,위젯에 Unit에 초단위(seconds)도 만들어 주실 수 있나요?",
+        "rating": 5
+      },
+      {
+        "user": "동물연구",
+        "text": "한글패치랑, 초 단위도 해주세요",
+        "rating": 4
+      },
+      {
+        "user": "jackie 7777",
+        "text": "The design is very pretty and neat. However, I use two cell phones, but if I make a schedule in one phone, can't I see it on another phone?",
+        "rating": 5
+      },
+      {
+        "user": "Jennifer Leigh Strout (이진희)",
+        "text": "love it!^^",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "bought the premium hope you can add seconds too, or show the time left entirely by seconds onwidget",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "자살용으로 딱이에요! It is perfect for suicide!",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "오 제발 제발 제발 한번만 깔아보세요 진짜 완전 최고의 앱이에요 배경그림이 엄청 예쁘고 카운트도 초 단위로 해주고 위젯도 가까운 이벤트부터 나오고!! 진짜 여행의 설렘이 훨씬 커져요! I love this app! Thanks for making this. But I want count only weekdays. (Monday to friday) is it is pro item? IF it is not, please make counting weekday tool. Or tell me how to do it. Thank you!",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "5.4.6",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'TimeTill: 카운트다운 & 위젯' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
