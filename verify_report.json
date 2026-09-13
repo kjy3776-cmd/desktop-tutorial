@@ -196,7 +196,6 @@
     {
       "name": "프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠",
       "issues": [
-        "구글플레이 URL 불량: 404 앱 없음",
         "설명글 너무 짧음 (21자)"
       ]
     },
@@ -469,6 +468,7 @@
     {
       "name": "VK: music, video, messenger",
       "issues": [
+        "구글플레이 URL 불량: 404 앱 없음",
         "iOS URL 불량: URL 없음"
       ]
     },
@@ -1896,7 +1896,6 @@
     {
       "name": "TikTok 틱톡 - 숏폼 영상, 크리에이터, 수익창출",
       "issues": [
-        "구글플레이 URL 불량: 404 앱 없음",
         "iOS URL 불량: URL 없음"
       ]
     },
@@ -2344,7 +2343,6 @@
     {
       "name": "TikTok Lite 포인트 & 쿠폰 & 리워드",
       "issues": [
-        "구글플레이 URL 불량: 404 앱 없음",
         "iOS URL 불량: URL 없음"
       ]
     },
@@ -2996,7 +2994,7 @@
     "total": 546,
     "skipped": 352,
     "has_issues": 194,
-    "total_issues": 260,
-    "fixed": 45
+    "total_issues": 258,
+    "fixed": 43
   }
 }
