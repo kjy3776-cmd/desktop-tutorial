@@ -3000,11 +3000,16 @@
       "name": "TimeTill: 카운트다운 & 위젯",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "수어 사전 (Flashcards M)",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 548,
-    "skipped": 354,
+    "total": 549,
+    "skipped": 355,
     "has_issues": 194,
     "total_issues": 260,
     "fixed": 45
