@@ -83,6 +83,7 @@
     "Color Widgets: Icon Themes",
     "ConfirmTkt: Train Booking App",
     "Coursera: 경력 성장",
+    "Critical Strike CS: Online FPS",
     "Cronometer: Calorie Counter",
     "D.up(디.업) : 더프 모의고사",
     "DB손해보험 다이렉트 공식앱",
@@ -1048,7 +1049,7 @@
     "히간: 이루실",
     "히로인스- 엄마전용 만보기·체험단·앱테크·쇼핑·커뮤니티"
   ],
-  "last_run": "2026-09-12",
+  "last_run": "2026-09-13",
   "next_id": 0,
   "today_count": {
     "2026-05-26": 2,
@@ -1160,6 +1161,7 @@
     "2026-09-09": 4,
     "2026-09-10": 5,
     "2026-09-11": 4,
-    "2026-09-12": 4
+    "2026-09-12": 4,
+    "2026-09-13": 0
   }
 }
