@@ -2984,13 +2984,19 @@
       "name": "Heritage: Ancestry & Ethnicity",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "몬길: STAR DIVE",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 545,
+    "total": 546,
     "skipped": 352,
-    "has_issues": 193,
-    "total_issues": 259,
+    "has_issues": 194,
+    "total_issues": 260,
     "fixed": 45
   }
 }
