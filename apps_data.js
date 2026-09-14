@@ -41130,5 +41130,57 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 554,
+    "name": "VR Virtual Reality 360°",
+    "slug": "vr-virtual-reality-360",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/YdJyNB7B7W6Sr8Jhi-alVPCFbblIjs4tw7pl1kfcXjjuTUHKcit9QQtSN-FU-g6lGEt_pKIRoa-bJJif43kUZqc",
+    "developer": "MEAInnovations",
+    "desc": "당신의 방식, 당신의 견해! \r \r 세계 최대 규모의 몰입형 프리미엄 콘텐츠 라이브러리를 경험하고 360° 비디오로 세계를 여행해 보세요.  여기에서 최고의 경험을 스트리밍하세요!\r 최신 이벤트, 목적지, 비하인드 스토리를 보여주는 360° 독점 비디오를 시청하세요!\r 몰입형 VR 기술은 사용자를 단순한 관중에서 적극적인 참가자로 변화시켜 완전한 성능, 제어 및 진정성을 제공합니다. VUZ 앱에서 VR 헤드셋 유무에 관계없이 손가락을 탭하거나 손을 움직여 몰입형 라이브 스트림이나 녹화된 비디오를 시청할 수 있습니다.\r VUZ VIP",
+    "iosUrl": "https://apps.apple.com/kr/app/id1579274717",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.creativeinnovations.mea",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/YOqdIPNL5qh01siyGwrGBqfZ2OoEOfvxYBllk-MmWF8Jv1hiJPezW-IuYiUUp-abS8zZs4vfjI2IsMO5KLRvdVA",
+      "https://play-lh.googleusercontent.com/ok-V_BbQIrC9mq7cJBecLL4lbCfYRuYQuTnzt0iaJVUJzfyHSKI7s1RoXcxqIXxUkVJCNIP5eedc2aake_nhbw",
+      "https://play-lh.googleusercontent.com/50X3vVyCUiHNZZYjCgxhlPk47qIQdv4_Rw1sBs9NIOunZPf_UrTHdblUGo9i-rdozmLDo9VTNyBXUSVmfcdQfw"
+    ],
+    "reviews": [
+      {
+        "user": "Honey",
+        "text": "Please",
+        "rating": 4
+      },
+      {
+        "user": "Google 사용자",
+        "text": "좋아요",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "انانانانا",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "4.21.7",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'VR Virtual Reality 360°' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

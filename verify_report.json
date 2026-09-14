@@ -3016,11 +3016,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "VR Virtual Reality 360°",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 551,
-    "skipped": 356,
+    "total": 552,
+    "skipped": 357,
     "has_issues": 195,
     "total_issues": 261,
     "fixed": 45
