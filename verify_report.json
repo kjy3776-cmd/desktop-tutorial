@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "results": [
     {
       "name": "카카오톡",
@@ -3005,11 +3005,16 @@
       "name": "수어 사전 (Flashcards M)",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "WINC(윙크) - 컬러렌즈 좋아한다면 윙크",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 549,
-    "skipped": 355,
+    "total": 550,
+    "skipped": 356,
     "has_issues": 194,
     "total_issues": 260,
     "fixed": 45

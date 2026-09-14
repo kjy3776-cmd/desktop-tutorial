@@ -40956,5 +40956,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 552,
+    "name": "WINC(윙크) - 컬러렌즈 좋아한다면 윙크",
+    "slug": "winc윙크-컬러렌즈-좋아한다면-윙크",
+    "cat": "shopping",
+    "icon": "https://play-lh.googleusercontent.com/Qnif1MJuJe8b_EQXew4YvXjOxsmiYdIfnMGuJxYhii2d_O9kcMTZKJvFlnmXAOcQnjK8nCEPS53V9v14f7KvElg",
+    "developer": "윙크컴퍼니",
+    "desc": "컬러렌즈 좋아한다면\r 윙크에서 고르고, 집 앞 안경원에서 구매하세요.\r \r ●  오직 윙크에서만\r 컬러 렌즈 브랜드, 하파크리스틴, 츄렌즈, 젬아워, 오트르otr 렌즈 등\r 윙크에 단독 입점되어 있는 다양한 브랜드의 상품을 소개합니다.\r 내 취향에 딱 맞는, 인생 렌즈를 윙크에서 만나보세요.\r \r ● 쉽고 간편한 윙크 렌즈 예약\r 우리 동네에도 있을까?\r 전국 1500여 개의 안경원이 윙크와 함께합니다.\r 나와 가장 가까운 예약매장을 찾아보세요.\r \r ● 더 빨라진 윙크 예약\r 당일 배송되는 윙크 빠른 발송! 오늘 예약하면 다음날 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id1598501544",
+    "androidUrl": "https://play.google.com/store/apps/details?id=app.winc.customer",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/0Trn2nkveD-M4hibQyOjF5IiPjlfChpVA8KAgb7eJb3KhGrBRFNvFdCXTkBMyYGfffd-tEMwp7IoohwFaUjmEaQ",
+      "https://play-lh.googleusercontent.com/cxILp_Q1aMEFSILAWG9Nrl80F9V75uVLKBi5QyZLs0HqXz-pzmOsVVF-ksmNOY0Mf7n0Xko9gGzH4tGyDW_ZfA",
+      "https://play-lh.googleusercontent.com/Ug0L8Rr1oxDIvIKhm7TVBBh5VRDO6LOpi26oFbKNpsvgk2Dh4BMbb9Gb_ewt9DwPFMO3FXBX5kRRgFWQ7xrl"
+    ],
+    "reviews": [
+      {
+        "user": "lu lu",
+        "text": "어플 잘 사용하고 있어요 한번 주문 때 여러개를 픽업하는 편이라, 재구매하고 싶을 때 주문내역 하나씩 눌러서 뭔지 확인하고 구매합니다. 어떤 렌즈 몇회 구매했는지 조회되는 기능이 있으면 구매에 더 도움될 듯 합니다 어플 잘쓰고있어요 감사합니다..^",
+        "rating": 5
+      },
+      {
+        "user": "박소영",
+        "text": "다 좋은데 오프라인 매징과 앱이 연동 되면 좋겠어요! 오프라인에서 급하게 산 렌즈가 뭐였는지,예전 사진를 보고 문득 그때 썼던 렌즈가 뭐였는지 확인 할 수 있으면 더 불편함없이 편하게 쓸 수 있을거 같습니다! 부디ㅜ 연동 되면 좋겠다아🙏🏻",
+        "rating": 5
+      },
+      {
+        "user": "개구리",
+        "text": "이 앱을 이제서야 알게됐다는게 너무 아쉬울 정도로 너무너무 좋은 앱이에요ㅠㅠ 평소에 렌즈 필요할 때마다 귀찮아도 하나하나 찾아다녔는데 윙크 앱 하나로 그 귀찮음이 싹 사라졌어요!! 근데 하나 추가해주셨으면 하는 점이 있습니다!! 바로 '난시 도수 추가'인데요 저는 왼쪽 눈의 난시도수가 -0.25인데 현재 윙크 앱에서는 -0.75부터 작성할 수 있게 되어있더라고요ㅠㅠ 이 점만 수정해주시면 정말 좋은 앱에서 슈퍼울트라 좋은 앱이 될 것 같습니다 항상 감사합니다!!",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "렌즈 볼게 너무 많아서 좋은데 로그인 하라고 해서 로그인 하는데 마지막 부분에서 튕겨서 벌써 10번째 시도중... 로그인이 안되있는 상태에서는 혜택을 받을수도 없고 살수는 있는건가요...; 좀 불편해요. 카카오톡 로그인 법정 대리인 동의 하고 인증번호까지 받아서 확인 누르면 바로 튕겨져서 다시 제자리네요..",
+        "rating": 2
+      },
+      {
+        "user": "Christina Ki",
+        "text": "가격도 디자인도 쉽게 비교할 수 있어서 너무 좋습니다만, 양측 도수를 개별적으로 선택할 수 없다는 점이 너무 아쉽습니다. 도수 선택창을 오른쪽과 왼쪽을 나눠서 선택할 수 있게 바꿔 주시면 더 좋을 것 같아요.",
+        "rating": 4
+      },
+      {
+        "user": "김미란",
+        "text": "설치된거 방금지움. 우리동네는 픽업매장이 없음. 전에는 한군데 있었는데 안경점은 그대로있지만 픽업을 안받아주나봄.렌즈를 택배로도 그냥 받을수있게 해주던지 작은동네살면 렌즈구입하기 너무 힘들다.여러가지로 불편하고..",
+        "rating": 2
+      },
+      {
+        "user": "박솔미",
+        "text": "업데이트 이후 홈 화면이 너무 많이 바껴 당황스럽고 어찌저찌 스토어 화면에 찾아가니 렌즈 고르기 불편하네요 전에는 자연스러운 것만 볼 수 있었던 것 같은데.. 많이 바껴서 아쉽네요..",
+        "rating": 2
+      },
+      {
+        "user": "jA* *h",
+        "text": "많은 종류의 렌즈를 보고 비교할수있어 좋지만 구매 할때 도수가 짝짝이인 사람들은 불편해요 ㅠ 왼쪽 오른쪽 도수 정하는 기능이 있음 합니다.",
+        "rating": 3
+      },
+      {
+        "user": "하늘하늘",
+        "text": "업데이트 후 어플 너무 느려짐 그리고 렌즈명 아무거나 검색해도 나오게 해야지 브랜드명 넣고 검색 안 하면 검색 결과 없다고 뜨는거 누가 만들었누;; 고쳐라",
+        "rating": 1
+      },
+      {
+        "user": "박수안",
+        "text": "무료 쿠폰 사용해서 렌즈 시켰는데 잘못배송와서 5000원 내게 해놓고 사과 한마디 없고 문의하기 조차 힘듭니다. 별로 추천하고 싶지 않은 앱입니다.",
+        "rating": 1
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2.2.16",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'WINC(윙크) - 컬러렌즈 좋아한다면 윙크' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
