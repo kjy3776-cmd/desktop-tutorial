@@ -3010,13 +3010,19 @@
       "name": "WINC(윙크) - 컬러렌즈 좋아한다면 윙크",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Red Ball 4",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 550,
+    "total": 551,
     "skipped": 356,
-    "has_issues": 194,
-    "total_issues": 260,
+    "has_issues": 195,
+    "total_issues": 261,
     "fixed": 45
   }
 }
