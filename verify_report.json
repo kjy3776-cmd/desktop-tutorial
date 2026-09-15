@@ -3021,11 +3021,16 @@
       "name": "VR Virtual Reality 360°",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "농산물 실시간 경매 - 최신 농산물 경매 거래내역 확인",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 552,
-    "skipped": 357,
+    "total": 553,
+    "skipped": 358,
     "has_issues": 195,
     "total_issues": 261,
     "fixed": 45

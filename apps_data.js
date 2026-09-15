@@ -41182,5 +41182,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 555,
+    "name": "농산물 실시간 경매 - 최신 농산물 경매 거래내역 확인",
+    "slug": "농산물-실시간-경매-최신-농산물-경매-거래내역-확인",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/8zSg8fw1vMxHgFxgGoj4L4tyNSek3mdtGzMoPWs-ePVaC9Dst0kJrkzISNbuF_xpf06F7Ib8C76Qe82zPDMBvS8",
+    "developer": "100 Factories",
+    "desc": "품목 별, 도매시장 별로 농산물의 경매 내역을 실시간으로 조회해 보세요. \r \r 1) 품목별 조회 : \r   - 조회하고자 하는 농산물의 분류를 선택하여, 실시간 및 과거의 경매 내역을 조회할 수 있습니다. \r   - 경매 건의 경매 시간, 품목, 규격, 경락가, 거래량, 도매시장, 도매법인, 산지, 비고를 확인할 수 있습니다.\r \r 2) 도매시장별 조회 : \r   - 조회하고자 하는 도매시장을 선택하여, 실시간 및 과거의 경매 내역을 조회할 수 있습니다.\r   - 경매 건의 경매 시간, 품목, 규격, 경락가, 거래량, 도매시장, ",
+    "iosUrl": "https://apps.apple.com/kr/app/id1605831935",
+    "androidUrl": "https://play.google.com/store/apps/details?id=kr.youngminz.auction",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/e1PaTqa9TSU4DJ2TIiCh5YQWHA1e9bvd7f3RBuyYxBzbM0pyl4eDQ5V3fQChLa_NkoB2CWVTg6hkLydrvV32PNQ",
+      "https://play-lh.googleusercontent.com/eyFVPxk_JKLZEOrpfrehCgMz5tKRqz_211z1ehcNdrzrUq5nQREZv6Rfes5asMKXhGXW5JFqV6tuigGOzZ8F71U",
+      "https://play-lh.googleusercontent.com/2i60zs2cqvm_yDRsqDe3YqbuTvrf0RfjDZohRnNC5vKhFs_g6KaiDczgDvtsVk5iZN4V697zvhJkyAJWqBduAdI"
+    ],
+    "reviews": [
+      {
+        "user": "최현준",
+        "text": "먼저 다양한정보(같은주차 연별 가격추이 등)을 볼수있는게 다른 경매정보어플과는 차별점이 있습니다. 몇가지 아쉬운점은 즐겨찾기가 있다지만 한품목을 보려고 들어갔을때 날짜변경이 번거롭습니다 다시 뒤로가기를 눌러서 날짜를 지정해서들어가야되는부분을 그냥 가격화면에서 날짜를 화살표버튼과 캘린더 두가지방식으로 변경할 수 있으면 좋겠습니다. 그래프추이에서 연간 월별 평균시세도 보여주면 품목별 연간 작기를 구성하는데 도움이 많이될거같습니다.",
+        "rating": 5
+      },
+      {
+        "user": "김미룰장성",
+        "text": "광고 제거 기능을 완벽하게 숨겨놓으시느라 애 많이 쓰셨습니다. 너무 너무 불쾌해요. 광고 제거 버튼을 찾을 수가 없어 결국 광고만 보다가 앱을 다시 닫게 만드는게 이 앱을 만든 목적은 아닐텐데, 해도 너무합니다.",
+        "rating": 1
+      },
+      {
+        "user": "한성수",
+        "text": "당일 경락가로 가장 늦게 올라온 자료가 맨 위에 출력되는데 경락(등록)시간으로 오름차/내림차로 정렬기능이 있었음 좋겠습니다. 농산물은 보통 1번과 2번과 ~5번과 등 등급이 있을때 경매시장에서는 1번과부터 경매를 시작하니 조회를 하면 5번과가 제일 위에 출력되고 1번과가 제일 아래에 출력되는데 이것이 의외로 불편하네요 출하 농가는 보여주는 경락가에 출하주 이름이 없어도 내가 출하한 등급 종류와 출하량 및 산지를 보면 출하한 농산물의 경락가를 찾을 수 있는데 역으로 출력되니 불편합니다. 먼저 올라온 자료가 먼저 출력되거나 혹은 시간단위로 오름차/내림차 정렬할 수 있는 업뎃쫌 부탁^^",
+        "rating": 5
+      },
+      {
+        "user": "Alex승호",
+        "text": "좋은정보 주시는 것은 정말 감사합니다. 다만, 농산물 경매정보가 필요하신 시골 어르신들은 지속되는 광고때문에 어찌할바를 모르고 계시네요. X로 빠져나갈 수도 없고 계속 광고만 지켜봐야 하는 이런 광고 덩어리 앱을 만드신게 신기할 따름 이네요. 광고를 봐 주는것 좋습니다. 앱을 만들어 주셨으니깐요. 다만 노출이 어마무시한 광고는 이 앱의 목적을 의심케 하네요.",
+        "rating": 1
+      },
+      {
+        "user": "유경희",
+        "text": "이 앱은 한번 광고가 뜨면 어떻게 나가기가 안되요. 다시 들어가도 그 광고가 그데로 있고. 혈압 올라요",
+        "rating": 1
+      },
+      {
+        "user": "정해령",
+        "text": "기본즹보는 보여주고 광고노출해야지 광고만 보이고 열리지도 않고 닫히지도 않고 짜증나는앱",
+        "rating": 1
+      },
+      {
+        "user": "손문식",
+        "text": "유용하게 잘 활용하고 있읍니다! 까다롭지 않고 원하는 정보를 정확하게 알수있어 편리합니다.",
+        "rating": 5
+      },
+      {
+        "user": "seasonLURE",
+        "text": "광고가 적당해야지 시간지나도 없어지지도 않고 완전 쓰레기앱",
+        "rating": 1
+      },
+      {
+        "user": "최용삼",
+        "text": "경매 가격 알수있어서 아주 편하게 사용하기 좋아요ㆍ",
+        "rating": 4
+      },
+      {
+        "user": "김광순",
+        "text": "자세하게 잘 나와있어서 보기 편해요.",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.0.141",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '농산물 실시간 경매 - 최신 농산물 경매 거래내역 확인' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
