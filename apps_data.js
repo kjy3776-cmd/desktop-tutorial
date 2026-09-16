@@ -41530,5 +41530,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 559,
+    "name": "아키파이 - 악기 거래를 위한 가장 확실한 방법",
+    "slug": "아키파이-악기-거래를-위한-가장-확실한-방법",
+    "cat": "sns",
+    "icon": "https://play-lh.googleusercontent.com/2is_9JLOiGEkohg-TgmiuY8jmWjwiYMDZr6vlb4eMud67SpMBmeNTtLR3AsCwXTfXSJt03FxAJEf52IXx5KcoQ",
+    "developer": "JAMMERING",
+    "desc": "악기 거래를 위한 가장 확실한 방법, 아키파이(AKIFY)\r \r • 악기를 위한, 악기에 의한 거래 플랫폼\r 아키파이는 악기에 최적화된 거래 공간을 제공해요.\r \r • 악기부터 음향장비까지\r 이펙터, 일렉기타, 베이스기타, 통기타, 앰프, 신스/키보드, 드럼/퍼커션, 프로 오디오 등\r 음악인을 위한 다양한 악기와 음향장비를 거래해 보세요!\r \r • 악기 검색, 더 쉽게!\r 다양한 변형과 상이한 명칭을 가진 악기,\r 아키파이에서 필터와 함께 최적의 검색 기능을 제공해요!\r \r • 악기 매물 등록, 더 정확하게\r 아키파이에서 제공하는 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6751454780",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.jammering.akify",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Zgxo5ybllsLBop_8EH4T5_yYdAJGlKfgKLJp7IcRPNWib8RkmDYWw8q4xii1Y11Wm9DWxhAWImNEEMnDIvc-",
+      "https://play-lh.googleusercontent.com/lNKBvFcdGhA7FClzj7b_dJbcipK61Q1JherlwxlvXYvXdDOtRfJw4sFp4os4sIdqP2o9A1vAbk-q8RKqj-5Q",
+      "https://play-lh.googleusercontent.com/05VfWEghXgXNY7o5lmayRwBVzEWcluzI8YdrhG2g1zjFUWb3LLj_hATJLIoBcMN2gkgjh6UvUteex0cUf7oNy7s"
+    ],
+    "reviews": [
+      {
+        "user": "끼요오오ᅩᄉ",
+        "text": "뮬에서 하나하나 직접 찾아야하는거랑 다르게 개발자님이 제품을 하나하나 등록을 해두셔서 어떤 물건이고 어떤 제품인지를 알기 쉬워 좋아요 그냥 개인적인 생각인데 제품의 상세정보라던가 그런거도 적을 수 있는 란이 있으면 좋을거같아요",
+        "rating": 4
+      },
+      {
+        "user": "김치",
+        "text": "유사한 용어를 통합하여 검색하는 기능이 필요할 것 같습니다 예를 들어 일펜, fender japan, 일본 펜더 등을 한 묶음으로요",
+        "rating": 4
+      },
+      {
+        "user": "김성민",
+        "text": "간단하고 편해요ㅋㅋㅋ 화면이 끊기지도않고..안그래도 항상 장비 살때마다 까다로웠는데 취미생활에 좀더 집중할수있을거같아요",
+        "rating": 5
+      },
+      {
+        "user": "강지훈",
+        "text": "저거 갤럭시쓰는 서람인데요 찜한악기에서 찜을 헤제를 했는데 찜이 다시 생기면서 안 사라져요",
+        "rating": 4
+      },
+      {
+        "user": "김용환",
+        "text": "판매글쓰는데 완료하면 자꾸 금액입력란으로가서 진행이 안되네요.",
+        "rating": 2
+      },
+      {
+        "user": "오승범",
+        "text": "빠르고 안심되네요",
+        "rating": 5
+      },
+      {
+        "user": "산영",
+        "text": "매물등록이 안되는데 쓰라는건가요 말라는건가요",
+        "rating": 1
+      },
+      {
+        "user": "박민서",
+        "text": "닉네임설정이 안돼요",
+        "rating": 5
+      },
+      {
+        "user": "박지훈",
+        "text": "사랑합니다 싸장님;;;",
+        "rating": 5
+      },
+      {
+        "user": "phys",
+        "text": "좋아요",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2.4.3",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '아키파이 - 악기 거래를 위한 가장 확실한 방법' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
