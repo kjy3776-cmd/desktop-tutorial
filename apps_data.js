@@ -41617,5 +41617,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 560,
+    "name": "Mercado Libre",
+    "slug": "mercado-libre",
+    "cat": "shopping",
+    "icon": "https://play-lh.googleusercontent.com/iVaeA0HDw8CZjEM-K7GdLB9XYmpcwVFSuv4Q8o9uh4Br7PuKCm3QSYCVU73tr9BBXdR_7xTX4yO0azOJegRVcA",
+    "developer": "Mercado Libre",
+    "desc": "라틴 아메리카 최대 온라인 쇼핑몰, 메르카도 리브레에서 필요한 모든 것을 온라인으로 쇼핑하세요.\r \r 좋아하는 브랜드의 최고의 쿠폰, 할인, 특가 상품을 찾아보세요.\r \r 엄선된 수백만 개의 상품에 대해 무료 배송 혜택을 누리고, 메르카도 리브레 앱으로 최고의 쇼핑 경험을 만끽하세요.\r \r 🛍️ 모든 상품과 브랜드를 하나의 앱에서\r 온라인 카탈로그를 둘러보고 비교할 수 없는 다양한 카테고리를 만나보세요.\r \r - 의류 및 패션 액세서리: 최고의 브랜드 의류, 신발, 패션 액세서리로 스타일을 새롭게 바꿔보세요.\r \r - 전자제품 및 ",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.mercadolibre",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/o6v11aUiG4TLchYLKUhoznhELSdH8mv28vmzcnhF0nhBDV_Fvl010uoboxbVi0JeSxVAb7ACNWJECxrsQrYT",
+      "https://play-lh.googleusercontent.com/ubGEXYAHujN5pLhUGeyjZnogGYTz9gsJEi4swSSebaUb3jB2smKaEpLNjJm7DYpeCMIKgmoHaSsjo_2ObXwv",
+      "https://play-lh.googleusercontent.com/Zi9i8rSUg4YjSqkkJbbEQAlqhiRiHsGiv2Zp5DG9JAO18xUiKO4ssR82m1eg96O2Zu6iRGXqy6a_72ZdPYfI3Q"
+    ],
+    "reviews": [
+      {
+        "user": "Choon gil Park",
+        "text": "물건이 품질이 그리 좋지 않음",
+        "rating": 4
+      },
+      {
+        "user": "Google 사용자",
+        "text": "제품의 설명서가 부족함.",
+        "rating": 4
+      },
+      {
+        "user": "이은산",
+        "text": "가입에 문제가 만아요",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "편하고 좋네요",
+        "rating": 5
+      },
+      {
+        "user": "Lucas Jordan",
+        "text": "아주 좋은 서비스",
+        "rating": 4
+      },
+      {
+        "user": "Google 사용자",
+        "text": "그나마 좋아요.",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "너무 좋아요",
+        "rating": 5
+      },
+      {
+        "user": "대로순리",
+        "text": "좋아요",
+        "rating": 5
+      },
+      {
+        "user": "Hoon Park",
+        "text": "antes, acessei pelo PC. agora precisa mandar docum. Para acessar..acaba comprando menos por inconveniente acesso.",
+        "rating": 3
+      },
+      {
+        "user": "이은정",
+        "text": "entrega rápida e chega em bom estado",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "10.571.2",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'Mercado Libre' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

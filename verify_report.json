@@ -3046,13 +3046,19 @@
       "name": "아키파이 - 악기 거래를 위한 가장 확실한 방법",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "Mercado Libre",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 557,
+    "total": 558,
     "skipped": 362,
-    "has_issues": 195,
-    "total_issues": 261,
+    "has_issues": 196,
+    "total_issues": 262,
     "fixed": 45
   }
 }
