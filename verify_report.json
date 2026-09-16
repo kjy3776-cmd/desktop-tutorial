@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "results": [
     {
       "name": "카카오톡",
@@ -3026,11 +3026,16 @@
       "name": "농산물 실시간 경매 - 최신 농산물 경매 거래내역 확인",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "쿠키런",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 553,
-    "skipped": 358,
+    "total": 554,
+    "skipped": 359,
     "has_issues": 195,
     "total_issues": 261,
     "fixed": 45
