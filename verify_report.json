@@ -3031,11 +3031,16 @@
       "name": "쿠키런",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "카시나 (kasina) - 글로벌 멀티 컬처 플랫폼",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 554,
-    "skipped": 359,
+    "total": 555,
+    "skipped": 360,
     "has_issues": 195,
     "total_issues": 261,
     "fixed": 45

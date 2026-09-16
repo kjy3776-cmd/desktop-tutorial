@@ -41356,5 +41356,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 557,
+    "name": "카시나 (kasina) - 글로벌 멀티 컬처 플랫폼",
+    "slug": "카시나-kasina-글로벌-멀티-컬처-플랫폼",
+    "cat": "shopping",
+    "icon": "https://play-lh.googleusercontent.com/RYuKFVlqnlBnvOLqtXIL8zjlj5NpYOOz-BwRCYHbWFTl8efS20G35y7TD5wrX0JjBAZU9yMo9HNxqoRI6n4GDIk",
+    "developer": "KASINA",
+    "desc": "카시나는 1997년 부산의 스케이트보드 샵으로 시작되었습니다.\r 2000년대 서울로 진출하여 다양한 스트리트 브랜드와 제품을 소개하며 대한민국의 대표적인 편집샵으로 자리매김하였습니다.\r \r 엄선된 프리미엄 멀티 브랜드 제품을 만나볼 수 있는 최적의 경험을 제공합니다.\r 새롭게 선보이는 카시나 앱을 통해서 최신 멀티 프리미엄 브랜드와 다양한 리미티드 에디션을 빠르게 만나보세요.\r \r 회원가입을 통해 다양한 리미티드 에디션의 추첨 응모를 쉽게 참여하고,\r 강력한 등급별 멤버십 혜택과 다양한 런칭 안내를 통해 원하는 제품을 빠르게 찾아보",
+    "iosUrl": "https://apps.apple.com/kr/app/id1670569982",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.app.kasina",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/AT8Tzm4RDWE3go1pNZe-t6AgTAWLNQfX1syH8-McIqUY3ClsTPIIwSKC1QJWb_4IzPt2wwVVRiJiiGH2Vf7k",
+      "https://play-lh.googleusercontent.com/QIvakXUKjjR8mXlUmolrdrlmyKntMqsjXXVC3PD329bcjOfFBBKzM3Epuqdiuzbx-UA7YlvsZDbPWmaNRUk_8w",
+      "https://play-lh.googleusercontent.com/ot-4LExvn3XR7QZP_b0WssJbPmnAPv1cjrF2KTaGkh6Zi6HVZUx1cOd3ZWJt1NGgt_dha-gwCPZQ3rLF31IzCQ"
+    ],
+    "reviews": [
+      {
+        "user": "makmin",
+        "text": "상품 리스트를 내려가면서 구경하다가 상세를 보고 나오면 다시 리스트 맨 처음으로 올라가있습니다. 원래 보던 위치에 있어야 하는거 아닌가요?? 이거 너무 기초적인 사용성인데... 외주 업체에 AS요청하세요~ 뭘 볼 수가 없어요. 겁나서 못 누르겠어요.",
+        "rating": 1
+      },
+      {
+        "user": "정일복",
+        "text": "잘 쓰고는 있는데 솔직히 pc 접속이 더 편하긴 해요 첫화면에서 신규 프로모션할 때 영상 자동으로 돌아가는 거 좀 시름",
+        "rating": 5
+      },
+      {
+        "user": "김호림",
+        "text": "트랜디한 상품들을 살수있고 신상품출시나 세일정보를 수시로 확인할수있어서 좋아요",
+        "rating": 5
+      },
+      {
+        "user": "wongoo lee",
+        "text": "자주 이용하는 앱 입니다 할인하는 경우가 많아서 좋아요",
+        "rating": 5
+      },
+      {
+        "user": "_ NOWHERE",
+        "text": "알람 해제해도 다음날 마음대로 알람켜지는 X 같은 앱. 난 내가 실수로 켠줄알았음. 알람 또또또 끄고 로그아웃해도 알람 오길래 걍 지운다. 매장도 엉망이던데 관리 좀 해라",
+        "rating": 1
+      },
+      {
+        "user": "김진국",
+        "text": "좋아요 최오에요 배송도 빠르고 좋아요 재구매 의사 있습니다",
+        "rating": 5
+      },
+      {
+        "user": "천류",
+        "text": "처음에는 조금 망설였지만 막상 써보니 너무 좋습니다 감사합니다.",
+        "rating": 5
+      },
+      {
+        "user": "Kangsoo Lee",
+        "text": "타사 제품 저렴하게 구매할 수 있는 곳!",
+        "rating": 5
+      },
+      {
+        "user": "삼남매아빠",
+        "text": "꿀템 많고 좋아요 항상 잘 이용중입니다",
+        "rating": 5
+      },
+      {
+        "user": "김승주",
+        "text": "차별화된 상품이 많아서 좋음",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2.4.6",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '카시나 (kasina) - 글로벌 멀티 컬처 플랫폼' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
