@@ -26799,7 +26799,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "10.0.5",
+      "ver": "10.0.6",
       "os": "-",
       "size": "-"
     },
@@ -41437,6 +41437,93 @@ const APPS = [
     },
     "installSteps": [
       "앱스토어/플레이스토어에서 '카시나 (kasina) - 글로벌 멀티 컬처 플랫폼' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
+  },
+  {
+    "id": 558,
+    "name": "InstantTranslator: AI 번역",
+    "slug": "instanttranslator-ai-번역",
+    "cat": "travel",
+    "icon": "https://play-lh.googleusercontent.com/9OPCj_Y8IEmxsuEltRy_KVGH0a2c9omLTJds5zvx7NI-5nnWIql_s4wJOh1uQq-SVwlwBn4GLi28LfoAeKoT",
+    "developer": "HEYOS",
+    "desc": "영어, 스페인어, 프랑스어, 독일어, 일본어, 중국어, 한국어, 아랍어를 포함한 143개 이상의 언어로 텍스트, 음성, 사진, 카메라 콘텐츠를 번역하세요.\r \r 번역기 AI 는 텍스트, 음성, 사진, 카메라, 실시간 대화까지 지원하는 올인원 AI 번역기입니다.\r \r 여행, 해외 업무, 학습, 다양한 언어 사용자와의 소통 등 어떤 상황에서도 최신 AI 기술을 활용해 빠르고 자연스러우며 문맥에 맞는 정확한 번역을 제공합니다.\r \r ▶ 실시간 대화를 어떻게 번역하나요?\r  실시간 AI 음성 번역으로 자연스럽게 대화하세요. 143개 이상의",
+    "iosUrl": "https://apps.apple.com/kr/app/id6636468891",
+    "androidUrl": "https://play.google.com/store/apps/details?id=co.appnation.aivoicetranslator",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/PZUTPMag-6ccZPxTi2xfFrZx5alQmmJmsoM1G2lrLs22-8YBP-gRDbDw6XvWATdvXvtDvEet9QKfeMcEGQDTRQ",
+      "https://play-lh.googleusercontent.com/-rg6Obccs-o14YeTGSIqrw5IHKPP8TKfi6mqJkludeTAE4oUKSDGACxFYPAx_JXg9M_wclhYg_3MOmgquOHH10A",
+      "https://play-lh.googleusercontent.com/u8Tk4ZObn-rZ4xkvOZprjtQ7MSWuvjqJ0fYybuzuC5JW77hPAAmFWQoGO30pr6adwGmQ8p6ekjEO22PmgNBR"
+    ],
+    "reviews": [
+      {
+        "user": "천대영",
+        "text": "실시간 대화모드는 약 2~3분정도 사용하면 음성에 버퍼링이 생깁니다. 그리고 실행할때마다 목소리가 바뀌는데 고정 설정할 수 있으면 좋겠네요. 번역 품질은 좋습니다.",
+        "rating": 3
+      },
+      {
+        "user": "김희영",
+        "text": "이거 절대 사용하지 마세요. 문제 심각함. 1년 유료결제했는데 주단위 돈 빼감. 사기임",
+        "rating": 1
+      },
+      {
+        "user": "안재훈",
+        "text": "단연 최곱니다! 개발자 여러분, 감사합니다.",
+        "rating": 5
+      },
+      {
+        "user": "Annex Global",
+        "text": "편리하걱 잘사용하겠습니다",
+        "rating": 5
+      },
+      {
+        "user": "art waggle",
+        "text": "유료이며 구독취소도안됨",
+        "rating": 1
+      },
+      {
+        "user": "김숙희",
+        "text": "많이 기대가 됩니다",
+        "rating": 5
+      },
+      {
+        "user": "김영환",
+        "text": "전혀 맞지않음 다운로드 절대 하지마세요",
+        "rating": 1
+      },
+      {
+        "user": "박명석",
+        "text": "실용적이네요",
+        "rating": 5
+      },
+      {
+        "user": "Jae-Gil Jang",
+        "text": "앱 설치하려다 유료라 취소하려고 백(back)을 했더니 안되고 무조건 고(go)만 되니 참고하세요",
+        "rating": 1
+      },
+      {
+        "user": "손영주",
+        "text": "아직은 괜찮아요",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "2.5.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'InstantTranslator: AI 번역' 검색",
       "설치 버튼을 눌러 다운로드",
       "앱 실행 후 안내에 따라 이용 시작"
     ],

@@ -3036,11 +3036,16 @@
       "name": "카시나 (kasina) - 글로벌 멀티 컬처 플랫폼",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "InstantTranslator: AI 번역",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 555,
-    "skipped": 360,
+    "total": 556,
+    "skipped": 361,
     "has_issues": 195,
     "total_issues": 261,
     "fixed": 45
