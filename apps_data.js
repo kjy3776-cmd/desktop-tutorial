@@ -9998,7 +9998,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "9.3.0",
+      "ver": "9.3.1",
       "os": "-",
       "size": "-"
     },
