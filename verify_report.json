@@ -3057,11 +3057,16 @@
       "name": "힐리 - 내 주변 최저가 마사지 탐색,발견,예약 어플",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "여성생리달력 - 가임기간 임신 배란",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 559,
-    "skipped": 363,
+    "total": 560,
+    "skipped": 364,
     "has_issues": 196,
     "total_issues": 262,
     "fixed": 45
