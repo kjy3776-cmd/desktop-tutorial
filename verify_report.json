@@ -3052,11 +3052,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "힐리 - 내 주변 최저가 마사지 탐색,발견,예약 어플",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 558,
-    "skipped": 362,
+    "total": 559,
+    "skipped": 363,
     "has_issues": 196,
     "total_issues": 262,
     "fixed": 45
