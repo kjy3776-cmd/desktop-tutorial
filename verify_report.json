@@ -3067,13 +3067,19 @@
       "name": "엘트릭스 : 100일 기념 신규 서버",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "edX 온라인 강좌와 증명서 - 사이버 교육 기관",
+      "issues": [
+        "iOS URL 불량: URL 없음"
+      ]
     }
   ],
   "summary": {
-    "total": 561,
+    "total": 562,
     "skipped": 365,
-    "has_issues": 196,
-    "total_issues": 262,
+    "has_issues": 197,
+    "total_issues": 263,
     "fixed": 45
   }
 }

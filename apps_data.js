@@ -41965,5 +41965,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 564,
+    "name": "edX 온라인 강좌와 증명서 - 사이버 교육 기관",
+    "slug": "edx-온라인-강좌와-증명서-사이버-교육-기관",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/Dsl3GBy_jH61cGrPV0as7KhNaLzwr9YQNN7xXbo26GuA2qs6hV1wJgdE3DFyIVJznuyqUrbGhKTOtAGfTYNRBg",
+    "developer": "edX LLC",
+    "desc": "<b>단순히 배우는 것이 아닙니다 – 경력을 쌓아보십시오.</b>\r EdX는 세계 최고의 대학, 칼리지, 교육 기관에서 제공하는 최고의 온라인 강좌를 모바일 기기에서 들을 수 있게 해줍니다. 따라서 언제, 어디서나 새로운 기술을 배울 수 있습니다. \r 경력을 쌓는 데 필요한 스킬을 배우고 공부 해보십시오. EdX를 통해 다음과 같은 전문 분야 온라인 강좌를 들을 수 있습니다. 컴퓨터 공학, 엔지니어링, 경영학, 약학, 예술, 언어, 웹 개발, 수학 등. 맞춤형 교육을 통해 교실에서  공부하는 기분을 느껴보십시오.\r \r <b>원하는 ",
+    "iosUrl": "",
+    "androidUrl": "https://play.google.com/store/apps/details?id=org.edx.mobile",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/xxsKAZojGuyA4W841Bzg7JEBeo1_DRI0HjeqxdibxvQg_pr2IqOgvLuZzKViraEvD21iLOZwOJIaI7fWCSEG1g",
+      "https://play-lh.googleusercontent.com/DmIA2LlT6Y7RSoIg90zrB0qIIV94xHd6T4LECdW29eWpep-GM8b6RpbWBWmA_bHkrYDe6gajA3UwV0PoIYA8hls",
+      "https://play-lh.googleusercontent.com/qROmSobUQ_AGjSMTNMkJGEmHmQoJVHv_l3hhWSxF4j7kFdZJndFcF93pz8RYE0J_3QbZRFyDOr3egx8KeQ8dOA"
+    ],
+    "reviews": [
+      {
+        "user": "Google 사용자",
+        "text": "너무 좋다 대학교 공부도하면서 영어로도 수업들을 수도 있고 배우지못하는 부분들까지 배울수있어서 좋다",
+        "rating": 5
+      },
+      {
+        "user": "전영민",
+        "text": "일석이조는 모든 학습자가 바라는 효과. 경영지식과 영어능력을 동시에 향상 시킬 수 있는 앱",
+        "rating": 5
+      },
+      {
+        "user": "JJ lee",
+        "text": "시간이 부족한 요즘 쉽게 질 좋은 강의를 들을 수 있어서 좋다. 그런데 한국 교수님들의 강의도 들을 수 있는 기회가 있었으면 좋겠다",
+        "rating": 5
+      },
+      {
+        "user": "김민선",
+        "text": "오프라인 다운로드한 영상들이 인터넷에 연결해도 재생되지 않는 오류가 발생합니다.",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "자막이 제공된다는점이 놀랍습니다.TED보다 더 좋은것같네요.",
+        "rating": 5
+      },
+      {
+        "user": "Juneyoung Park",
+        "text": "와, 많은 강좌를 무료로수강이 가능합니다.",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "외국 유학을 꿈꾸는 제게 실질적으로 도움이 되는 앱입니다",
+        "rating": 5
+      },
+      {
+        "user": "Google 사용자",
+        "text": "마이크로소프트로 로그인하는것도 추가해주세요! 컴퓨터에서는 마이크로소프트로 로그인하는데 모바일은 페이스북과 구글만 있네요!",
+        "rating": 3
+      },
+      {
+        "user": "Google 사용자",
+        "text": "앱 심플하고 오류도 없고 잘 되요. 강의를 들을 수 있어서 좋아요!",
+        "rating": 5
+      },
+      {
+        "user": "나는엉웅이",
+        "text": "우리 잼민이들~ 영어 쳐못하면 짜져있으세요^^",
+        "rating": 5
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "6.3.2",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'edX 온라인 강좌와 증명서 - 사이버 교육 기관' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
