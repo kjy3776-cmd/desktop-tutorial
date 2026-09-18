@@ -3062,11 +3062,16 @@
       "name": "여성생리달력 - 가임기간 임신 배란",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "엘트릭스 : 100일 기념 신규 서버",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 560,
-    "skipped": 364,
+    "total": 561,
+    "skipped": 365,
     "has_issues": 196,
     "total_issues": 262,
     "fixed": 45
