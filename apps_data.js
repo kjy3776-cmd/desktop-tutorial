@@ -42226,5 +42226,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 567,
+    "name": "루시다 (Lucida): 언어학습, 스피킹, 발음",
+    "slug": "루시다-lucida-언어학습-스피킹-발음",
+    "cat": "education",
+    "icon": "https://play-lh.googleusercontent.com/hhcEVdm_YSpEuw8582ttaKdXZTI81QZuvVrR81KQoqscEkbwC2LufwEOuMIQXcFNqaXEDMD8wKAWP8WQKDfWDic",
+    "developer": "Mohamed Abedelhakim",
+    "desc": "루시다 앱을 통해 집 청소 서비스를 예약하세요",
+    "iosUrl": "https://apps.apple.com/kr/app/id6630391133",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.servicenow",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Ur8wls2bWYfvYAn_uy8e3w9thSgCWregPmTK1AKunzNbNX-AsntVdatj2SfNm65dQDSDkOOOB8YIFNfB7qL42A",
+      "https://play-lh.googleusercontent.com/bGoBW6gwP_Bk5DK-l5HqYpY2oZdtZLa-d2oZa0D_h9_ySHMfT3Rp06lqclMGBVeFPtCfczegn4E-K_-3wYzm",
+      "https://play-lh.googleusercontent.com/I5G48rPmUYy2iA4liJzKF-4USlPb5PzJr35c7TgEmaupyudEoE-dWZODDG85Ewzn4_q8yzru4lNhISqQl_cC3A"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '루시다 (Lucida): 언어학습, 스피킹, 발음' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
