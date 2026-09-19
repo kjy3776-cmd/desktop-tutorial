@@ -3078,11 +3078,16 @@
       "name": "위러브 - 크리스천 청년들의 진중한 만남",
       "issues": [],
       "skipped": true
+    },
+    {
+      "name": "삼성생명",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 563,
-    "skipped": 366,
+    "total": 564,
+    "skipped": 367,
     "has_issues": 197,
     "total_issues": 263,
     "fixed": 45

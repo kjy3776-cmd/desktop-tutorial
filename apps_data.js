@@ -42139,5 +42139,92 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 566,
+    "name": "삼성생명",
+    "slug": "삼성생명",
+    "cat": "finance",
+    "icon": "https://play-lh.googleusercontent.com/XaNtgtUoaP-W2QvCUFADpoUHVzC1h3YelGthb4_ptD2oZZx79NbIli1hDtowodNogeQjiuFFNES6N_vHP8K7",
+    "developer": "HeALS",
+    "desc": "'삼성생명 헬스' 어플은 삼성생명 건강증진서비스가 부가된 보험을 가입하신 고객님께 제공되는 건강증진 서비스 전용앱입니다.",
+    "iosUrl": "https://apps.apple.com/kr/app/id416962263",
+    "androidUrl": "https://play.google.com/store/apps/details?id=kr.co.ichc.weeklyfit",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/q4BcNVllWdwcdpwtxy1E_i6529lOSA_Cr66v4XobumdnhepckfmH5pUzMvQv1VMAEeMfBUcvJ0aonqv1l18-m00",
+      "https://play-lh.googleusercontent.com/nPYKP3mcBDn_aE1e_ScCIguuRdpaqnMmKhqcsCY30fYqBLTUVBaMBG25P5gHyM43Vo91mt4BMSK2iYSF_Gb39w",
+      "https://play-lh.googleusercontent.com/7ChK4wNW0_PbnQQyLBwIa89dfFbc3o7rGBl5W0-hKbC0bILkqV4aYnT0LgsCzjmz8yzhgkq9-i8LD4wzRWkqe3M"
+    ],
+    "reviews": [
+      {
+        "user": "che hwn",
+        "text": "상단바 푸시알림 엄청떠서 끄려니까 메뉴설정들어가서 꺼도 뜨고 앱화면 오른쪽 상단 알림마크 누르면 서버와의 통신이 적절하지않다며 안들어가지는게 앱 깔고 몇주가 지난 지금까지 그대로. 인터넷 상태 멀쩡하고요 한번 확인해보세요 화면 오른쪽상단 알림마크 누르면 어떻게나오는지. 폰 앱설정 알림 자체를 끄면 걸음수가 안나오니 쓸데없는 알림만 안받도록 빨리고쳐주세요",
+        "rating": 2
+      },
+      {
+        "user": "춘식마",
+        "text": "7월25일부터 7월31일까지 8천보이상 5일을 성공했음에도 포인트적립이 되지않습니다. 포인트적립내역에도 표시가 되지않아요. 포인트정책을 보니 포인트오류로 인한 미적립의 경우 30일 이내 회사로 정정요구를 할수있다는데, 연락을 어디로 취해야하는지 번호조차 없습니다. 답변부탁드려요.",
+        "rating": 5
+      },
+      {
+        "user": "정보경",
+        "text": "계속 로딩에서 안넘어가요 삭제후 설치해도 마찬가지예요 다른 헬스앱도 사용중이지만 내용도 부실하고 너무 자주 에러 발생해요",
+        "rating": 2
+      },
+      {
+        "user": "최혜진",
+        "text": "허리사이즈랑 몸무게만으로 내 체형이 분석되고 어떻게 관리해야하는지 알려줘서 신기하네요. 걷기포인트 모아서 잘 써봐야겠어요ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+        "rating": 5
+      },
+      {
+        "user": "이수근",
+        "text": "로딩표시만 뜨고 그 이후 화면으로 안 넘어가요ㅜㅜㅜ 삭제후 재설치도 해보고 강제중지도 시키고 공기계에도 설치했는데 다 안되네요",
+        "rating": 1
+      },
+      {
+        "user": "제갈길",
+        "text": "인증문자를 안보내서 가입도 안되는 앱을 왜 주구장창 보내는건지...열반 누르니 한번 문자 들어와서 입력 후 확인하니 잘못된번호.. 열번 누르면 열번 와야 정상 아닌가",
+        "rating": 1
+      },
+      {
+        "user": "임지은",
+        "text": "로딩에서 넘어가질 않네요... 삭제하고 다시 깔고 데이터나 와이파이 바꿔서도 해보는데 안되네요...",
+        "rating": 1
+      },
+      {
+        "user": "seokho lee",
+        "text": "건강관리하는데 매우 유용합니다.특히 체형별 관리 프로그램이 좋고 포인트 몰도 활용도가 많네요~",
+        "rating": 5
+      },
+      {
+        "user": "Hyun Seok Lee",
+        "text": "로딩화면에서 안넘어가네요 똑같은 리뷰가 이미 많은데 고객센터로 문의하라고만 답변하는건 너무 성의없다고 생각하시지는 않나요?",
+        "rating": 1
+      },
+      {
+        "user": "차성현",
+        "text": "달이 넘어가더니 갑자기 로딩창이 안넘어가서 실행할 수 없었습니다 며칠 지나니 다시 정상 작동하고 있습니다",
+        "rating": 4
+      }
+    ],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "1.6.0",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 '삼성생명' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];
