@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "results": [
     {
       "name": "카카오톡",
@@ -3073,11 +3073,16 @@
       "issues": [
         "iOS URL 불량: URL 없음"
       ]
+    },
+    {
+      "name": "위러브 - 크리스천 청년들의 진중한 만남",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 562,
-    "skipped": 365,
+    "total": 563,
+    "skipped": 366,
     "has_issues": 197,
     "total_issues": 263,
     "fixed": 45
