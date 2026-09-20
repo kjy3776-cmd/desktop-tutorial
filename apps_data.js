@@ -42262,5 +42262,41 @@ const APPS = [
     "bg": "#F9FAFB",
     "fallback": "📱",
     "pcType": ""
+  },
+  {
+    "id": 568,
+    "name": "PulseFrame AI",
+    "slug": "pulseframe-ai",
+    "cat": "entertainment",
+    "icon": "https://play-lh.googleusercontent.com/P3eZGBVaQZF4CxInGe2E1BmHl_lOzNMkozA8ZeMaZfKlLMv4dm-VjHdzkDYZOa3Gy5qqhPvvW5S9pe4i2w3hbg",
+    "developer": "MADROID",
+    "desc": "Frame AI는 차세대 AI 콘텐츠 제작 스튜디오입니다. 새로운 AI 트렌드마다 다른 앱을 찾아 헤매지 마세요. Frame AI는 세계에서 가장 진보된 예술 및 비디오 생성 기능을 하나의 강력하고 사용하기 쉬운 앱에 담았습니다.\r \r 숨막히는 사진을 만들고 싶든, 영화 같은 영상을 만들고 싶든, Frame AI 하나면 충분합니다.\r \r 주요 기능: 최고의 AI 스튜디오\r * AI 비디오 생성(텍스트-비디오 & 이미지-비디오): 아이디어를 현실로 만들어 보세요. 텍스트를 입력하거나 참고 이미지를 업로드하기만 하면 부드럽고 인상적인 ",
+    "iosUrl": "https://apps.apple.com/kr/app/id6760643547",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.matdroid.frameai",
+    "pcUrl": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/b249tgXlohBLPgMqpaYx1BkwD8fPFl5lB6KvvVFK9dCeDJkNysFNn1LlvROjFdoA_NghkzaXSjek_ytmuINv_w",
+      "https://play-lh.googleusercontent.com/kYb3QCeOJxYb11-pJZa6gmvHKPVABee8K1TFVc6IWOwBpObWI2tAQ7OQrj3g-nk_ZKrwhF0Peg8PZ-BPncEztQ",
+      "https://play-lh.googleusercontent.com/yVcFnmo34R9mP1mDhF9_NAnGUaJ8n0nvP8v_tn2ys2QJne5m3JZDA-KWu5g17jqYjhMpFUgpc1kLfjHKKTkAM7k"
+    ],
+    "reviews": [],
+    "spec_ios": {
+      "ver": "-",
+      "os": "-",
+      "size": "-"
+    },
+    "spec_and": {
+      "ver": "Varies with device",
+      "os": "-",
+      "size": "-"
+    },
+    "installSteps": [
+      "앱스토어/플레이스토어에서 'PulseFrame AI' 검색",
+      "설치 버튼을 눌러 다운로드",
+      "앱 실행 후 안내에 따라 이용 시작"
+    ],
+    "bg": "#F9FAFB",
+    "fallback": "📱",
+    "pcType": ""
   }
 ];

@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "results": [
     {
       "name": "카카오톡",
@@ -3090,11 +3090,16 @@
         "설명글 너무 짧음 (25자)",
         "리뷰 없음"
       ]
+    },
+    {
+      "name": "PulseFrame AI",
+      "issues": [],
+      "skipped": true
     }
   ],
   "summary": {
-    "total": 565,
-    "skipped": 367,
+    "total": 566,
+    "skipped": 368,
     "has_issues": 198,
     "total_issues": 265,
     "fixed": 46
