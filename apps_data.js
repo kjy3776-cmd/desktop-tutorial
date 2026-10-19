@@ -5554,7 +5554,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "4.91.0 (6578)",
+      "ver": "4.92.0 (6622)",
       "os": "-",
       "size": "-"
     },
@@ -12135,7 +12135,7 @@ const APPS = [
     "developer": "Sizzle AI",
     "desc": "무엇이든 위한 맞춤형 학습 – 학습 전문가가 설계하고 AI가 지원합니다.\r 기말고사를 준비하든, 숙제에 막혔든, 아니면 그냥 재미로 새로운 주제를 탐구하든, CampusLearn은 더 빠르고 효과적으로 학습하고 더 오래 기억할 수 있도록 도와줍니다. 학습하고 싶은 내용을 입력하거나 메모, 문서, 동영상을 업로드하면 CampusLearn이 나만을 위한 맞춤형 단계별 연습 문제를 만들어 줍니다.\r \r 레벨이 올라갈수록 난이도가 높아져, 단순히 추측하는 것이 아니라 진정한 이해를 쌓을 수 있도록 도와줍니다.\r \r CampusLearn의 ",
     "iosUrl": "",
-    "androidUrl": "https://play.google.com/store/apps/details?id=ai.szl.mobileapp",
+    "androidUrl": "https://play.google.com/store/apps/details?id=pl.campusai.app",
     "pcUrl": "",
     "screenshots": [
       "https://play-lh.googleusercontent.com/UhGysuOeqSzdSHZQGUznyYPdZq_swyj9jJqSnT_IQJQxyw_hL1-SGNh-OwFpXwG45a9ZYOwoNCnsPC2vkb5u",
@@ -12149,7 +12149,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "1.0.76",
+      "ver": "Varies with device",
       "os": "-",
       "size": "-"
     },
@@ -15467,7 +15467,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "3.35.0",
+      "ver": "3.36.0",
       "os": "-",
       "size": "-"
     },
@@ -17287,7 +17287,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "5.45.00",
+      "ver": "5.45.01",
       "os": "-",
       "size": "-"
     },
@@ -21231,7 +21231,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "6.93.2",
+      "ver": "6.94.0",
       "os": "-",
       "size": "-"
     },
@@ -26799,7 +26799,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "10.1.0",
+      "ver": "10.5.0",
       "os": "-",
       "size": "-"
     },
@@ -31463,7 +31463,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "3.18.3",
+      "ver": "3.19.0",
       "os": "-",
       "size": "-"
     },
@@ -31796,7 +31796,7 @@ const APPS = [
       "size": "-"
     },
     "spec_and": {
-      "ver": "47.0.3",
+      "ver": "47.1.4",
       "os": "-",
       "size": "-"
     },
